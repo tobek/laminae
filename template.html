@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en" class="$filename$">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <style>
+    $-- $styles.html()$
+
+    @font-face {
+      font-family: "Poliphilus";
+      src: url("./fonts/PoliphilusStd.otf") format("opentype"), /* Open Type Font */
+        url("./fonts/PoliphilusStd.ttf") format("truetype"), /* Safari, Android, iOS */
+        url("./fonts/PoliphilusStd.woff") format("woff"), /* Modern Browsers */
+        url("./fonts/PoliphilusStd.woff2") format("woff2"); /* Modern Browsers */
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: "Poliphilus";
+      src: url("./fonts/PoliphilusItal.eot"); /* IE9 Compat Modes */
+      src: url("./fonts/PoliphilusItal.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+        url("./fonts/PoliphilusItal.otf") format("opentype"), /* Open Type Font */
+        url("./fonts/PoliphilusItal.svg") format("svg"), /* Legacy iOS */
+        url("./fonts/PoliphilusItal.ttf") format("truetype"), /* Safari, Android, iOS */
+        url("./fonts/PoliphilusItal.woff") format("woff"), /* Modern Browsers */
+        url("./fonts/PoliphilusItal.woff2") format("woff2"); /* Modern Browsers */
+      font-weight: 400;
+      font-style: italic;
+    }
+    @font-face {
+      font-family: "NotoSansMyanmar";
+      src: url("./fonts/NotoSansMyanmar-Regular.ttf") format("truetype");
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    html {
+      background: #f9e6cd;
+      font-size: 22px;
+      position: relative;
+    }
+    html[class="00-0-title"] {
+      font-size: 18px;
+    }
+    html, body {
+      scroll-behavior: smooth;
+    }
+    body {
+      font-family: "Poliphilus", "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+      box-sizing: border-box;
+      max-width: 900px;
+      min-height: 100vh;
+      width: calc(100% - 32px);
+      padding: 32px 64px 64px;
+      margin: auto;
+      background: antiquewhite;
+      color: #311500;
+    }
+      @media only screen and (max-width: 767px) {
+        body {
+          padding: 16px 16px 48px 16px;
+          width: calc(100% - 16px);
+        }
+      }
+
+    ::selection {
+      background-color: #a90000;
+      color: lightgoldenrodyellow;
+    }
+
+    h1, h2 {
+      font-weight: normal;
+    }
+    h1.title {
+      font-size: 2.5rem;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+    h2 {
+      font-size: 1.5rem;
+    }
+    h3 {
+      font-size: 1.17rem;
+    }
+    h4 {
+      font-size: 1rem;
+    }
+    h5 {
+      font-size: 0.83rem;
+    }
+    h6 {
+      font-size: 0.67rem;
+    }
+
+    .subtitle {
+      /*font-style: italic;*/
+      font-weight: normal;
+      margin-top: -1rem;
+      margin-bottom: 1rem;
+    }
+    .intro {
+      margin-top: 2rem;
+    }
+
+    a[href] {
+      text-decoration: none;
+      color: #a90000;
+    }
+    a[href]:visited {
+      color: #620000;
+    }
+    a[href]:active, a[href]:hover, a[href]:focus {
+      color: #ca0000;
+    }
+
+    dfn {
+      font-style: normal;
+    }
+    a.ref:not([href]) {
+      cursor: pointer;
+      opacity: 0.5;
+    }
+    a.ref:not([href]):hover {
+      opacity: 0.75;
+    }
+
+    .glyph {
+      font-family: "NotoSansMyanmar", sans-serif;
+    }
+
+    hr {
+      outline: none;
+      border: none;
+      text-align: center;
+    }
+    hr:before {
+      content: "ၹ\0000a0\0000a0\0000a0ဓ\0000a0\0000a0\0000a0ၻ";
+      color: #a90000;
+      font-size: 0.87rem;
+      font-family: "NotoSansMyanmar", sans-serif;
+    }
+
+    .img-wrap {
+      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      max-height: 80vh;
+    }
+
+    .intro p:first-child:first-letter,
+    header + p:first-letter,
+    header + blockquote + p:first-letter,
+    header + blockquote + blockquote + p:first-letter,
+    h1 + p:first-letter,
+    h1 + h2 + p:first-letter,
+    h1 + h2 + h3 + p:first-letter {
+      float: left;
+      font-size: 500%;
+      margin: 1px 0 -16px 0;
+      padding: 0 .08em 0 0;
+      height: .7em;
+      line-height: .85em;
+    }
+
+    blockquote {
+      font-style: italic;
+      background: rgba(49, 21, 0, .01);
+      margin: 1.5rem 10px;
+      padding: .5rem 1.5rem;
+    }
+    .editor-note {
+      font-style: italic;
+    }
+
+    .shortcuts {
+      font-size: smaller;
+      display: flex;
+      justify-content: space-between;
+      font-variant: small-caps;
+    }
+      .shortcuts.top{
+        margin-bottom: 2rem;
+      }
+      .shortcuts.bottom {
+        margin-top: 4rem;
+      }
+      .shortcuts a {
+        width: 33%;
+      }
+      .shortcuts a:nth-child(2) {
+        text-align: center;
+      }
+      .shortcuts a:last-child {
+        text-align: right;
+      }
+
+    #TOC ul {
+      list-style-type: none;
+      counter-reset: toc;
+    }
+      #TOC ul:first-child {
+        padding-left: 1.5rem;
+      }
+        #TOC ul > li {
+          counter-increment: toc;
+          line-height: 1.5rem;
+        }
+          #TOC ul > li:before {
+            content: counter(toc, kannada) " ";
+            margin-right: 0.25rem;
+          }
+            #TOC ul ul > li:before {
+              content: counter(toc, lao) " ";
+            }
+              #TOC ul ul ul > li:before {
+                content: counter(toc, tibetan) " ";
+              }
+                #TOC ul ul ul ul > li:before {
+                    content: counter(inscrutable, myanmar) " ";
+                    /* Burmese is kinda vertically offest, so: */
+                    position: relative;
+                    top: -3px;
+                }
+
+    .footnote-ref sup {
+      vertical-align: unset;
+      position: relative;
+      top: -0.3rem;
+    }
+    .footnotes {
+      margin-top: 2rem;
+    }
+      .footnote-back {
+        position: absolute;
+        margin-left: .33rem;
+        margin-top: -1px;
+        font-size: 0;
+      }
+      .footnote-back:after {
+        font-family: "NotoSansMyanmar", sans-serif;
+        /*content: 'ရ';*/
+        content: 'န';
+        position: absolute;
+        left: 8px;
+        top: -8px;
+        font-size: 0.9rem;
+        transform: rotate(90deg);
+        height: 1.9rem;
+      }
+
+    .corner {
+      position: absolute;
+      opacity: 0.5;
+      bottom: 4px;
+      right: 8px;
+    }
+      .corner a {
+        width: 100%;
+      }
+  </style>
+$for(css)$
+  <link rel="stylesheet" href="$css$" />
+$endfor$
+$if(math)$
+  $math$
+$endif$
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+
+<body>
+$for(include-before)$
+  $include-before$
+$endfor$
+
+$if(prev_href)$
+  <div class="shortcuts top">
+    $if(prev_href)$
+      <a href="$prev_href$">&laquo; $prev_title$</a>
+    $else$
+      <a></a>
+    $endif$
+    $if(contents_href)$
+      <a href="$contents_href$">$contents_title$</a>
+    $else$
+      <a></a>
+    $endif$
+    $if(next_href)$
+      <a href="$next_href$">$next_title$ &raquo;</a>
+    $else$
+      <a></a>
+    $endif$
+  </div>
+$endif$
+
+$if(title)$
+  <header id="title-block-header">
+  <h1 class="title">$title$</h1>
+  $if(subtitle)$
+    <h4 class="subtitle">$subtitle$</h4>
+  $endif$
+  $if(in_progress)$
+    <h3>TRANSLATION IN PROGRESS</h3><br>
+    <h4 class="subtitle editor-note">[Please turn to <a href="18-cnd.html">The Inevitability</a>, <a href="25-cec.html">The Bloom</a>, or <a href="10-lnc.html">The Unfolding</a> for completed chapters.]</h4>
+  $endif$
+  </header>
+$endif$
+
+$if(quote)$
+  $quote$
+$endif$
+
+$if(abstract)$
+  <div class="intro">
+    $abstract$
+  </div>
+$endif$
+
+$if(toc)$
+  <nav id="$idprefix$TOC" role="doc-toc">
+  $if(toc-title)$
+    <h2 id="$idprefix$toc-title">$toc-title$</h2>
+  $endif$
+  $table-of-contents$
+  </nav>
+$endif$
+
+$if(toc_only)$
+  <p class="editor-note">[This chapter has not yet been translated. Please turn to the <a href="18-cnd.html">Inevitability</a>, the <a href="25-cec.html">Bloom</a>, or the <a href="10-lnc.html">Unfolding</a> for completed chapters.]</p>
+
+  $if(post_toc_only)$
+    $post_toc_only$
+  $endif$
+$else$
+  $body$
+$endif$
+
+<div class="shortcuts bottom">
+  $if(prev_href)$
+    <a href="$prev_href$">&laquo; $prev_title$</a>
+  $else$
+    <a></a>
+  $endif$
+  $if(contents_href)$
+    <a href="$contents_href$">$contents_title$</a>
+  $else$
+    <a></a>
+  $endif$
+  $if(next_href)$
+    <a href="$next_href$">$next_title$ &raquo;</a>
+  $else$
+    <a></a>
+  $endif$
+</div>
+
+<div id="about" class="corner shortcuts">
+  <a href="about.html">about</a>
+</div>
+
+<script>
+  Array.prototype.popRandom = function() {
+    var index = Math.floor(Math.random()*this.length);
+    var returnVal = this[index];
+    this.splice(index, 1);
+    return returnVal;
+  }
+  Array.prototype.getRandom = function() {
+    var index = Math.floor(Math.random()*this.length);
+    return this[index];
+  }
+
+  document.querySelectorAll('a.ref').forEach(function(el) {
+    var href = el.getAttribute("href");
+    // @HACK Checking for "<" is a workaround for the trinym span.glyph replacement
+    if (href.indexOf("<") !== -1 || !document.querySelector(href)) {
+      console.warn("Missing reference id", href);
+      el.removeAttribute("href");
+      el.setAttribute("title", "Referenced text has not yet been translated");
+    }
+  });
+
+  var guildTitle = document.querySelector(".guild-name");
+  var guildTerms = document.querySelectorAll(".guild-term");
+  if (guildTitle || guildTerms.length) {
+    var guildNames = ["Guild", "Guild", "Order", "Order", "Circle"];
+    var adjectives = ["Liminal", "Peripatetic", "Anaphoric"];
+    var topics = ["Efforts", "Affairs", "Circumstance", "Praxis"];
+
+    function cycle() {
+      var term = guildNames.getRandom();
+      guildTitle && (guildTitle.innerHTML = "The " + term + " of " + adjectives.getRandom() + " " + topics.getRandom());
+      guildTerms.forEach(function(el) {
+        el.innerHTML = term;
+      });
+    }
+    cycle();
+
+    document.addEventListener("visibilitychange", function() {
+      if (document.visibilityState === "hidden") {
+        cycle();
+      }
+    }, false);
+  }
+
+  var pages = document.querySelectorAll(".toc .page");
+  if (pages.length) {
+    var burmese = ["က", "ခ", "ဂ", "ဃ", "ဆ", "ဇ", "ဈ", "ည", "ဏ", "တ", "ထ", "န", "ပ", "ဖ", "မ", "ယ", "ရ", "လ", "သ", "ဟ", "ဠ", "အ", "ဢ", "ဣ", "ဤ", "ဦ", "ဧ", "ဨ", "ဩ", "ဿ", "၂", "၃", "၄", "၅", "၈", "၉", "၌", "၍", "၎", "၏", "ၐ", "ၓ", "ၔ", "ၕ", "ၚ", "ၛ", "ၜ", "ၡ", "ၦ", "ၮ", "ၯ", "ၰ", "ၵ", "ၶ", "ၷ", "ၸ", "ၹ", "ၺ", "ၻ", "ၼ", "ၽ", "ၾ", "ၿ", "ႀ", "ႎ", "႞", "႟", "ꩠ", "ꩡ", "ꩣ", "ꩤ", "ꩥ", "ꩦ", "ꩩ", "ꩪ", "ꩫ", "ꩬ", "ꩭ", "ꩮ", "ꩯ", "ꩱ", "ꩲ", "ꩳ", "ꩴ", "ꩵ", "ꩶ", "꩷", "꩸", "꩹", "ꩺ", "ꩾ", "ꩿ", "ꧡ", "ꧢ", "ꧣ", "ꧤ", "ꧧ", "ꧨ", "ꧩ", "ꧫ", "ꧬ", "ꧭ", "ꧮ", "꧱", "꧲", "꧸", "꧹", "ꧾ"]
+    pages.forEach(function(page) {
+      if (page.innerText) {
+        return;
+      }
+      // TODO remove ones used in alignments
+      page.innerHTML = burmese.popRandom();
+    });
+  }
+
+  var laminaNames = document.querySelectorAll(".toc .lamina-name.undone");
+  if (laminaNames.length) {
+    var names = ["The Aleatory", "The Asymmetry", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Braid", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "‎The Grip", "The Hidebound", "The Hierarch", "‎The Horn", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
+    laminaNames.forEach(function(name) {
+      name.innerHTML = names.popRandom();
+    });
+  }
+</script>
+
+$for(include-after)$
+  $include-after$
+$endfor$
+</body>
+</html>

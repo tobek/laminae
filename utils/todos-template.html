@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+  <meta charset='utf-8'>
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width" />
+  <title>Trimurti TODOs</title>
+
+  <script src="https://kit.fontawesome.com/52948a9700.js" crossorigin="anonymous"></script>
+
+  <style>
+    body {
+        background: hsl(25, 33%, 74%);
+        color: #212121;
+    }
+    body, textarea {
+      font-family: Georgia, serif;
+    }
+    p, h3, h4 {
+        margin: 0;
+        padding: .5em 0;
+    }
+
+    .todo {
+        cursor: pointer;
+        max-width: 1200px;
+        padding: 8px 0;
+        border-bottom: 1px solid hsla(25, 33%, 50%, 1);
+    }
+    .todo:hover {
+        background: rgba(255,255,255,0.1);
+    }
+
+    .todo textarea {
+      width: 100%;
+      height: 50px;
+      max-width: 500px;
+      background: hsl(25, 33%, 84%);
+      outline: 0;
+      padding: 10px;
+      border: 2px ridge hsl(25, 33%, 74%);
+    }
+
+    .line,
+    .context,
+    .todo textarea,
+    .todo.show-line .sentence,
+    .todo.show-context .sentence {
+        display: none;
+    }
+    .todo textarea:not(:empty),
+    .todo.show-context textarea,
+    .todo.show-line textarea,
+    .todo.show-line .line,
+    .todo.show-context .context {
+        display: block;
+    }
+    .todo.show-context {
+        cursor: unset;
+    }
+    .todo.show-context:hover {
+        background: none;
+    }
+    .todo.show-context .line {
+        display: none;
+    }
+    .replacement {
+      font-style: italic;
+    }
+
+    .todo.collapsed {
+      max-height: 30px;
+      overflow: hidden;
+    }
+
+    .tools {
+      display: inline-block;
+      float: right;
+      text-align: right;
+    }
+    .icons i {
+      cursor: pointer;
+      opacity: 0.2;
+      font-size: 18px;
+      padding: 4px 2px;
+    }
+    .pin {
+      position: relative;
+      top: 1px;
+    }
+    .pinned .pin {
+      opacity: 1;
+    }
+    .collapsed .collapse {
+      opacity: 1;
+    }
+    .icons i:hover {
+      opacity: 0.5;
+    }
+    .plane {
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    #lost {
+      font-style: italic;
+    }
+    #lost:not(:empty):before {
+      display: block;
+      content: "Lost:";
+    }
+    .lost-delete {
+      cursor: pointer;
+    }
+
+    .stats {
+      margin-top: 24px;
+    }
+  </style>
+</head>
+
+<body>
+    <div id="lost"></div>
+
+    <div id="pinned-todos"></div>
+
+    {% for todo in todos %}
+        <div class="todo" data-id="{{ todo.id }}">
+            <div class="tools">
+              <div class="plane">{{ todo.plane }}</div>
+              <div class="icons">
+                <i class="pin fas fa-thumbtack"></i>
+                <i class="collapse fas fa-minus-square"></i>
+              </div>
+            </div>
+            {% if todo.type %}
+                <h3 class="type">{{ todo.type }}</h3>
+            {% endif %}
+            {% if todo.info %}
+                <h4 class="info">{{ todo.info }}</h4>
+            {% endif %}
+            {% if todo.sentence %}
+                <p class="sentence">{{ todo.sentence }}</p>
+            {% endif %}
+            {% if todo.line and todo.line != todo.sentence %}
+                <p class="line">{{ todo.line }}</p>
+            {% endif %}
+            {% if todo.context %}
+                <div class="context">
+                    {% for line in todo["context"].split("\n") %}
+                        {% if line %}
+                            <p>{{ line }}</p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+            {% if todo.replacement %}
+                <p class="replacement">{{ todo.replacement }}</p>
+            {% endif %}
+            <textarea></textarea>
+        </div>
+    {% endfor %}
+
+    <div class="stats">
+      {{ todos | length }} TODOs to go!
+    </div>
+
+    <script>
+      var cachedIds = Object.keys(localStorage);
+      document.querySelectorAll('.todo').forEach(function(todo) {
+        var id = todo.getAttribute("data-id");
+        var data = localStorage[id] && JSON.parse(localStorage[id]);
+        if (!data) {
+          return;
+        }
+        if (data.pinned) {
+          todo.classList.add("pinned");
+          document.querySelector("#pinned-todos").append(todo);
+        }
+        if (data.collapsed) {
+          todo.classList.add("collapsed");
+        }
+        if (data.text) {
+          todo.querySelector("textarea").innerHTML = data.text;
+        }
+
+        cachedIds.splice(cachedIds.indexOf(id), 1);
+      });
+
+      // any leftover cachedIds are orphans
+      cachedIds.forEach(function(id) {
+        if (id.indexOf("todo:") === 0) {
+          var data = localStorage[id] && JSON.parse(localStorage[id]);
+          if (!data || !data.text) {
+            return;
+          }
+          var lost = document.createElement('pre');
+          lost.style.whiteSpace = "pre-wrap";
+          lost.innerHTML = id + ": " + data.text + " <a class='lost-delete' data-id=" + id + ">❌</a>";
+          document.querySelector("#lost").append(lost);
+        }
+      });
+
+      document.body.addEventListener('click', function(event) {
+        var lost = event.target.closest(".lost-delete");
+        if (lost) {
+          delete localStorage[lost.getAttribute("data-id")];
+          lost.parentNode.remove();
+          return;
+        }
+
+        var todo = event.target.closest(".todo");
+        if (!todo) {
+          return;
+        }
+        var id = todo.getAttribute("data-id");
+
+        if (event.target.nodeName.toLowerCase() === "textarea") {
+          return;
+        }
+
+        if (event.target.closest(".pin")) {
+          var data = localStorage[id] && JSON.parse(localStorage[id]) || {};
+
+          if (todo.classList.contains("pinned")) {
+            data.pinned = false;
+            todo.classList.remove("pinned");
+            document.body.append(todo);
+          } else {
+            data.pinned = true;
+            todo.classList.add("pinned");
+            document.querySelector("#pinned-todos").append(todo);
+          }
+
+          localStorage[id] = JSON.stringify(data);
+          event.stopPropagation();
+          return;
+        }
+
+        if (event.target.closest(".collapse")) {
+          var data = localStorage[id] && JSON.parse(localStorage[id]) || {};
+
+          if (todo.classList.contains("collapsed")) {
+            data.collapsed = false;
+            todo.classList.remove("collapsed");
+          } else {
+            data.collapsed = true;
+            todo.classList.add("collapsed");
+          }
+
+          localStorage[id] = JSON.stringify(data);
+          event.stopPropagation();
+          return;
+        }
+
+        if (todo.classList.contains("show-line") || !todo.querySelector(".line")) {
+          todo.classList.add("show-context");
+        } else {
+          todo.classList.add("show-line");
+        }
+      });
+
+      document.body.addEventListener('keyup', function(event) {
+        if (event.target.nodeName.toLowerCase() !== "textarea") {
+          return;
+        }
+        var todo = event.target.closest(".todo");
+        if (!todo) {
+          return;
+        }
+        var id = todo.getAttribute("data-id");
+
+        var data = localStorage[id] && JSON.parse(localStorage[id]) || {};
+        data.text = event.target.value;
+        localStorage[id] = JSON.stringify(data);
+      });
+    </script>
+</body>
+</html>

@@ -1,0 +1,283 @@
+# **Lawful Good**
+
+## Lawful Good Creation (LGC)
+
+Maybe they have some rumored and controversial deal/symbiosis with CED?
+
+crystalline structure
+
+@conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
+
+## Lawful Good Preservation (LGP)
+
+<https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun>
+
+what is nature of LGP vs CGP, is it suffering vs none (pure peace), or suffering vs. "struggle" with no risk of failure.
+
+- suffering vs struggle gives opportunity for hyper-optimized LGP struggle, but CGP might not hyper optimize cause C (although i guess could by evolutionary methods)
+- what are other solutions to happiness without suffering?
+- maybe CGP has like real pain and risk of failure, violence, gritty. but it's not as absolute a difference
+- maybe it's about positive vs. negative consequence? although "you lost the competition" which i can imagine in LGP with struggle, is kind of a negative consequence.
+- "I think the most you can plausibly say is that for humanlike architectures, memories of suffering (not necessarily true ones) are necessary to appreciate pleasures more complex than heroin."
+	+ response: "Anyway it seems to me that utopianly speaking the proper psychological contrast for pleasure is sobriety rather than pain."
+
+*The ____*
+
+	They constantly try to escape
+	From the darkness outside and within
+	By dreaming of systems so perfect that no one will need to be good.
+
+	- T.S. Eliot, "The Rock"
+
+Heaven. The ___ have taken it upon themselves to answer the question "is suffering needed to give context and shape to happiness?" and the answer is predetermined in their undying souls: "no". There is no suffering in ___---there are rules of course, but they are not stifling, and there is joy. The ___ of ___ are a resounding and convincing answer. This is a place where you could drop a demon into the middle of the realm, and the natural order and layout of things would guide him to be an enlightened angel. The academics of ___ study and pore endlessly over TODO to establish a perfect order that does not strive to insulate itself from the multiverse but that strives to create an endless bastion that can weather any change without doing anything except growing and perfecting.
+
+Maybe a loose confederation of small cities, all within same min and max size, and if these ever fall or rise outside of these ranges they must split or consolidate. Cities A/B test themselves, with the most successful (mainly only by immigration and not births; births get re-assigned and raised collectively?) spreading, all aiming for the perfect civilization.
+
+They are really really good at it. no issues with wireheading or "is struggle needed for happiness", the answer is obviously yes, but the struggle need not be suffering, there are hierarchies, there are successes and failures, value systems which petitioners strive to do well by and feel disappointment when they don't or others perceive that they don't, etc. but obviously this is a factor of great experimentation among cities. (or wait, is there some disagreement between LGP and CG...P about whether suffering oh wait at the otp right so either re-work this, or emphasis struggle vs. suffering).
+
+all of this experimentation of millennia has produced amazing civilizations, but there doesn't seem to be an upper limit and they only continue to progress. some hyper-optimized cities have unbelievably intense struggle and competition, cyclic rituals of deprivation and joy
+
+Tokyo?
+
+Does this (and/or other planes) have anything to say about whether humans are fundamentally born good or evil, or blank slate? i say "humans" because in this world presumably some species are innately evil or good. maybe this shouldn't be a d&d fantasy setting...
+
+the goal is that anyone can be dropped in and will become a wonderful citizen, and many petitioners will claim---gently, as if humbly admitting---that this is the case. in practice of course you can go fuck it up, yet there are also many instances of various incorrigibles finding perfect niches here
+
+headsoak note 724 about a system designed to allow for bad actors vs. is it ok if the good guys do it when it's not ok if the bad guys do it.
+
+## Lawful Good Destruction (LGD)
+
+[transferred]
+
+***
+
+# **Neutral Good**
+
+## Neutral Good Creation (NGC)
+
+[transferred]
+
+## Neutral Good Preservation (NGP)
+
+[opposite to NEP, and between the two of them have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism]
+
+Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to Neutral Evil Preservation)
+
+## Neutral Good Destruction (NGD)
+
+Could swap with LGD
+
+Holy assassins? Weirdly insensitive and/or literally stupid, but powerful. Ritualistic caste system (or is that too lawful? maybe not if it's like natural order of things?). Maybe these are the "spacious mind, lucid body" folks if not NND
+
+Or ritualistic athletes that push themselves to transcendent disintegration?
+
+Land of peaceful mystic nomads, who every X amount of time ritualistically destroy everything they have built up and move on to another place?
+
+Graveyard?
+
+***
+
+# **Chaotic Good**
+
+## Chaotic Good Creation (CGC)
+
+Artists? Be-careful-what-you-wish-for self improvement? Poetic Terrorism? Mutatorium?
+
+## Chaotic Good Preservation (CGP)
+
+[transferred]
+
+## Chaotic Good Destruction (CGD)
+
+Sacrificers: bring something you are done with or want to get rid of (or celebrate in a blaze of glory) and a ritual will be created around it, its essence split up and dispersed. Or maybe like a graveyard (could swap with NGD) where everything is done appropriate justice, eulogized by incredible orators. Bloodletting.
+
+Blissful letting go. But the thing you are forced to let go of is rarely the thing you came to let go of.
+
+***
+
+# **Lawful Neutral**
+
+## Lawful Neutral Creation (LNC)
+
+**Architects of the Unfolding**
+
+[transferred]
+
+## Lawful Neutral Preservation (LNP)
+
+Archivists.
+
+Everything is collected (in some unusual architectural shape, maybe captured in some preserving gel that floats and is connected to some crystalline structures).
+
+They're "essentialists": trying to define the essences of any given object, but not into elements like fire or wind or even emotions or tendencies like excitement or neuroticism, but into very specific categories like "tending to ______" OR WAIT could be like counter words in japanese.
+
+People come here to discover and define *themselves* like meyers briggs or astrology haha.
+
+Is there some currency/market element to this?
+
+Similar to the Mathematicians of Mechanus:
+
+> A sect splintered from the Guvners, the Mathematicians hold that everything that you can imagine can be found on Mechanus in some form, and by cataloguing this and applying logic, symbolism and math to this one can unlock the secrets of the plane. They don't do this for riches or power: they are a group of serious minds who want to discover the secrets of the plane for scholastic reasons. While they still have a long way to go their stay on Mechanus has impaired the Mathematicians with a superior understanding of the Labyrinthine Portal, the network of portals on Mechanus that links every single cog with another one. With this understanding the members of this sect can calculate in record time in which order you have to go through the portals in order to get to where you want to go. Lawful people of superior intelligence are welcome to join them, but it is expected of members to not share their findings with non-members.
+
+look into http://www.rilmani.org/timaresh/Timaresh
+
+DIFFERENTIATE FROM NNC
+
+### storage
+
+All or part of this plane is based around temporary and free, but regulated and often indefinite, storage.
+
+people come from all over the multiverse to store stuff there, and they are REALLY GOOD at storage. they can store anything of any size, with any magical qualities or dangers or challenges. some fastidious dragons clear their treasure pits and store them for safekeeping, some store vanquished foes, cursed magical heirlooms, exotic pets, botched experiments, anything.
+
+there are conditions to storage. maybe it has to be something they don't currently have? and if that's the case, they will store it for free, in flawless condition, taking care of it if necessary. part of the condition though maybe is that they have to be allowed to study it? can they touch it? they've never been known to mess anything up though. is there anything they won't store?
+
+## Lawful Neutral Destruction (LND)
+
+[transferred]
+
+***
+
+# **Neutral Neutral**
+
+## Neutral Neutral Creation (NNC)
+
+Sculptors? Some believe the gods themselves---some of them, all of them, who knows?---were painstakingly sculpted in these forges. They'll make anything but keep careful ledger so that the output of the plane remains balanced. Every thing created is forecast to have certain effects, and miscalculations are rapidly accounted for. They are famous employers (famously rewarding, famously exacting) of explorers and researchers who report back to them on the results of their more ambitious or uncertain endeavors. It's said that these mercenaries are chosen very, very carefully. Often the act of investigation itself and those chosen to investigate are meant to fix any imbalances, and surprisingly often the investigators themselves find their own nature changed in the process.
+
+look into http://www.rilmani.org/timaresh/Timaresh
+
+DIFFERENTIATE FROM LNP
+
+## Neutral Neutral Preservation (NNP)
+
+**The Cartography (?)**
+
+[transferred]
+
+## Neutral Neutral Destruction (NND)
+
+**The Precepts of the Lucidity (?)**
+
+[transferred]
+
+***
+
+# **Chaotic Neutral**
+
+## Chaotic Neutral Creation (CNC)
+
+- the Mutatorium in the Plane of Creation could instead be this? Or the dream-creators (if oppositional to nightmares) could be this (or a place located here)?
+- could swap with CGC, which could be mutatorium or observation-only
+- artists, creative madness.?
+- it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point.
+- a gorgeous crazy world where *thought* is not possible, only observation
+- observations are not quite reliable, they constantly flower with related or plausible images and variations - when you observe a boy, you also see a baby, a grown man, a woman, a tiger cub. when you perceive a castle, you also perceive a manor, a fortified wall, a dungeon, a floating island, an army. each observation leads to more observations, it's almost impossible to get one's bearing.
+- a technique is to wear these pinhole goggles (not so pinhole that you get a full image like pinhole camera) so that you perceive as little as possible at once, so there's less branching. a similar technique has not been developed for hearing, since earmuffs equally dim all sound, but what is desired is a narrowing of sound. so total sound blockage is used, along with nose, since smell is a particularly evocative sense and the smells are myriad. touch TODO
+- constant festival?
+- what is it actually like? there's a recurring image of a boy in a chariot who seems to be a local deity, or perhaps there are many and they are the inhabitants.
+- pure inspiration
+
+*The Something*
+
+A barren void. A pulsating fractal rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
+
+## Chaotic Neutral Preservation (CNP)
+
+Voiders? The Wilt?
+
+maybe NED, or even NEP
+
+An endless gray plain of enormous geometric holes in the ground, like that exhibit at DIA Beacon, also Chichu. Each void is inhabited by a single individual, residing in indefinite inertia and dissolution.
+
+How do they end up there? Punishment, if NED. Apathy, giving up, failing. OR: people who just really really want to be alone.
+
+They very very rarely talk to each other but will sometimes go on a pilgrimage to journey to another hole.
+
+In one pit, two exhausted former partners fighting it out infinitely. Famously sought out for their wisdom, but sometimes you have to wait a long while until they exhaust themselves, and they never respond directly to your queries (this has been attempted).
+
+Another pit is what people call "the anointed". It's huge, and appears to be infinitely deep, but a cylindrical pillar rises up from the depth to a height some distance below the rim of the hole. on it is a small plateau, with a patch of grass, on which a man sleeps. somehow sunlight shines on him
+
+The arrangement of holes changing/unpredictable somehow? Holes slowly close up sometimes, inevitably trapping and crushing their resident, who invariably accept their fate with apathy.
+
+Peaceful.
+
+## Chaotic Neutral Destruction (CND)
+
+**The Unravellers of the Inevitability**
+
+[transferred]
+
+***
+
+# **Lawful Evil**
+
+## Lawful Evil Creation (LEC)
+
+Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate evil schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the downfall of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
+
+Is the multiverse too big? Is the plan somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
+
+Could be like Barbarella society, decadent
+
+## Lawful Evil Preservation (LEP)
+
+tyrants
+
+regimented armies. gauntlet and boot
+
+paranoid tyrants holed up in indestructible fortresses, overwhelmingly prepared for threats that never materialize
+
+easily the most militarily powerful of all the planes, but since they remain in defensive mode indefinitely, it's all moot.
+
+there was once some extraordinary incident where a trickster managed to harness their military might---maybe either by luring an enemy into hopeless attack against these guys, or by somehow managing them to, for once, sally out from their fortresses.
+
+orwell quote, but what's the "danger and death", wouldn't they catch on eventually at possible threats never coming? or maybe orwellianish they hear about threats and attacks and incursions but none are real or they're all inside jobs, maybe even people know but they're terrified to say because they'll get disappeared if they disobey, it's an open secret. the struggle is really internal.
+
+maybe it's actually not bad, if you're into it?
+
+Ben Sack art?
+
+## Lawful Evil Destruction (LED)
+
+elaborate weavers of personalized, creative curses
+
+Beautiful, intricate, ornate.
+
+***
+
+# **Neutral Evil**
+
+## Neutral Evil Creation (NEC)
+
+Dreamers - they manufacture nightmares
+
+## Neutral Evil Preservation (NEP)
+
+Nomadic devils - the opposite of NGP, or CND holes in ground.
+
+## Neutral Evil Destruction (NED)
+
+Torturers, or CND holes in ground.
+
+***
+
+# **Chaotic Evil**
+
+## Chaotic Evil Creation (CEC)
+
+[transferred]
+
+## Chaotic Evil Preservation (CEP)
+
+Ouroboros: filled with giant ouroboros thrashing and crashing through landscape eating everything in search of their tails, which they often catch, falling into devouring loop. inhabitants routinely eat themselves. aura makes things regenerate.
+
+"You are here to be swallowed [and regurgitated]" quote, maybe for CED or CEP, some kind of scholarly jabba/Yoda thing that is found calmly astride an ouroboros?
+
+churning landscape, maybe geometric or runic? maybe no solid ground, like clouds and mud and geysers of steam and lava.
+
+the way to protect yourself from the ouroboros is to get them to catch their own tails, which distracts them for a while, maybe forever? each ouroboros is extremely unique, and ones which were self eating have later been seen to be no longer self eating, but no one has ever seen the transition. what happens? does it just... stop? does it... succeed? maybe they constantly grow at crazy speed, so unless they eat themselves, they just get enormous.
+
+## Chaotic Evil Destruction (CED)
+
+Murder as art
+
+Maybe they have some rumored and controversial deal/symbiosis with LGC? Like they're good at flawlessly disappearing the handful of people who don't fit in... oh wait LGP. And that sounds like LED should do that.

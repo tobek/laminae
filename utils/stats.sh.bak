@@ -1,0 +1,99 @@
+#!/bin/bash
+
+# Usage:
+#
+#     csv utils/progress.csv # aka `cat utils/progress.csv | column -t -s,`
+#     utils/stats.sh # just outputs
+#     utils/stats.sh 1 # worked 2 hours (SAVE FIRST)
+
+set -eo pipefail
+
+: '
+    ≈≈≈≈≈≈ unsure
+    1h
+    #≈≈≈≈≈ basic concept
+    1h
+    ##≈≈≈≈ fleshed out concept
+    4h
+    ###≈≈≈ actual content
+    4h
+    ####≈≈ complete draft
+    4h
+    #####≈ revised (no BLAHs etc)
+    4h
+    ###### totally done
+
+    = ~3h/each
+
+    Jan 1 2020:
+
+    - 8 weeks = 80h
+    - 25 stages more
+    - should be at 67, 41%
+    - no 0s
+    - no more than 5 1s
+    - 4 done
+    - basic wiki!
+    - so: by Feb 1 2020
+
+    Weekly: 3 points
+
+    - Oct 1: 42/162 (25%)
+'
+
+SCRIPT_DIR="$(dirname "$0")"
+FILE="$SCRIPT_DIR/../index.bak.md"
+
+HOURS_PER_STAGE=3
+HOURS_PER_WEEK=10
+
+COMPLETED=$(grep "^    - " "$FILE" | fold -w 1 | grep -c '#')
+TOTAL=$((27 * 6))
+REMAINING=$((TOTAL - COMPLETED))
+REMAINING_HOURS=$((REMAINING * HOURS_PER_STAGE))
+REMAINING_WEEKS=$((REMAINING_HOURS / HOURS_PER_WEEK))
+
+AT_0=$(grep -c '\- ≈≈≈≈≈≈' "$FILE") || true
+AT_1=$(grep -c '\- #≈≈≈≈≈' "$FILE") || true
+AT_2=$(grep -c '\- ##≈≈≈≈' "$FILE") || true
+AT_3=$(grep -c '\- ###≈≈≈' "$FILE") || true
+AT_4=$(grep -c '\- ####≈≈' "$FILE") || true
+AT_5=$(grep -c '\- #####≈' "$FILE") || true
+AT_6=$(grep -c '\- ######' "$FILE") || true
+
+WORDS=$(cat ./[0-9]*.md | wc -w)
+TITLE_WORDS=$(wc -w < 00-0-title.md) # mostly HTML
+WORDS=$((WORDS - TITLE_WORDS))
+WIP_WORDS=$(wc -w < all.md) # non-numbered but actual content
+WORDS=$((WORDS + WIP_WORDS))
+
+if [ -n "$1" ]
+then
+    DATE=$(date +%Y-%m-%d)
+    ADDITIONAL_HOURS="$1"
+    echo "$DATE,$ADDITIONAL_HOURS,$COMPLETED,$WORDS" >> "$SCRIPT_DIR"/progress.csv
+fi
+
+echo -e "BY PLANE\n"
+grep "^    - " "$FILE" | python -c "import sys; [print(l.strip('- \n')) for l in sys.stdin]"
+# grep "^    '" index.yaml | python -c "import sys; [print(l.strip('- \':\n')) for l in sys.stdin]"
+echo -e "\nBY STAGE\n"
+grep "^    - " "$FILE" | python -c "import sys; [print(l.strip('- \n')) for l in sys.stdin]" | sort --version-sort
+echo
+echo "≈≈≈≈≈≈ $AT_0"
+echo "#≈≈≈≈≈ $AT_1"
+echo "##≈≈≈≈ $AT_2"
+echo "###≈≈≈ $AT_3"
+echo "####≈≈ $AT_4"
+echo "#####≈ $AT_5"
+echo "###### $AT_6"
+echo
+echo -n "$COMPLETED/$TOTAL "
+echo \($((100 * COMPLETED / TOTAL))%\)
+echo $REMAINING_HOURS hours @ ${HOURS_PER_STAGE}h/stage
+echo $REMAINING_WEEKS weeks @ ${HOURS_PER_WEEK}h/week
+echo
+# echo -n Feb 1 2020 goal: $FEB_GOAL/$TOTAL" "
+# echo \($((100*$FEB_GOAL/$TOTAL))%\)
+
+echo "Total words: $WORDS"

@@ -1,0 +1,370 @@
+<h1 class="title-page">
+<div class="title-2">OBSERVATIONS</div>
+<div class="title-4">on the</div>
+<div class="title-1">TWENTY-SEVEN LAMINAE</div>
+<div class="title-3">regarding their various</div>
+<div class="title-2">ENVIRONS & CULTURES</div>
+<div class="title-4">gathered upon</div>
+<div class="title-3">DECADES OF JOURNEY PAST THE ORDIAL PLANE</div>
+<div class="title-4 spaced">by</div>
+<div class="title-2">AN UNKNOWN TRAVELLER</div>
+<div class="title-4 spaced">collected & translated by</div>
+<div class="title-2 guild-name">THE ORDER OF ANAPHORIC CIRCUMSTANCE</div>
+</h1>
+
+<!--
+  The Marches of Wales: Notes and Impressions on the Welsh Borders, from the Severn Sea to the Sands o' Dee
+
+  OBSERVATIONS
+  on the
+  RIVER WYE
+  and several parts of
+  SOUTH WALES, &c.
+  relative chiefly to
+  PICTURESQUE BEAUTY;
+  made
+  In the Summer of the Year 1770
+
+  HISTORICAL and DESCRIPTIVE
+  **ACCOUNTS**
+  of the
+  ANCIENT and PRESENT STATE
+  of
+  THE TOWN
+  of
+  **MONMOUTH**
+  including
+  A VARIETY OF PARTICULARS
+  deserving the stranger's notice
+  RELATING TO THE BOROUGH
+  and its
+  NEIGHBORHOOD
+  collected from original papers and unquestionable authorities
+  the whole never before published
+-->
+
+<style>
+.title-page {
+  text-align: center;
+  margin: 4rem 0 6rem;
+  font-weight: normal;
+  line-height: 1.5rem;
+}
+  .title-page .title-1 {
+    font-size: 3rem;
+    margin: 2rem 0;
+    font-weight: bold;
+  }
+  .title-page .title-2 {
+    font-size: 2rem;
+    margin: 1.33rem 0;
+  }
+  .title-page .title-3 {
+    font-size: 1.17rem;
+    font-style: italic;
+    margin: 1.33rem 0;
+  }
+  .title-page .title-4 {
+    font-size: 0.83rem;
+    margin: 0.55rem 0;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .title-page .guild-name {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2rem;
+    text-transform: uppercase;
+  }
+  .title-page .spaced {
+    margin: 3rem 0;
+  }
+  @media only screen and (max-width: 767px) {
+    .title-page {
+      margin: 1rem 0 4rem;
+    }
+      .title-page .title-1 {
+        font-size: 2rem;
+      }
+      .title-page .title-2 {
+        font-size: 1.5rem;
+      }
+      .title-page .spaced {
+        margin: 2rem 0;
+      }
+  }
+
+.toc {
+  font-size: 1.17rem;
+}
+  @media only screen and (max-width: 767px) {
+    .toc {
+      font-size: 1rem;
+    }
+  }
+  .toc h1, .toc h4 {
+    text-align: center;
+    margin-top: 3rem;
+  }
+  .toc a {
+    text-decoration: none;
+  }
+  .toc td:first-child {
+    text-align: right;
+    padding-right: 1em;
+  }
+  .toc .lamina {
+    display: flex;
+  }
+    .toc .lamina-section:first-child {
+      margin-right: 24px;
+    }
+    @media only screen and (max-width: 767px) {
+      .toc .lamina {
+        display: block;
+      }
+      .toc .lamina-section:first-child {
+        margin: 0;
+      }
+    }
+
+  .toc .row {
+    display: flex;
+    justify-content: space-between;
+    height: 1.5rem;
+  }
+    @media only screen and (max-width: 767px) {
+      .toc .row {
+        padding-right: 8px;
+      }
+    }
+  .toc .left {
+    white-space: nowrap;
+  }
+  .toc .numeral {
+    width: 28px;
+    text-align: right;
+    display: inline-block;
+  }
+    @media only screen and (max-width: 767px) {
+      .toc .numeral {
+        width: 23px;
+      }
+    }
+  .toc a {
+    margin: 0 8px;
+  }
+  .toc .dots {
+    overflow: hidden;
+    max-height: 1em;
+    text-align: right;
+    position: relative;
+    top: -0.25rem;
+  }
+  .toc .dots:before {
+    content: '. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+  }
+  .toc .page {
+    font-family: "NotoSansMyanmar", sans-serif;
+    font-size: 18px;
+    position: relative;
+    margin-left: 8px;
+    height: 1.5rem;
+    /*width: 1rem;*/
+    /*min-width: 1rem;*/
+    text-align: center;
+    top: -0.45rem;
+  }
+    @media only screen and (max-width: 767px) {
+      .toc .page {
+        top: -0.6rem;
+      }
+    }
+</style>
+
+<div class="toc">
+
+## Contents
+
+##### PREFATORY CONTEXT
+
+<div class="row">
+  <div class="left"><div class="numeral">I.</div><a href="00-i-note.html">A Note from the <span class="guild-term">Order</span></a></div>
+  <div class="dots"></div><div class="page">ဪ</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">II.</div><a href="00-ii-ordial-primer.html">A Primer on the Ordial Plane</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">III.</div><a hreff="00-iii-author-preface.html">Author's Preface</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">IV.</div><a hreff="00-iv-cosmography.html">Cosmography</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">V.</div><a hreff="00-v-facets.html">Facets</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">VI.</div><a style="font-variant: small-caps;" hreff="00-vi-overview.html">Overview of the Laminae</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+
+##### THE LAMINAE
+
+<div class="lamina">
+<div class="lamina-section">
+<div class="row">
+  <div class="left"><div class="numeral">1.</div><a class="lamina-name undone" hreff="01-lgc.html"></a></div>
+  <div class="dots"></div><div class="page">LGC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">2.</div><a class="lamina-name" hreff="02-lgp.html">The Concordance</a></div>
+  <div class="dots"></div><div class="page">LGP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">3.</div><a class="lamina-name" hreff="03-lgd.html">The Ardence</a></div>
+  <div class="dots"></div><div class="page">LGD</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">4.</div><a class="lamina-name" href="04-ngc.html">The Bell</a></div>
+  <div class="dots"></div><div class="page">NGC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">5.</div><a class="lamina-name undone" hreff="05-ngp.html"></a></div>
+  <div class="dots"></div><div class="page">NGP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">6.</div><a class="lamina-name undone" hreff="06-ngd.html"></a></div>
+  <div class="dots"></div><div class="page">NGD</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">7.</div><a class="lamina-name undone" hreff="07-cgc.html"></a></div>
+  <div class="dots"></div><div class="page">CGC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">8.</div><a class="lamina-name" href="08-cgp.html">The Brink</a></div>
+  <div class="dots"></div><div class="page">CGP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">9.</div><a class="lamina-name undone" hreff="09-cgd.html"></a></div>
+  <div class="dots"></div><div class="page">CGD</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">10.</div><a class="lamina-name" href="10-lnc.html">The Unfolding</a></div>
+  <div class="dots"></div><div class="page">LNC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">11.</div><a class="lamina-name" hreff="11-lnp.html">The Essentialism</a></div>
+  <div class="dots"></div><div class="page">LNP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">12.</div><a class="lamina-name" href="12-lnd.html">The Instrument</a></div>
+  <div class="dots"></div><div class="page">LND</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">13.</div><a class="lamina-name" hreff="13-nnc.html">The Hew</a></div>
+  <div class="dots"></div><div class="page">NNC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">14.</div><a class="lamina-name" href="14-nnp.html">The Cartography</a></div>
+  <div class="dots"></div><div class="page">NNP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">15.</div><a class="lamina-name" href="15-nnd.html">The Lucidity</a></div>
+  <div class="dots"></div><div class="page">NND</div>
+</div>
+</div>
+
+<div class="lamina-section">
+<div class="row">
+  <div class="left"><div class="numeral">16.</div><a class="lamina-name undone" hreff="16-cnc.html"></a></div>
+  <div class="dots"></div><div class="page">CNC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">17.</div><a class="lamina-name" hreff="17-cnp.html">The Wilt</a></div>
+  <div class="dots"></div><div class="page">CNP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">18.</div><a class="lamina-name" href="18-cnd.html">The Inevitability</a></div>
+  <div class="dots"></div><div class="page">CND</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">19.</div><a class="lamina-name undone" hreff="19-lec.html"></a></div>
+  <div class="dots"></div><div class="page">LEC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">20.</div><a class="lamina-name undone" hreff="20-lep.html"></a></div>
+  <div class="dots"></div><div class="page">LEP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">21.</div><a class="lamina-name undone" hreff="21-led.html"></a></div>
+  <div class="dots"></div><div class="page">LED</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">22.</div><a class="lamina-name undone" hreff="22-nec.html"></a></div>
+  <div class="dots"></div><div class="page">NEC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">23.</div><a class="lamina-name undone" hreff="23-nep.html"></a></div>
+  <div class="dots"></div><div class="page">NEP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">24.</div><a class="lamina-name undone" hreff="24-ned.html"></a></div>
+  <div class="dots"></div><div class="page">NED</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">25.</div><a class="lamina-name" href="25-cec.html">The Bloom</a></div>
+  <div class="dots"></div><div class="page">CEC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">26.</div><a class="lamina-name undone" hreff="26-cep.html"></a></div>
+  <div class="dots"></div><div class="page">CEP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">27.</div><a class="lamina-name undone" hreff="27-ced.html"></a></div>
+  <div class="dots"></div><div class="page">CED</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">28.</div><a hreff="28-c.html">Creation</a></div>
+  <div class="dots"></div><div class="page">ꧠ</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">29.</div><a hreff="29-p.html">Equilibrium</a></div>
+  <div class="dots"></div><div class="page">ဓ</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">30.</div><a hreff="30-d.html">Destruction</a></div>
+  <div class="dots"></div><div class="page">ဗ</div>
+</div>
+</div>
+</div>
+
+##### BACK MATTER
+
+<div class="row">
+  <div class="left"><div class="numeral">31.</div><a hreff="#">Closing Notes</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">A.</div><a hreff="#">Glossary</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">B.</div><a hreff="#">Index</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+
+</div>

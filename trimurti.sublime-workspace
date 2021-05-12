@@ -1,0 +1,2357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Toas",
+				"ToasterService\tclass"
+			],
+			[
+				"number",
+				"number\tkeyword"
+			],
+			[
+				"route--",
+				"route--browse"
+			],
+			[
+				"noT",
+				"noTabPlease\tconst"
+			],
+			[
+				"dem",
+				"demoNoteBody\tproperty"
+			],
+			[
+				"sc",
+				"scriptStopped\tproperty"
+			],
+			[
+				"demo",
+				"demoNoteRef\tproperty"
+			],
+			[
+				"in",
+				"innerHTML\tproperty"
+			],
+			[
+				"creat",
+				"createNewChildTag\tmethod"
+			],
+			[
+				"get",
+				"getTagByName\tmethod"
+			],
+			[
+				"cr",
+				"createTag\tmethod"
+			],
+			[
+				"c",
+				"createTag\tmethod"
+			],
+			[
+				"lib",
+				"librarySourceData\tproperty"
+			],
+			[
+				"tagT",
+				"tagTopNote\tproperty"
+			],
+			[
+				"tag",
+				"tagInstances"
+			],
+			[
+				"ensu",
+				"ensureTagFetched"
+			],
+			[
+				"scr",
+				"scrollMonitor\tproperty"
+			],
+			[
+				"scro",
+				"scrollTo\tmethod"
+			],
+			[
+				"progta",
+				"progTagDef\tlet"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"comp",
+				"compiledTemplate"
+			],
+			[
+				"ens",
+				"ensureUserInfoFetched"
+			],
+			[
+				"set",
+				"setUpAndValidateProgTag\tmethod"
+			],
+			[
+				"progTag",
+				"progTagDef\tconst"
+			],
+			[
+				"clas",
+				"classifier\tproperty"
+			],
+			[
+				"_p",
+				"_publicTag\tproperty"
+			],
+			[
+				"def",
+				"defineProperty\tmethod"
+			],
+			[
+				"fun",
+				"function\tkeyword"
+			],
+			[
+				"note",
+				"noteData\tproperty"
+			],
+			[
+				"ProgTag",
+				"ProgTagDefObj\tinterface"
+			],
+			[
+				"Prog",
+				"ProgTagDefObj\tinterface"
+			],
+			[
+				"aler",
+				"alertOnError\tparameter"
+			],
+			[
+				"prog",
+				"progFuncString\tproperty"
+			],
+			[
+				"Gra",
+				"GraphNode\talias"
+			],
+			[
+				"pare",
+				"parentTag\tgetter"
+			],
+			[
+				"tagNodes",
+				"tagNodesToUse\tparameter"
+			],
+			[
+				"tagn",
+				"tagNodesToUse\tparameter"
+			],
+			[
+				"Cu",
+				"CustomFunction\tinterface"
+			],
+			[
+				"new",
+				"newTag\tlet"
+			],
+			[
+				"co",
+				"console\tvar"
+			],
+			[
+				"pr",
+				"progFuncString\tproperty"
+			],
+			[
+				"pro",
+				"prog\tproperty"
+			],
+			[
+				"retur",
+				"returnError\tparameter"
+			],
+			[
+				"data",
+				"dataService\tproperty"
+			],
+			[
+				"ok",
+				"okButtonText\tproperty"
+			],
+			[
+				"ge",
+				"generateClassifier\tmethod"
+			],
+			[
+				"class",
+				"classifierFunc\tlet"
+			],
+			[
+				"Class",
+				"ClassifierReturnType\ttype"
+			],
+			[
+				"eq",
+				"isEqual\tmethod"
+			],
+			[
+				"run",
+				"runProgOnAllNotes\tmethod"
+			],
+			[
+				"rele",
+				"relevantTags\tlet"
+			],
+			[
+				"ac",
+				"activeUIs\tproperty"
+			],
+			[
+				"child",
+				"childTagIds\tproperty"
+			],
+			[
+				"par",
+				"parentTag\tgetter"
+			],
+			[
+				"node",
+				"nodeIndexPruned\tconst"
+			],
+			[
+				"chil",
+				"childTagIds\tproperty"
+			],
+			[
+				"getCh",
+				"getChildInclusiveNotes\tmethod"
+			],
+			[
+				"childd",
+				"childTagIds\tproperty"
+			],
+			[
+				"tagsn",
+				"tagsNoteNowHas\tconst"
+			],
+			[
+				"chi",
+				"childTagId\tparameter"
+			],
+			[
+				"boo",
+				"boolean\tkeyword"
+			],
+			[
+				"childTag",
+				"childTagIds\tproperty"
+			],
+			[
+				"chid",
+				"childTagIds\tproperty"
+			],
+			[
+				"isE",
+				"isEmpty\tmethod"
+			],
+			[
+				"NoteSp",
+				"NoteSpecificDatumForChildTag\tinterface"
+			],
+			[
+				"noteda",
+				"noteDatumChanged\tconst"
+			],
+			[
+				"hand",
+				"handleProgResultDatum\tmethod"
+			],
+			[
+				"tags",
+				"tagsService\tproperty"
+			],
+			[
+				"parent",
+				"parentTagId\tgetter"
+			],
+			[
+				"add",
+				"addToDataStore\tparameter"
+			],
+			[
+				"f",
+				"forEach\tmethod"
+			],
+			[
+				"thro",
+				"throttledSync\tproperty"
+			],
+			[
+				"digs",
+				"digestSyncing\tproperty"
+			],
+			[
+				"dig",
+				"isDigestEmpty\tmethod"
+			],
+			[
+				"digestS",
+				"digestSyncing\tproperty"
+			],
+			[
+				"clear",
+				"clearInterval\tfunction"
+			],
+			[
+				"onb",
+				"onbeforeunload\tproperty"
+			],
+			[
+				"_mak",
+				"_makeSmart\tmethod"
+			],
+			[
+				"hsErr",
+				"hsErrorReport"
+			],
+			[
+				"num",
+				"number\tkeyword"
+			],
+			[
+				"ini",
+				"initializeLibraryTag\tmethod"
+			],
+			[
+				"Ele",
+				"ElementRef\talias"
+			],
+			[
+				"isNot",
+				"isNoteViewsNavOpen\tproperty"
+			],
+			[
+				"isnot",
+				"isNoteViewsNavOpen\tproperty"
+			],
+			[
+				"doc",
+				"documentElement\tproperty"
+			],
+			[
+				"bodyf",
+				"bodyFocusAttemptCount\tproperty"
+			],
+			[
+				"stop",
+				"stopImmediatePropagation\tmethod"
+			],
+			[
+				"is",
+				"isNoteQueryVisible\tproperty"
+			],
+			[
+				"thr",
+				"throttledOnScroll\tproperty"
+			],
+			[
+				"rou",
+				"routingInfo\tproperty"
+			],
+			[
+				"webkit",
+				"webkitRequestFullScreen\tmethod"
+			],
+			[
+				"sco",
+				"scrollingEl\tproperty"
+			],
+			[
+				"scrol",
+				"scrollingEl\tproperty"
+			],
+			[
+				"inner",
+				"inner-header-height"
+			],
+			[
+				"trans",
+				"transition-fast"
+			],
+			[
+				"Subs",
+				"Subscription\talias"
+			],
+			[
+				"canc",
+				"cancellable\tproperty"
+			],
+			[
+				"rout",
+				"ROUTES\tconst"
+			],
+			[
+				"CanD",
+				"CanDeactivateGuard\tclass"
+			],
+			[
+				"can",
+				"canDeactivate\tproperty"
+			],
+			[
+				"acti",
+				"activePane\tproperty"
+			],
+			[
+				"act",
+				"activeModal\tgetter"
+			],
+			[
+				"event",
+				"eventOrNoConfirm\tparameter"
+			],
+			[
+				"eve",
+				"eventOrNoConfirm\tparameter"
+			],
+			[
+				"Mouse",
+				"MouseEvent\tinterface"
+			],
+			[
+				"jQ",
+				"jQueryWaitInterval"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"tag-name",
+				"tag-name-max-width--browse"
+			],
+			[
+				"tra",
+				"transition-fast"
+			],
+			[
+				"transi",
+				"transition-fast"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rever",
+				"revertModKey\tmethod"
+			],
+			[
+				"tempalte",
+				"template_id"
+			],
+			[
+				"templte",
+				"templateId"
+			],
+			[
+				"mail",
+				"mailOpts"
+			],
+			[
+				"mai",
+				"mailOptions"
+			],
+			[
+				"password",
+				"resetPasswordButton\tproperty"
+			],
+			[
+				"nu",
+				"number\tkeyword"
+			],
+			[
+				"log",
+				"loginState$\tproperty"
+			],
+			[
+				"menu",
+				"menu-dropdown-bg-color"
+			],
+			[
+				"conf",
+				"confirmed\tparameter"
+			],
+			[
+				"confi",
+				"confirmMessage\tlet"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"quer",
+				"queryTagsUpdated\tmethod"
+			],
+			[
+				"qu",
+				"queriedNoteTagsUpdated\tmethod"
+			],
+			[
+				"not",
+				"noteUpdated$\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "trimurti.sublime-project",
+			"settings":
+			{
+				"buffer_size": 345,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frame.md",
+			"settings":
+			{
+				"buffer_size": 2597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cosmology.md",
+			"settings":
+			{
+				"buffer_size": 13182,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "all.md",
+			"settings":
+			{
+				"buffer_size": 116280,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "evil sketch.md",
+			"settings":
+			{
+				"buffer_size": 1584,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "alignments.md",
+			"settings":
+			{
+				"buffer_size": 3570,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 7689,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "todo.md",
+			"settings":
+			{
+				"buffer_size": 37786,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "jam eire\n\nyou walk through a tunneled wood path. in a little clearing there's a basket of apples, a small fountain, and gently smouldering ash in a fire pit. you take an apple, which may at some point become a question, and smear it in the ash and carry it with you through the first of two labyrinths. when the first labrynth returns you to where you started, you rinse the apple off and carry it with you through the second labyrinth, wondering what the question might be. when you emerge from the two labyrinths, you might know what the question is, but it doesn't need answering, you can carry the question with you. down the way is a smaller herb labyrinth, and a triple spiral labyrinth is on the hill, either of which should provide plenty of time for the desire to bite the apple to strike you\n\nthis is like going sightseeing and exploring in my own mind, and just trying to capture little bits of what i see along the way to share with you\n\nif what i really want to communicate to people is experiences, like alex and i were talking about obvious show don't tell balance but to what extent do you just take somewhere there and let them experience it in however it is that they would - if that's what i'm going for then packaging things up as art, here's a painting or a story, that's insufficient. lead a horse to water: if you spend the day looking at art and take acid and watch the sky, you will experience something i could never communicate to you. so instead of my trying to communicate it to you, i'd like to make it convenient and pleasurable for you to have your own experience.\n\nthe gamemaster/player relationship of RPGs is interesting, i spend a lot of time thinking as GM and about how you lay out a world for characters to explore. with these planes etc i think about plot hooks and where things could go. but i think the more fun relationship is between gamemaster and the setting itself - laying out the possible landscape of an entire history, and what sub-settings could exist within it.\n\ni guess i need to read the silmarillion, haha. that's for me.\n\neverything is basically work or play right.\n\ninteresting visual effect that's enhanced on jam - looking at syntax highlighting that sparsely spreads just a few distinct but similar colors over an uniform contrasting background, even if i'm only looking at a total of like 4 colors, my eye draws gradients and more irridescence than exists, expecting it. \n\nhours earlier today i carefully laid on the bed an outfit for myself to wear later. i'd forgotten about this, and walked back into my room, now thoroughly tripping on acid, and saw the outfit laid neatly there and thought \"well fuck, i am completely powerless before this situation\" and put the outfit on\n\ngod fucking damn it i was just trying to decide whether to say \"several hours earlier\" or \"few hours earlier\" before deciding on the latter because the casual register seemed more appropriate and now i want to make a dictionary that lists the register of every english word on a scale of informal to formal (a scale which would immediately appear insufficient for the task, so I would have to add more dimensions to the measure or give up and reduce the entire thing to a tag cloud) or find if one already exists\n\nevery time i try to categorize anything, i start with some binary spectrum, immediately find counterexamples, add new dimensions, and then give up and decide everything is just a tag cloud\n\ni have a lot of stuff i want to share with the world, and i haven't figured out the mix of tools to do so and the people with which to do it. there's a certain amount of intimacy needed for a lot of this communication - intimacy because you know me well enough to understand this in a certain way (though even in the absence of that intimacy and knowledge, some information may be lost, or maybe in the worst case misjudged, or maybe in the best case misjudged in a pleasantly fantastical way) and i guess respond in a way that resonates with me. there's the audience-awareness thing, like one-on-on messages vs me broadcasting, and then there's real time (which is only difficult for one of a few reasons, either i'm unsure to be put on the spot and not able to come up with something to say, or, more likely, i'm not in the position to put the time into responding and ~who knows when i will!!~). on the one hand i feel like there should be a \"toby\" app that's just me, they can find him in any channel they normally go to. i mean i guess that's the real world. replacing me with the toby app is replacing me with a program simulating toby. OH WOW THIS IS WHAT JON WAS GETTING TO are the people i'm close to afraid of this??\n\ndo you ever worry that you might have just been communicating with a program that toby wrote? how long would you have to go without video contact (and would video contact be sufficient? only real life contact? [this parenthetical only suitable for less tech-savvy recipients]) before you were concerned? also, if you *were* communicating with a program that toby wrote, would that be any different than communicating with toby? if you were just talking to a voice recorder, an automated answering machine away message, that's obviously not the real thing, but if all the things you expect of toby are there in the program you're communicating with, then what difference does it make? there's the genuine-ness of interaction, we can get that into the program. if i have just grown into programs as some externalization of my brain, which previously you had to go through internet magic and computer encoded text and language to get to meat space toby, and now the first bit of toby you hit is not meat space but something i built between internet magic and you, what's the difference? then there is just \"attention\" which humans (rightly?) care a lot about. attention is something that can't really genuinely be divvied up, a celebrity may wish their millions of followers were receiving personal attention, but if that were factually the case that attention wouldn't be worth anything. there's not enough celebrity to go around! but okay that's the denominator - the more it goes up, the less the attention is worth. but what's the numerator? that's normally one person, and there's not much flexibility in there, maybe the average person can output X units of human attention, then maybe the absolutely best performing examples of the specieis can output 100x, while many only manage a meagre x/10. but can toby put into the program (when i talk like this it makes it seem like an obsession) enough to grow the numerator?\n\ni apologize for the weird trick i'm about to play, but don't worry, i'm on acid and the trick is just as weird for me!\n\nto how many people do you think i sent this email? i don't ask as a kind of dare (toby standing atop the mountain yelling his attention at everyone and no one), nor as a head game on how close you and i are, but genuinely curious to know what makes sense to you as a rough number. i guess the question is both a) into how many slices can you cut up toby such that this dish is still tasty, and b) how widely should toby serve this dish?\n\nas i've been writing this, the \"you\" i had in mind that i was sharing this obviously vacillated wildly between absolutely no one and the entire world, but over the course of this trip i've thought of things i'd want to say to basically everybody in my life. at the point at which i am no i haven't yet decided to how many people i will send this, so i will now take a minute to do so\n\nece, alex, maria, gia, arie\n\nanyways. just a heads up that in theory i would like to delegate some of the clerical work of  BLAH BLAH but feel free to check in any time and see what i'm up to.\n\nmeta: i write this all up, i would send the same thing verbatim to everyone except ece. i am moved to call out to the specificities of our experience, in this case GEB and jam and everything else. like ece you should doubt the veracity of the above rendition without specific call outs to you and me - it would feel like a fake copy without them.\n\nnow, since my mind goes there, how could i automate that? hahaha. it's sort of conditional like ok talking about this facet of experience on jam, i would also... like there's a shared language. but out of curiosity what would that shared language look like if i was writing it to someone else? presumably the personal bits would go undetected kind of.\n\nas an exercise i want to write a generic \"blog\" letter and then go through and customize it to everyone. but like in reality that's what we do! i've gone somewhere and had this experience and i'm sharing it with you, i'm going to be sharing the rough shape of it with anyone i'd share it with, but i'd dwell longer on the stuff that you and i both like, that we would have dwelled on in person if we saw it together, and refer to shared past experiences etc.\n\nece, i'm trying to share a deeply personal experience with you while at the same time exploring and trying to understand - basically where to put my attention in life. i guess how to spend it - it all draws from the same pool, friendship, work, romantic partnership, parenting, it's the exact same pool. trying to grow the pool artificially is... well it's a fun hobby i'd like to make it more clever, but the more reliable thing is to you know make sure the pool is in good health and all that.\n\nwhat i'm trying to say is that i'm writing down my thoughts, and i'd like to share them on a personal level with several people, but at this point in the story ece i am writing to tell you that i am writing to you. and should i be? and this point i start crying, which always feels kind of lovely on acid. ece, you expressed so long and powerfully that you wanted to be the priority in my life, which i never did any good with in a material sense, but in these moments you are the single pole in my life from which all meaning is oriented, and writing this now i can't tell if this is something i should be trying to not do, or if this is exactly what i will always be doing.\n\nbasically ece many of the things you were brave enough to voice out loud being afraid of are things that were too uncouth for me to admit that i was doing them. like here right now man i'm sititing at the precipice of my entire life and ece i can not tell what will happen. i picture lives with you as my primary partner, and lives without. and we both know that the ideal situation is toby sprinting as fast as he fucking can towards \"life with ece as my primary partner\", and the fact that, at this point, that's not the case, is.... i don't know what to make of it, either it's a devastating judgement on how much toby like's ece, or a devastating judgement on toby's expectations from the world. wow as i wrote that and realized, ece, that both are devastating judgements on you, in a way so extreme i feel i must have miscommunicated but it's there.\n\nanyways i don't know if i will marry someone, but i'm looking for someone else, yet also see us being together. and i get the \"backup plan\" thing, but like, i know that's not an option ece, you are nobody's backup plan and if you are not someone's #1 plan then yeah. don't know where i'm going here.\n\nmy mom always said she knows she wasn't my dad's first love, or first choice, or something. but the reality is that whoever that person was is long fucking gone (i mean who knows maybe my dad and her are torridly rejoining their affair as he returns for his 50th reunion) and this is what matters. ha describing this to ece i can see like the \"the berna in my mom's eye\" and what's funny about this is that berna was not that at all, and it tickles me to imagine my mom's rendition of this as being based on a total misjudgement of how my dad felt about whoever that person is, just a thorny myth built on top of a troublesome other woman. in reality though the parallel is poor for all sorts of reasons.\n\nTODO TOBY: find the dates that he is going to be there. make sure that a) he knows he can call you any time and that you'd love to hear from him, and b) be aware during that period that it could come. this by the way is how you show love - i write this to ece, to let you know that i get it. and now it's like 2 weeks past and yeah that's what loving someone is hahahaha. yeah here is me, looking out 50 years, and seeing him on the other end\n\ni want to talk to my parents frequently enough that the daily stuff of life... well i don't know if that's possible.\n\ngosh \"meagre\" is a much more meagre spelling than \"meager\" - it's like the word is trying to crawl inwards into itself, can barely even get the second syllable out\n\nthe programs we write are almost literal extensions of our brains, like we manifest our learning patterns etc. in them. but it gets messy because our programs use stuff that other people have built. but that's analogous to the \"mountain\" symbols in my brain being similar to your \"moutain\" symbols, and they're both just versions of some apparently material thing (i don't want to have that is-anything-real what-are-our-perceptions conversation right now)\n\nto flip: there will come a moment where you're just having a *moment* (for me, i'm on acid right now) and your setup is just working with you effortlessly right now to do everything you want it to, AND you get to stop for a breather along the way to look at how aesthetically pleasing it is. the thing you built - it works! a thing of beauty!\n\nreally appreciate google fit telling me to turn it off cause i'm not using it and it will waste battery... build good will, and in the end i will actually open it up and decide whether to turn on or off so they have a good chance of gaining a user - and if they lose a user, it's a user they probably aren't meant for.\n\nthat was a fun writing exercise actually. it can go something like this. 1) write a chain of inter-locking yet opposite aesthetic attributes, e.g \"cozy yet spacious, spacious yet cluttered, cluttered yet minimalist\" etc. see how far you can get, if you can't chain them all together that's fine, just write down a series of opposites, jot them all down. 2) spend 5 minutes and see if you can chain them all together. 3) make a playlist that might resonate with some of these aesthetic qualities. 4) take acid. 5) much later, when tripping, come back to your chain of opposites, and put on the playlist. 6) imagine you are journeying through some marvelous architectural/design experiment and each pair is a part of it, maybe each is a room or each is a building or each is an entire landscape, and you are passing from one gradually through the end. 7) describe what you see, take your time, maybe a song each, imagining each environment and the transitions between them. doesn't have to make sense, run with it",
+			"settings":
+			{
+				"buffer_size": 14792,
+				"line_ending": "Unix",
+				"name": "jam eire"
+			}
+		},
+		{
+			"contents": "high\n\nI'd say gay men seem to be as bad, on average, as straight men. The problem is very obviously men in general. (I only have indirect evidence of the badness of straight men, so I'm not a perfect judge.) Is it the case that in the past, in order to be an out queer, you used to have to be determined or badass or independent-minded to at least a certain degree, while normies (e.g. people who follow the crowd, who aren't brave, other stuff) remained unhappily closeted? I do get a sense that the older queer community was more... well I was going to say \"elite\" in the sense of awesomeness, but I guess in a class sense that's a good criticism - though obviously not totally applicable. It's obvious and a common topic that the older generation feels like they \"earned it\" and things are \"too easy\" for the young'uns, but I think that's a mask for a deeper distaste of the culture of the younger generation which, due to the effect described above, skews more towards mass culture. You can be boring as shit and be an out and proud queer, and even follow queerness as a group identity the way we criticisze other mass (and lower class?) identies like sports teams and religion. But that was much more challenging in the past - you had to literally be a rebel.\n\nI do really really like \"effort\" as a barrier to entry for a group of people. It's one of my favorite things about burning man: that except for everpresent minority of wealthy lazy joyriders, you have to put a bunch of effort in to get there, and subject yourself to challenging conditions, etc. So you have to really want it and prioritize it. The problem with \"effort\" being used as a gatekeeper is that it easily can become a proxy for wealth and status (especially in the case of BM, though importantly it makes some efforts to resist this, like low-income tickets, art grants, etc., but you still need, like, the time). But yeah, these constraints appear to produce groups that, at the very least, appeal more to other members of the groups, but maybe we can somehow discard class and elitism and venture that these personality-tied constraints produce groups who are actually superior in at least some qualities to the average population.\n\nAnyway, interesting to consider what kinds of constraints could improve a group without being a proxy for class/status.\n\n(What can we say about people who tend to use the word \"class\" instead of \"status\"? I'm sure much has been spilled on this, and/or it's obvious (this is something i find myself thinking a lot, i need like a symbol or measure, it's about certainty of noteworthiness - not sure if one metric can reflect all of this, but could be like citations except expressing 1, belief of factual accuracy, 2, belief of obviousness, 3, degree to which writer feels uninformed about the situation (or conversely their degree of expertise - i like the self deprecating version) (\n\n\tBASICALLY SOME SYSTEM FOR EASILY PARSEABLE METADATA ABOUT YOUR STATEMENTS\n\n\tIs there any software or system for easily + formally + visibly annotating your writing with metadata? Like citations/footnotes, but repeatable, e.g. to express degree of certainty about a statement, (lack of) expertise in topic, level of \"may be obvious/offensive but...\", etc.\n\n\tSome of these metadata/measures I think about a lot, but only mention in writing if notable or very relevant. Imagine stuff like this as a background signal, effortlessly produced/consumed when writing/reading, each dimension shown as a typographic variation within certain range.\n\n\tWould eliminate need for much-derided, ubiquitous, fudgy qualifiers like \"personally, I think that...\". Could declutter writing, leave room for more fun, fanciful clutter! And imagine new avenues of writing (and perhaps visual) mastery afforded by multi-channel communication form\n\n\tCould even have controls and visual vocab reusable for written or IRL communication, e.g. tensing certain muscle indicates level of certainty about statement, reflected in written text color, and same action results in color change of decorative wearable, observable for IRL convo\n\n\tA shared vocab of common signals/references could emerge, some more widespread than others, possibly eventually fracturing languages into dialects. This obvs already happens to some extent with the shibboleths of social media/tech use silos, but this would be much more embodied.\n\n)  ))\n\n***\n\nimmigrants willing to do jobs locals don't. welfare. etc.\n\n***\n\nall above probably jan 2018\n\n",
+			"settings":
+			{
+				"buffer_size": 4490,
+				"line_ending": "Unix",
+				"name": "high"
+			}
+		},
+		{
+			"file": "mechanics.md",
+			"settings":
+			{
+				"buffer_size": 3648,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 585.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":key",
+				"Preferences: Key Bindings"
+			],
+			[
+				":favor",
+				"Schemr: List favorite schemes"
+			],
+			[
+				":favo",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings"
+			],
+			[
+				":fav",
+				"Schemr: List favorite schemes"
+			],
+			[
+				":menu",
+				"View: Toggle Menu"
+			],
+			[
+				":map",
+				"View: Toggle Minimap"
+			],
+			[
+				":min",
+				"View: Toggle Minimap"
+			],
+			[
+				":sett",
+				"Preferences: Settings"
+			],
+			[
+				":settin",
+				"Preferences: Settings"
+			],
+			[
+				":stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				":all",
+				"Schemr: List all schemes"
+			],
+			[
+				":instal",
+				"Package Control: Install Package"
+			],
+			[
+				":mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				":remove",
+				"Package Control: Remove Package"
+			],
+			[
+				":markd",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				":exten",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				":statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				":sch",
+				"Schemr: List all schemes"
+			],
+			[
+				":schem",
+				"Schemr: List all schemes"
+			],
+			[
+				":sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"schem",
+				"Schemr: Random scheme"
+			],
+			[
+				":st",
+				"View: Toggle Status Bar"
+			],
+			[
+				":sca",
+				"Set Syntax: Scala"
+			],
+			[
+				":html",
+				"Set Syntax: HTML"
+			],
+			[
+				":remov",
+				"Package Control: Remove Package"
+			],
+			[
+				":remo",
+				"Package Control: Remove Package"
+			],
+			[
+				":",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				":men",
+				"View: Toggle Menu"
+			],
+			[
+				":list",
+				"Package Control: List Packages"
+			],
+			[
+				":list all",
+				"Schemr: List all schemes"
+			],
+			[
+				":head",
+				"MarkdownEditing: Find Next Heading (Any level)"
+			],
+			[
+				":inst",
+				"Package Control: Install Package"
+			],
+			[
+				":keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				":conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				":prefere",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				":sta",
+				"View: Toggle Status Bar"
+			],
+			[
+				":insta",
+				"Package Control: Install Package"
+			],
+			[
+				":mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				":theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				":them",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				":err",
+				"TypeScript: Show Error List"
+			],
+			[
+				":java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				":jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":me",
+				"View: Toggle Menu"
+			],
+			[
+				":plug",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				":install",
+				"Package Control: Install Package"
+			],
+			[
+				":htm",
+				"Set Syntax: HTML"
+			],
+			[
+				":bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				":sass",
+				"Set Syntax: Sass"
+			],
+			[
+				":css",
+				"Set Syntax: CSS"
+			],
+			[
+				":javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				":ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				":type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				":json",
+				"Set Syntax: JSON"
+			],
+			[
+				":javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				":js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":error",
+				"TypeScript: Show Error List"
+			],
+			[
+				":list al",
+				"Schemr: List all schemes"
+			],
+			[
+				":listall",
+				"Schemr: List all schemes"
+			],
+			[
+				":list a",
+				"Schemr: List all schemes"
+			],
+			[
+				":er",
+				"TypeScript: Show Error List"
+			],
+			[
+				":erro",
+				"TypeScript: Show Error List"
+			],
+			[
+				":javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				":typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				":tyep",
+				"Set Syntax: TypeScript"
+			],
+			[
+				":signa",
+				"TypeScript: Signature Info"
+			],
+			[
+				":got",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				":go ",
+				"TypeScript: GoTo Definition"
+			],
+			[
+				":in",
+				"Package Control: Install Package"
+			],
+			[
+				":xml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 1026.0
+	},
+	"console":
+	{
+		"height": 541.0,
+		"history":
+		[
+			"call('ls &2>&1')",
+			"call('ls 2>&1')",
+			"call('ls')",
+			"os.system('ls \"' + sublime.active_window().folders()[0] + '\"')",
+			"call('ls')",
+			"call('ls \"' + sublime.active_window().folders()[0] + '\"')",
+			"call('ls ' + sublime.active_window().folders()[0])",
+			"from subprocess import call",
+			"os.system('ls ' + sublime.active_window().folders()[0])",
+			"os.system('ls')",
+			"os",
+			"import os",
+			"os",
+			"sublime.active_window().folders()[0]",
+			"sublime.active_window().folders()",
+			"sublime.active_window().lookup_symbol_in_index(\"LEP\")",
+			"sublime.active_window().folders()",
+			"sublime.active_window().lookup_symbol_in_open_files(\"LEP\")",
+			"sublime.active_window()",
+			"sublime.lookup_symbol_in_open_files(\"LEP\")",
+			"lookup_symbol_in_open_files(\"LEP\")",
+			"sublime.windows()",
+			"sublime",
+			"windows()",
+			"print(\"Hello\")",
+			"print \"hello\"",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti"
+	],
+	"file_history":
+	[
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti/mechanics.md",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti/all.md",
+		"/home/toby/Dropbox/DnD - malach.md",
+		"/home/toby/shit/text/lost and found.txt",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/gondola owl/gondola-owl.js",
+		"/home/toby/Downloads/wikimapper-svg.svg",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti/planes.md",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti/index.md",
+		"/home/toby/.config/sublime-text-3/Packages/python-markdown/README.md",
+		"/home/toby/.config/sublime-text-3/Packages/pymdownx/README.md",
+		"/home/toby/.config/sublime-text-3/Packages/pygments/README.md",
+		"/home/toby/.config/sublime-text-3/Packages/markupsafe/all/markupsafe/__init__.py",
+		"/home/toby/.config/sublime-text-3/Packages/markupsafe/dependency-metadata.json",
+		"/home/toby/.config/sublime-text-3/Packages/mdpopups/README.md",
+		"/home/toby/.config/sublime-text-3/Packages/markdown_headings.py",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti/todo.md",
+		"/home/toby/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/toby/.config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/folding.py",
+		"/home/toby/.config/sublime-text-3/Packages/MarkdownEditing/README.md",
+		"/home/toby/.config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/home/toby/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/references.py",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/mdeutils.py",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/custom_find_under_expand.py",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/bootstrap.py",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/messages/2.2.3.md",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/Default.sublime-commands",
+		"/home/toby/Downloads/MarkdownEditing.sublime-package/Markdown (Standard).sublime-settings",
+		"/home/toby/Downloads/Markdown_header_(mdh1).sublime-snippet",
+		"/home/toby/.config/sublime-text-3/Packages/MarkdownEditing/Default (Linux).sublime-keymap",
+		"/home/toby/.config/sublime-text-3/Packages/next_group.py",
+		"/home/toby/.config/sublime-text-3/Packages/JSHint Gutter/.jshintrc",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/planescape trimurti/trimurti.sublime-project",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/nutmeg/design/style/README.md",
+		"/home/toby/Dropbox/Your Hairpiece Fuck/nutmeg/design/logo/README.md",
+		"/home/toby/shit/text/linux notes!.md",
+		"/home/toby/Downloads/planescape trimurti todo.txt",
+		"/home/toby/Downloads/Digg Domain Mapping.xml",
+		"/home/toby/Dropbox/digg/notes.md",
+		"/home/toby/Dropbox/digg/notes-now.md",
+		"/home/toby/Dropbox/digg/notes-now-2.md",
+		"/home/toby/dev/nutmeg/src/app/modals/modal.service.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/prog-tag-api.service.ts",
+		"/home/toby/dev/nutmeg/.gitignore",
+		"/home/toby/dev/nutmeg/src/app/modals/homepage.component.ts",
+		"/home/toby/dev/nutmeg/src/styles/_mixins.sass",
+		"/home/toby/dev/nutmeg/src/app/home/home.component.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/toaster.service.ts",
+		"/home/toby/dev/nutmeg/src/app/data.service.ts",
+		"/home/toby/dev/nutmeg/src/styles/components/_tag.component.sass",
+		"/home/toby/dev/nutmeg/src/app/notes/note-query.component.ts",
+		"/home/toby/dev/nutmeg/node_modules/@types/jquery/index.d.ts",
+		"/home/toby/dev/nutmeg/src/styles/parts/_toaster.sass",
+		"/home/toby/dev/nutmeg/package.json",
+		"/home/toby/dev/nutmeg/src/app/tags/tag-browser.component.html",
+		"/home/toby/dev/nutmeg/src/app/modals/modal.component.html",
+		"/home/toby/dev/nutmeg/src/app/notes/note.component.html",
+		"/home/toby/dev/nutmeg/src/styles/_variables.sass",
+		"/home/toby/dev/nutmeg/src/styles/layout/_pane.sass",
+		"/home/toby/dev/nutmeg/src/app/tags/tags.service.ts",
+		"/home/toby/dev/nutmeg/src/app/notes/notes.service.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/tag-browser.component.ts",
+		"/home/toby/dev/nutmeg/Gruntfile.js",
+		"/home/toby/dev/nutmeg/src/styles/components/_home.component.sass",
+		"/home/toby/dev/nutmeg/node_modules/@types/lunr/index.d.ts",
+		"/home/toby/dev/nutmeg/src/main.browser.ts",
+		"/home/toby/dev/nutmeg/src/vendor.browser.ts",
+		"/home/toby/dev/nutmeg/src/app/notes/note-browser.component.ts",
+		"/home/toby/dev/nutmeg/src/app/settings/settings.component.html",
+		"/home/toby/dev/nutmeg/config/webpack.common.js",
+		"/home/toby/dev/nutmeg/src/app/tags/tag.component.html",
+		"/home/toby/dev/nutmeg/src/app/tags/tag.component.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/prog-tag-library.component.html",
+		"/home/toby/dev/nutmeg/src/app/tags/prog-tag-library.component.ts",
+		"/home/toby/dev/nutmeg/src/app/settings/settings.component.ts",
+		"/home/toby/dev/nutmeg/src/app/settings/setting.component.html",
+		"/home/toby/dev/nutmeg/src/app/settings/setting.component.ts",
+		"/home/toby/dev/nutmeg/src/app/app.component.ts",
+		"/home/toby/dev/nutmeg/src/app/account/login.component.ts",
+		"/home/toby/dev/nutmeg/src/app/notes/note.component.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/tag-visualization.component.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/prog-tag-control.component.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/force-graph.component.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/tag-details.component.ts",
+		"/home/toby/dev/nutmeg/src/main.browser.aot.ts",
+		"/home/toby/dev/nutmeg/config/webpack.prod.js",
+		"/home/toby/dev/nutmeg/src/app/utils/jquery.autocomplete.mod.ts",
+		"/home/toby/dev/nutmeg/src/styles/parts/_modal.sass",
+		"/home/toby/dev/nutmeg/README.md",
+		"/home/toby/dev/nutmeg/tslint.json",
+		"/home/toby/dev/nutmeg/notes.md",
+		"/home/toby/dev/nutmeg/src/styles/components/_note.component.sass",
+		"/home/toby/dev/nutmeg/src/app/notes/note.model.ts",
+		"/home/toby/dev/nutmeg/src/app/settings/setting.model.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/tooltip.service.ts",
+		"/home/toby/dev/nutmeg/src/app/settings/settings.service.ts",
+		"/home/toby/dev/nutmeg/src/app/account/account.service.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/index.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/logger.ts",
+		"/home/toby/dev/nutmeg/src/app/active-uis.service.ts",
+		"/home/toby/dev/nutmeg/src/app/modals/feedback.component.ts",
+		"/home/toby/dev/nutmeg/src/app/modals/modal.component.ts",
+		"/home/toby/dev/nutmeg/src/app/pipes/array-limit.pipe.ts",
+		"/home/toby/dev/nutmeg/src/app/modals/private-mode.component.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/tag.model.ts",
+		"/home/toby/dev/nutmeg/src/app/directives/touch-or-click.directive.ts",
+		"/home/toby/dev/nutmeg/src/app/account/user.service.ts",
+		"/home/toby/dev/nutmeg/src/app/app.module.ts",
+		"/home/toby/dev/nutmeg/src/smartness.browser.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/prog-tag-library.service.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/child-tag.model.ts",
+		"/home/toby/dev/nutmeg/src/app/tags/public-tag.model.ts",
+		"/home/toby/dev/nutmeg/src/app/settings/shortcut.model.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/autocomplete.service.ts",
+		"/home/toby/dev/nutmeg/src/app/directives/contenteditable-model.directive.ts",
+		"/home/toby/dev/nutmeg/src/app/mocks/firebase.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/fuzzy-match-sorter.ts",
+		"/home/toby/dev/nutmeg/src/app/utils/sample-data.ts",
+		"/home/toby/dev/nutmeg/tsconfig.json",
+		"/home/toby/dev/nutmeg/src/app/home/home.component.html",
+		"/home/toby/dev/nutmeg/config/webpack.dev.js",
+		"/home/toby/dev/nutmeg/badwords.js",
+		"/home/toby/dev/nutmeg/src/app/tags/index.ts",
+		"/home/toby/dev/nutmeg/src/styles/_colors.sass",
+		"/home/toby/dev/nutmeg/src/styles/layout/_base.sass",
+		"/home/toby/dev/nutmeg/src/app/tags/prog-tag-control.component.html",
+		"/home/toby/dev/nutmeg/src/app/pipes/map-ids-to-tags.pipe.ts"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 316.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nnd",
+			"guilds",
+			"nnd",
+			"guide",
+			"visitors",
+			"cnp",
+			" #",
+			" ##",
+			"###",
+			"#####",
+			"####",
+			"TODO",
+			"unfolding",
+			"ngp",
+			"# ned",
+			"ned",
+			"knowledge",
+			"\\bwe\\b",
+			" use",
+			"\n",
+			". ",
+			"\n",
+			"cnp",
+			"dream",
+			"CNP",
+			"plane",
+			"plan",
+			"\n- ",
+			"fire",
+			"Interglacial: New and Selected Poems & Aphorisms",
+			"doubters",
+			"cnp",
+			"\n#",
+			"procession",
+			"___",
+			"TODO",
+			"=",
+			"CNP",
+			"petition",
+			"corresp",
+			"CNP",
+			"visitor",
+			"one",
+			"NNP",
+			"one",
+			"NNP",
+			"CNP",
+			"visitor",
+			"festival",
+			"You",
+			"ece",
+			"\\bone\\b",
+			"___",
+			"LGC",
+			"CNP",
+			"bird",
+			"CNP",
+			"relationship",
+			"observation",
+			"categor",
+			"- *",
+			"sky",
+			"small",
+			"you",
+			"meter",
+			"feet",
+			"festival",
+			"Festival",
+			"wind shif",
+			"NNC",
+			"rohini",
+			"berna",
+			"shift",
+			"competi",
+			"Festivals",
+			"Traditions",
+			"locations",
+			"Shield",
+			"Overwhelming",
+			"Relaxing",
+			"- ",
+			"Cozy",
+			"\n- Cozy",
+			"- ",
+			"death",
+			"gem cav",
+			"gem",
+			"wind shift",
+			"intricate",
+			"hundreds",
+			"slender",
+			"wind shifter",
+			"shaper",
+			"built",
+			"fickle",
+			"loths",
+			"erupt",
+			"festiv",
+			"volcanic",
+			"history",
+			"Scaffold",
+			"yugoloth",
+			"eladrin",
+			"Eladrin",
+			"eladrin",
+			"Eladrin",
+			"cnp",
+			"Scaffold",
+			"curver",
+			"Curvers",
+			"advisers",
+			"entourage",
+			"scale",
+			"gleaming",
+			"multiverse",
+			"TODO",
+			"labor",
+			"lava",
+			"magma",
+			"shock",
+			"continent",
+			"CNP",
+			"TODO",
+			"todo",
+			"pavilion",
+			"harmless",
+			"lava",
+			"traditions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "trimurti.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 418.0,
+						"translation.y": 439.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frame.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.colors":
+							[
+								"pink",
+								"LightSalmon",
+								"lemonchiffon",
+								"palegreen",
+								"lightcyan",
+								"lightblue",
+								"lavender"
+							],
+							"rainbowth.line": 4,
+							"rainbowth.lispy": true,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 788.0,
+						"translation.y": 301.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cosmology.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7232,
+								7232
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.lispy": true,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 558.0,
+						"translation.y": 2578.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "all.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116280,
+						"regions":
+						{
+							"bookmark_a":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										44160,
+										44160
+									]
+								]
+							}
+						},
+						"selection":
+						[
+							[
+								85914,
+								85914
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.lispy": true,
+							"spell_check": true,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 31185.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "evil sketch.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 435.0,
+						"translation.y": 793.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "alignments.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3570,
+						"regions":
+						{
+							"bookmark_a":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										2836,
+										2836
+									]
+								]
+							}
+						},
+						"selection":
+						[
+							[
+								2586,
+								2586
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.lispy": true,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 503.0,
+						"translation.y": 1612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6025,
+								6025
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.colors":
+							[
+								"pink",
+								"LightSalmon",
+								"lemonchiffon",
+								"palegreen",
+								"lightcyan",
+								"lightblue",
+								"lavender"
+							],
+							"rainbowth.line": 23,
+							"rainbowth.lispy": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 2137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "todo.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37786,
+						"regions":
+						{
+							"bookmark_a":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										27626,
+										27626
+									]
+								]
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.colors":
+							[
+								"pink",
+								"LightSalmon",
+								"lemonchiffon",
+								"palegreen",
+								"lightcyan",
+								"lightblue",
+								"lavender"
+							],
+							"rainbowth.line": 274,
+							"rainbowth.lispy": true,
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10068,
+								10068
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jam eire",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 2555.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3101,
+								3101
+							]
+						],
+						"settings":
+						{
+							"auto_name": "high",
+							"git_gutter_is_enabled": false,
+							"rainbowth.lispy": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 451.0,
+						"translation.y": 1014.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "mechanics.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3011,
+								3011
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"rainbowth.lispy": true,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 723.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 122.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 558.0
+	},
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 226.0
+	},
+	"pinned_build_system": "",
+	"project": "trimurti.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pl",
+				"planes.md"
+			],
+			[
+				"todo",
+				"to do and use.md"
+			],
+			[
+				"summ",
+				"summary.md"
+			],
+			[
+				"note",
+				"notes.md"
+			],
+			[
+				"evil",
+				"evil sketch.md"
+			],
+			[
+				"deta",
+				"details.md"
+			],
+			[
+				"cosmo",
+				"cosmology.md"
+			],
+			[
+				"intro",
+				"intro.md"
+			],
+			[
+				"settingsht",
+				"src/app/settings/settings.component.html"
+			],
+			[
+				"modalcomht",
+				"src/app/modals/modal.component.html"
+			],
+			[
+				"modalcomts",
+				"src/app/modals/modal.component.ts"
+			],
+			[
+				"modalserts",
+				"src/app/modals/modal.service.ts"
+			],
+			[
+				"shortcumdts",
+				"src/app/settings/shortcut.model.ts"
+			],
+			[
+				"settinsert",
+				"src/app/settings/settings.service.ts"
+			],
+			[
+				"progtagapi",
+				"src/app/tags/prog-tag-api.service.ts"
+			],
+			[
+				"smar",
+				"src/smartness.browser.ts"
+			],
+			[
+				".gitig",
+				".gitignore"
+			],
+			[
+				"homepts",
+				"src/app/modals/homepage.component.ts"
+			],
+			[
+				"colorsass",
+				"src/styles/_colors.sass"
+			],
+			[
+				"modalcompts",
+				"src/app/modals/modal.component.ts"
+			],
+			[
+				"modalht",
+				"src/app/modals/modal.component.html"
+			],
+			[
+				"modalsass",
+				"src/styles/parts/_modal.sass"
+			],
+			[
+				"notemodelts",
+				"src/app/notes/note.model.ts"
+			],
+			[
+				"homepagecomts",
+				"src/app/modals/homepage.component.ts"
+			],
+			[
+				"homecompts",
+				"src/app/home/home.component.ts"
+			],
+			[
+				"toastserts",
+				"src/app/utils/toaster.service.ts"
+			],
+			[
+				"toastersr",
+				"src/app/utils/toaster.service.ts"
+			],
+			[
+				"dataserts",
+				"src/app/data.service.ts"
+			],
+			[
+				"typesjqudts",
+				"node_modules/@types/jquery/index.d.ts"
+			],
+			[
+				"toastersass",
+				"src/styles/parts/_toaster.sass"
+			],
+			[
+				"packjs",
+				"package.json"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"notequerts",
+				"src/app/notes/note-query.component.ts"
+			],
+			[
+				"notebrots",
+				"src/app/notes/note-browser.component.ts"
+			],
+			[
+				"tagserts",
+				"src/app/tags/tags.service.ts"
+			],
+			[
+				"tagborwht",
+				"src/app/tags/tag-browser.component.html"
+			],
+			[
+				"tagbrowts",
+				"src/app/tags/tag-browser.component.ts"
+			],
+			[
+				"progtaglibcht",
+				"src/app/tags/prog-tag-library.component.html"
+			],
+			[
+				"progtaglibcomts",
+				"src/app/tags/prog-tag-library.component.ts"
+			],
+			[
+				"tagcompht",
+				"src/app/tags/tag.component.html"
+			],
+			[
+				"tagcompts",
+				"src/app/tags/tag.component.ts"
+			],
+			[
+				"settingscomht",
+				"src/app/settings/settings.component.html"
+			],
+			[
+				"lunrindexdts",
+				"node_modules/@types/lunr/index.d.ts"
+			],
+			[
+				"noteserts",
+				"src/app/notes/notes.service.ts"
+			],
+			[
+				"settingcompts",
+				"src/app/settings/setting.component.ts"
+			],
+			[
+				"tagbrowcots",
+				"src/app/tags/tag-browser.component.ts"
+			],
+			[
+				"appcompts",
+				"src/app/app.component.ts"
+			],
+			[
+				"logincomts",
+				"src/app/account/login.component.ts"
+			],
+			[
+				"progtaglibcts",
+				"src/app/tags/prog-tag-library.component.ts"
+			],
+			[
+				"tagbroht",
+				"src/app/tags/tag-browser.component.html"
+			],
+			[
+				"tagbrowcomts",
+				"src/app/tags/tag-browser.component.ts"
+			],
+			[
+				"tagbrowcts",
+				"src/app/tags/tag-browser.component.ts"
+			],
+			[
+				"settingscomts",
+				"src/app/settings/settings.component.ts"
+			],
+			[
+				"settingcomht",
+				"src/app/settings/setting.component.html"
+			],
+			[
+				"notecompht",
+				"src/app/notes/note.component.html"
+			],
+			[
+				"notecompts",
+				"src/app/notes/note.component.ts"
+			],
+			[
+				"progtaglibs",
+				"src/app/tags/prog-tag-library.service.ts"
+			],
+			[
+				"notecompsass",
+				"src/styles/components/_note.component.sass"
+			],
+			[
+				"tagdetcts",
+				"src/app/tags/tag-details.component.ts"
+			],
+			[
+				"forcegrts",
+				"src/app/utils/force-graph.component.ts"
+			],
+			[
+				"tagvizts",
+				"src/app/tags/tag-visualization.component.ts"
+			],
+			[
+				"settingmod",
+				"src/app/settings/setting.model.ts"
+			],
+			[
+				"tagmodts",
+				"src/app/tags/tag.model.ts"
+			],
+			[
+				"noteborts",
+				"src/app/notes/note-browser.component.ts"
+			],
+			[
+				"homepage",
+				"src/app/modals/homepage.component.ts"
+			],
+			[
+				"homecomts",
+				"src/app/home/home.component.ts"
+			],
+			[
+				"feedcomts",
+				"src/app/modals/feedback.component.ts"
+			],
+			[
+				"activui",
+				"src/app/active-uis.service.ts"
+			],
+			[
+				"dataser",
+				"src/app/data.service.ts"
+			],
+			[
+				"privmots",
+				"src/app/modals/private-mode.component.ts"
+			],
+			[
+				"arraylimpi",
+				"src/app/pipes/array-limit.pipe.ts"
+			],
+			[
+				"uitlindexts",
+				"src/app/utils/index.ts"
+			],
+			[
+				"loggerts",
+				"src/app/utils/logger.ts"
+			],
+			[
+				"settingsse",
+				"src/app/settings/settings.service.ts"
+			],
+			[
+				"accountsets",
+				"src/app/account/account.service.ts"
+			],
+			[
+				"notebrowcts",
+				"src/app/notes/note-browser.component.ts"
+			],
+			[
+				"notebrowts",
+				"src/app/notes/note-browser.component.ts"
+			],
+			[
+				"logcompts",
+				"src/app/account/login.component.ts"
+			],
+			[
+				"notemodts",
+				"src/app/notes/note.model.ts"
+			],
+			[
+				"appmodts",
+				"src/app/app.module.ts"
+			],
+			[
+				"forcegrats",
+				"src/app/utils/force-graph.component.ts"
+			],
+			[
+				"userserts",
+				"src/app/account/user.service.ts"
+			],
+			[
+				"notebrocomts",
+				"src/app/notes/note-browser.component.ts"
+			],
+			[
+				"smartnessbr",
+				"src/smartness.browser.ts"
+			],
+			[
+				"progtagconts",
+				"src/app/tags/prog-tag-control.component.ts"
+			],
+			[
+				"tagbrots",
+				"src/app/tags/tag-browser.component.ts"
+			],
+			[
+				"tagdetcomts",
+				"src/app/tags/tag-details.component.ts"
+			],
+			[
+				"tagvists",
+				"src/app/tags/tag-visualization.component.ts"
+			],
+			[
+				"tagmod",
+				"src/app/tags/tag.model.ts"
+			],
+			[
+				"childtagm",
+				"src/app/tags/child-tag.model.ts"
+			],
+			[
+				"ubtagmod",
+				"src/app/tags/public-tag.model.ts"
+			],
+			[
+				"settingcomts",
+				"src/app/settings/setting.component.ts"
+			],
+			[
+				"shortcmod",
+				"src/app/settings/shortcut.model.ts"
+			],
+			[
+				"autocomserts",
+				"src/app/utils/autocomplete.service.ts"
+			],
+			[
+				"contenmodts",
+				"src/app/directives/contenteditable-model.directive.ts"
+			],
+			[
+				"autocom",
+				"src/app/utils/autocomplete.service.ts"
+			],
+			[
+				"ntoeserts",
+				"src/app/notes/notes.service.ts"
+			],
+			[
+				"tooltiserts",
+				"src/app/utils/tooltip.service.ts"
+			],
+			[
+				"accountserts",
+				"src/app/account/account.service.ts"
+			],
+			[
+				"forcegr",
+				"src/app/utils/force-graph.component.ts"
+			],
+			[
+				"touchorcl",
+				"src/app/directives/touch-or-click.directive.ts"
+			],
+			[
+				"mockfirts",
+				"src/app/mocks/firebase.ts"
+			],
+			[
+				"forcegraphts",
+				"src/app/utils/force-graph.component.ts"
+			],
+			[
+				"jquautts",
+				"src/app/utils/jquery.autocomplete.mod.ts"
+			],
+			[
+				"fuzzma",
+				"src/app/utils/fuzzy-match-sorter.ts"
+			],
+			[
+				"sampleda",
+				"src/app/utils/sample-data.ts"
+			],
+			[
+				"tslin",
+				"tslint.json"
+			],
+			[
+				"tsc",
+				"tsconfig.json"
+			],
+			[
+				"webprod",
+				"config/webpack.prod.js"
+			],
+			[
+				"homecompht",
+				"src/app/home/home.component.html"
+			],
+			[
+				"webcomjs",
+				"config/webpack.common.js"
+			],
+			[
+				"webdevjs",
+				"config/webpack.dev.js"
+			],
+			[
+				"webprodjs",
+				"config/webpack.prod.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"badwo",
+				"badwords.js"
+			],
+			[
+				"utilindexts",
+				"src/app/utils/index.ts"
+			],
+			[
+				"notecomp",
+				"src/app/notes/note.component.ts"
+			],
+			[
+				"progtagap",
+				"src/app/tags/prog-tag-api.service.ts"
+			],
+			[
+				"tagindexts",
+				"src/app/tags/index.ts"
+			],
+			[
+				"progtagli",
+				"src/app/tags/prog-tag-library.service.ts"
+			],
+			[
+				"mapid",
+				"src/app/pipes/map-ids-to-tags.pipe.ts"
+			],
+			[
+				"notebro",
+				"src/app/notes/note-browser.component.html"
+			],
+			[
+				"progtagconht",
+				"src/app/tags/prog-tag-control.component.html"
+			],
+			[
+				"userser",
+				"src/app/account/user.service.ts"
+			],
+			[
+				"progtag",
+				"src/app/tags/prog-tag-api.service.ts"
+			],
+			[
+				"email",
+				"util/emailQueueHandler.js"
+			],
+			[
+				"emailer",
+				"util/emailQueueHandler.js"
+			],
+			[
+				"appcomts",
+				"src/app/app.component.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 650.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
