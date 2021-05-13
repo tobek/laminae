@@ -151,6 +151,7 @@
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-05-13|1.25|39783|1058|30%|35%|13|79|53|26|
 |2021-05-12|1.25|41226|1056|30%|35%|13|80|53|27|
 |2021-05-11|1   |41202|1054|28%|35%|13|80|53|27|
 |2021-05-08|1   |41297|1049|27%|35%|13|81|53|28|
@@ -258,7 +259,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 41,226 | 1,056 | 13/43 | 80/227 |
+| 39,783 | 1,058 | 13/42 | 79/224 |
 </div>
 
 <div class="progress-wrap">
@@ -306,7 +307,6 @@
 | :-- | :-- |
 | Build | <span class="bloop">■▤▤</span> |
 | Title Page | <span class="bloop">■▤□</span> |
-| Overview | <span class="bloop">▤□□</span> |
 | Styles | <span class="bloop">■□□</span> |
 | Author | <span class="bloop">■□□</span> |
 | Visualization | <span class="bloop">▤□□</span> |

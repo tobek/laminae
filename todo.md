@@ -1,6 +1,6 @@
 # big questions
 
-- alignments
+- facets
 - cosmography
     + afterlife
     + geography
@@ -13,11 +13,12 @@
         * latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
             - https://www.dailywritingtips.com/latin-plural-endings/
 - setting
-    + part of our world?
-        * quotes...
+    + part of our world? tenuously, compatible
     + is there any benefit to using fantasy races? elves etc. maybe not.
-        * two mentions of "human" in guild note
+        * removed mentions of "human" in guild note
         * various mentions in Unfolding feud
+        * lgd bookeepers "race"
+        * searched "human" and "race" and accounted for all
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 
 # big ideas
@@ -38,8 +39,6 @@
     + each needs
         * for overview/viz: name, demonym, summary
         * for page itself: reuse summary (or longer abstract) and enticing table of contents
-            - can also just do big single section abstract and flesh things out later
-            - if nothing past intro exists, add flag that keeps TOC but just has not translated message
         * don't worry about things changing form later
     + go through index.yml and all.md side by side
     + pick one, go deeper!
@@ -219,6 +218,7 @@ where do strange loops fit in? a middle thing? relies on the existence of struct
     + i guess with L, agency depends on your position in the hierarchy
 - disgust/purity vs. openness
 - control vs. liberty
+- autonomy does NOT mean lack of accountability. in fact autonomists would argue that hierarchy shields people from accountability, by appeals to authority as justification for their actions
 - law
     + hierarchy
     + systematic?
@@ -350,86 +350,24 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 
 decided = 3, written = 4.
 
+contents:
+
+- what's the ordial plane?
+- what are the laminae (e.g. afterlives, who is there, etc.)
+- how is it all laid out (diagram is relevant here)
+- basic mechanics: transport, etc
+- terminology
+- facets (brief summary)
+
 afterlife thing, geography, relation to our world: BRAINSTORM
-
-### geography brainstorm
-
-goals:
-
-- easy to grok and imagine
-    + easy to grok and imagine relationships/alignment layout
-    + and also their cosmic place in reality
-- "cool", "wow", "huh"
-- as few fudges as possible - and fudges should be clean
-
-i think i'm drawn towards no contiguous geography cause that's what i started with and it's easier?
-
-corners (3 extremes) have 3 borders, edges (2 extremes) have 4 borders, face centers (1 extreme) have 5
-
-can you walk from heaven to hell? no. but like river styx leads to hades - maybe instead of portals there are like passageways and tunnels, or some places do have borderlands?
-
-the gate surface tension thing - does that really matter? none of these planes yet are TOTALLY hostile
-
-might not need elemental planes
-
-**contiguous geography pros**
-
-- no need for gates
-    + but still need gates to GET there, unless it's all petitioners
-- potentially cool big landscape
-- easier to grok?
-- potentially cool border lands
-    + LNC - LNP, NNC, LGC, LEC - all cool
-    + CNP - CND, CNC, ~NNP~, CGP, CEP
-    + CEC - CEP, NEP, CNC
-- potentially cool relationships, especially between C, P, and D versions of same alignment
-- cool mountain peaks for C planes and abyss drop-offs for D planes
-    + LNC glass ocean i guess flows from NNC into some huge plateau or else it must travel maybe a river through LNP and maybe LND
-    + LGD pavilions could be cliff-edge
-    + CND could drop through
-    + LEC could have panopticons from their peaks (could do this anyway but magically)
-
-**contiguous geography cons**
-
-- is it less... pure? it's more normal
-- borders = more stuff to write/figure out
-- none of the P or D planes with any N can get to NNP or NND unless some weird underground thing
-    + that's okay, they're weird planes
-- some hard border lands?
-    + went through all, no dealbreakers
-    + NND is fine, NNP i guess also
-    + LNC surrounded by ocean
-        * architects transit across?
-        * flat platuea?
-    + some (only LNP so far? maybe CNC, maybe LEC) don't have ground sky - it's all ground
-        * CNC and LEC could both be underground
-    + the crevasse - could just be a wall or mountain range around the whole thing, OR there is actually a top
-        * the wall could be a D plane, no "other side" stuff
-    + CEC is flat too? guess it could be a gentle slope
-    + other possible as-yet-unused challenges: space habitat, underwater
-- where do the absolute planes go?
-    + could get rid of them, just discussing the "pure" force
-    + the nautilus and outpost could be in places like CNC where the fabric is thin
-
-**discontinuous geography pros**
-
-- don't have to figure out borders
-- clean?
-- i like the idea that every prime plane is potentially connected to all 27, that they're all kind of layered over all reality, that they are everywhere and nowhere, which doesn't fit as well with the contiguous landscape
-- doesn't *have* to be a place. these are like physical forces
-
-**discontinuous geography cons**
-
-- have to have portals or something
-- easy to grok concept (with 3d cube) but maybe harder to grok... layout
 
 ### general stuff
 
 - general setup of afterlife/petitioners, is that helpful or should these just be places?
-- geographic layout
-- some way to refer to boundary between these planes and normal ones? (Ordial Plane?)
+- geographic layout - none for now
+- ordial plane is boundary/connection between these planes and normal ones
     + https://www.reddit.com/r/DnDBehindTheScreen/comments/6qd9e6/the_ordial_plane_the_plane_of_proof/
-    + ordial plane connects outer planes to these?
+    + maybe no discussion of ordial plane, like "everyone knows what that is"
 - no gods. they find the alignments of the realm too overpowering and opinionated - the greatest power on each plane is the alignment. of course, demigods and powerful beings are around, but too powerful and they leave. maybe each plane has a core/heart/nexus that matches alignment? all in very different forms - landscape, artifact, building, being (maybe the collective), furniture, work of art. maybe that's where shunts are?
 
 ### terms
@@ -478,6 +416,77 @@ might not need elemental planes
     + "outsiders" (maybe used)/insiders - beings of the lamina. laminars?
         * LNC windshifters. none on CGP? CEC plants?
     + mortals/primes on planes: primes, mortal, outsider. "planar" (maybe used): mortals on the planes
+
+### geography brainstorm
+
+goals:
+
+- easy to grok and imagine
+    + easy to grok and imagine relationships/alignment layout
+    + and also their cosmic place in reality
+- "cool", "wow", "huh"
+- as few fudges as possible - and fudges should be clean
+
+i think i'm drawn towards no contiguous geography cause that's what i started with and it's easier?
+
+corners (3 extremes) have 3 borders, edges (2 extremes) have 4 borders, face centers (1 extreme) have 5
+
+can you walk from heaven to hell? no. but like river styx leads to hades - maybe instead of portals there are like passageways and tunnels, or some places do have borderlands?
+
+the gate surface tension thing - does that really matter? none of these planes yet are TOTALLY hostile
+
+might not need elemental planes - no prob not
+
+**contiguous geography pros**
+
+- no need for gates
+    + but still need gates to GET there, unless it's all petitioners (which it's not)
+- potentially cool big landscape
+- easier to grok?
+- potentially cool border lands
+    + LNC - LNP, NNC, LGC, LEC - all cool
+    + CNP - CND, CNC, ~NNP~, CGP, CEP
+    + CEC - CEP, NEP, CNC
+- potentially cool relationships, especially between C, P, and D versions of same alignment
+- cool mountain peaks for C planes and abyss drop-offs for D planes
+    + LNC glass ocean i guess flows from NNC into some huge plateau or else it must travel maybe a river through LNP and maybe LND
+    + LGD pavilions could be cliff-edge
+    + CND could drop through
+    + LEC could have panopticons from their peaks (could do this anyway but magically)
+
+**contiguous geography cons**
+
+- is it less... pure? it's more normal
+- borders = more stuff to write/figure out
+- none of the P or D planes with any N can get to NNP or NND unless some weird underground thing
+    + that's okay, they're weird planes
+- some hard border lands?
+    + went through all, no dealbreakers
+    + NND is fine, NNP i guess also
+    + LNC surrounded by ocean
+        * architects transit across?
+        * flat platuea?
+    + some (only LNP so far? maybe CNC, maybe LEC) don't have ground sky - it's all ground
+        * CNC and LEC could both be underground
+    + the crevasse - could just be a wall or mountain range around the whole thing, OR there is actually a top
+        * the wall could be a D plane, no "other side" stuff
+    + CEC is flat too? guess it could be a gentle slope
+    + other possible as-yet-unused challenges: space habitat, underwater
+- where do the absolute planes go?
+    + could get rid of them, just discussing the "pure" force
+    + the nautilus and outpost could be in places like CNC where the fabric is thin
+
+**discontinuous geography pros**
+
+- don't have to figure out borders
+- clean?
+- i like the idea that every prime plane is potentially connected to all 27, that they're all kind of layered over all reality, that they are everywhere and nowhere, which doesn't fit as well with the contiguous landscape
+- doesn't *have* to be a place. these are like physical forces
+
+**discontinuous geography cons**
+
+- have to have portals or something
+- easy to grok concept (with 3d cube) but maybe harder to grok... layout
 
 ## ○○○○ Close
 
@@ -548,13 +557,8 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 ## ■▤□ Title
 
 - figure out TOC format
-    + can you do 3d in a triangular frame like https://en.wikipedia.org/wiki/Holdridge_life_zones?
 - probably change order to all hierarchy first, etc.
 - probably figure out way to build it rather than type it fuckin out
-
-## ▤□□ Overview
-
-would this be redundant with an interactive TOC diagram on title page?
 
 goals:
 
@@ -563,11 +567,10 @@ goals:
 - the basic structure is either understandable, or understandable enough that it's clear that there *is* a structure
 - each lamina can be skimmed for interest and flavor and mystery such that reader can see the breadth of things and dive in as desired
 
-todo:
+viz:
 
-- *figure out overview format*
 - content for each:
-    + alignment (english and burmese)
+    + alignment (english and glyphs)
     + demonym
     + name
     + summary
@@ -593,6 +596,7 @@ todo:
     + h's (h3's look wrong, h4's like in CND language...)
     + line and paragraph spacing - possible to make like manuscript?
     + title page
+        * small caps anywhere?
     + drop caps? decorated initials (historiated/illuminated initial)
         * go one heading level deeper?
         * Lombardic/rubricated capitals every paragraph?
@@ -632,15 +636,36 @@ todo:
 
 ## ▤□□ Visualization
 
+places where viz would make sense:
+
+- TOC
+    + between heading and items
+    + hover over in one highlights in the other
+- overview
+    + can remove if TOC nails it
+- cosmography
+
+same in all? remove one or two of these?
+
+formats:
+
+- 3 squares of 9 cards each
+    + each card shows glyphs, english facets, name, and brief description?
+    + this could be Overview page
+- could be 3 wheels? though the square grid is easier to grok
+- exploding 3d cube
+    + card view as above on hover
+    + compass rose in corner
+    + list of facets too?
+    + hovering over glyph/facet highlights all its laminae and mentions elsewhere
+
+so maybe 2 formats, can switch between, and the pretty one shown by default on TOC and grokkier one on cosmography
+
+code:
+
 - https://threejs.org/examples/#webgl_interactive_points
 - https://threejs.org/examples/#webgl_lines_fat_wireframe
 - https://threejs.org/examples/#webgl_postprocessing_unreal_bloom
-
-## ▤▤□ Gondola Owl
-
-
-## □□□ Calligraphy
-
 
 ## ■□□ Plates
 
@@ -667,13 +692,6 @@ following discarded:
 this gets used (no double quotes allowed):
 
     MEDIA("pic-name.jpg")
-
-## □□□ Peristalsis
-
-- any other interactivity? any procedurally generated stuff?
-    + maybe some sub-projects, like gondola owl could be somewhere
-    + calligraphic thing?
-    + "list of plates" kind of thing could list them all
 
 ## ▤□□ References
 
@@ -706,4 +724,15 @@ ok we need more processing to get full link and hover text
 
 floating TOC?
 
+## ▤▤□ Gondola Owl
 
+
+## □□□ Calligraphy
+
+
+## □□□ Peristalsis
+
+- any other interactivity? any procedurally generated stuff?
+    + maybe some sub-projects, like gondola owl could be somewhere
+    + calligraphic thing?
+    + "list of plates" kind of thing could list them all

@@ -45,7 +45,6 @@
 | :-- | :-- |
 | Build | <span class="bloop">■▤▤</span> |
 | Title Page | <span class="bloop">■▤□</span> |
-| Overview | <span class="bloop">▤□□</span> |
 | Styles | <span class="bloop">■□□</span> |
 | Author | <span class="bloop">■□□</span> |
 | Visualization | <span class="bloop">▤□□</span> |

@@ -8,7 +8,7 @@
 <div class="title-3">DECADES OF JOURNEY PAST THE ORDIAL PLANE</div>
 <div class="title-4 spaced">by</div>
 <div class="title-2">AN UNKNOWN TRAVELLER</div>
-<div class="title-4 spaced">collected & translated by</div>
+<div class="title-4 spaced">edited & translated by</div>
 <div class="title-2 guild-name">THE ORDER OF ANAPHORIC CIRCUMSTANCE</div>
 </h1>
 
@@ -209,10 +209,6 @@
   <div class="left"><div class="numeral">V.</div><a hreff="00-v-facets.html">Facets</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
-<div class="row">
-  <div class="left"><div class="numeral">VI.</div><a style="font-variant: small-caps;" hreff="00-vi-overview.html">Overview of the Laminae</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
 
 ##### THE LAMINAE
 
@@ -346,7 +342,7 @@
   <div class="dots"></div><div class="page">ဓ</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">30.</div><a hreff="30-d.html">Destruction</a></div>
+  <div class="left"><div class="numeral">30.</div><a hreff="30-d.html">Dissolution</a></div>
   <div class="dots"></div><div class="page">ဗ</div>
 </div>
 </div>

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git commit -am "🌱" && git push
+echo
 ./utils/stats.sh
 echo
 python build.py
