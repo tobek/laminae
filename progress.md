@@ -30,6 +30,9 @@
 	.bloop {
 		font-family: "DejaVuSerif";
 	}
+	.later {
+		opacity: 0.5;
+	}
 
 	table {
 	    max-width: 100%;
@@ -146,8 +149,9 @@
 
 <div class="updates">
 
-|Date      |Hours|Words|LOC|Ready|Done|
+|Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-05-12|1.25|41226|1056|30%|35%|13|80|53|27|
 |2021-05-11|1   |41202|1054|28%|35%|13|80|53|27|
 |2021-05-08|1   |41297|1049|27%|35%|13|81|53|28|
 |2021-05-07|1.25|41297|1038|27%|35%|13|81|53|28|
@@ -252,9 +256,9 @@
 </div>
 
 <div class="summary">
-| Words | LOC | Ready | Done |
+| Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 41,202 | 1,054 | 13/46 | 80/227 |
+| 41,226 | 1,056 | 13/43 | 80/227 |
 </div>
 
 <div class="progress-wrap">
@@ -306,11 +310,11 @@
 | Styles | <span class="bloop">■□□</span> |
 | Author | <span class="bloop">■□□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
-| Gondola Owl | <span class="bloop">▤▤□</span> |
-| Calligraphy | <span class="bloop">□□□</span> |
 | Plates | <span class="bloop">■□□</span> |
-| Peristalsis | <span class="bloop">□□□</span> |
 | References | <span class="bloop">▤□□</span> |
+| <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
+| <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
+| <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |
 
 </div>
 
@@ -338,5 +342,6 @@
 | ▤▤□ | well in progress |
 | ▤▤▤ | done |
 | ■⬚⬚ | ready |
+| ⬚⬚⬚ | <span class="later">shelved</span> |
 
 </div>

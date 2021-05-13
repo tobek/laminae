@@ -30,6 +30,9 @@
 	.bloop {
 		font-family: "DejaVuSerif";
 	}
+	.later {
+		opacity: 0.5;
+	}
 
 	table {
 	    max-width: 100%;
@@ -146,5 +149,5 @@
 
 <div class="updates">
 
-|Date      |Hours|Words|LOC|Ready|Done|
+|Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |

@@ -2,5 +2,5 @@
 </div>
 
 <div class="summary">
-| Words | LOC | Ready | Done |
+| Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |

@@ -6,7 +6,8 @@
     + geography
     + how you get there, portals etc. would be weird if author didn't mention, but if author does, does that give the guild hints on where to start?
     + lamina/laminae or laminum/lamina or laminus/lamina or laminon/lamina
-        * ASK: "Hey I'm surveying"
+        * ASK:
+            - Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations of the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
         * laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
         * just hate "la-mi-nay"
         * latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
@@ -488,6 +489,24 @@ might not need elemental planes
 
 ## ◍◍○○ Glossary
 
+- define in glossary file/chapter using reference markup
+- find all for term and then add REF markup
+- process along with references
+
+so far (some need changing, decide/find and replace):
+
+- petitioner
+- outsider (check if used anyway)
+- mortal
+- portal? (gateway?)
+- prime/prime world
+- planar?
+- extraplanar? like 6 mentions in LNC alone
+- plane/lamina
+- places? (cerivalia, soblei)
+- races/creatures? (eladrin, balors, etc)
+- alignment/"force"?
+    + "the force of destruction"
 
 ## ◍○○○ Colophon
 
@@ -526,14 +545,12 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 - go through all the macros
 - remove comments
 
-### handling special terms/index/cross referencing
-
-see link macro
-
 ## ■▤□ Title
 
 - figure out TOC format
     + can you do 3d in a triangular frame like https://en.wikipedia.org/wiki/Holdridge_life_zones?
+- probably change order to all hierarchy first, etc.
+- probably figure out way to build it rather than type it fuckin out
 
 ## ▤□□ Overview
 
@@ -570,7 +587,7 @@ todo:
     + google "baskerville specimen"
     + http://marikoproduct.com/Typography
 - with leise:
-    + ordering of laminae
+    + ordering of laminae by facets
     + fonts
     + hr's
     + h's (h3's look wrong, h4's like in CND language...)
@@ -641,6 +658,16 @@ todo:
     + CEC nausicaa remove person/look at other frames from movie, animated?
 - mood board with all the images? per-lamina mood boards for some? at the bottom
 
+### implementation
+
+following discarded:
+
+    MEDIA(some pic about something)
+
+this gets used (no double quotes allowed):
+
+    MEDIA("pic-name.jpg")
+
 ## □□□ Peristalsis
 
 - any other interactivity? any procedurally generated stuff?
@@ -650,11 +677,32 @@ todo:
 
 ## ▤□□ References
 
-handle translated refs!
+handle translated refs! (what does this mean?)
 
-ref vs. gloss (see in notes.md)
+Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere.
 
-if you click to one on the same page, should it smooth scroll? helpful to not lose your place (unless there's a floating TOC) but doesn't fit the vibe as much, maybe it could be stylized, like extremely sharp ease-in-out (basically instant but slight ease in and slight ease out)
+Should have an optional actual definition string that can be shown in tooltip, and "go to [page title]" link if same page, otherwise "go to text" if on same page?
+
+References themselves just link <a> tags for now (maybe should be <abbrv> or <dl>)
+
+    REF[text](id)
+    REF[The Wilt](CNP)
+    REF[Galabast](galabast)
+    REF[Galabast] # default id is lowercased string TODO not implemented
+    REF[Blighted lovers](CNP#the-lovers)
+    REF[Equilibrium](facets#equilibrium)
+
+process all `<dfn>`s and all headings to find IDs and which pages they're on.
+
+same-page REFs link as normal. if not found, look for page ID transform
+
+ok we need more processing to get full link and hover text
+
+- gloss is just a ref to something in the glossary
+- A-Z index of all of them, each showing chapter as source
+- don't do separate page for each item, each lives somewhere
+- should you be able to hover for quick description? for glossary items definitely yes, maybe heading/dfn can define a summary, or we can pull it out somehow (see dfn spec) and parse those
+- map from ID (in md frontmatter) to filename
 
 floating TOC?
 

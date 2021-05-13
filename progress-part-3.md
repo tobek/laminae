@@ -49,11 +49,11 @@
 | Styles | <span class="bloop">■□□</span> |
 | Author | <span class="bloop">■□□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
-| Gondola Owl | <span class="bloop">▤▤□</span> |
-| Calligraphy | <span class="bloop">□□□</span> |
 | Plates | <span class="bloop">■□□</span> |
-| Peristalsis | <span class="bloop">□□□</span> |
 | References | <span class="bloop">▤□□</span> |
+| <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
+| <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
+| <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |
 
 </div>
 
@@ -81,5 +81,6 @@
 | ▤▤□ | well in progress |
 | ▤▤▤ | done |
 | ■⬚⬚ | ready |
+| ⬚⬚⬚ | <span class="later">shelved</span> |
 
 </div>

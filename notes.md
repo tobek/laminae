@@ -15,63 +15,6 @@
     - for big missing pieces, present stubs as incompletely translated ("editors note: this chapter has not yet been translated, but to our understanding it...")
         - one of them can be like "this is totally incoherent?"
 
-## MEDIA
-
-following discarded:
-
-    MEDIA(some pic about something)
-
-this gets used (no double quotes allowed):
-
-    MEDIA("pic-name.jpg")
-
-## REF
-
-Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere.
-
-References themselves just link to them:
-
-    REF[text](id)
-    REF[The Wilt](CNP)
-    REF[Galabast](galabast)
-    REF[Blighted lovers](CNP#the-lovers)
-
-process all `<dfn>`s and all headings to find IDs and which pages they're on.
-
-same-page REFs link as normal. if not found, look for page ID transform
-
-- glossary vs ref?
-- ideally there's an A-Z index of all of them
-- don't do separate page for each item, each lives somewhere
-- should you be able to hover for quick description? for glossary items definitely yes, maybe heading/dfn can define a summary, or we can pull it out somehow (see dfn spec) and parse those
-
-## GLOSS (terminology)
-
-some way to identify that this can be looked up in glossary
-
-- define in JSON
-- spit out HTML for it
-- find all in source HTML and add tooltip or whatever
-    + default find glossary term name bounded by `\b`, optionally add regex to search for?
-    + does it result in too many highlighted terms? alternate would be to specify with tag what terms should be pulled from glossary (maybe just early mentions should be tagged, like in intro para's)
-
-use `<dfn>`? and `<abbr>`, or just special anchors linking to them. could use `<dl>`
-
-so far (some need changing, decide/find and replace):
-
-- petitioner
-- outsider (check if used anyway)
-- mortal
-- portal? (gateway?)
-- prime/prime world
-- planar?
-- extraplanar? like 6 mentions in LNC alone
-- plane/lamina
-- places? (cerivalia, soblei)
-- races/creatures? (eladrin, balors, etc)
-- alignment/"force"?
-    + "the force of destruction"
-
 ## ____
 
 something that needs filling once figured out
@@ -732,6 +675,7 @@ anagram names:
 
 - fourth world obvs
     - Robert Musci - The advent of rose + Croix, maybe LND? something ominous and formal, maybe it's not stressful enough for LND
+    - Mikael Seifu - How To Save a Life (Vector of Eternity) (stressful, beautiful, intense)
 - mechwarrior (strike on moritz 2)
 - music for programmers
 - https://sixeyedcatabyss.bandcamp.com/album/moss-revelations-landscapes-dreams (good) for CEC maybe and probably others
@@ -768,6 +712,7 @@ anagram names:
         - The Bauble
         - The Binding
         - The Blemish*
+        - The Blink
         - The Blister*
         - The Blot*
         - The Bough*
