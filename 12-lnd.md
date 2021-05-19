@@ -84,7 +84,7 @@ Linked but oppositional to CND? Or rather aligned on some processes but disagree
 
 no one has a picture of the whole thing. you walk into a room and one person will be repeating a phrase and and over again - others will join, will they do it forever? a room is found with a pile of colorful objects and someone will recall a place with an enormous supply of bleaching material and will utilize it to bleach the color of every item - and more colorful objects get dumped through some chute.
 
-no one has been or seen the "outside" of this machine, if it exists. endless rooms. the theory is that it used to be an incredible titanic automaton that walked the planes fulfilling some cosmic function, but that the culture administering to it degraded over time - the automaton now lies in ruins and the inheritors of this system work busily and futilely in search of meaning.
+no one has been or seen the "outside" of this machine, if it exists. endless rooms. the theory is that it used to be an incredible titanic automaton that walked between realms fulfilling some cosmic function, but that the culture administering to it degraded over time - the automaton now lies in ruins and the inheritors of this system work busily and futilely in search of meaning.
 
 -->
 

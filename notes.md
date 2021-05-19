@@ -787,6 +787,7 @@ anagram names:
         - The Nourish
         - The Oval
         - The Pasture*
+        - The Pith*
         - The Presupposition
         - The Procedure
         - The Pulchritude* (beauty)
@@ -965,7 +966,7 @@ alignment
 - <http://easydamus.com/alignment.html>
     - <http://easydamus.com/alignmentreal.html>
 
-# Wizards of the Coast stuff to rip out?
+# Wizards of the Coast stuff to rip out? (copyright)
 
 ## A-OK
 
