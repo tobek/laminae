@@ -6,9 +6,85 @@ id: cosmography
 
 ---
 
-Those of a mind more meticulous than this visitor may wish to begin with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
+Those of a mind more meticulous may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
+
+## Overview
+
+The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the are philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[The Inevitibility](CND) ensures the physical laws of entropy, REF[TODO(artist plane)[the Bauble]](TODO) fuels the imagination of every artist, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
+
+Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:
+
+- *Method*: Hierarchy --- Synthesis --- Autonomy
+- *Motive*: Empathy --- Utility --- Power
+- *Means*: Creation --- Equilibrium --- Dissolution
+
+These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, from mountainous to flatland. Each grouping forms a climate and ecosystem, and you might expect that inhabitants of the cold misty hills may present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
+
+- Hierarchy Empathy Creation
+- Hierarchy Empathy Equilibrium
+- Hierarchy Empathy Dissolution
+- Hierarchy Utility Creation
+- Hierarchy Utility Equilibrium
+- Hierarchy Utility Dissolution
+- Hierarchy Power   Creation
+- Hierarchy Power   Equilibrium
+- Hierarchy Power   Dissolution
+- Synthesis Empathy Creation
+- Synthesis Empathy Equilibrium
+- Synthesis Empathy Dissolution
+- Synthesis Utility Creation
+- Synthesis Utility Equilibrium
+- Synthesis Utility Dissolution
+- Synthesis Power   Creation
+- Synthesis Power   Equilibrium
+- Synthesis Power   Dissolution
+- Autonomy  Empathy Creation
+- Autonomy  Empathy Equilibrium
+- Autonomy  Empathy Dissolution
+- Autonomy  Utility Creation
+- Autonomy  Utility Equilibrium
+- Autonomy  Utility Dissolution
+- Autonomy  Power   Creation
+- Autonomy  Power   Equilibrium
+- Autonomy  Power   Dissolution
+
+## Laminae
+
+The laminae are afterworlds: they are among the destinations that souls, untethered from material concerns, drift towards. The laminae are also however fully tangible realms---while some have outlandish properties, most provide solid ground, breathable air, and recognizable forms---and as such souls gather laminal substance upon arrival, gaining new form with which to carry out an indeterminate existence in pursuit of the shape and ideals of that particular lamina. These re-formed souls are known as petitioners.
+
+Petitioners choose their laminae in the same manner that an object chooses whether to float or sink in water: their nature determines their direction. The notions of merit, punishment, or reward---common to many conceptions of afterworlds, the veracity of which this visitor cannot confirm---are absent in this understanding. The log may not wish to float upon the surface, but there is neither surprise nor blame in finding that it does. Most petitioners see themselves suited to their new homelands, far better suited than they were to wherever they left, and every lamina's nature lends itself to the execution of the consequences of its facets.
+
+And so the laminae are populated, but this is just the start. Each lamina is a wholly self-contained world, with landscape and seasons, ecosystems and cultures, history and purpose. Yet each lamina is also intrinsically linked to the rest of the multiverse: as rainwater rises from the oceans and cold air blows from the east, conceptual and material forces emanate from the laminae in manifold expressions. You have surely encountered individuals possessed of total conviction in a particular logic of being: those who see all social interactions through a lens such as social status or physical dominance, or those who find are entirely driven by an essential motivation such as the desire for communal belonging or creative production. The farmer with the perfect knack for predicting rain, the orator with the gilded tongue, the blind girl with perfect vision, the dance troupe with inhuman coordination---in their own ways they all channel laminal currents without (and occasionally with) their knowledge.
+
+These currents can swell into great movements. As on laminae civilizations rise and fall and transform, each carrying out the essential nature of their lamina in varying ways, great arcs of culture across mortal worlds ebb and flow, resulting in dark ages and revivals, stagnation and revolution.
+
+## Residents
+
+### Petitioners
+
+Petitioners are the re-manifestation of souls that found their way to the lamina that best suited their mortal dispositions, where they attempt to perfect and reshape themselves according to the principles of the lamina. They retain to some extent an idealized character and appearance they had in life, but are varyingly altered to match the nature of their resting place: Precepts of REF[the Lucidity](NND) for instance are all similarly neutral-featured and slight, but Unravellers of REF[the Inevitability](CND) take on fantastical forms of sprites and demons.
+
+No memories follow souls into the laminae (dashing mortal hopes of persistent consciousness after death); some claim glimpses of their former experiences, but these are impossible to judge. Their method of arrival varies from lamina to lamina. On REF[the Inevitability](CND) petitioners appear confused and alone in the wastes of that land until the Procession crashes upon them, while REF[the Concordance](LGP) welcomes its citizens as they traverse the Gossamer Arch that descends from the sky into that land's great metropolis.
+
+Except for in in REF[the Bloom](CEC), petitioners appear as adults, and all the cycles and necessities of mortal life are superfluous. Some may eat or drink or make love, but to little material effect. They are not immortal ,but generally persist for long timespans before gradually or suddenly, due to fading relevance or injury, disperse into the background substance of their lamina. In the interim, petitioners inhabit their worlds in ways as varied as mortals do, from the solitary life of a wild nomad to the structured citizenry of a military corps, depending on the nature of the plane and their role within it.
+
+### Mortals
+
+Mortals are those that, for the most part, live out their short lives of joy, struggle, and complexity on the cardinal worlds of the multiverse. These are sometimes referred to as "temporals" by petitioners, for their understandable preoccupation with the passage of time. There is additionally no small number of mortals who reside on the laminae, either as visitors or as native descendants of mortals who established permanent homes there. These are known as laminal mortals, in contrast to cardinal mortals that for the most part remain oblivious to the laminae. Many laminal mortals align their philosophy and purpose with that of their chosen lamina in the same way petitioners do, sometimes working alongside them, while some mortals reside on laminae for their own purposes that may be unrelated to even contrary to those of that realm.
+
+### Laminals
+
+There are presences on the laminae that are neither mortals nor the transformed souls of mortals, but instead seem to be native beings born from the material of the lamina itself. These are known as laminals, and nothing can be said to be common to them all. They range from the huge and silently elegant REF[wind shifters](LNC#wind-shifters) that roam the REF[the Unfolding](LNC), to the TODO(made up)[] oracular Looms that guide petitioners on REF[The Reticulum](TODO), and have varying relationships with petitioners and mortal worlds.
+
+## Navigation
+
+
+
+
 
 ordial plane
+
+Unencumbered by their corporeal forms, the barrier of the Ordial Plane becomes immaterial
 
 Outside the ring of outer planes lies these ones, and creation lies in a ring below the outer planes, and destruction lies above. For example, past the plane of Mechanus lies the plane of TODO, that of Lawful Neutral Preservation, and above and below it its destructive and creative partners.
 
@@ -16,16 +92,7 @@ Maybe you can reach with some special way of traversing the Hinterlands (http://
 
 Like other planes, there are a mix of residents:
 
-- The majority are *petitioners* - souls of dead mortals who in life matched the alignment of the plane and now reside there indefinitely, attempting to perfect and reshape themselves according to the principles of the plane. If killed in their home plane, their energy disperses to join the plane. If killed elsewhere, their energy disperses into nothingness. Petitioners tend to look like they did in life, though often are influenced by their new residence, sometimes drastically. They no longer have memories of their mortal lives, except for rare glimpses, but their personalities and mannerisms remain. Most mortals end up on the Outer Planes after death, but those sufficiently attuned to Creation, Preservation, or Destruction will find themselves here. Petitioners inhabit their new homes in ways as varied as mortals do, ranging from solitary existences to rigid hierarchical civilizations, depending on the nature of the plane and their role within it.
-	- notes, may be redundant, but supercede above:
-		+ they work on appropriate projects, seek union/perfection with the alignment of plane
-		+ may look like what they used to, at the age and form they most preferred in their life, sometimes somewhat idealized, and with same personalities and mannerisms and maybe interests, but often re-formed to suit
-		+ no memories, maybe flashes
-		+ eventually fade and merge with plane, if killed that happens
-		+ with exceptions, extremely hesitant to leave their plane, both emotionally and because they are weaker and can be killed and soul lost
-	- examples: https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
 - Some inhabitants are *outsiders* - beings formed at least partially of the essence of these planes^[Of course, from the perspective of their home plane they would be better termed *insiders*, but we mortals have arrived at the term *outsiders* as a result of our rare collective experiences with these metaphysical lifeforms visiting us on the material planes.]. @TODO/term ("outsider" is not great here since they'll basically only be referenced in their plane... more like immortal metaphysical spirits, come up with a name. see "native outsiders" in LGD - maybe call them planars) These are not normal races like humans and elves TODO(are we doing that)[], but are other creatures usually more alien or monstrous in form. They are often unique to their plane and reflect its nature physically and spiritually. Unless killed by exotic means, outsiders who are slain tend to re-form on their home plane. They are often more powerful and influential than petitioners. Some may live among petitioners and play a role in planar society, while some may just happen to share the realm but form their own groupings or roam as flora and fauna in native ecologies.
-- Lastly, and usually in the minority in these realms, are *mortals*. These are regular living beings who one way or another ended up visiting or even finding a home on that plane. Planes are often not very hospitable to mortals, but some make their way regardless. Mortals who are from the Prime Material Planes (the "regular" worlds) are known as *primes*, while *planars* are mortals born on the plane. Mortals residing on the planes may be peasants or workers or may be unfathomably powerful or anything in between, and some live on the plane to aid the plane and align themselves in the way petitioners do, while some are there for their own purposes that may be unrelated to or contrary to the plane.
 - Of course, other beings make their way around the multiverse too: the undead, elementals, animated constructs, petitioners and outsiders from other realms, deities, etc., any of whom may be visitors or residents of these planes for a number of reasons.
 
 As an afterlife, it's not punishments - assignments. Dead mortals go to the plane that most represents their ideals and approach in life, and once there, they (aim to) perfect it. everybody wins!

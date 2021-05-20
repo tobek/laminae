@@ -128,7 +128,7 @@ see Template
         * note that wiki doesn't link the "the" in "the Netherlands"
     + prime? so far yes for both Prime planes and Primes as being, Prime-wards, etc.
 
-## Meta
+## Grammatical person
 
 - annals
     - 1st person from annals of the parrigues - no "I" ever?:

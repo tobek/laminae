@@ -151,6 +151,7 @@
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-05-19|3.25|39318|1058|30%|35%|13|80|53|27|
 |2021-05-18|2   |38420|1058|30%|35%|13|79|53|26|
 |2021-05-13|1.5 |39783|1058|30%|35%|13|79|53|26|
 |2021-05-12|1.25|41226|1056|30%|35%|13|80|53|27|
@@ -260,7 +261,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 38,420 | 1,058 | 13/42 | 79/224 |
+| 39,318 | 1,058 | 13/42 | 80/224 |
 </div>
 
 <div class="progress-wrap">
@@ -295,7 +296,7 @@
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">◍○○○</span> |
 | Facets | <span class="bloop">◍◍○○</span> |
-| Cosmography&nbsp; | <span class="bloop">◍◍○○</span> |
+| Cosmography&nbsp; | <span class="bloop">◍◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
 | Glossary | <span class="bloop">◍◍○○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |

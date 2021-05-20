@@ -32,7 +32,7 @@
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">◍○○○</span> |
 | Facets | <span class="bloop">◍◍○○</span> |
-| Cosmography&nbsp; | <span class="bloop">◍◍○○</span> |
+| Cosmography&nbsp; | <span class="bloop">◍◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
 | Glossary | <span class="bloop">◍◍○○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |

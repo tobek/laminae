@@ -2,16 +2,6 @@
 
 - facets
 - cosmography
-    + afterlife
-    + geography
-    + how you get there, portals etc. would be weird if author didn't mention, but if author does, does that give the guild hints on where to start?
-    + lamina/laminae or laminum/lamina or laminus/lamina or laminon/lamina
-        * ASK:
-            - Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations of the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
-        * laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
-        * just hate "la-mi-nay"
-        * latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
-            - https://www.dailywritingtips.com/latin-plural-endings/
 - setting
     + part of our world? tenuously, compatible
     + is there any benefit to using fantasy races? elves etc. maybe not.
@@ -28,6 +18,13 @@
 
 # misc before launch
 
+- lamina
+    + ASK:
+        * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
+    + laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
+    + just hate "la-mi-nay"
+    + latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
+        * https://www.dailywritingtips.com/latin-plural-endings/
 - twitter?
     + thread header: brief description and the alignments
     + backdating some already-completed chapters
@@ -75,17 +72,13 @@ decided = 2, written = 3, revised = 4
 
 "*how to allocate power and to what ends it should be used*" - "(1) goals: how society should be organized; and (2) methods: the most appropriate way to achieve this goal."
 
-    + realism
-    + harmony
-    + synthesis*
-    + balance
-    + solidarity
-    + consensus
-    + union
+method
+motive
+means
 
-hierarchy (synthesis) autonomy - how to organize
-empathy (utility) ambition - what to organize for - value system
-creation (preservation) destruction/dissipation/dissolution
+hierarchy (synthesis) autonomy - how to organize, allocate power
+empathy (utility) power - what to organize for, value system, how to determine what is an acceptable means
+creation (preservation) dissolution - the means
 
 - change from D&D alignments
     + noun vs adj
@@ -346,25 +339,36 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 - (labeled) glyph square on trinym hover?
 - glyphs on title page? maye ၜ for "overview of the laminae"
 
-## ◍◍○○ Cosmography
+## ◍◍◍○ Cosmography
 
 decided = 3, written = 4.
 
 contents:
 
 - what's the ordial plane?
-- what are the laminae (e.g. afterlives, who is there, etc.)
-- how is it all laid out (diagram is relevant here)
-- basic mechanics: transport, etc
+    + my answer: it's the imagination
+    + approach: vague or particular
+    + don't talk about it as if it's a big deal
+    + many names, the plane of essence, the plane of proof, the plane of transit
+    + it separates our everyday reality from the laminae the way the passage of time separates a puzzle from the solution to that puzzle that spontaneously enters your head later
+    + experts report that once one has lifted the shroud of the ordial plane and seen reality refracted and folded in the laminae overlying every spot, something clicks and one gains an eye for where to ford the Ordial into a particular lamina.
+    + this visitor has not successfully cultivated this skill and so relies on apertures
+    + what IS the ordial itself? it is a barrier, a skin---perhaps the laminae and the ____[prime] are completely contiugous, and the Ordial is just a turn of phrase to describe the shape of the connection between the two.
+- basic mechanics: transport (between, and to/from), etc
 - terminology
-- facets (brief summary)
 
-afterlife thing, geography, relation to our world: BRAINSTORM
+- major q's
+    + afterlife?
+    + geography
+    + relation to our world
+        * you have surely met those that are driven by one of these principles, embodying it in everything they do. unknown to them they're channeling this stuff
+    + how you get there, portals etc. would be weird if author didn't mention, but if author does, does that give the guild hints on where to start?
+        * can just talk about apertures but not mention where?
 
 ### general stuff
 
 - general setup of afterlife/petitioners, is that helpful or should these just be places?
-- geographic layout - none for now
+- geographic layout - none for now. they're just layers overlapping each other
 - ordial plane is boundary/connection between these planes and normal ones
     + https://www.reddit.com/r/DnDBehindTheScreen/comments/6qd9e6/the_ordial_plane_the_plane_of_proof/
     + maybe no discussion of ordial plane, like "everyone knows what that is"
@@ -372,13 +376,15 @@ afterlife thing, geography, relation to our world: BRAINSTORM
 
 ### terms
 
-- name for this all?
-    - three-fold realms
-    - tri-form realms
-    - trimorphic
-    - trimurti
-    - the twenty-seven lamina
-- which word: realms or planes? (then find/replace realm/plane/planar)
+- find/replace
+    + realm/plane/planar - ?
+    + portal/gate
+    + prime
+    + outsider
+    + probably search world and realm and mortal to make sure they make sense
+- name for this all? the twenty-seven lamina(e)
+- LAMINA
+    - lamina/laminae or laminum/lamina or laminus/lamina or laminon/lamina
     - example sentences
         + Observations on the Twenty-Seven ____
         + Overview of the ____
@@ -389,33 +395,28 @@ afterlife thing, geography, relation to our world: BRAINSTORM
         + this results in a large foreign contingent on the ____
         + Scholarly Unravellers will assert that this ____ is responsible for the passage of time itself
         + relating only that they rarely venture out from this ____ but, when they do, it's rather exciting
-    - ok
-        + facet
-        + lamina (a thin layer, plate, or scale of sedimentary rock, organic tissue, or other material.)
-            * laminus/lamina
-            * lamina/laminae
-        + eh
-            * membrane
-            * scape
-            * lamella (a thin layer, membrane, or plate of tissue, especially in bone)
-            * strata
-            * sheath
-            * manifold
-    - search for "plane" to change all - maybe some replace with realm name
-    - elemental planes use this, or "plane"? prime plane?
-- finalize and replace "portal"
-- word for non-lamina (prime) planes (rename, search "prime")
-    + name for "primes": mortal?
+    - no
+        + facet (for alignments)
+        + membrane
+        + scape
+        + lamella (a thin layer, membrane, or plate of tissue, especially in bone)
+        + strata
+        + sheath
+        + manifold
+- apertures
+- "plane" - use anywhere other than Ordial Plane? no - use realm, world, land, domain
+- word for non-lamina
+    + mortal worlds/lands/realms
+    + extralaminar
+    + cardinal?
 - denizens
-    + figure out `petitioner`
-        * replace with another word?
-        * do they eat? i guess yes but just for fun, they're otherwise sustained by energies of the blah blah
-        * (how) do they die? generally no, but they can sort of fade, and can be absorbed by the plane eventually
-        * do they age? maybe: it varies but usually no, they appear as an age that suits them, but there are no children generally
-        * sex? yes probably
-    + "outsiders" (maybe used)/insiders - beings of the lamina. laminars?
-        * LNC windshifters. none on CGP? CEC plants?
-    + mortals/primes on planes: primes, mortal, outsider. "planar" (maybe used): mortals on the planes
+    + petitioner (aka souls)
+    + mortals AKA temporals
+        * two types:
+            - cardinals/outsiders
+            - born and bred here, immigrants?
+    + laminals
+        * LNC windshifters, LGD bookkeepers, others
 
 ### geography brainstorm
 
@@ -499,7 +500,7 @@ might not need elemental planes - no prob not
 ## ◍◍○○ Glossary
 
 - define in glossary file/chapter using reference markup
-- find all for term and then add REF markup
+- find all for term and then add REF markup - maybe only first per chapter (or section?)
 - process along with references
 
 so far (some need changing, decide/find and replace):
@@ -705,9 +706,12 @@ References themselves just link <a> tags for now (maybe should be <abbrv> or <dl
 
     REF[text](id)
     REF[The Wilt](CNP)
+    REF[____[the Concordance]](LGP)
+    REF[TODO(artist plane)[the Bauble]](NEC)
     REF[Galabast](galabast)
     REF[Galabast] # default id is lowercased string TODO not implemented
     REF[Blighted lovers](CNP#the-lovers)
+    REF[wind shifters](LNC#wind-shifters)
     REF[Equilibrium](facets#equilibrium)
 
 process all `<dfn>`s and all headings to find IDs and which pages they're on.
