@@ -1,4 +1,4 @@
-# Cosmography SKIP
+# Cosmography
 
 ---
 in_progress: True
@@ -6,19 +6,23 @@ id: cosmography
 
 ---
 
-Those of a mind more meticulous may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
+<!--
+	TODO actually add the glyphs
+-->
+
+Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
 
 ## Overview
 
 The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the are philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[The Inevitibility](CND) ensures the physical laws of entropy, REF[TODO(artist plane)[the Bauble]](TODO) fuels the imagination of every artist, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
 
-Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:
+Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each.*]:
 
-- *Method*: Hierarchy --- Synthesis --- Autonomy
-- *Motive*: Empathy --- Utility --- Power
-- *Means*: Creation --- Equilibrium --- Dissolution
+- *Method*: &nbsp;Hierarchy --- Synthesis --- Autonomy
+- *Motive*: &nbsp;Empathy --- Utility --- Power
+- *Means*: &nbsp;Creation --- Equilibrium --- Dissolution
 
-These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, from mountainous to flatland. Each grouping forms a climate and ecosystem, and you might expect that inhabitants of the cold misty hills may present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
+These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
 
 - Hierarchy Empathy Creation
 - Hierarchy Empathy Equilibrium
@@ -54,7 +58,7 @@ The laminae are afterworlds: they are among the destinations that souls, untethe
 
 Petitioners choose their laminae in the same manner that an object chooses whether to float or sink in water: their nature determines their direction. The notions of merit, punishment, or reward---common to many conceptions of afterworlds, the veracity of which this visitor cannot confirm---are absent in this understanding. The log may not wish to float upon the surface, but there is neither surprise nor blame in finding that it does. Most petitioners see themselves suited to their new homelands, far better suited than they were to wherever they left, and every lamina's nature lends itself to the execution of the consequences of its facets.
 
-And so the laminae are populated, but this is just the start. Each lamina is a wholly self-contained world, with landscape and seasons, ecosystems and cultures, history and purpose. Yet each lamina is also intrinsically linked to the rest of the multiverse: as rainwater rises from the oceans and cold air blows from the east, conceptual and material forces emanate from the laminae in manifold expressions. You have surely encountered individuals possessed of total conviction in a particular logic of being: those who see all social interactions through a lens such as social status or physical dominance, or those who find are entirely driven by an essential motivation such as the desire for communal belonging or creative production. The farmer with the perfect knack for predicting rain, the orator with the gilded tongue, the blind girl with perfect vision, the dance troupe with inhuman coordination---in their own ways they all channel laminal currents without (and occasionally with) their knowledge.
+And so the laminae are populated, but this is just the start. Each lamina is a wholly self-contained world, with landscape and seasons, ecosystems and cultures, history and purpose. Yet each lamina is also intrinsically linked to the rest of the multiverse: as rainwater rises from the oceans and cold air blows from the east, conceptual and material forces emanate from the laminae in manifold expressions. You have surely encountered individuals possessed of total conviction in a particular logic of being: those who see all social interactions through a lens such as social status or physical dominance, or those who find are entirely driven by an essential motivation such as the desire for communal belonging, creative production, or exhaustive categorization of their environment. The farmer with the perfect knack for predicting rain, the orator with the gilded tongue, the blind girl with perfect vision, the dance troupe with inhuman coordination---in their own ways they all channel laminal currents without (and occasionally with) their knowledge.
 
 These currents can swell into great movements. As on laminae civilizations rise and fall and transform, each carrying out the essential nature of their lamina in varying ways, great arcs of culture across mortal worlds ebb and flow, resulting in dark ages and revivals, stagnation and revolution.
 
@@ -64,7 +68,7 @@ These currents can swell into great movements. As on laminae civilizations rise 
 
 Petitioners are the re-manifestation of souls that found their way to the lamina that best suited their mortal dispositions, where they attempt to perfect and reshape themselves according to the principles of the lamina. They retain to some extent an idealized character and appearance they had in life, but are varyingly altered to match the nature of their resting place: Precepts of REF[the Lucidity](NND) for instance are all similarly neutral-featured and slight, but Unravellers of REF[the Inevitability](CND) take on fantastical forms of sprites and demons.
 
-No memories follow souls into the laminae (dashing mortal hopes of persistent consciousness after death); some claim glimpses of their former experiences, but these are impossible to judge. Their method of arrival varies from lamina to lamina. On REF[the Inevitability](CND) petitioners appear confused and alone in the wastes of that land until the Procession crashes upon them, while REF[the Concordance](LGP) welcomes its citizens as they traverse the Gossamer Arch that descends from the sky into that land's great metropolis.
+No memories follow souls into the laminae (dashing mortal hopes of persistent consciousness after death); some claim glimpses of their former experiences, but these are impossible to judge. Their method of arrival varies from lamina to lamina. On REF[the Inevitability](CND) petitioners appear confused and alone in its grey wastes until the Procession crashes upon them, while REF[the Concordance](LGP) welcomes its citizens as they traverse the Gossamer Arch that descends from the sky into that land's great metropolis.
 
 Except for in in REF[the Bloom](CEC), petitioners appear as adults, and all the cycles and necessities of mortal life are superfluous. Some may eat or drink or make love, but to little material effect. They are not immortal ,but generally persist for long timespans before gradually or suddenly, due to fading relevance or injury, disperse into the background substance of their lamina. In the interim, petitioners inhabit their worlds in ways as varied as mortals do, from the solitary life of a wild nomad to the structured citizenry of a military corps, depending on the nature of the plane and their role within it.
 
@@ -74,43 +78,16 @@ Mortals are those that, for the most part, live out their short lives of joy, st
 
 ### Laminals
 
-There are presences on the laminae that are neither mortals nor the transformed souls of mortals, but instead seem to be native beings born from the material of the lamina itself. These are known as laminals, and nothing can be said to be common to them all. They range from the huge and silently elegant REF[wind shifters](LNC#wind-shifters) that roam the REF[the Unfolding](LNC), to the TODO(made up)[] oracular Looms that guide petitioners on REF[The Reticulum](TODO), and have varying relationships with petitioners and mortal worlds.
+There are presences on the laminae that are neither mortals nor the transformed souls of mortals, but instead seem to be native beings born from the material of the lamina itself. These are known as laminals, and nothing can be said to be common to them all. They range from the huge and silently elegant REF[wind shifters](LNC#wind-shifters) that roam the REF[the Unfolding](LNC), to the TODO(made up)[] oracular Looms that guide petitioners on REF[The Reticulum](TODO), and have varying relationships with petitioners and mortal worlds: some live among petitioners and play a role in their societies, while others merely share the realm but form their own groups or roam as flora and fauna in native ecologies.
 
 ## Navigation
 
+Various elegant cartographies have been proposed for the twenty-seven laminae, but this visitor has found little to support them. The analytical arrangement used in this work is convenient for comprehension, but it is best to think of each lamina as coterminous with each other lamina and all of reality, but varying in presence and strength like an uneven blanket of rain and snow.
 
-
-
-
-ordial plane
+ordial plane of course separates
 
 Unencumbered by their corporeal forms, the barrier of the Ordial Plane becomes immaterial
 
-Outside the ring of outer planes lies these ones, and creation lies in a ring below the outer planes, and destruction lies above. For example, past the plane of Mechanus lies the plane of TODO, that of Lawful Neutral Preservation, and above and below it its destructive and creative partners.
-
-Maybe you can reach with some special way of traversing the Hinterlands (http://www.rilmani.org/timaresh/Hinterlands)
-
-Like other planes, there are a mix of residents:
-
-- Some inhabitants are *outsiders* - beings formed at least partially of the essence of these planes^[Of course, from the perspective of their home plane they would be better termed *insiders*, but we mortals have arrived at the term *outsiders* as a result of our rare collective experiences with these metaphysical lifeforms visiting us on the material planes.]. @TODO/term ("outsider" is not great here since they'll basically only be referenced in their plane... more like immortal metaphysical spirits, come up with a name. see "native outsiders" in LGD - maybe call them planars) These are not normal races like humans and elves TODO(are we doing that)[], but are other creatures usually more alien or monstrous in form. They are often unique to their plane and reflect its nature physically and spiritually. Unless killed by exotic means, outsiders who are slain tend to re-form on their home plane. They are often more powerful and influential than petitioners. Some may live among petitioners and play a role in planar society, while some may just happen to share the realm but form their own groupings or roam as flora and fauna in native ecologies.
-- Of course, other beings make their way around the multiverse too: the undead, elementals, animated constructs, petitioners and outsiders from other realms, deities, etc., any of whom may be visitors or residents of these planes for a number of reasons.
-
-As an afterlife, it's not punishments - assignments. Dead mortals go to the plane that most represents their ideals and approach in life, and once there, they (aim to) perfect it. everybody wins!
-
-Residents of these realms/planes are not
-
-Unlike Outer Planes, no deities rule? Minor deities? What are inner planes like regarding this? Some inner force instead of deities providse everything.
-
-Centrally located below and above the Outlands, respectively, lie the Abysm of Destruction and the Fount of Creation - endless, churning voidsBLAH. Metaphysicists believe that a constant geyser of energy rises from the plane of pure creation, through the Spire on which Sigil rests, towards the plane of pure destruction, located far above, where it incinerated. The source and destination of this energy, from a conservation of energy standpoint, is completely unknown, as the energy destroyed does not seem to recycle back into the Fount of Creation.
-
-Whether or not there is a plane of preservation is unknown. Some believe the Outlands themselves serve as this, or somehow the prime material plan, or the Spire. More esoteric theories posit that the city of Sigil, or even the Lady of Pain herself, serve as the "plane" of preservation - as a conduit and balance between creation and destruction, as a steadying force preserving the balance of the rest of the planes.
-
-Does time pass normally in the outer outer planes? Or does it v
-
-***
-# Transport
-
-TODO
 
 ## apertures
 
@@ -141,17 +118,7 @@ a shimmer and a distortion, gut-jerking slide down a hole you couldn't see, a ki
 - "token of recall" takes you to a particular place on particular plane
 -->
 
-# Other Realms
-
-## The Elemental Planes
-
-TODO
-
-a complex and everchanging system of elemental forces such as TODO(look up alternate elemental systems), of which arbitrary poles such as Fire, Water, Earth, and Air are often identified, but no one force can be said to be more fundamental than any of the others.
-
-these are not the subject of the present work
-
-## TODO(name of sigil replacement)[Soblei]
+## Soblei
 
 Soblei is at once one of the most important and one of the most cursed places in the multiverse. The first thing you will hear about Soblei is that it is full of portals to the nearest and farthest reaches of reality---that is of course what makes it important. But it is a wretched place. It appears to be a wild metropolis the spectacular destruction of which was averted moments too late and then frozen in a suspended apocalypse. A blinding white light suffuses the sky, flattening everything in muted shades of gray and casting sharp, jet black shadows downwards. Geysers of rubble hang in the air and light blasts through the fissures that cleave every structure. There is a constant, howling, frigid wind, though only visitors seem to suffer it; all the matter of the city---torn awnings and splintered wagons and shards of glass---are unyielding, unaffected, even when the winds rise to hurricane force.
 

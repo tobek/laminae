@@ -2,6 +2,7 @@
 
 <!--
 
+- ahh what if LGD is The Bell and those guys are called Bellkeepers. this could be The Keyhole
 - birds' eye what to communicate
 	+ wholesome PLYGRNDish?
 	+ the pursuit of lasting insight that helps you be a) "better" and b) who you want to be
