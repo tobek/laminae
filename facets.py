@@ -21,7 +21,8 @@ facets = [
 for a in facets[0]:
 	for b in facets[1]:
 		for c in facets[2]:
-			print(a["name"], b["name"], c["name"])
+			# print(a["name"], b["name"], c["name"])
+			print(a["name"], a["glyph"], b["name"], b["glyph"], c["name"], c["glyph"])
 
 print()
 

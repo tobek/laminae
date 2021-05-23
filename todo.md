@@ -66,6 +66,149 @@
 
 you should be intrigued on the first read, and if you read it again after reading the whole work it should be really powerful
 
+## ●◍◍○ Cosmography
+
+decided = 3, written = 4.
+
+contents:
+
+- what's the ordial plane?
+    + my answer: it's the imagination
+    + don't talk about it as if it's a big deal
+- basic mechanics: transport (between, and to/from), etc
+- terminology
+
+- major q's
+    + afterlife?
+    + geography
+    + relation to our world
+    + how you get there, portals etc. would be weird if author didn't mention, but if author does, does that give the guild hints on where to start?
+        * can just talk about apertures but not mention where?
+
+### general stuff
+
+- general setup of afterlife/petitioners, is that helpful or should these just be places?
+- geographic layout - none for now. they're just layers overlapping each other
+- ordial plane is boundary/connection between these planes and normal ones
+    + https://www.reddit.com/r/DnDBehindTheScreen/comments/6qd9e6/the_ordial_plane_the_plane_of_proof/
+    + maybe no discussion of ordial plane, like "everyone knows what that is"
+- no gods. they find the alignments of the realm too overpowering and opinionated - the greatest power on each plane is the alignment. of course, demigods and powerful beings are around, but too powerful and they leave. maybe each plane has a core/heart/nexus that matches alignment? all in very different forms - landscape, artifact, building, being (maybe the collective), furniture, work of art. maybe that's where shunts are?
+
+### terms
+
+- find/replace
+    + realm/plane/planar - ?
+    + portal/gate
+    + prime
+    + outsider
+    + probably search world and realm and mortal to make sure they make sense
+- name for this all? the twenty-seven lamina(e)
+- LAMINA
+    - lamina/laminae or laminum/lamina or laminus/lamina or laminon/lamina
+    - example sentences
+        + Observations on the Twenty-Seven ____
+        + Overview of the ____
+        + For every instant in time, this ____ contains one complete copy of reality...
+        + Training foreign teams visiting from outside the ____
+        + Axial is regarded as the "center" of the ____---inasmuch as an infinite ocean can have a center
+        + more hospitable to visitors than many ____s
+        + this results in a large foreign contingent on the ____
+        + Scholarly Unravellers will assert that this ____ is responsible for the passage of time itself
+        + relating only that they rarely venture out from this ____ but, when they do, it's rather exciting
+    - no
+        + facet (for alignments)
+        + membrane
+        + scape
+        + lamella (a thin layer, membrane, or plate of tissue, especially in bone)
+        + strata
+        + sheath
+        + manifold
+- apertures
+- "plane" - use anywhere other than Ordial Plane? no - use realm, world, land, domain
+- word for non-lamina
+    + mortal worlds/lands/realms
+    + extralaminar
+    + cardinal?
+- denizens
+    + petitioner (aka souls)
+    + mortals AKA temporals
+        * two types:
+            - cardinals/outsiders
+            - born and bred here, immigrants?
+    + laminals
+        * LNC windshifters, LGD bookkeepers, others
+
+### geography brainstorm
+
+goals:
+
+- easy to grok and imagine
+    + easy to grok and imagine relationships/alignment layout
+    + and also their cosmic place in reality
+- "cool", "wow", "huh"
+- as few fudges as possible - and fudges should be clean
+
+i think i'm drawn towards no contiguous geography cause that's what i started with and it's easier?
+
+corners (3 extremes) have 3 borders, edges (2 extremes) have 4 borders, face centers (1 extreme) have 5
+
+can you walk from heaven to hell? no. but like river styx leads to hades - maybe instead of portals there are like passageways and tunnels, or some places do have borderlands?
+
+the gate surface tension thing - does that really matter? none of these planes yet are TOTALLY hostile
+
+might not need elemental planes - no prob not
+
+**contiguous geography pros**
+
+- no need for gates
+    + but still need gates to GET there, unless it's all petitioners (which it's not)
+- potentially cool big landscape
+- easier to grok?
+- potentially cool border lands
+    + LNC - LNP, NNC, LGC, LEC - all cool
+    + CNP - CND, CNC, ~NNP~, CGP, CEP
+    + CEC - CEP, NEP, CNC
+- potentially cool relationships, especially between C, P, and D versions of same alignment
+- cool mountain peaks for C planes and abyss drop-offs for D planes
+    + LNC glass ocean i guess flows from NNC into some huge plateau or else it must travel maybe a river through LNP and maybe LND
+    + LGD pavilions could be cliff-edge
+    + CND could drop through
+    + LEC could have panopticons from their peaks (could do this anyway but magically)
+
+**contiguous geography cons**
+
+- is it less... pure? it's more normal
+- borders = more stuff to write/figure out
+- none of the P or D planes with any N can get to NNP or NND unless some weird underground thing
+    + that's okay, they're weird planes
+- some hard border lands?
+    + went through all, no dealbreakers
+    + NND is fine, NNP i guess also
+    + LNC surrounded by ocean
+        * architects transit across?
+        * flat platuea?
+    + some (only LNP so far? maybe CNC, maybe LEC) don't have ground sky - it's all ground
+        * CNC and LEC could both be underground
+    + the crevasse - could just be a wall or mountain range around the whole thing, OR there is actually a top
+        * the wall could be a D plane, no "other side" stuff
+    + CEC is flat too? guess it could be a gentle slope
+    + other possible as-yet-unused challenges: space habitat, underwater
+- where do the absolute planes go?
+    + could get rid of them, just discussing the "pure" force
+    + the nautilus and outpost could be in places like CNC where the fabric is thin
+
+**discontinuous geography pros**
+
+- don't have to figure out borders
+- clean?
+- i like the idea that every prime plane is potentially connected to all 27, that they're all kind of layered over all reality, that they are everywhere and nowhere, which doesn't fit as well with the contiguous landscape
+- doesn't *have* to be a place. these are like physical forces
+
+**discontinuous geography cons**
+
+- have to have portals or something
+- easy to grok concept (with 3d cube) but maybe harder to grok... layout
+
 ## ◍◍○○ Facets
 
 decided = 2, written = 3, revised = 4
@@ -338,156 +481,6 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 
 - (labeled) glyph square on trinym hover?
 - glyphs on title page? maye ၜ for "overview of the laminae"
-
-## ◍◍◍○ Cosmography
-
-decided = 3, written = 4.
-
-contents:
-
-- what's the ordial plane?
-    + my answer: it's the imagination
-    + approach: vague or particular
-    + don't talk about it as if it's a big deal
-    + many names, the plane of essence, the plane of proof, the plane of transit
-    + it separates our everyday reality from the laminae the way the passage of time separates a puzzle from the solution to that puzzle that spontaneously enters your head later
-    + experts report that once one has lifted the shroud of the ordial plane and seen reality refracted and folded in the laminae overlying every spot, something clicks and one gains an eye for where to ford the Ordial into a particular lamina.
-    + this visitor has not successfully cultivated this skill and so relies on apertures
-    + what IS the ordial itself? it is a barrier, a skin---perhaps the laminae and the ____[prime] are completely contiugous, and the Ordial is just a turn of phrase to describe the shape of the connection between the two.
-- basic mechanics: transport (between, and to/from), etc
-- terminology
-
-- major q's
-    + afterlife?
-    + geography
-    + relation to our world
-        * you have surely met those that are driven by one of these principles, embodying it in everything they do. unknown to them they're channeling this stuff
-    + how you get there, portals etc. would be weird if author didn't mention, but if author does, does that give the guild hints on where to start?
-        * can just talk about apertures but not mention where?
-
-### general stuff
-
-- general setup of afterlife/petitioners, is that helpful or should these just be places?
-- geographic layout - none for now. they're just layers overlapping each other
-- ordial plane is boundary/connection between these planes and normal ones
-    + https://www.reddit.com/r/DnDBehindTheScreen/comments/6qd9e6/the_ordial_plane_the_plane_of_proof/
-    + maybe no discussion of ordial plane, like "everyone knows what that is"
-- no gods. they find the alignments of the realm too overpowering and opinionated - the greatest power on each plane is the alignment. of course, demigods and powerful beings are around, but too powerful and they leave. maybe each plane has a core/heart/nexus that matches alignment? all in very different forms - landscape, artifact, building, being (maybe the collective), furniture, work of art. maybe that's where shunts are?
-
-### terms
-
-- find/replace
-    + realm/plane/planar - ?
-    + portal/gate
-    + prime
-    + outsider
-    + probably search world and realm and mortal to make sure they make sense
-- name for this all? the twenty-seven lamina(e)
-- LAMINA
-    - lamina/laminae or laminum/lamina or laminus/lamina or laminon/lamina
-    - example sentences
-        + Observations on the Twenty-Seven ____
-        + Overview of the ____
-        + For every instant in time, this ____ contains one complete copy of reality...
-        + Training foreign teams visiting from outside the ____
-        + Axial is regarded as the "center" of the ____---inasmuch as an infinite ocean can have a center
-        + more hospitable to visitors than many ____s
-        + this results in a large foreign contingent on the ____
-        + Scholarly Unravellers will assert that this ____ is responsible for the passage of time itself
-        + relating only that they rarely venture out from this ____ but, when they do, it's rather exciting
-    - no
-        + facet (for alignments)
-        + membrane
-        + scape
-        + lamella (a thin layer, membrane, or plate of tissue, especially in bone)
-        + strata
-        + sheath
-        + manifold
-- apertures
-- "plane" - use anywhere other than Ordial Plane? no - use realm, world, land, domain
-- word for non-lamina
-    + mortal worlds/lands/realms
-    + extralaminar
-    + cardinal?
-- denizens
-    + petitioner (aka souls)
-    + mortals AKA temporals
-        * two types:
-            - cardinals/outsiders
-            - born and bred here, immigrants?
-    + laminals
-        * LNC windshifters, LGD bookkeepers, others
-
-### geography brainstorm
-
-goals:
-
-- easy to grok and imagine
-    + easy to grok and imagine relationships/alignment layout
-    + and also their cosmic place in reality
-- "cool", "wow", "huh"
-- as few fudges as possible - and fudges should be clean
-
-i think i'm drawn towards no contiguous geography cause that's what i started with and it's easier?
-
-corners (3 extremes) have 3 borders, edges (2 extremes) have 4 borders, face centers (1 extreme) have 5
-
-can you walk from heaven to hell? no. but like river styx leads to hades - maybe instead of portals there are like passageways and tunnels, or some places do have borderlands?
-
-the gate surface tension thing - does that really matter? none of these planes yet are TOTALLY hostile
-
-might not need elemental planes - no prob not
-
-**contiguous geography pros**
-
-- no need for gates
-    + but still need gates to GET there, unless it's all petitioners (which it's not)
-- potentially cool big landscape
-- easier to grok?
-- potentially cool border lands
-    + LNC - LNP, NNC, LGC, LEC - all cool
-    + CNP - CND, CNC, ~NNP~, CGP, CEP
-    + CEC - CEP, NEP, CNC
-- potentially cool relationships, especially between C, P, and D versions of same alignment
-- cool mountain peaks for C planes and abyss drop-offs for D planes
-    + LNC glass ocean i guess flows from NNC into some huge plateau or else it must travel maybe a river through LNP and maybe LND
-    + LGD pavilions could be cliff-edge
-    + CND could drop through
-    + LEC could have panopticons from their peaks (could do this anyway but magically)
-
-**contiguous geography cons**
-
-- is it less... pure? it's more normal
-- borders = more stuff to write/figure out
-- none of the P or D planes with any N can get to NNP or NND unless some weird underground thing
-    + that's okay, they're weird planes
-- some hard border lands?
-    + went through all, no dealbreakers
-    + NND is fine, NNP i guess also
-    + LNC surrounded by ocean
-        * architects transit across?
-        * flat platuea?
-    + some (only LNP so far? maybe CNC, maybe LEC) don't have ground sky - it's all ground
-        * CNC and LEC could both be underground
-    + the crevasse - could just be a wall or mountain range around the whole thing, OR there is actually a top
-        * the wall could be a D plane, no "other side" stuff
-    + CEC is flat too? guess it could be a gentle slope
-    + other possible as-yet-unused challenges: space habitat, underwater
-- where do the absolute planes go?
-    + could get rid of them, just discussing the "pure" force
-    + the nautilus and outpost could be in places like CNC where the fabric is thin
-
-**discontinuous geography pros**
-
-- don't have to figure out borders
-- clean?
-- i like the idea that every prime plane is potentially connected to all 27, that they're all kind of layered over all reality, that they are everywhere and nowhere, which doesn't fit as well with the contiguous landscape
-- doesn't *have* to be a place. these are like physical forces
-
-**discontinuous geography cons**
-
-- have to have portals or something
-- easy to grok concept (with 3d cube) but maybe harder to grok... layout
 
 ## ○○○○ Close
 

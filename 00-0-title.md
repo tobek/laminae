@@ -202,7 +202,7 @@
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">IV.</div><a hreff="00-iv-cosmography.html">Cosmography</a></div>
+  <div class="left"><div class="numeral">IV.</div><a href="00-iv-cosmography.html">Cosmography</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">

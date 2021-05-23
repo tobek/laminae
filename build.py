@@ -53,14 +53,13 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
         "--variable=contents_title:" + contents_title,
         "--variable=next_href:" + next_href,
         "--variable=next_title:" + next_title,
-        "--variable=testfoo:" + "HERE WE GO",
     ]
     if re.match(r"^00-0", input_file):
         pandoc_args += [
             "--variable=pagetitle:Observations on the Twenty-Seven Laminae",
         ]
 
-    if not re.match(r"^00", input_file):
+    if not re.match(r"^00", input_file) or "cosmography" in input_file:
         pandoc_args +=[
             "--toc",
             "--toc-depth=3",

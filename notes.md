@@ -261,6 +261,8 @@ steam -> rust and/or ground glass
 - How do they greet each other? Cultural tics
 - How they interact with prime worlds
     + if destruction, they consume, if creation, they overflow
+- Nature of petitioners
+    + https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
 - Something that changed over time
     + e.g. the komusou - anonymous monks so attracted bandits etc
 
@@ -288,6 +290,8 @@ e.g. entropy, architecture, the bloom's mutation
 - All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds)
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?)
 - Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ (maybe NGP LGC LGP - "The Retelling")
+- Sex
+- Something ridiculously hazardous
 - sleep
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
@@ -896,6 +900,7 @@ anagram names:
             + Ahamara
             + Tist
             + Blidibil
+            + Haradaw
     - goals
         - ‎create a permanent, large, open gate to Waterdeep and serve as a neutral meeting area/diplomatic service
     - personalities

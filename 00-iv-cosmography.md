@@ -1,56 +1,57 @@
 # Cosmography
 
 ---
-in_progress: True
 id: cosmography
+abstract: |
+	Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
 
 ---
 
-<!--
-	TODO actually add the glyphs
--->
-
-Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
+<style>
+	p + ul li {
+		line-height: 1.5;
+	}
+</style>
 
 ## Overview
 
-The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the are philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[The Inevitibility](CND) ensures the physical laws of entropy, REF[TODO(artist plane)[the Bauble]](TODO) fuels the imagination of every artist, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
+The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[The Inevitibility](CND) ensures the physical laws of entropy, REF[TODO(artist plane)[the Bauble]](TODO) fuels the imagination of every artist, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
 
 Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each.*]:
 
-- *Method*: &nbsp;Hierarchy --- Synthesis --- Autonomy
-- *Motive*: &nbsp;Empathy --- Utility --- Power
-- *Means*: &nbsp;Creation --- Equilibrium --- Dissolution
+- *Method*: &nbsp;Hierarchy <span class="glyph">ꩧ</span> --- Synthesis <span class="glyph">ꧪ</span> --- Autonomy <span class="glyph">ꩢ</span>
+- *Motive*: &nbsp;Empathy <span class="glyph">ဥ</span> --- Utility <span class="glyph">၇</span> --- Power <span class="glyph">ဋ</span>
+- *Means*: &nbsp;Creation <span class="glyph">ꧠ</span> --- Equilibrium <span class="glyph">ဓ</span> --- Dissolution <span class="glyph">ဗ</span>
 
 These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
 
-- Hierarchy Empathy Creation
-- Hierarchy Empathy Equilibrium
-- Hierarchy Empathy Dissolution
-- Hierarchy Utility Creation
-- Hierarchy Utility Equilibrium
-- Hierarchy Utility Dissolution
-- Hierarchy Power   Creation
-- Hierarchy Power   Equilibrium
-- Hierarchy Power   Dissolution
-- Synthesis Empathy Creation
-- Synthesis Empathy Equilibrium
-- Synthesis Empathy Dissolution
-- Synthesis Utility Creation
-- Synthesis Utility Equilibrium
-- Synthesis Utility Dissolution
-- Synthesis Power   Creation
-- Synthesis Power   Equilibrium
-- Synthesis Power   Dissolution
-- Autonomy  Empathy Creation
-- Autonomy  Empathy Equilibrium
-- Autonomy  Empathy Dissolution
-- Autonomy  Utility Creation
-- Autonomy  Utility Equilibrium
-- Autonomy  Utility Dissolution
-- Autonomy  Power   Creation
-- Autonomy  Power   Equilibrium
-- Autonomy  Power   Dissolution
+- Hierarchy <span class="glyph">ꩧ</span> Empathy <span class="glyph">ဥ</span> Creation <span class="glpyh">ꧠ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Empathy <span class="glyph">ဥ</span> Equilibrium <span class="glpyh">ဓ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Empathy <span class="glyph">ဥ</span> Dissolution <span class="glpyh">ဗ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Utility <span class="glyph">၇</span> Creation <span class="glpyh">ꧠ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Utility <span class="glyph">၇</span> Equilibrium <span class="glpyh">ဓ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Utility <span class="glyph">၇</span> Dissolution <span class="glpyh">ဗ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Power   <span class="glyph">ဋ</span> Creation <span class="glpyh">ꧠ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Power   <span class="glyph">ဋ</span> Equilibrium <span class="glpyh">ဓ</span>
+- Hierarchy <span class="glyph">ꩧ</span> Power   <span class="glyph">ဋ</span> Dissolution <span class="glpyh">ဗ</span>
+- Synthesis <span class="glyph">ꧪ</span> Empathy <span class="glyph">ဥ</span> Creation <span class="glpyh">ꧠ</span>
+- Synthesis <span class="glyph">ꧪ</span> Empathy <span class="glyph">ဥ</span> Equilibrium <span class="glpyh">ဓ</span>
+- Synthesis <span class="glyph">ꧪ</span> Empathy <span class="glyph">ဥ</span> Dissolution <span class="glpyh">ဗ</span>
+- Synthesis <span class="glyph">ꧪ</span> Utility <span class="glyph">၇</span> Creation <span class="glpyh">ꧠ</span>
+- Synthesis <span class="glyph">ꧪ</span> Utility <span class="glyph">၇</span> Equilibrium <span class="glpyh">ဓ</span>
+- Synthesis <span class="glyph">ꧪ</span> Utility <span class="glyph">၇</span> Dissolution <span class="glpyh">ဗ</span>
+- Synthesis <span class="glyph">ꧪ</span> Power   <span class="glyph">ဋ</span> Creation <span class="glpyh">ꧠ</span>
+- Synthesis <span class="glyph">ꧪ</span> Power   <span class="glyph">ဋ</span> Equilibrium <span class="glpyh">ဓ</span>
+- Synthesis <span class="glyph">ꧪ</span> Power   <span class="glyph">ဋ</span> Dissolution <span class="glpyh">ဗ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Empathy <span class="glyph">ဥ</span> Creation <span class="glpyh">ꧠ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Empathy <span class="glyph">ဥ</span> Equilibrium <span class="glpyh">ဓ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Empathy <span class="glyph">ဥ</span> Dissolution <span class="glpyh">ဗ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Utility <span class="glyph">၇</span> Creation <span class="glpyh">ꧠ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Utility <span class="glyph">၇</span> Equilibrium <span class="glpyh">ဓ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Utility <span class="glyph">၇</span> Dissolution <span class="glpyh">ဗ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Power   <span class="glyph">ဋ</span> Creation <span class="glpyh">ꧠ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Power   <span class="glyph">ဋ</span> Equilibrium <span class="glpyh">ဓ</span>
+- Autonomy  <span class="glyph">ꩢ</span> Power   <span class="glyph">ဋ</span> Dissolution <span class="glpyh">ဗ</span>
 
 ## Laminae
 
@@ -70,7 +71,7 @@ Petitioners are the re-manifestation of souls that found their way to the lamina
 
 No memories follow souls into the laminae (dashing mortal hopes of persistent consciousness after death); some claim glimpses of their former experiences, but these are impossible to judge. Their method of arrival varies from lamina to lamina. On REF[the Inevitability](CND) petitioners appear confused and alone in its grey wastes until the Procession crashes upon them, while REF[the Concordance](LGP) welcomes its citizens as they traverse the Gossamer Arch that descends from the sky into that land's great metropolis.
 
-Except for in in REF[the Bloom](CEC), petitioners appear as adults, and all the cycles and necessities of mortal life are superfluous. Some may eat or drink or make love, but to little material effect. They are not immortal ,but generally persist for long timespans before gradually or suddenly, due to fading relevance or injury, disperse into the background substance of their lamina. In the interim, petitioners inhabit their worlds in ways as varied as mortals do, from the solitary life of a wild nomad to the structured citizenry of a military corps, depending on the nature of the plane and their role within it.
+Except for in in REF[the Bloom](CEC), petitioners appear as adults, and all the cycles and necessities of mortal life are superfluous. Some may eat or drink or make love, but to little material effect. They are not immortal ,but generally persist for long timespans before gradually or suddenly, due to fading relevance or injury, disperse into the background substance of their lamina. In the interim, petitioners inhabit their worlds in ways as varied as mortals do, from the solitary life of a wild nomad to the structured citizenry of a military corps, depending on the nature of the lamina and their role within it.
 
 ### Mortals
 
@@ -84,55 +85,30 @@ There are presences on the laminae that are neither mortals nor the transformed 
 
 Various elegant cartographies have been proposed for the twenty-seven laminae, but this visitor has found little to support them. The analytical arrangement used in this work is convenient for comprehension, but it is best to think of each lamina as coterminous with each other lamina and all of reality, but varying in presence and strength like an uneven blanket of rain and snow.
 
-ordial plane of course separates
+The laminae are divided from us and each other by a substance known as the Ordial Plane, also named the Plane of Proof, the Plane of Permeation, and many others, though whether it is an actual barrier or instead just a turn of phrase to describe the shape of the connections between realms is unclear. The result is that our everyday reality is separated from the laminae in the way that the passage of time separates a quandary from a sudden realization some time later. It is a passage that is difficult to describe precisely, but some travellers have an intuitive grasp of its mechanics and can shepherd the process along nearly at will. Such experts report that once you have learned to lift the shroud of the Ordial Plane^[A shroud which is immaterial to the unencumbered souls of the dead, who cannot help but waft through.] and seen nature refracted by overlying laminae, you will gain an eye for the myriad folds where barriers are thin enough to ford the Ordial into a particular lamina. It requires an oneiric state of mind and an acrobatic touch.
 
-Unencumbered by their corporeal forms, the barrier of the Ordial Plane becomes immaterial
+This visitor has not successfully cultivated this skill, and so like most travellers instead relies on established apertures, found and waymarked for the uninitiated.
 
+### Apertures
 
-## apertures
+Apertures are locations where two realms are close enough to each other that you may easily slip between them. The largest are striking. They resemble a region of space, solid like a sphere though the shapes vary wildly, through which you can see the realm on the other side. It is not like a window, offering a flat and neatly cropped view of what lies beyond, but rather the view is distorted as if through a glass bead, such that you will see the sky, the earth, and a whole panoramic landscape warped through the contours of the aperture, as likely to be sideways or upside-down as it is to be right side up. It is a staggering thing to see for the first time, violating the comfort of a lifetime's understanding of the shape of things.
 
-a shimmer and a distortion, gut-jerking slide down a hole you couldn't see, a kind of visual folding
+Passing through an aperture---especially an uncharted one---is equally unnerving, and occasionally hazardous. You should approach it very gingerly, for the edge is unclear, and as it nears your view of the world gets gradually more deformed and it becomes hard to keep balanced. If you are lucky there is a solid path through, but far more often you will reach a sort of precipice where no further step makes sense. At this point, if you can still see straight, a tossed rope or rock will grant a sense of the distance remaining to solid ground on the other side, and the only choice is to step, leap, or tumble forward and hope for the best. While apertures are bidirectional, they are sometimes more challenging to maneuver one way than the other, requiring for instance climbing instead of falling.
 
-- general term: gate, gateway, aperture, conduit, lock?
-	- no: portal, inlet
-- generally rare, powerful, heavily guarded (they provide great power or great danger) or very remote
-- simply the contiguous joining of space
-- bidirectional. if you have physical access, you can pass through, but often physical access is blocked
-- sometimes doors locked from one or both sides
-- they look totally transparent - no shimmering pool or whatever
-- they can be man-made or natural, and they tend to be bounded by some material, appearing naturally as cave entrances, forked tree trunks, or the mouth of a whirlpool, and appearing unnaturally within doorways and fountains and ornate portal frames.
-- mostly fixed and ancient. new ones can be created intentionally with years of intense and costly ritual, or sometimes unintentionally over generations of shared purpose. naturally occurring portals
-- there is a sort of surface tension that prevents the passive passage of material, such that a portal to a flaming vortex doesn't char the other end, and a gentle hand pressed against the portal's skin will feel resistance. however, any sufficiently forceful piercing of this surface tension by agent or object will pass, pulling in a small wake of atmosphere from the origin plane. this does mean that the aforementioned flaming vortex, if in possession of airborne burning shards, will fling substantial material through the gate, and so such gates are generally closed and heavily reinforced^[Some naturally occurring gates have no such protection, for instance TODO(natural gate where one plane spews stuff into the other constantly). also of course volcanoes result from portals deep below the earth connecting to molten realms]
-- petitioners generally don't go through for various reasons see above
+A few very-established and stable apertures have bridges or staircases that pass from one side to the other. From the outside these appear to take a misshapen path, and when passing through you will feel a sense of walking straight while the world reorients around you with each step. Smaller apertures can be nearly impossible to spot, even with someone directly pointing one out, appearing as the most subtle of distortions unless examined closely. Such apertures are much harder to pass through, perpetually tucked away out of sight and requiring a passenger to back or crawl into them.
 
-## spells, abilities, artifacts
-
-<!--
-- teleportation circle, level 5 spell, creates shimmering portal that links to a permanent one whose sigils you know on same plane. can create permanent by casting same spot every day for a year
-- plane shift, level 7 spell, choose plane, or layer within plane, maximum error of 500 miles, need forked metal rod of a certain size and composition that attuned it to the desired destination plane, tuning determines location/level, complex harmonies, some planes you can't choose layer. caster and up to 8 willing creatures holding hand in circle. can specify in general terms like "palace of dispater in 2nd level of 9 hells". can go to teleportation circle on other plane if you know sigils
-- teleport, level 7 spell, teleports you and 8 willing to anywhere on same plane, depending on familiarity, teleportation circle presence, or you having an object from there, it makes it more accurate, but doesn't always work.
-- gate, level 9 spell, 5-20ft diameter portal to exact spot on any plane, but deities etc. can deny this from working
-- wish, level 9, could do it. but in old versions it uses XP, in new versions drains and damages you for days and 33% chance you can never cast wish again
-- amulet of the planes - successful INT check you cast plane shift, failure you go to random spot on that plane or a random plane
-- planeswalkers can focus for a minute and travel between planes
-- "token of recall" takes you to a particular place on particular plane
--->
+Apertures are quite rare, though in the appropriate circles they are not uncommon, and maps and directories have been created and held closely. Many are locked away or heavily guarded as they may provide great power or great danger, and others are impossibly remote. They may be short-lived, varying in size and location, or ancient and unchanging. Some over the years have been enshrined by structures, while nature has sculpted itself around others: whirlpools and forest clearings and mountain plateau-tops. While many are naturally occurring, they can created artificially, either intentionally with years of procedure, or sometimes unintentionally over generations of shared purpose or ritual that over time wears the Ordial thin along a particular axis.
 
 ## Soblei
 
-Soblei is at once one of the most important and one of the most cursed places in the multiverse. The first thing you will hear about Soblei is that it is full of portals to the nearest and farthest reaches of reality---that is of course what makes it important. But it is a wretched place. It appears to be a wild metropolis the spectacular destruction of which was averted moments too late and then frozen in a suspended apocalypse. A blinding white light suffuses the sky, flattening everything in muted shades of gray and casting sharp, jet black shadows downwards. Geysers of rubble hang in the air and light blasts through the fissures that cleave every structure. There is a constant, howling, frigid wind, though only visitors seem to suffer it; all the matter of the city---torn awnings and splintered wagons and shards of glass---are unyielding, unaffected, even when the winds rise to hurricane force.
+Soblei is at once one of the most important and one of the most cursed places in the multiverse. The first thing you will hear about Soblei is that it is full of apertures to the nearest and farthest reaches of existence---that is of course what makes it important. But it is a wretched place. It appears to be a wild metropolis the spectacular destruction of which was averted moments too late and then frozen in a suspended apocalypse. A blinding white light suffuses the sky, flattening everything in muted shades of gray and casting sharp, jet black shadows downwards. Geysers of rubble hang in the air and light blasts through the fissures that cleave every structure. There is a constant, howling, frigid wind, though only visitors seem to suffer it; all the matter of the city---torn awnings and splintered wagons and shards of glass---are unyielding, unaffected, even when the winds rise to unstoppable force.
 
-By all accounts and investigations Soblei exists outside of every other plane and prime world in its own dimensional cavity. It has a particular topology: though the light always strikes from above, the land curves slightly upwards underfoot, and it is said that a long enough journey may bring you back to where you started, if one can work around the massive edifices blocking many paths. There is no trace of the organic life that must have once been here. There are no bones or bodies (except those of occasional recent arrivals succumbed to exposure, whose remains lie in undecaying stasis) or animals or even food to be found, but other artifacts of city life are plentiful. Inside most buildings is an immovable maelstrom of their contents: kitchenware, clothes, books, merchandise, and tools clutter the air of pitch dark interiors in which the wind whips even more furiously.
+By all accounts and investigations Soblei exists outside of every lamina and cardinal world in its own crease of reality. It has an unusual topology: though the light always strikes from above, the land curves slightly upwards underfoot, and it is said that a long enough journey may bring you back to where you started, if you are able to work around the massive edifices blocking many paths. There is no trace of the organic life that must have once been here. There are no bones or bodies (except those of occasional recent arrivals succumbed to injury or exposure, whose remains lie in undecaying stasis) or animals or even food to be found, but other artifacts of city life are plentiful. Inside most buildings is an immovable maelstrom of their contents: kitchenware, clothes, books, merchandise, and tools clutter the air of pitch dark interiors in which the wind whips even more furiously.
 
-Portals are everywhere: in city square fountains, in cellars and back rooms, palace halls and libraries. TODO navigating through rubble, clambering and squeeze, many seem inaccessible though someone may know a route.
+No living creature wishes to spend time here. The wind can kill through cold or a rubble-wards bludgeoning gust. Outdoors the light can blind, while indoors the wind intensifies, the noise driving one mad. It is far too loud to allow verbal communication, and written communication is unwieldy in the gale---only gestures are possible. Coordination difficulties mean that most pass through alone or in very small groups. But those that tread widely always pass through here, for nearly every lamina is connected to Soblei, and the shortest path from one place to another usually passes through it. This visitor knows the city far, far, better than she would like to.
 
-No living creature wishes to spend time here. The wind can kill through cold or a rubble-wards bludgeoning gust, and outdoors the light can blind while indoors the wind intensifies, the noise driving one mad. But those that tread widely always pass through here, for nearly every plane is connected to Soblei, and the shortest path from one place to another usually passes through it. This visitor knows the city far, far, better than she would like to.
+Apertures are everywhere: in city square fountains, in cellars and back rooms, stables and markets, palace halls and libraries. To reach them you must clamber and squeeze through hurricane rubble, and many seem inaccessible. Despite the potential power of such a connected place, no one has conquered its hazards^[There of course have been innumerable attempts. The merchant king Haradaw sponsored a formidable effort to construct walls of imported stone with which to cordon off wind-free avenues to connect major destinations, and while a handful of sections were successfully built to withstand Soblei's forces, the number of lives lost during construction quickly exhausted the will of everyone involved. An unrelated attempt involved tunneling, which reportedly faced insurmountable challenges in the form of unstable underground apertures to hazardous realms.], and it continues to function as a welcome point of friction in interlaminal affairs. Though guides and strategies abound, there is no comfortable or remotely safe way to shepherd a sightseeing aristocrat or an invading army through this place. At the same time it is not so impossibly hazardous a place TODO(compared to extremely inhospitable plane)[] such that elaborate expedition planning is required to survive at all: an individual with warm clothing, a helmet, steady balance, and directions could, with some luck, make the journey between two nearby apertures. It is also an unshakably neutral place, with no possibility of building fortifications, laying traps, or setting up preparations of any kind that won't be swept away in a moment, and so over the ages Soblei has been party to a significant number of duels and high-stakes or clandestine engagements.
 
-Despite the potential power of such a connected place, no one has conquered its hazards^[There of course have been innumerable attempts. TODO(attempts to conquer Soblei's hazards).], and it continues to function as a welcome point of friction in interplanar affairs. Though guides and strategies abound, there is no comfortable or remotely safe way to shepherd a sightseeing aristocrat or an invading army through this place. At the same time it is not so impossibly hazardous as a place like TODO(extremely inhospitable plane) such that elaborate expedition planning is required to survive at all: an individual with warm clothing, a helmet, steady balance, and directions could, with some luck, make the journey between two nearby portals. It is also an unshakably neutral place, with no possibility of building fortifications, laying traps, or setting up preparations of any kind that won't be swept away in a moment, and so over the ages Soblei has been party to a significant number of duels and high-stakes or clandestine engagements.
+A handful of accessible and central apertures have way stations on their non-Soblei side, a few hosting assortments of guides, explorers, diplomats, and lunatics, but most little more than deserted shacks offering respite and the detritus of past travellers. A handful of guides are known to offer their services, along with protective gear, but there is no such thing as a comfortable journey here. Navigation is particularly difficult. Maps have been made, but their usage and updates must be committed to memory so as not to be destroyed by wind. Stone tablets are more resilient than parchment but are hard to maneuver through the gale and likely to cause injury or get smashed. Etchings on animal hide are sufficiently resilient, but must be small or incorporated into clothing, as holding up a sheet of any size catches the wind uncontrollably. It is a difficult realm to map anyway, the notion of streets having been laid to waste. The primary subjects to map are landmarks, though it is hard to recognize them through a glaring squint. Up close there is an incredible diversity of building styles and materials, but when struggling through the streets everything appears the same^[This visitor has over time crafted something of a personal map, using a web of small beads connected by fine chain links. Each bead is carved on one side to represent a landmark and on the other side with the glyphs that denote the destination of nearby apertures, if any. These carvings can be understood by touch. The beads are chained to each other in a way that matches the orientation and proximity between landmarks, notched to indicate direction. For instance, when facing the central peacock head on a particular fountain, behind you is a library with an aperture to REF[____[the Essentialism]](LNP), to your the left by the corner of a florid-tiled building on the edge of the plaza is an aperture to the deserts of Koratia, while ahead on the ground where the gargoyles have toppled off some sort of temple is an aperture to REF[____[the Brink]](CGP), but that is quite some ways---four chain links as opposed to the usual one. At the time of writing this web has roughly forty beads, though in a mnemonic fashion this is a scaffold upon which this visitor's cartographic knowledge has grown somewhat larger.].
 
-- guides with eye protection and special clothing
-	+ some use aerodynamic plate armor, but this makes maneuverability through rubble, especially inside, quote difficult
-    + maps have been made, but their usage and updates must be committed to memory so as not to get torn up by wind. Several approaches have been tried here. Stone tablets are more resilient than parchment but are hard to maneuver through the gale and if one loses control it is likely to cause injury or to be smashed against some surface. Etchings on animal hide are sufficiently resilient, but must be small or incorporated into clothing, as holding up a sheet of any size catches the wind uncontrollably. It is a difficult realm to map anyway, the notion of streets having been laid to waste. The primary things to map are landmarks, though it is hard to recognize them through a glaring squint. Up close there is an incredible diversity of building styles and materials, but struggling through the streets everything appears the same^[This visitor has over time crafted something of a personal map, using a web of small beads connected by fine chain links. Each bead is carved on one side to represent a landmark and on the other side with the Karedian glyphs denoting the destination of nearby portals, if any. These carvings can be understood by touch. The beads are chained to each other in a way that matches the orientation and proximity between landmarks, notched to indicate direction. For instance, when facing the central lizard head on a particular fountain, behind you is a library with a portal to ____[LNP], to your the left is TODO(more etc etc, unusual and destroyed landmarks, pattern on tiles, inside stuff), but that is quite some ways---four chain links as opposed to the usual one. At the time of writing this web has roughly forty beads, though in a mnemonic fashion this is a scaffold upon which this visitor's cartographic knowledge has grown somewhat larger.].
-- outposts - clustered around portals?
-- wind is so loud that verbal communication is impossible, and strong enough to tear up any attempt at written communication - only gestures are possible
-- absolutely no stories remain of Soblei before its destruction. It is presumed to have been a resplendent and powerful metropolis at the crux of the multiverse, and various myths are associated with it but none reliable
+Absolutely no stories remain of Soblei before its destruction. It is presumed to have been a resplendent and powerful metropolis at the crux of the multiverse; various legends are associated with it, TODO(soblei legends?)[but none with even a crumb of evidence that would warrant their inclusion in this work].

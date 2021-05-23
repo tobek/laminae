@@ -151,7 +151,8 @@
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
-|2021-05-22|1.5 |38909|1058|30%|35%|13|80|53|27|
+|2021-05-22|1   |39347|1057|33%|35%|14|80|53|27|
+|2021-05-21|1.5 |38909|1058|30%|35%|13|80|53|27|
 |2021-05-20|0.5 |38909|1058|30%|35%|13|80|53|27|
 |2021-05-19|3.25|39318|1058|30%|35%|13|80|53|27|
 |2021-05-18|2   |38420|1058|30%|35%|13|79|53|26|
@@ -263,7 +264,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 38,909 | 1,058 | 13/42 | 80/224 |
+| 39,347 | 1,057 | 14/42 | 80/224 |
 </div>
 
 <div class="progress-wrap">
@@ -297,8 +298,8 @@
 | Frame | <span class="bloop">●◍◍○</span> |
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">◍○○○</span> |
+| Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |
 | Facets | <span class="bloop">◍◍○○</span> |
-| Cosmography&nbsp; | <span class="bloop">◍◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
 | Glossary | <span class="bloop">◍◍○○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |
