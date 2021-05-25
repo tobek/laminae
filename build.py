@@ -5,6 +5,7 @@ import re
 import os
 import pypandoc
 import glob
+from bs4 import BeautifulSoup
 
 default_pandoc_args = [
     "--standalone",
@@ -26,6 +27,8 @@ media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses
 ed_note_replace = r"\1<span class='editor-note'>\2</span>"
 
+file_id_regex = r"[^-]+(-[0iv]+)?-(.+).md"
+
 facets = [
     # { "L": "ၑ", "N": "ၒ", "C": "ꧯ"},
     # { "G": "ဥ", "N": "၇", "E": "ဋ"},
@@ -41,7 +44,7 @@ def facet_replace(match):
     return '<span class="glyph">' + facets[0][match[0]] + facets[1][match[1]] + facets[2][match[2]] + '</span>'
 
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
-    print("building " + input_file)
+    print("building", input_file)
     if output_file is None:
         output_file = input_file.replace(".md", ".html")
 
@@ -90,6 +93,7 @@ outer_files = ["progress.md", "about.md", "error.md"]
 files = glob.glob("[^0-9]*.md")
 files.sort()
 file_titles = []
+file_ids = []
 input_files = []
 output_files = []
 
@@ -102,10 +106,12 @@ for i, filename in enumerate(files):
         if "SKIP" in title:
             continue
         file_titles += [title]
+        file_ids += [re.match(file_id_regex, filename)[2]]
         input_files += [filename]
         output_files += [filename.replace(".md", ".html")]
 file_titles[0] = "Contents"
 
+# Actually compile to HTML
 for i, filename in enumerate(input_files):
     if only_file and filename != only_file:
         continue
@@ -132,3 +138,17 @@ for filename in outer_files:
     if only_file and filename != only_file:
         continue
     build_file(filename)
+
+# anchors = {}
+# print(file_ids)
+# for i, filename in enumerate(input_files):
+#     if only_file and filename != only_file:
+#         continue
+#     print("gather anchors from", file_ids[i])
+#     with open("build/" + output_files[i]) as fp:
+#         soup = BeautifulSoup(fp, 'html.parser')
+#         # for anchor in soup.find_all("h1"):
+#         for anchor in soup.select("dfn, h1, h2, h3, h4"):
+#             print(anchor)
+#         # print(soup)
+

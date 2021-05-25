@@ -65,7 +65,7 @@ These currents can swell into great movements. As on laminae civilizations rise 
 
 ## Residents
 
-### Petitioners
+### <dfn def="Souls of the dead that have re-manifested on the most well-suited lamina, where they carry out pursuits and perfect and reshape themselves according to that lamina's principles.">Petitioners</dfn>
 
 Petitioners are the re-manifestation of souls that found their way to the lamina that best suited their mortal dispositions, where they attempt to perfect and reshape themselves according to the principles of the lamina. They retain to some extent an idealized character and appearance they had in life, but are varyingly altered to match the nature of their resting place: Precepts of REF[the Lucidity](NND) for instance are all similarly neutral-featured and slight, but Unravellers of REF[the Inevitability](CND) take on fantastical forms of sprites and demons.
 
