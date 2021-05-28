@@ -139,16 +139,16 @@ for filename in outer_files:
         continue
     build_file(filename)
 
-# anchors = {}
-# print(file_ids)
-# for i, filename in enumerate(input_files):
-#     if only_file and filename != only_file:
-#         continue
-#     print("gather anchors from", file_ids[i])
-#     with open("build/" + output_files[i]) as fp:
-#         soup = BeautifulSoup(fp, 'html.parser')
-#         # for anchor in soup.find_all("h1"):
-#         for anchor in soup.select("dfn, h1, h2, h3, h4"):
-#             print(anchor)
-#         # print(soup)
+anchors = {}
+print(file_ids)
+for i, filename in enumerate(input_files):
+    if only_file and filename != only_file:
+        continue
+    print("gather anchors from", file_ids[i])
+    with open("build/" + output_files[i]) as fp:
+        soup = BeautifulSoup(fp, 'html.parser')
+        # for anchor in soup.find_all("h1"):
+        for anchor in soup.select("dfn, h1, h2, h3, h4"):
+            print(anchor)
+        # print(soup)
 

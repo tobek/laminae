@@ -1,10 +1,10 @@
 # Cosmography
 
+TODO(revise)[]
+
 ---
-id: cosmography
 abstract: |
 	Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
-
 ---
 
 <style>
@@ -15,7 +15,7 @@ abstract: |
 
 ## Overview
 
-The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[The Inevitibility](CND) ensures the physical laws of entropy, REF[TODO(artist plane)[the Bauble]](TODO) fuels the imagination of every artist, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
+The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[the Inevitability](CND) ensures the physical laws of entropy, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
 
 Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each.*]:
 

@@ -1,7 +1,8 @@
 # big questions
 
 - facets
-- cosmography
+- include conduit?
+- dissimulation
 - setting
     + part of our world? tenuously, compatible
     + is there any benefit to using fantasy races? elves etc. maybe not.
@@ -18,6 +19,8 @@
 
 # misc before launch
 
+- favicon!
+    + something from diagram inspo? maybe "Folio from 'Kitab..." or compass rose from "Piri_Reis..."
 - lamina
     + ASK:
         * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
@@ -213,11 +216,11 @@ might not need elemental planes - no prob not
 
 decided = 2, written = 3, revised = 4
 
-"*how to allocate power and to what ends it should be used*" - "(1) goals: how society should be organized; and (2) methods: the most appropriate way to achieve this goal."
+**markup for attaching glyphs to facets**
 
-method
-motive
-means
+    The theory of Forms or theory of Ideas is a philosophical theory ... that the physical world is not as real or true as timeless, absolute, unchangeable ideas. ... "Ideas" or "Forms" are the non-physical essences of all things, of which objects and matter in the physical world are merely imitations. Plato ... sometimes suggests that these Forms are the only objects of study that can provide knowledge.
+
+    "problem of universals" - "Philosophers agree that human beings can talk and think about universals [being human, red, big, liquid, circular], but disagree on whether universals exist in reality beyond mere thought and speech" or are simply mental artifacts
 
 hierarchy (synthesis) autonomy - how to organize, allocate power
 empathy (utility) power - what to organize for, value system, how to determine what is an acceptable means
@@ -479,7 +482,12 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 
 ### Glyphs
 
+data-facet= and pseudo after content
+
 - (labeled) glyph square on trinym hover?
+    + like above and below are the other facets from that axis, dimmed, with text and glyph
+    + to the sides are the other axes
+- triggered based on some class that can be added manually but is automatically added from REF whitelist of facets
 - glyphs on title page? maye ၜ for "overview of the laminae"
 
 ## ○○○○ Close
@@ -490,7 +498,7 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 - how come the work is basically done? maybe here she lists the things she didn't do
 - or she allows herself
 
-## ◍◍○○ Glossary
+## ◍◍○○ Glossary/Index
 
 - define in glossary file/chapter using reference markup
 - find all for term and then add REF markup - maybe only first per chapter (or section?)
@@ -498,15 +506,17 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 
 so far (some need changing, decide/find and replace):
 
-- petitioner
-- outsider (check if used anyway)
-- mortal
-- portal? (gateway?)
-- prime/prime world
-- planar?
-- extraplanar? like 6 mentions in LNC alone
-- plane/lamina
-- places? (cerivalia, soblei)
+- in cosmography chapter
+    + petitioner
+    + outsider (check if used anyway)
+    + mortal
+    + portal? (gateway?)
+    + prime/prime world
+    + planar?
+    + extraplanar? like 6 mentions in LNC alone
+    + plane/lamina
+    + soblei
+- places? (cerivalia, anywhere else?)
 - races/creatures? (eladrin, balors, etc)
 - alignment/"force"?
     + "the force of destruction"
@@ -691,7 +701,7 @@ this gets used (no double quotes allowed):
 
 handle translated refs! (what does this mean?)
 
-Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere.
+Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Contents of node is the term being defined, or the `title` attribute can be it. Definition is the wrapping element or `def` attribute. Id is its or parents `id`.
 
 Should have an optional actual definition string that can be shown in tooltip, and "go to [page title]" link if same page, otherwise "go to text" if on same page?
 
@@ -706,8 +716,22 @@ References themselves just link <a> tags for now (maybe should be <abbrv> or <dl
     REF[Blighted lovers](CNP#the-lovers)
     REF[wind shifters](LNC#wind-shifters)
     REF[Equilibrium](facets#equilibrium)
+    REF[Equilibrium] # whitelist dict of terms to auto-map TODO not implemented
 
 process all `<dfn>`s and all headings to find IDs and which pages they're on.
+
+- parse
+    + parse each file
+    + get its ID, title, and filename
+        * also get its short description, since these are definitions too
+    + get each dfn and element with id
+        * exclude the basic headings
+- insert
+    + get all `a.ref`'s
+    + if it starts with "#" done
+    + find the actual ref
+    + if none, do "hasn't been translated yet", remove href and/or update class
+    + if yes, update href with filename
 
 same-page REFs link as normal. if not found, look for page ID transform
 
@@ -715,6 +739,8 @@ ok we need more processing to get full link and hover text
 
 - gloss is just a ref to something in the glossary
 - A-Z index of all of them, each showing chapter as source
+    + bold the one with definition
+    + how to show multiple references on same page? i guess don't
 - don't do separate page for each item, each lives somewhere
 - should you be able to hover for quick description? for glossary items definitely yes, maybe heading/dfn can define a summary, or we can pull it out somehow (see dfn spec) and parse those
 - map from ID (in md frontmatter) to filename
