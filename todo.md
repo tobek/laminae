@@ -212,63 +212,52 @@ might not need elemental planes - no prob not
 - have to have portals or something
 - easy to grok concept (with 3d cube) but maybe harder to grok... layout
 
-## ◍◍○○ Facets
+## ◍◍◍○ Facets
 
-decided = 2, written = 3, revised = 4
+FINALIZE GLYPHS - just about done!
 
-**markup for attaching glyphs to facets**
+complete draft = 3 + ready, revised = 4
 
     The theory of Forms or theory of Ideas is a philosophical theory ... that the physical world is not as real or true as timeless, absolute, unchangeable ideas. ... "Ideas" or "Forms" are the non-physical essences of all things, of which objects and matter in the physical world are merely imitations. Plato ... sometimes suggests that these Forms are the only objects of study that can provide knowledge.
 
     "problem of universals" - "Philosophers agree that human beings can talk and think about universals [being human, red, big, liquid, circular], but disagree on whether universals exist in reality beyond mere thought and speech" or are simply mental artifacts
 
-hierarchy (synthesis) autonomy - how to organize, allocate power
-empathy (utility) power - what to organize for, value system, how to determine what is an acceptable means
-creation (preservation) dissolution - the means
-
 - change from D&D alignments
-    + noun vs adj
-        * example sentences/placements
-        * try a few out
-            - hierarchical empathic creation
-            - hierarchy empthy creation
-            - hierarchical ambitious destruction
-            - autonomous empathic destruction
-            - autonomous ambitious preservation (CEP)
-            - autonomy, ambition, and preservation
-        * "A and B and C" vs "A B C" vs "A, B, C"
+    + noun vs adj: noun, "A, B, C"
     + goals
         * each can be viewed in a wholly positive light
         * one can be sacrificed for the other
-    + narrow word options, move rest into "related" nest
-    + swap good & evil or law & chaos so that they line up
+    + swap good & evil or law & chaos so that they line up?
     + counter examples
     + think about what each side accuses the other of
-    + pick one and review laminae
 - a name for each axis
-    + like the control axis for order/chaos, the cyclic axis for create/destroy? good/evil is moral or ethical axis, or is ethical order/chaos?
-    + good/evil is definitely moral - value system according to community etc, right and wrong
-    + order/chaos is kind of ethics (a personal code of conduct? practical set of rules for people to follow?) but less clear cut, ethics feels important to good/evil too
-    + hierarchy/synthsesis/autonomy
+    + hierarchy/synthesis/autonomy
+        * method
         * control
         * agency
     + empathy/utility/power
-        * motivation
         * motive
+        * moral
         * incentive
     + creation/equiliibrium/dissipation
         * means
         * force
         * cause?
         * origin?
+        * cycle
 - name for each and all
     + facets
     + absolutes
-    + factors
 - name for axis
     + axis
 - maybe the related terms are all given in dichotomies
 - finalize glyphs
+- relationship between method axis and motive axis
+    + tradition vs. secular-rationality?
+        * "Traditional values emphasize the importance of religion, parent-child ties, deference to authority and traditional family values. People who embrace these values also reject divorce, abortion, euthanasia and suicide. These societies have high levels of national pride and a nationalistic outlook."
+        * "Secular-rational values have the opposite preferences to the traditional values. These societies place less emphasis on religion, traditional family values and authority. Divorce, abortion, euthanasia and suicide are seen as relatively acceptable."
+        * "People's priorities shift from traditional to secular-rational values as their sense of existential security increases" (this suggests evil -> good brings about law -> chaos)
+    + is this some CG pole? "A specific subset of self-expression values—emancipative values—combines an emphasis on freedom of choice and equality of opportunities. Emancipative values, thus, involve priorities for lifestyle liberty, gender equality, personal autonomy and the voice of the people."
 
 > "You only go to the wrong place if you fail at your alignment." Thus, an evil person who performs good acts is sent to, for example, Celestia, and suffers there. A good character who murders is sent to one of the lower planes and suffers there. But an evil person who murders is sent to a plane matching his/her alignment and fits right in.
 > in 3.5 there is a divine source above the gods that notes whether one is good or evil, because of the presence of "Detect Good" and "Detect Evil." If the gods actually powered the spells it would be "Detect Believer" and "Detect opposing philosophies" as most competent old-time religions define evil as "Not us."
@@ -324,84 +313,9 @@ torment: tides of numenera:
 
 "The Tides are linked to action, not intention."
 
-fit this in somewhere - is this some CG pole? "A specific subset of self-expression values—emancipative values—combines an emphasis on freedom of choice and equality of opportunities. Emancipative values, thus, involve priorities for lifestyle liberty, gender equality, personal autonomy and the voice of the people."
-
 ### Lawful, Neutral, Chaotic
 
-this is about control? in lawful, members are subject to control by others and/or exert control over others... though can also be internal? although we're thinking good/evil is about power/security...
-
-> On the left side of the grid would be the extreme of needing lots of control, either on the internal (civilization, laws, rules, expectations) or internal (code of honor, rules of behavior, shame, guilt).
-> In the middle of the grid are those who think rules can be helpful but have seen too much abuse of the rules. They will work with good rules and outright break bad ones.
-> As one progresses to the right side of the grid, the need for control lessens until the character is loath to accept any form of control, either external or internal.
-
-honor... can't you be chaotic and honorable? is that neutral? if we define chaos as dishonorable then we're making it closer to evil. tradition/invention and communal/individual are better
-
-don't confuse "law" with lacking creativity, more about the channels in which ideas flow. there is more freedom in blah, but the constraints of systems can produce creativity
-
-where do strange loops fit in? a middle thing? relies on the existence of structured/hierarchical stuff but also violates it. this could be a plot device
-
-- name
-    + auth/liber compass calls this the social axis
-    + i think d&d calls this the ethics axis
 - HIERARCHY VS AUTONOMY
-- Law vs freedom
-- Authority vs liberty
-- Communalism vs individualism/independence
-- Tradition vs invention
-- tradition vs. secular-rationality?
-    + "Traditional values emphasize the importance of religion, parent-child ties, deference to authority and traditional family values. People who embrace these values also reject divorce, abortion, euthanasia and suicide. These societies have high levels of national pride and a nationalistic outlook."
-    + "Secular-rational values have the opposite preferences to the traditional values. These societies place less emphasis on religion, traditional family values and authority. Divorce, abortion, euthanasia and suicide are seen as relatively acceptable."
-    + "People's priorities shift from traditional to secular-rational values as their sense of existential security increases" (this suggests evil -> good brings about law -> chaos)
-- where does "agency" fit into this?
-    + on the one hand chaos feels like more agency, but also i can imagine LG with lots of agency
-    + i guess with L, agency depends on your position in the hierarchy
-- disgust/purity vs. openness
-- control vs. liberty
-- autonomy does NOT mean lack of accountability. in fact autonomists would argue that hierarchy shields people from accountability, by appeals to authority as justification for their actions
-- law
-    + hierarchy
-    + systematic?
-    + archy (arkhy)
-    + most generous: communitarian? i guess good law is this, evil law is hierarchy and control)
-    + organization/mobilization?
-    + structure
-    + tradition
-    + order
-    + discipline
-    + justice
-    + principle
-    + honor
-    + related:
-        * integrity (though autonomy lays claim to this)
-        * judgment
-        * conformity
-        * stability
-        * predictability
-- neutral
-    + utility
-    + pragmatism
-    + practical
-    + balance
-    + focus
-    + realism
-    + harmony
-    + equilibrium
-- chaos
-    + autonomy
-    + invention
-    + freedom
-    + independence
-    + related:
-        * individualism
-        * radical
-        * disorder
-        * dynamism
-        * change
-
-chaos accuses law of being close-minded, obedient, and sometimes evil? corrupt? lacking self respect
-law accuses chaos of being evil? corrupt? immoral, unprincipled, reckless, mercenary. lacking self respect. they each accuse each other of being untrustworthy and untrusting: auto thinks hier needs hier since they can't trust each other, and hier thinks auto aren't trustworthy enough to hold their end up in a system
-
-both see their own vision as one of integrity and honor
 
 ### Good, Neutral, Evil
 
@@ -480,16 +394,6 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 - destruction
     + *dissolution*
 
-### Glyphs
-
-data-facet= and pseudo after content
-
-- (labeled) glyph square on trinym hover?
-    + like above and below are the other facets from that axis, dimmed, with text and glyph
-    + to the sides are the other axes
-- triggered based on some class that can be added manually but is automatically added from REF whitelist of facets
-- glyphs on title page? maye ၜ for "overview of the laminae"
-
 ## ○○○○ Close
 
 - is this necessary?
@@ -500,9 +404,18 @@ data-facet= and pseudo after content
 
 ## ◍◍○○ Glossary/Index
 
-- define in glossary file/chapter using reference markup
-- find all for term and then add REF markup - maybe only first per chapter (or section?)
-- process along with references
+- define terms as per reference markup (headings, dfns)
+- print them all out in alphabetical order
+- shared glossary + index?
+    + shared:
+        * for each term, show which laminae references it
+        * if there's a def, show def
+    + not shared:
+        * glossary with ones which have definitions
+        * index for all
+- what to do with generically named ones from specific laminae, like LND "Mechanisms" - maybe that's okay?
+- check to see if we have any duplicate anchor ids across different file ids
+- bold the main reference, but show each chapter that references concept
 
 so far (some need changing, decide/find and replace):
 
@@ -527,14 +440,20 @@ Same as "about"?
 
 ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmese myth into narrator, explain language
 
-- Thank you to the [Burmese culture](link) for having developed my favorite [script](link) which has been used for beautiful symbols throughout this project.
-    + maybe mention my connection and personal feelings
-    + See more examples [here](link)
-    + Learn more about TODO.
-    + Support TODO.
-    + Recommended book
-    + Also Burmese food is incredible: check out [TODO](link) in San Francisco and [TODO](link) in NYC.
-- also mention other indic scripts?
+- Thanks
+    + Thank you to the [Burmese culture](link) for having developed my favorite [script](link) which has been used for beautiful symbols throughout this project.
+        * maybe mention my connection and personal feelings
+        * See more examples [here](link)
+        * Learn more about TODO.
+        * Support TODO.
+        * Recommended book
+        * Also Burmese food is incredible: check out [TODO](link) in San Francisco and [TODO](link) in NYC.
+    + also mention other indic scripts?
+    + easydabus/easydamus
+    + d&d for alignments
+    + hinduism for trimurti
+    + friends
+- stats?
 - about
     + contact
     + me
@@ -552,8 +471,11 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 - change spell check to english (make sure to preserve added words)
 - check/clean
     + spellcheck
-    + check all " - " (probably replace all with "---")
+    + check all `\w - \w` (probably replace all with "---")
     + "  " (double space)
+    + check footnotes come after punctuation
+        * search regex `\^.*\][\.,]`
+        * or this `\^\[[^\]]+\][^ \n]` but that messes up even more with nested brackets
 - check for english spelling
 - go through all the macros
 - remove comments
@@ -563,6 +485,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 - figure out TOC format
 - probably change order to all hierarchy first, etc.
 - probably figure out way to build it rather than type it fuckin out
+- glyphs for non-laminae? maye ၜ for "overview of the laminae"
 
 goals:
 
@@ -697,26 +620,27 @@ this gets used (no double quotes allowed):
 
     MEDIA("pic-name.jpg")
 
-## ▤□□ References
+## ■▤□ References
 
 handle translated refs! (what does this mean?)
 
-Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Contents of node is the term being defined, or the `title` attribute can be it. Definition is the wrapping element or `def` attribute. Id is its or parents `id`.
+Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Text content of node is the term being defined, or the `title` attribute can be it. Definition is optional - the `def` attribute or wrapping element's text (end with period). Id is its or parents `id`.
 
 Should have an optional actual definition string that can be shown in tooltip, and "go to [page title]" link if same page, otherwise "go to text" if on same page?
 
 References themselves just link <a> tags for now (maybe should be <abbrv> or <dl>)
 
-    REF[text](id)
+    REF[text](page#anchor)
+    REF[text](#anchor)
     REF[The Wilt](CNP)
     REF[____[the Concordance]](LGP)
     REF[TODO(artist plane)[the Bauble]](NEC)
-    REF[Galabast](galabast)
-    REF[Galabast] # default id is lowercased string TODO not implemented
+    REF[Galabast](#galabast)
+    REF[Galabast] # default id is kebab-cased string TODO not implemented
     REF[Blighted lovers](CNP#the-lovers)
     REF[wind shifters](LNC#wind-shifters)
     REF[Equilibrium](facets#equilibrium)
-    REF[Equilibrium] # whitelist dict of terms to auto-map TODO not implemented
+    REF[Equilibrium] # whitelist dict of terms to auto-map to above TODO not implemented
 
 process all `<dfn>`s and all headings to find IDs and which pages they're on.
 
@@ -725,7 +649,7 @@ process all `<dfn>`s and all headings to find IDs and which pages they're on.
     + get its ID, title, and filename
         * also get its short description, since these are definitions too
     + get each dfn and element with id
-        * exclude the basic headings
+        * exclude the basic headings and other blacklist (like "others" from CND)
 - insert
     + get all `a.ref`'s
     + if it starts with "#" done
@@ -735,17 +659,30 @@ process all `<dfn>`s and all headings to find IDs and which pages they're on.
 
 same-page REFs link as normal. if not found, look for page ID transform
 
-ok we need more processing to get full link and hover text
-
 - gloss is just a ref to something in the glossary
 - A-Z index of all of them, each showing chapter as source
     + bold the one with definition
     + how to show multiple references on same page? i guess don't
 - don't do separate page for each item, each lives somewhere
 - should you be able to hover for quick description? for glossary items definitely yes, maybe heading/dfn can define a summary, or we can pull it out somehow (see dfn spec) and parse those
-- map from ID (in md frontmatter) to filename
 
 floating TOC?
+
+### facet hover
+
+data-facet= (added when processing REFs) and :after content
+
+- (labeled) glyph square on trinym hover?
+    + like above and below are the other facets from that axis, dimmed, with text and glyph
+    + to the sides are the other axes
+- CSS/JS attached to data-facet for hover
+
+### lamina hover
+
+- show three glyphs in :after?
+    + probably not in ordial-primer chapter - do we even want those to link?
+- probably the same REF popup as anything else
+- could expand with facet definitions
 
 ## ▤▤□ Gondola Owl
 

@@ -1,5 +1,17 @@
 # The Instrument
 
+---
+subtitle: Hierarchy Utility Dissipation (LND)
+toc_only: True
+#quote: |
+#    > TODO(find intro quote)
+abstract: |
+
+    Any Moiler will tell you that something went very wrong in this place. The Instrument consists of the interior of a titanic clockwork automaton whose exterior has never been seen, and in its cramped and infinite chambers the Moilers tend to its byzantine contraptions with maniacal focus. The Instrument's purpose---if there ever was one---has long been lost to the culture here, and in the absence of that teleology the Moilers' work takes on the frantic intensity of a unattainable goal and seems to have driven them mad. The Instrument presents its residents with a kaleidoscope of functions: raw materials cascading through chutes and filling up rooms, hallways locking and unlocking unpredictably and which contain caches of tools and undeciphered etchings and diagrams, all exposed by harsh white lighting and groaning and rumbling with echoes.
+
+    An industrious hierarchy has been consumed by the neurotic quest to map out their world and recover meaning in ever more baroque applications and measurements of the Instrument's mechanisms. Cult-like groups carry out tasks driven by these interpretations: ferrying supplies back and forth uselessly, cleaning components and sanding materials into dust, analyzing schematics into meaninglessness, and chanting hypothetical decipherments into nonsense. Each Moiler manifests their burdens with their own elaborate tics and rituals, each facing an itch here that may never be scratched.
+---
+
 <!--
 
 > The Iron Law of Institutions
@@ -87,18 +99,6 @@ no one has a picture of the whole thing. you walk into a room and one person wil
 no one has been or seen the "outside" of this machine, if it exists. endless rooms. the theory is that it used to be an incredible titanic automaton that walked between realms fulfilling some cosmic function, but that the culture administering to it degraded over time - the automaton now lies in ruins and the inheritors of this system work busily and futilely in search of meaning.
 
 -->
-
----
-subtitle: Hierarchy Utility Dissipation (LND)
-toc_only: True
-#quote: |
-#    > TODO(find intro quote)
-abstract: |
-
-	Any Moiler will tell you that something went very wrong in this place. The Instrument consists of the interior of a titanic clockwork automaton whose exterior has never been seen, and in its cramped and infinite chambers the Moilers tend to its byzantine contraptions with maniacal focus. The Instrument's purpose---if there ever was one---has long been lost to the culture here, and in the absence of that teleology the Moilers' work takes on the frantic intensity of a unattainable goal and seems to have driven them mad. The Instrument presents its residents with a kaleidoscope of functions: raw materials cascading through chutes and filling up rooms, hallways locking and unlocking unpredictably and which contain caches of tools and undeciphered etchings and diagrams, all exposed by harsh white lighting and groaning and rumbling with echoes.
-
-	An industrious hierarchy has been consumed by the neurotic quest to map out their world and recover meaning in ever more baroque applications and measurements of the Instrument's mechanisms. Cult-like groups carry out tasks driven by these interpretations: ferrying supplies back and forth uselessly, cleaning components and sanding materials into dust, analyzing schematics into meaninglessness, and chanting hypothetical decipherments into nonsense. Each Moiler manifests their burdens with their own elaborate tics and rituals, each facing an itch here that may never be scratched.
----
 
 ## Environment
 

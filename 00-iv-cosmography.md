@@ -1,11 +1,11 @@
 # Cosmography
 
-TODO(revise)[]
-
 ---
 abstract: |
-	Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
+    Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
 ---
+
+TODO(revise)[]
 
 <style>
 	p + ul li {
@@ -17,41 +17,43 @@ abstract: |
 
 The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[the Inevitability](CND) ensures the physical laws of entropy, and REF[____[the Hew]](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
 
-Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each.*]:
+Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each.*]
 
-- *Method*: &nbsp;Hierarchy <span class="glyph">ꩧ</span> --- Synthesis <span class="glyph">ꧪ</span> --- Autonomy <span class="glyph">ꩢ</span>
-- *Motive*: &nbsp;Empathy <span class="glyph">ဥ</span> --- Utility <span class="glyph">၇</span> --- Power <span class="glyph">ဋ</span>
-- *Means*: &nbsp;Creation <span class="glyph">ꧠ</span> --- Equilibrium <span class="glyph">ဓ</span> --- Dissolution <span class="glyph">ဗ</span>
+TODO(should these facets be regular REFs?)[]
+
+- *Method*: &nbsp;REF[Hierarchy] --- REF[Synthesis] --- REF[Autonomy]
+- *Motive*: &nbsp;REF[Empathy] --- REF[Utility] --- REF[Power]
+- *Means*: &nbsp;REF[Creation] --- REF[Equilibrium] --- REF[Dissolution]
 
 These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
 
-- Hierarchy <span class="glyph">ꩧ</span> Empathy <span class="glyph">ဥ</span> Creation <span class="glpyh">ꧠ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Empathy <span class="glyph">ဥ</span> Equilibrium <span class="glpyh">ဓ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Empathy <span class="glyph">ဥ</span> Dissolution <span class="glpyh">ဗ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Utility <span class="glyph">၇</span> Creation <span class="glpyh">ꧠ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Utility <span class="glyph">၇</span> Equilibrium <span class="glpyh">ဓ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Utility <span class="glyph">၇</span> Dissolution <span class="glpyh">ဗ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Power   <span class="glyph">ဋ</span> Creation <span class="glpyh">ꧠ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Power   <span class="glyph">ဋ</span> Equilibrium <span class="glpyh">ဓ</span>
-- Hierarchy <span class="glyph">ꩧ</span> Power   <span class="glyph">ဋ</span> Dissolution <span class="glpyh">ဗ</span>
-- Synthesis <span class="glyph">ꧪ</span> Empathy <span class="glyph">ဥ</span> Creation <span class="glpyh">ꧠ</span>
-- Synthesis <span class="glyph">ꧪ</span> Empathy <span class="glyph">ဥ</span> Equilibrium <span class="glpyh">ဓ</span>
-- Synthesis <span class="glyph">ꧪ</span> Empathy <span class="glyph">ဥ</span> Dissolution <span class="glpyh">ဗ</span>
-- Synthesis <span class="glyph">ꧪ</span> Utility <span class="glyph">၇</span> Creation <span class="glpyh">ꧠ</span>
-- Synthesis <span class="glyph">ꧪ</span> Utility <span class="glyph">၇</span> Equilibrium <span class="glpyh">ဓ</span>
-- Synthesis <span class="glyph">ꧪ</span> Utility <span class="glyph">၇</span> Dissolution <span class="glpyh">ဗ</span>
-- Synthesis <span class="glyph">ꧪ</span> Power   <span class="glyph">ဋ</span> Creation <span class="glpyh">ꧠ</span>
-- Synthesis <span class="glyph">ꧪ</span> Power   <span class="glyph">ဋ</span> Equilibrium <span class="glpyh">ဓ</span>
-- Synthesis <span class="glyph">ꧪ</span> Power   <span class="glyph">ဋ</span> Dissolution <span class="glpyh">ဗ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Empathy <span class="glyph">ဥ</span> Creation <span class="glpyh">ꧠ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Empathy <span class="glyph">ဥ</span> Equilibrium <span class="glpyh">ဓ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Empathy <span class="glyph">ဥ</span> Dissolution <span class="glpyh">ဗ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Utility <span class="glyph">၇</span> Creation <span class="glpyh">ꧠ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Utility <span class="glyph">၇</span> Equilibrium <span class="glpyh">ဓ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Utility <span class="glyph">၇</span> Dissolution <span class="glpyh">ဗ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Power   <span class="glyph">ဋ</span> Creation <span class="glpyh">ꧠ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Power   <span class="glyph">ဋ</span> Equilibrium <span class="glpyh">ဓ</span>
-- Autonomy  <span class="glyph">ꩢ</span> Power   <span class="glyph">ဋ</span> Dissolution <span class="glpyh">ဗ</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Empathy] REF[Creation]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Empathy] REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Empathy] REF[Dissolution]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Utility] REF[Creation]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Utility] REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Utility] REF[Dissolution]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Power]   REF[Creation]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Power]   REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Hierarchy] REF[Power]   REF[Dissolution]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Empathy] REF[Creation]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Empathy] REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Empathy] REF[Dissolution]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Utility] REF[Creation]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Utility] REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Utility] REF[Dissolution]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Power]   REF[Creation]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Power]   REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Synthesis] REF[Power]   REF[Dissolution]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Empathy] REF[Creation]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Empathy] REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Empathy] REF[Dissolution]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Utility] REF[Creation]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Utility] REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Utility] REF[Dissolution]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Power]   REF[Creation]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Power]   REF[Equilibrium]</span>
+- <span class="glyph-group">REF[Autonomy]  REF[Power]   REF[Dissolution]</span>
 
 ## Laminae
 
@@ -107,8 +109,8 @@ By all accounts and investigations Soblei exists outside of every lamina and car
 
 No living creature wishes to spend time here. The wind can kill through cold or a rubble-wards bludgeoning gust. Outdoors the light can blind, while indoors the wind intensifies, the noise driving one mad. It is far too loud to allow verbal communication, and written communication is unwieldy in the gale---only gestures are possible. Coordination difficulties mean that most pass through alone or in very small groups. But those that tread widely always pass through here, for nearly every lamina is connected to Soblei, and the shortest path from one place to another usually passes through it. This visitor knows the city far, far, better than she would like to.
 
-Apertures are everywhere: in city square fountains, in cellars and back rooms, stables and markets, palace halls and libraries. To reach them you must clamber and squeeze through hurricane rubble, and many seem inaccessible. Despite the potential power of such a connected place, no one has conquered its hazards^[There of course have been innumerable attempts. The merchant king Haradaw sponsored a formidable effort to construct walls of imported stone with which to cordon off wind-free avenues to connect major destinations, and while a handful of sections were successfully built to withstand Soblei's forces, the number of lives lost during construction quickly exhausted the will of everyone involved. An unrelated attempt involved tunneling, which reportedly faced insurmountable challenges in the form of unstable underground apertures to hazardous realms.], and it continues to function as a welcome point of friction in interlaminal affairs. Though guides and strategies abound, there is no comfortable or remotely safe way to shepherd a sightseeing aristocrat or an invading army through this place. At the same time it is not so impossibly hazardous a place TODO(compared to extremely inhospitable plane)[] such that elaborate expedition planning is required to survive at all: an individual with warm clothing, a helmet, steady balance, and directions could, with some luck, make the journey between two nearby apertures. It is also an unshakably neutral place, with no possibility of building fortifications, laying traps, or setting up preparations of any kind that won't be swept away in a moment, and so over the ages Soblei has been party to a significant number of duels and high-stakes or clandestine engagements.
+Apertures are everywhere: in city square fountains, in cellars and back rooms, stables and markets, palace halls and libraries. To reach them you must clamber and squeeze through hurricane rubble, and many seem inaccessible. Despite the potential power of such a connected place, no one has conquered its hazards,^[There of course have been innumerable attempts. The merchant king Haradaw sponsored a formidable effort to construct walls of imported stone with which to cordon off wind-free avenues to connect major destinations, and while a handful of sections were successfully built to withstand Soblei's forces, the number of lives lost during construction quickly exhausted the will of everyone involved. An unrelated attempt involved tunneling, which reportedly faced insurmountable challenges in the form of unstable underground apertures to hazardous realms.] and it continues to function as a welcome point of friction in interlaminal affairs. Though guides and strategies abound, there is no comfortable or remotely safe way to shepherd a sightseeing aristocrat or an invading army through this place. At the same time it is not so impossibly hazardous a place TODO(compared to extremely inhospitable plane)[] such that elaborate expedition planning is required to survive at all: an individual with warm clothing, a helmet, steady balance, and directions could, with some luck, make the journey between two nearby apertures. It is also an unshakably neutral place, with no possibility of building fortifications, laying traps, or setting up preparations of any kind that won't be swept away in a moment, and so over the ages Soblei has been party to a significant number of duels and high-stakes or clandestine engagements.
 
-A handful of accessible and central apertures have way stations on their non-Soblei side, a few hosting assortments of guides, explorers, diplomats, and lunatics, but most little more than deserted shacks offering respite and the detritus of past travellers. A handful of guides are known to offer their services, along with protective gear, but there is no such thing as a comfortable journey here. Navigation is particularly difficult. Maps have been made, but their usage and updates must be committed to memory so as not to be destroyed by wind. Stone tablets are more resilient than parchment but are hard to maneuver through the gale and likely to cause injury or get smashed. Etchings on animal hide are sufficiently resilient, but must be small or incorporated into clothing, as holding up a sheet of any size catches the wind uncontrollably. It is a difficult realm to map anyway, the notion of streets having been laid to waste. The primary subjects to map are landmarks, though it is hard to recognize them through a glaring squint. Up close there is an incredible diversity of building styles and materials, but when struggling through the streets everything appears the same^[This visitor has over time crafted something of a personal map, using a web of small beads connected by fine chain links. Each bead is carved on one side to represent a landmark and on the other side with the glyphs that denote the destination of nearby apertures, if any. These carvings can be understood by touch. The beads are chained to each other in a way that matches the orientation and proximity between landmarks, notched to indicate direction. For instance, when facing the central peacock head on a particular fountain, behind you is a library with an aperture to REF[____[the Essentialism]](LNP), to your the left by the corner of a florid-tiled building on the edge of the plaza is an aperture to the deserts of Koratia, while ahead on the ground where the gargoyles have toppled off some sort of temple is an aperture to REF[____[the Brink]](CGP), but that is quite some ways---four chain links as opposed to the usual one. At the time of writing this web has roughly forty beads, though in a mnemonic fashion this is a scaffold upon which this visitor's cartographic knowledge has grown somewhat larger.].
+A handful of accessible and central apertures have way stations on their non-Soblei side, a few hosting assortments of guides, explorers, diplomats, and lunatics, but most little more than deserted shacks offering respite and the detritus of past travellers. A handful of guides are known to offer their services, along with protective gear, but there is no such thing as a comfortable journey here. Navigation is particularly difficult. Maps have been made, but their usage and updates must be committed to memory so as not to be destroyed by wind. Stone tablets are more resilient than parchment but are hard to maneuver through the gale and likely to cause injury or get smashed. Etchings on animal hide are sufficiently resilient, but must be small or incorporated into clothing, as holding up a sheet of any size catches the wind uncontrollably. It is a difficult realm to map anyway, the notion of streets having been laid to waste. The primary subjects to map are landmarks, though it is hard to recognize them through a glaring squint. Up close there is an incredible diversity of building styles and materials, but when struggling through the streets everything appears the same.^[This visitor has over time crafted something of a personal map, using a web of small beads connected by fine chain links. Each bead is carved on one side to represent a landmark and on the other side with the glyphs that denote the destination of nearby apertures, if any. These carvings can be understood by touch. The beads are chained to each other in a way that matches the orientation and proximity between landmarks, notched to indicate direction. For instance, when facing the central peacock head on a particular fountain, behind you is a library with an aperture to REF[____[the Essentialism]](LNP), to your the left by the corner of a florid-tiled building on the edge of the plaza is an aperture to the deserts of Koratia, while ahead on the ground where the gargoyles have toppled off some sort of temple is an aperture to REF[____[the Brink]](CGP), but that is quite some ways---four chain links as opposed to the usual one. At the time of writing this web has roughly forty beads, though in a mnemonic fashion this is a scaffold upon which this visitor's cartographic knowledge has grown somewhat larger.]
 
 Absolutely no stories remain of Soblei before its destruction. It is presumed to have been a resplendent and powerful metropolis at the crux of the multiverse; various legends are associated with it, TODO(soblei legends?)[but none with even a crumb of evidence that would warrant their inclusion in this work].

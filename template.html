@@ -261,6 +261,18 @@
       .corner a {
         width: 100%;
       }
+
+    [data-facet] {
+      display: inline-block;
+    }
+    [data-facet]:after {
+      font-family: "NotoSansMyanmar", sans-serif;
+      line-height: 1rem;
+      content:  attr(data-facet);
+    }
+    .glyph-group [data-facet] + [data-facet] {
+      margin-left: 0.25rem;
+    }
   </style>
 $for(css)$
   <link rel="stylesheet" href="$css$" />
@@ -339,6 +351,8 @@ $if(toc_only)$
   $if(post_toc_only)$
     $post_toc_only$
   $endif$
+  $-- Keeping it in HTML output so that we can parse heading IDs for untranslated index items
+  <div style="display: none">$body$</div>
 $else$
   $body$
 $endif$
@@ -379,12 +393,7 @@ $endif$
 
   document.querySelectorAll('a.ref').forEach(function(el) {
     var href = el.getAttribute("href");
-    // @HACK Checking for "<" is a workaround for the trinym span.glyph replacement
-    if (href.indexOf("<") !== -1 || !document.querySelector(href)) {
-      console.warn("Missing reference id", href);
-      el.removeAttribute("href");
-      el.setAttribute("title", "Referenced text has not yet been translated");
-    }
+    // TODO set up ref
   });
 
   var guildTitle = document.querySelector(".guild-name");

@@ -32,7 +32,7 @@
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">◍○○○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |
-| Facets | <span class="bloop">◍◍○○</span> |
+| Facets | <span class="bloop">◍◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
 | Glossary | <span class="bloop">◍◍○○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |
@@ -49,7 +49,7 @@
 | Author | <span class="bloop">■□□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
 | Plates | <span class="bloop">■□□</span> |
-| References | <span class="bloop">▤□□</span> |
+| References | <span class="bloop">■▤□</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
 | <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |

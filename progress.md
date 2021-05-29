@@ -151,6 +151,7 @@
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-05-28|9   |40126|1176|35%|36%|15|82|53|29|
 |2021-05-27|2.5 |39632|1077|33%|35%|14|80|53|27|
 |2021-05-23|1   |39374|1076|33%|35%|14|80|53|27|
 |2021-05-22|1   |39347|1057|33%|35%|14|80|53|27|
@@ -266,7 +267,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 39,632 | 1,077 | 14/42 | 80/224 |
+| 40,126 | 1,176 | 15/42 | 82/224 |
 </div>
 
 <div class="progress-wrap">
@@ -301,7 +302,7 @@
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">◍○○○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |
-| Facets | <span class="bloop">◍◍○○</span> |
+| Facets | <span class="bloop">◍◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
 | Glossary | <span class="bloop">◍◍○○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |
@@ -318,7 +319,7 @@
 | Author | <span class="bloop">■□□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
 | Plates | <span class="bloop">■□□</span> |
-| References | <span class="bloop">▤□□</span> |
+| References | <span class="bloop">■▤□</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
 | <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |

@@ -5,7 +5,10 @@ import re
 import os
 import pypandoc
 import glob
+import frontmatter
 from bs4 import BeautifulSoup
+
+from facets import facet_names, name_to_glyph, id_to_glyph
 
 default_pandoc_args = [
     "--standalone",
@@ -13,13 +16,30 @@ default_pandoc_args = [
     "--shift-heading-level-by=-1",
 ]
 
+def to_kebab_case(value):
+    return "-".join(value.lower().split())
+
+file_id_regex = r"[^-]+(-[0iv]+)?-(.+).md"
+
 # todo_regex = r"TODO(/\w+\b)? ?(\([^\)]+\))? ?(\[([^\]]+)\])?" # shared with todo.py
 todo_regex = r"TODO(/\w+\b)? ?(\([^\)]+\))? ?(\[([^\]]*)\])" # non-optional [replacement] to only replace ones with replacements for now
 todo_replace = r"\4"
 blank_regex = r"____(\([^\)]+\))?\[([^\]]*)\]"
 blank_replace = r"\2"
-ref_regex = r"REF\[([^\]]+)\]\(([^\)]+)\)"
-ref_replace = r"<a href='#\2' class='ref'>\1</a>"
+
+ref_regex = r"REF\[([^\]]+)\](?:\(([^\)]+)\))?"
+def ref_replace(match):
+    additional = ""
+    text = match.group(1)
+    if text in facet_names:
+        link = "facets#" + text.lower()
+        additional = " data-facet=\" %s\"" % name_to_glyph[text]
+    else:
+        link = match.group(2) or "#" + to_kebab_case(text)
+    out = "<a href='%s' class='ref'%s>%s</a>" % (link, additional, text)
+    # print(out)
+    return out
+
 media_regex = r"MEDIA\(\"(([^\"]+)\.\w\w\w\w?)\"\)"
 media_replace = r"<div class='img-wrap'><img src='images/\1' title='\2' /></div>"
 media_wip_regex = r"\s?MEDIA(\([^\)]*\))?"
@@ -27,24 +47,13 @@ media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses
 ed_note_replace = r"\1<span class='editor-note'>\2</span>"
 
-file_id_regex = r"[^-]+(-[0iv]+)?-(.+).md"
-
-facets = [
-    # { "L": "ၑ", "N": "ၒ", "C": "ꧯ"},
-    # { "G": "ဥ", "N": "၇", "E": "ဋ"},
-    # { "C": "ꩨ", "P": "ꧻ", "D": "ဘ"},
-
-    { "L": "ꩧ", "N": "ꧪ", "C": "ꩢ"},
-    { "G": "ဥ", "N": "၇", "E": "ဋ"},
-    { "C": "ꧠ", "P": "ဓ", "D": "ဗ"},
-]
-facet_regex = r"[LNC][GNE][CPD]"
+facet_regex = r"(?:[^'])[LNC][GNE][CPD]" # make sure first char is not ' from being in HTML attribute
 def facet_replace(match):
-    match = match.group()
-    return '<span class="glyph">' + facets[0][match[0]] + facets[1][match[1]] + facets[2][match[2]] + '</span>'
+    match = match.group()[1:]
+    return '<span class="glyph">' + id_to_glyph[0][match[0]] + id_to_glyph[1][match[1]] + id_to_glyph[2][match[2]] + '</span>'
 
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
-    print("building", input_file)
+    print(input_file)
     if output_file is None:
         output_file = input_file.replace(".md", ".html")
 
@@ -92,12 +101,15 @@ only_file = sys.argv[1] if len(sys.argv) > 1 else None
 outer_files = ["progress.md", "about.md", "error.md"]
 files = glob.glob("[^0-9]*.md")
 files.sort()
+file_data = {}
 file_titles = []
 file_ids = []
+file_metadata = {}
 input_files = []
 output_files = []
 
 # Grab metadata about all the files
+print("\ngrabbing metadata...")
 for i, filename in enumerate(files):
     if os.stat(filename).st_size == 0:
         continue
@@ -105,13 +117,26 @@ for i, filename in enumerate(files):
         title = f.readline().replace("# ", "").replace("\n", "")
         if "SKIP" in title:
             continue
+        print(filename)
+        file_id = re.match(file_id_regex, filename)[2]
+        metadata, content = frontmatter.parse(f.read())
+        file_data[file_id] = {
+            "id": file_id,
+            "title": "Contents" if i == 0 else title,
+            "input": filename,
+            "output": filename.replace(".md", ".html"),
+            "metadata": metadata,
+        }
+        file_ids += [file_id]
         file_titles += [title]
-        file_ids += [re.match(file_id_regex, filename)[2]]
         input_files += [filename]
         output_files += [filename.replace(".md", ".html")]
 file_titles[0] = "Contents"
 
+# import pprint; pprint.PrettyPrinter(indent=2).pprint(file_data)
+
 # Actually compile to HTML
+print("\nbuilding...")
 for i, filename in enumerate(input_files):
     if only_file and filename != only_file:
         continue
@@ -140,15 +165,80 @@ for filename in outer_files:
     build_file(filename)
 
 anchors = {}
-print(file_ids)
-for i, filename in enumerate(input_files):
-    if only_file and filename != only_file:
+anchor_blacklist = ["environment", "culture-paradigm", "guide", "visiting", "locations", "rumors", "rumors-mysteries", "history", "historical-events", "festivals-traditions", "figures-groups", "overview", "others", "todo"]
+print("\ngathering anchors...")
+for file_id, data in file_data.items():
+    # if only_file and data["input"] != only_file:
+    #     continue
+    if file_id == "title":
         continue
-    print("gather anchors from", file_ids[i])
-    with open("build/" + output_files[i]) as fp:
-        soup = BeautifulSoup(fp, 'html.parser')
-        # for anchor in soup.find_all("h1"):
-        for anchor in soup.select("dfn, h1, h2, h3, h4"):
-            print(anchor)
-        # print(soup)
 
+    anchors[file_id] = {
+        "href": data["output"],
+        "name": data["title"],
+        "def": data["metadata"].get("abstract"), # TODO what's the short description and also need to ensure there's no REF/etc markup in these or any defs!!
+    }
+    untranslated = data["metadata"].get("toc_only")
+
+    print(data["output"])
+    with open("build/" + data["output"]) as f:
+        soup = BeautifulSoup(f, 'html.parser')
+        for anchor in soup.select("dfn, h1[id], h2[id], h3[id]"):
+            if anchor.find_parents("nav", id="TOC"):
+                # we're in the table of contents - a duplicate of a heading dfn
+                continue
+            if anchor("dfn"):
+                # we have a dfn child, we'll just use that one
+                continue
+
+            anchor_id = anchor.get("id") or anchor.parent.get("id")
+            anchor_name = anchor.get("title") or anchor.string
+
+            if anchor_id in anchor_blacklist or "TODO" in anchor_name:
+                continue
+
+            anchor_info = {
+                "href": data["output"] + "#" + anchor_id,
+                "name": anchor_name,
+                "def": anchor.get("def") or (anchor.name[0] != "h" and anchor.parent.get_text()),
+                "untranslated": untranslated,
+            }
+
+            anchors[file_id + "#" + anchor_id] = anchor_info
+            # print(anchor_info)
+
+print("\ninserting references...")
+for file_id, data in file_data.items():
+    if only_file and data["input"] != only_file:
+        continue
+    if file_id == "title":
+        continue
+
+    print(data["output"])
+    with open("build/" + data["output"]) as f:
+        soup = BeautifulSoup(f, 'html.parser')
+        for ref in soup.select("a.ref"):
+            href = ref["href"].lower()
+            href_lookup = href if href[0] != "#" else (file_id + href)
+
+            if href_lookup not in anchors:
+                print("HEY found unreffable ref:", href)
+                del ref["href"]
+                ref["title"] = "Referenced text has not yet been translated"
+                continue
+
+            anchor = anchors[href_lookup]
+            if anchor.get("def"):
+                ref["title"] = anchor["def"].strip()
+            if href[0] != "#":
+                ref["href"] = anchors[href]["href"]
+                if anchor.get("untranslated"):
+                    ref["href"] = ref["href"][:ref["href"].index("#")] # cut off the anchor, just go to the page
+                    ref["title"] = "Referenced text has not yet been translated"
+
+            # print(ref)
+
+    with open("build/" + data["output"], "w") as f:
+        f.write(str(soup))
+
+# print(); import pprint; pprint.PrettyPrinter(indent=2).pprint(anchors)

@@ -160,23 +160,36 @@ see Template
 - Name - Alea?
 - Predictions that come true or repeat. What same thing could keep showing up on different lamina that's more about her than the multiverse?
 - how tough is she? e.g. facing the CEC kids.
+    + gracious, self-controlled, clever
 - travelling with a companion somewhere, maybe with consequences?
-- pick one plane that the annals of of the parrigues could take place in, and then "it was here that this visitor picked up a book called The Annals of the Parrigues describing the area and, though she had been traveling for some time already, it was this book that persuaded her to turn her notes and journals into the work you are now reading, and to which she owes some small stylistic debt for having been granted by it the liberty to occasionally interject her experiences into these pages." actually it would be better if she actually meets them, maybe they just completed the book, gave her a bottle of anise liqueur. describe the couple, clearly at the en of a long journey and glowing with experience and still-growing affection for each other
+    + maybe met someone in the Bell, or the Inevitability
+- pick one plane that the annals of of the parrigues could take place in, and then:
+    + "it was here that this visitor picked up a book called The Annals of the Parrigues describing the area and, though she had been traveling for some time already, it was this book that persuaded her to turn her notes and journals into the work you are now reading, and to which she owes some small stylistic debt for having been granted by it the liberty to occasionally interject her experiences into these pages."
+    + actually it would be better if she actually meets them, maybe they just completed the book, gave her a bottle of anise liqueur. describe the couple, clearly at the end of a long journey and glowing with experience and still-growing affection for each other
 - example from nyt goop article. gp talks about 3rd child, writer says she later cried. then later in article she describes a session of self doubt that involves her lack of 3rd child. it's clear that that's when she cried
-    - maybe could be like at some post-painful beautiful moment "it was later, when this visitor realized that she would never again be setting foot in any of the tri-fold reams again, that all the collected stress and beauty of her years of travel would flow through her in a flood of tears" and then later you see the what and why of why she has to never step foot in them again.
+    - maybe could be like at some post-painful beautiful moment "it was later, when this visitor realized that she would never again be setting foot in any of the laminal realms again, that all the collected stress and beauty of her years of travel would flow through her in a flood of tears" and then later you see the what and why of why she has to never step foot in them again.
 - there's something special about "the next day..." with a forward-looking commentary for the ending. "years later..." tries to do the same thing but it's not immediate enough, and we already have a "years later" in the frame story.
 - "...its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too [now] wear the spiral." from slate star codex thing
 - the ivory pendant she has in frame frontmatter - change and/or connect to plot
 - the soblei bead map - does she give it away?
 
+    descriptive moral relativism holds only that people do, in fact, disagree fundamentally about what is moral, with no judgment being expressed on the desirability of this. Meta-ethical moral relativism holds that in such disagreements, nobody is objectively right or wrong.[1] Normative moral relativism holds that because nobody is right or wrong, everyone ought to tolerate the behavior of others
+
+i don't think her position should be that "no one is right or wrong"... but then what?
+
 ### back story
 
-early thoughts: daughter of a noble who left, buddha like, to journey and leave it all behind. absolutely no combat nor magic skills or anything. if she had stats, they would all be... str 9, dex 11, con 13, cha 13, int 11, wis 15. no rpg class. .
+early thoughts: daughter of a noble who left, buddha like, to journey and leave it all behind, maybe after a civil war. absolutely no combat nor magic skills or anything. if she had stats, they would all be... str 9, dex 11, con 13, cha 13, int 11, wis 15. no rpg class.
 
-journeyed her whole life? or like she *lived* in these places
+journeyed her whole life but spend lots of time in some of these places, in at least once she considered living forever there because she loved it, but she didn't want to fall prey to dogmatism, this work would remain incomplete if she had stayed
+
+ok so if the ordial plane is the imagination, then she is imaginative. she could be a creative genius that is responsible for the whole ordial thing, so her goals could be just creative production. maybe after some trauma she fell into a a creative delirium. NO BETTER: she had a formative experience with some political strife that led her to want to convince people that these political absolutes belong to the laminae only (where they are perpetuated by natural forces and semi-no-frill-will'd people) but that on cardinal worlds we must cOexIsT. a world with just sheep or wolves wouldn't work, except a superatural one.
 
 - not just a female-gendered male character
 - possible objectives:
+    + no good or evil, everyone makes sense in their context
+    + and no one paradigm works for everything
+        * although that's what Synthesis and Utility say. but likewise in practice you can't adhere to either of those dogmatically?
     + exploration, wonder, research
     + finding a home
     + fixing something - tracking down a family member, righting a wrong that someone (maybe herself) did
@@ -185,9 +198,12 @@ journeyed her whole life? or like she *lived* in these places
     + more existential, like this is the nature of reality
     + maybe also like "understand all types of beings"
         * maybe was caught up in (or helped create) a conflict, and was totally humbled, and wants to learn and help prevent it from happening again
-            - conflict should have involved not understanding what a lamina was for
+            - conflict could have involved not understanding what a lamina was for
         * "the universe takes all types of people"
     + atonement
+        * she grew up dogmatic and sheltered in a royal family and participated in their evil deeds that felt good to her and were driven by perception of evil others
+        * civil war ensued, she was cast out, revelation when meeting the other side
+        * inspired her to write this fiction, and it took off
 - i can see her spreading word of laminae to different laminae
 - does she have ties to a community?
     + community destroyed in something connected to the beginning of her journey, or
@@ -197,13 +213,23 @@ journeyed her whole life? or like she *lived* in these places
 - if she has some objective, and if impossible/failed, then maybe on echo plateau something like "it was here that this visitor formally gave up on the cause that began her journey" or something
 - personality traits
     + humble, funny/amused, listens, regal, simple, kind, accepted by everyone, absolutely no expectations from anything ever
+- her fate and fate of her work
+    + some aperture gone wrong, or maybe emergency exit from The Cartography
+    + no time stuff, rather she got suspended in some stasis for a long time and the Order unlocked it
+    + another copy had been made before this happened, and/or someone (an Inevitability visitor?) made a copy? maybe at the archive (LNP)
 
 ### moments
 
+- in detail above:
+    + Parrigues
+    + crying/self-doubt
+    + finds a companion
 - author having an argument with someone over something, mentioned say in footnote
-- one plane, fairly late on, "it was through this portal that this visitor first set foot in one of the ____ planes"
+- one plane, fairly late on, "it was through this portal that this visitor first set foot in one of the laminae"
 - also fairly late, a simple note that this is this visitor's favorite spot in the multiverse - maybe it has to do as much with relief from something really difficult. coming out of the cave in spain, a fire.
-- one spot where she spends a very very long time, nearly retired from traveling. maybe goes back there at the end
+- one spot where she spends a very very long time, nearly retired from traveling.
+    + but then this work would be incomplete and she'd fall prey to the same dogmatism etc etc
+    + promises to go back there in the end
 - this visitor was honored to be invited to participate in [such and such ceremony], though of course she was not permitted in the [special place]
 - something omitted for it would not reflect well upon this visitor
 - close call (maybe somewhere not particularly dangerous). It was here, of all places, that this visitor came closest to mortal harm, when a ____
@@ -258,6 +284,7 @@ steam -> rust and/or ground glass
     + Landscape
     + Seasonality
     + Weather
+- Review author notes and think about how to insert
 - How do they greet each other? Cultural tics
 - How they interact with prime worlds
     + if destruction, they consume, if creation, they overflow
@@ -272,6 +299,7 @@ e.g. entropy, architecture, the bloom's mutation
 
 (move from above and below into here)
 
+- One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
@@ -295,6 +323,8 @@ e.g. entropy, architecture, the bloom's mutation
 - sleep
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
+- strange loops
+    + Synthesis lamina. relies on the existence of structured/hierarchical stuff but also violates it
 - used
     + https://en.wikipedia.org/wiki/Rotation_method
     + an infinite jest (/burning man/blockchain/lsd)-inspired thing, something where everyone annoyingly loves it, raves, but it's actually good and changes your ife
@@ -689,10 +719,18 @@ anagram names:
 - suicide cliff: https://open.spotify.com/track/5xc89NHPX4oUxikCYu1Mve
 - should be asleep https://www.youtube.com/channel/UC-RVESJTf_zSaFB8qGoxOnA
     + https://www.youtube.com/watch?v=3EUFiMj4leI track 2 beasts and baubles
+- https://exitab.exitmusic.org/album/in-white-rooms-extb037
 - C418
 - Takashi Kokubo
     + Takashi Kokubo (小久保隆) - Jamaica ～ Waves And Light And Earth (ジャマイカ～波と光と大地) (1993)
     + Takashi Kokubo (小久保隆) - The Day I Saw The Rainbow (虹を見た日) ～ Elegant Harp ～ (1993) [Full Album]
+- Bioçic
+    + https://www.youtube.com/watch?v=3EUFiMj4leI Toshiya Sukegawa (助川敏弥) - Bioçic Music: Jewels
+    + https://www.youtube.com/watch?v=qMbdkAyyA5k
+    + https://www.youtube.com/watch?v=58mhgplUCCk
+- Hiroshi Yoshimura (吉村弘) - Wet Land (1993) https://www.youtube.com/watch?v=Z3m7HXeiHpg
+- Motohiko Hamase (浜瀬元彦) - Intaglio (インタリヨ) https://www.youtube.com/watch?v=iwmR72iFGm4
+    + 2nd track maybe LND, or maybe not oppresive enough, but it's mechanical and intense
 
 # idle resources to generate
 
@@ -943,7 +981,7 @@ anagram names:
         + ____ on the ____
         + the ____s
 - Rumors & Mysteries
-- Historical events
+- Historical Events (or "History"? have used both)
     - disasters
         - natural: storm, tsunami, hail, drought, flood, earthquake, etc.
         - natural or unnatural: fire, pestilence, famine
@@ -1107,7 +1145,7 @@ abstract: |
 
 ### Festivals & Traditions
 
-### Historical Events
+### Historical Events (or History? have used both)
 
 ### Rumors
 

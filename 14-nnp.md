@@ -58,7 +58,7 @@ discuss groups trying, how it works: complex ritual *sometimes* guides journey i
 
 - due to the absolute immobility of most matter, even as minor an obstacle as a closed door or window left insufficiently ajar can thwart the most dedicated of visitors, though a curtain of fine sheer silk can, with enough bludgeoning, be made to part way.
 
-### Transport
+### Navigation
 
 As with every other plane, portals connecting to locations in the ____[Cartography] are scattered across the multiverse, many residing in Soblei. The vast, vast majority of these lead to uninteresting tableau or barren landscapes of the past or future or remote present. Attempts to travel to a particular time and location in this folded infinite spacetime require incredible power and are time-consuming, expensive, prone to error, and frequently fatal.
 
@@ -106,7 +106,7 @@ If you are interested in the particulars I have copied here more detailed notes:
 
 TODO
 
-#### Recursive
+#### Recursiveness
 
 This latter has been recorded once, with tragic end. The famous pair of scholars TODO (pair of explorers) spent a long time studying this realm, primarily learning how to visit specific tableau. explorer who was frozen, there is a portal to the moment in which he was frozen. people were able to reach separate moments which show frozen moment in time from the expedition in which he was lost. like A was frozen and B made it out, and B was able to find a scene showing both A and B, B seeing herself failing to save A. heartbreak! If they'd seen this first could they have prevented? segue into determinism stuff. The moment they saw this scene, they instantly understood what was about to happen.
 
@@ -116,7 +116,7 @@ someone seeing a tableau that represents their future death?
 
 TODO some famous (chance) meeting here?
 
-### Places
+### Locations
 
 #### TODO coliseum
 
@@ -168,7 +168,7 @@ future moments seem to exist, but it's unclear if this shows the future is deter
 
 #### Passage of Time
 
-Light travels about 300,000,000m/s. Time passes about a billion times slower here, so light travels about 1ft/second. hold your hand out and move it, takes about 1 second before you see it move. So extremely cold because molecules moving billionth as fast, everything is basically absolute zero.  No sound, unless you're really, really close. Moving is hard and gets harder. Touch works normal. Smell works but never travels. Maybe it's like "soul juice" that allows things to move, but which light doesn't have, but an arrow does.
+Light travels about 300,000,000m/s. Time passes about a billion times slower here, so light travels about 1ft/second. hold your hand out and move it, takes about 1 second before you see it move. So extremely cold because molecules moving billionth as fast, everything is basically absolute zero. No sound, unless you're really, really close. Moving is hard and gets harder. Touch works normal. Smell works but never travels. Maybe it's like "soul juice" that allows things to move, but which light doesn't have, but an arrow does.
 
 ### Visiting
 

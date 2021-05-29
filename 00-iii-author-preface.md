@@ -1,5 +1,9 @@
 # Author's Preface SKIP
 
+---
+in_progress: True
+---
+
 <!--
 goals:
 
@@ -10,11 +14,6 @@ goals:
 	+ "to all these places i am a visitor, as you would be" but are we not simply visitors on this mortal coil yada yada
 - intro the vibe
 -->
-
----
-in_progress: True
-
----
 
 This visitor's second favorite spot in the multiverse is TODO (nice description of place and people). (Her favorite, of course, awaits your discovery within these pages.)
 

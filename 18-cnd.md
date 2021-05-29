@@ -1,30 +1,30 @@
 # The Inevitability
 
-<!--
-    - linked to LND?
-    - check out https://en.wikipedia.org/wiki/Procession#Procession_elements
-    - maybe check out carnival quote in todo.md
--->
-
 ---
 subtitle: Autonomy Utility Dissolution (CND)
 
 quote: |
 
-	> TODO/maybe[] Decay is inherent in all compound things. Work out your own salvation with diligence.
-	>
-	> ---Last words of the Dabhud <!-- Buddha -->
+    > TODO/maybe[] Decay is inherent in all compound things. Work out your own salvation with diligence.
+    >
+    > ---Last words of the Dabhud <!-- Buddha -->
 
-	> TODO/maybe[] "You should call it entropy [...] nobody knows what entropy really is, so in a debate you will always have the advantage."
-	>
-	> ---Jhennon von Numa <!-- John von Neumann -->
+    > TODO/maybe[] "You should call it entropy [...] nobody knows what entropy really is, so in a debate you will always have the advantage."
+    >
+    > ---Jhennon von Numa <!-- John von Neumann -->
 
 abstract: |
 
-	This realm embodies and safeguards a primal force in the multiverse: entropy. Barring hypothetical states of perfect equilibrium or reversibility, all systems lie precariously on an irreversible slide from order into disorder, from certainty into uncertainty, a fact known to some philosophers as the Second Law of Thermodynamics. The gleeful inhabitants of the Inevitability are the ones who wield this mandate. Grouped into collectives undertaking particular manifestations of entropy---combustion, aging, decomposition, irreversible food transformations (in this otherwise inhospitable plane there is a fantastical culinary ensemble from which cascade creations of the wildest epicureans), broken tools and furniture, political dissolution, romantic miscommunication, and even the fading of deities---this plane's residents, the Unravellers, are summoned by natural forces across the multiverse to shepherd these transformations, after which they return to the plane with stories and trophies of their work.
+    This realm embodies and safeguards a primal force in the multiverse: entropy. Barring hypothetical states of perfect equilibrium or reversibility, all systems lie precariously on an irreversible slide from order into disorder, from certainty into uncertainty, a fact known to some philosophers as the Second Law of Thermodynamics. The gleeful inhabitants of the Inevitability are the ones who wield this mandate. Grouped into collectives undertaking particular manifestations of entropy---combustion, aging, decomposition, irreversible food transformations (in this otherwise inhospitable plane there is a fantastical culinary ensemble from which cascade creations of the wildest epicureans), broken tools and furniture, political dissolution, romantic miscommunication, and even the fading of deities---this plane's residents, the Unravellers, are summoned by natural forces across the multiverse to shepherd these transformations, after which they return to the plane with stories and trophies of their work.
 
-	The Inevitability soars with exuberance and action and heat: mischief with divine purpose, a frenzy to consume all potential work---a collective quest one Unraveller described as "making energy useless," dispersing it like a drop of ink in clear water. The revelry here will end only when across all of reality every building has crumbled, the last fires have gone out, and the final gods have been laid to rest.
+    The Inevitability soars with exuberance and action and heat: mischief with divine purpose, a frenzy to consume all potential work---a collective quest one Unraveller described as "making energy useless," dispersing it like a drop of ink in clear water. The revelry here will end only when across all of reality every building has crumbled, the last fires have gone out, and the final gods have been laid to rest.
 ---
+
+<!--
+    - linked to LND?
+    - check out https://en.wikipedia.org/wiki/Procession#Procession_elements
+    - maybe check out carnival quote in todo.md
+-->
 
 ## Environment
 
