@@ -104,52 +104,50 @@ emotional deluge?
 
 https://en.wikipedia.org/wiki/Emotional_flooding ritual: "attacking the unconscious and/or subconscious mind to release repressed feelings and fears"
 
-## Guide
+## Visiting
 
-### Visiting
+### Mentorship
 
-#### Mentorship
+## Locations
 
-### Locations
+### Nimble's Bazaar
 
-#### Nimble's Bazaar
-
-#### The Monument of Perception
+### The Monument of Perception
 
 like the sensates' sensorium? different how? or some other fractal experience thing
 
-#### Undersea Cliffs
+### Undersea Cliffs
 
-#### The Hole in the Sky
+### The Hole in the Sky
 
 that cliff water pic
 
-#### Sanctuaries
+### Sanctuaries
 
 places of restoration
 
-### Figures & Groups
+## Figures & Groups
 
 looking at carnival at end of world tarot deck, some kind of suit situation, paired opposites... different approaches to things
 
-#### Astrals & Chthonics
+### Astrals & Chthonics
 
-#### Mirrors & Clouds
+### Mirrors & Clouds
 
-#### Frames & Shells
+### Frames & Shells
 
-#### Wheels & Knives
+### Wheels & Knives
 
-### Festivals & Traditions
+## Festivals & Traditions
 
-#### Opposite Day
+### Opposite Day
 
-#### The Florescence
+### The Florescence
 
-### Historical Events
+## History
 
-### Rumors
+## Rumors & Mysteries
 
-#### The Paradox of Boredom
+### The Paradox of Boredom
 
-#### The Foil
+### The Foil

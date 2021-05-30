@@ -151,6 +151,7 @@
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-05-29|5.5 |40999|1185|38%|38%|16|86|57|29|
 |2021-05-28|9   |40126|1176|35%|36%|15|82|53|29|
 |2021-05-27|2.5 |39632|1077|33%|35%|14|80|53|27|
 |2021-05-23|1   |39374|1076|33%|35%|14|80|53|27|
@@ -267,7 +268,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 40,126 | 1,176 | 15/42 | 82/224 |
+| 40,999 | 1,185 | 16/42 | 86/224 |
 </div>
 
 <div class="progress-wrap">
@@ -278,18 +279,18 @@
 | | | | |
 | :-- | :-- | :-- | :-- |
 | <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">○○○○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">◍◍◍○○○</span> |
-| <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩢ၇ꧠ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">◍◍◍○○○</span> | <span class="glyph">ꩢ၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
-| <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꩢ၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
+| <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍○○○○○</span> |
+| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">◍◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
 | <span class="glyph">ꧪဥဓ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩢဥꧠ</span> | <span class="bloop">○○○○○○</span> | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">○○○○○○</span> |
-| <span class="glyph">ꩢဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩢဥဗ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">◍○○○○○</span> |
+| <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">○○○○○○</span> | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">○○○○○○</span> |
+| <span class="glyph">꧹ဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
+| <span class="glyph">꧹ဥဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">ꩧ၇ꧠ</span> | <span class="bloop">●◍◍◍◍○</span> | <span class="glyph">ꧪဋဗ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩧ၇ဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩢဋꧠ</span> | <span class="bloop">●◍◍◍○○</span> |
-| <span class="glyph">ꩧ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꩢဋဓ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꧪ၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩢဋဗ</span> | <span class="bloop">◍○○○○○</span> |
+| <span class="glyph">ꩧ၇ဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹ဋꧠ</span> | <span class="bloop">●◍◍◍○○</span> |
+| <span class="glyph">ꩧ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဓ</span> | <span class="bloop">●◍◍○○○</span> |
+| <span class="glyph">ꧪ၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹ဋဗ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">ꧪ၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 
 </div>

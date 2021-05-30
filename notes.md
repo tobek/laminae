@@ -185,6 +185,8 @@ journeyed her whole life but spend lots of time in some of these places, in at l
 
 ok so if the ordial plane is the imagination, then she is imaginative. she could be a creative genius that is responsible for the whole ordial thing, so her goals could be just creative production. maybe after some trauma she fell into a a creative delirium. NO BETTER: she had a formative experience with some political strife that led her to want to convince people that these political absolutes belong to the laminae only (where they are perpetuated by natural forces and semi-no-frill-will'd people) but that on cardinal worlds we must cOexIsT. a world with just sheep or wolves wouldn't work, except a superatural one.
 
+keep in mind that the Bell's Universal Story is partly responsible for the work??
+
 - not just a female-gendered male character
 - possible objectives:
     + no good or evil, everyone makes sense in their context
@@ -280,6 +282,7 @@ steam -> rust and/or ground glass
 
 ### Think about for each
 
+- What's the point?
 - Environment
     + Landscape
     + Seasonality
@@ -295,9 +298,13 @@ steam -> rust and/or ground glass
 
 ### Foci (high-ish priority?)
 
-e.g. entropy, architecture, the bloom's mutation
+e.g. entropy, architecture, the bloom's mutation, the universal story
+
+TODO go through evil sketch
 
 (move from above and below into here)
+
+19 of them!
 
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
@@ -306,25 +313,29 @@ e.g. entropy, architecture, the bloom's mutation
 - Generation ship (high-tech-low-tech caravan across 100,000 mile desert - why?)
 - Restorative justice destination (NGP?)
 - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move
+- the echo - everything you hear or read you know its source, all the way back - LGC, NGD. crystalline psychedelic reverb
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
     + maybe weirdly LGC? NGD, CGD, CNP, LEC, LEP, NEC, CEP
+    + *definitely CGD if nothing else, but maybe duplicative with CGD* - maybe CEP
 - saying yes vs. saying no
     + LND or CNP is no?
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
     - maybe this is in cosmology, someone went to exactly 2 planes and then said the above, lead the way into there being more
-- Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or NED or LED
+- Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or NED or LED or CNP
 - Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
 - All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds)
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?)
 - Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ (maybe NGP LGC LGP - "The Retelling")
 - Sex
 - Something ridiculously hazardous
+- a prison
+- visual distortion like "Rorik Smith" polyhedral panoramic pics
 - sleep
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
-    + Synthesis lamina. relies on the existence of structured/hierarchical stuff but also violates it
+    + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it
 - used
     + https://en.wikipedia.org/wiki/Rotation_method
     + an infinite jest (/burning man/blockchain/lsd)-inspired thing, something where everyone annoyingly loves it, raves, but it's actually good and changes your ife
@@ -392,7 +403,6 @@ e.g. entropy, architecture, the bloom's mutation
 ### Relational, Situational, Happenings
 
 - caste systems (LND?)
-- the echo - everything you hear or read you know its source, all the way back - LGC, NGD. crystalline psychedelic reverb
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity
@@ -402,6 +412,7 @@ e.g. entropy, architecture, the bloom's mutation
 - Mnemonic objects - clothing or jewelry records life events (maybe part of caste system above)
 - Language/writing
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP
+- someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND
 - some 3-headed god represents C/P/D all in one? (a simple farmer, 3 headed, 6 armed, see Dattatreya?) but it's a sham. where?
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
 - Elemental forces (CGP)
@@ -425,16 +436,15 @@ e.g. entropy, architecture, the bloom's mutation
     + "Rather than classical "good health," fashionable people sculpt their bodies into interesting shapes with the help of highly specific and commonly-performed exercises prescribed by regimen-planning software." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
     + "Because of the end of scarcity, the economic roles of production and consumption have switched; wealth is now acquired by consuming, and producers pay consumers to use their goods or services. The right to make something is highly coveted and prestigious, and producing without a customer is illegal and severely punished." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#gkAPnw9FmXn8ZHSPo>
     + there is some oracle that knows what's "best" for every action in its domain - you're free to listen to it or not. "Everyone is free to listen to The Computer or not, but you know that your decision would be less efficient for accomplishing your goals. Such rebellions are useless, however, because The Computer's prediction capabilities include whether or not you will take its advice, and it acts accordingly to make sure you get the best results anyway."
-- someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND
 - symbiotic creatures groom and pick things off you, but not physical stuff, something else, emotional/dreams too easy, but they live off of it? there's some efficiency here. don't stay too long or it's too much?
-- headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture
+- headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND?)
 - seeking out a state of "unknowing"
     + 'all thoughts and desires under a "cloud of forgetting," and thereby piercing God's cloud of unknowing with a "dart of longing love" from the heart... "For He can well be loved, but he cannot be thought." ... "And so I urge you, go after experience rather than knowledge"'
     + https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing
+- empty mind, empty conscience - some kind of small brain everything is easier if you just think nothing oblivion situation
 - some crazy education process for new petitioners
     + like lesswrong weirdtopia comment where you work your way through simulation of human civilization learning everything
     + NGC could do this for Universal Story
-- empty mind, empty conscience - some kind of small brain everything is easier if you just think nothing oblivion situation
 - used
     + Epiphanies (place where you have them)
     + place where you can swap lives
@@ -532,7 +542,7 @@ e.g. entropy, architecture, the bloom's mutation
 - https://en.wikipedia.org/wiki/Keynesian_beauty_contest
     - "It is not a case of choosing those [faces] that, to the best of one's judgment, are really the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees."
 - Pantropy: modifying being to suit its environment (opposite of terraforming)
-- Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions)
+- Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
 - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP)
 - A place where no one experiences boredom. LND or LEC LEP LED or CGP
     - boredom is required for creativity
@@ -583,7 +593,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
     + "chaos is the sum of all orders" hakim bey, p41
     + ‎"the architecture of suffocation and paralysis will be *blown up* only by our total celebration of everything---even darkness" hakim bey p42
     + “Chaos comes before all principles of order & entropy, it's neither a god nor a maggot, its idiotic desires encompass & define every possible choreography, all meaningless aethers & phlogistons: its masks are crystallizations of its own facelessness, like clouds. ”
-- “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum
+- “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum (NND, CGD)
 - “Mamá sabía ser alegre. Mamá sabía ser temerosa. Mamá sabía olvidar fácilmente. Y, sin embargo tenía buena memoria. Mamá me daba con la puerta en la narices, y sin embargo, me admitía en su baño. A veces mamá se me perdía, pero su instinto me encontraba. Cuando yo rompía vidrios, mamá ponía la masilla. A veces se instalaba en el error, aunque a su alrededor hubiera sillas suficientes. Aun cuando se encerraba en sí misma, para mí siempre estaba abierta. Temía las corrientes de aire y sin embargo no paraba de levantar el viento. Gastaba, y no le gustaba pagar impuestos. Yo era el revés de su medalla. Cuando mamá jugaba corazones ganaba siempre. ” ― Günter Grass, El Tambor De Hojalata (CEC?)
 - Just had a dream where I was a protagonist named Jim. Jim knew that after death, part of Jim's patron god would become a copy of Jim, remember being Jim. But Jim figured that had nothing to do with him. Dead was dead. / Woke up, realized Jim was right and I was Jim's patron god. - https://twitter.com/St_Rev/status/1085079881627643904
 - "A taker likewise is an order taker. These are different than market makers and market takers, which make and take markets, but may take or make orders. On the AirSwap Network, you may take the role of maker or taker." LNP if there is some market element? LND somehow?
@@ -593,7 +603,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "An amazing creative solution has to obey at least one law, the criterion that makes it a "solution".  It's the one box you can't step outside:  No optimization without goals." -- <http://www.lesswrong.com/posts/KKLQp934n77cfZpPn/lawful-creativity> then "The pleasant shock of witnessing Art arises from the constraints of Art - from watching a skillful archer send an arrow into an exceedingly narrow target."
 - "And from billions of these bubbles within bubbles are all the beasts and baubles of the world composed." GEB
 - "modest expectations, remorselessly fulfilled" https://www.theguardian.com/news/2017/nov/24/how-the-sandwich-consumed-britain
-- "Fur seals have been discovered trying to have sex with penguins on at least four separate occasions, and this may also be a simple mistake." http://www.bbc.com/earth/story/20151223-if-you-think-penguins-are-cute-and-cuddly-youre-wrong
 - "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html
 - "he has grasped the falsity of the hedonistic attitude to life. Nearly all western thought since the last war, certainly all “progressive” thought, has assumed tacitly that human beings desire nothing beyond ease, security and avoidance of pain. In such a view of life there is no room, for instance, for patriotism and the military virtues. The Socialist who finds his children playing with soldiers is usually upset, but he is never able to think of a substitute for the tin soldiers; tin pacifists somehow won’t do. Hitler, because in his own joyless mind he feels it with exceptional strength, knows that human beings don’t only want comfort, safety, short working-hours, hygiene, birth-control and, in general, common sense; they also, at least intermittently, want struggle and self-sacrifice, not to mention drums, flags and loyalty-parades. However they may be as economic theories, Fascism and Nazism are psychologically far sounder than any hedonistic conception of life. The same is probably true of Stalin’s militarized version of Socialism. All three of the great dictators have enhanced their power by imposing intolerable burdens on their peoples. Whereas Socialism, and even capitalism in a more grudging way, have said to people “I offer you a good time,” Hitler has said to them “I offer you struggle, danger and death,” and as a result a whole nation flings itself at his feet." - George Orwell review of Mein Kampf, 1940 - LGC? and/or LGP vs CGP has to deal with this. LEP tho?
 - "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP?)
@@ -613,7 +622,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
         - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them.
         - 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins.
-        - 217. All the falling rain is caught.
         - 273. You who have proved how much like me you are: how could I trust you?
     - James Richardson, Vectors 2.0: More Aphorisms and Ten-Second Essays
         - 91. If you make rules only you can win by, they will play by other rules.
@@ -637,6 +645,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 170. Closing a door very gently, you pull with one hand, push with the other.
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
+    + 217. All the falling rain is caught.
 
 
 Semja
@@ -724,6 +733,7 @@ anagram names:
 - Takashi Kokubo
     + Takashi Kokubo (小久保隆) - Jamaica ～ Waves And Light And Earth (ジャマイカ～波と光と大地) (1993)
     + Takashi Kokubo (小久保隆) - The Day I Saw The Rainbow (虹を見た日) ～ Elegant Harp ～ (1993) [Full Album]
+    + Takashi Kokubo (小久保隆) - Digital Soundology #1 Volk Von Bauhaus (1985) https://www.youtube.com/watch?v=t8UQuKVKUN0 - eerie not very nice, last couple tracks could be good for CNP maybe or other weird slow place
 - Bioçic
     + https://www.youtube.com/watch?v=3EUFiMj4leI Toshiya Sukegawa (助川敏弥) - Bioçic Music: Jewels
     + https://www.youtube.com/watch?v=qMbdkAyyA5k
@@ -731,6 +741,10 @@ anagram names:
 - Hiroshi Yoshimura (吉村弘) - Wet Land (1993) https://www.youtube.com/watch?v=Z3m7HXeiHpg
 - Motohiko Hamase (浜瀬元彦) - Intaglio (インタリヨ) https://www.youtube.com/watch?v=iwmR72iFGm4
     + 2nd track maybe LND, or maybe not oppresive enough, but it's mechanical and intense
+- https://open.spotify.com/album/245ZFNN3ONDPXlAdD8qynk?si=7mz_SheSSw2xFowHSOiseg YAS-KAZ Virgo Indigo - interesting fourth-worldy music, ambient-ish but lots going on
+- Midori Takada - Through The Looking Glass https://www.youtube.com/watch?v=eGjHJOnmDZA - hypnotic percussion and dreamy stuff. 2nd and last tracks are cool and intense
+- Koto Vortex - Koto Vortex II: Arcadia (1996) https://www.youtube.com/watch?v=jITsT4GpHWc - intense and repetitive and complex, maybe CEP
+
 
 # idle resources to generate
 
@@ -744,6 +758,7 @@ anagram names:
     - names (* = add to rando)
     	- The Absolution*
         - The Aleatory
+        - The Alleviation
         - The Antechamber
         - The Apprehension
         - The Assembly (similar to instrument)
@@ -760,7 +775,6 @@ anagram names:
         - The Bough*
         - The Braid
         - ‎The Bright
-        - The Brink*
         - The Burgeon*
         - The Cabling
         - The Canon*
@@ -781,6 +795,7 @@ anagram names:
         - The Crenellation
         - The Crest*
         - The Crown
+        - The Crux
         - The Culmination*
         - The Cumulation* (to gather in a heap, combine, build up)
         - The Curtain*
@@ -800,9 +815,7 @@ anagram names:
         - The Gnarl*
         - The Grain
         - The Grasp
-        - ‎The Grip
         - The Hidebound/The Hidebind
-        - The Hierarch
         - ‎The Horn
         - The Hull
         - The Husk
@@ -813,13 +826,13 @@ anagram names:
         - The Kiln
         - The Kinesis*
         - The Knell*
-        - The Knot*
         - The Knuckle
         - The Kylix (greek: "elegant cup or vase for drinking", latin calix, from whence Chalice)
         - The Lacuna* (unfilled space or interval, gap)
         - The Lambent (glowing/gleaming/flickering with soft radiance)
         - The Lattice
-        - The Ligate* (tie up or close off in surgery, or join in biochem)
+        - The Ligate (tie up or close off in surgery, or join in biochem)
+        - The Ligature*
         - The Loom
         - The Macula* (center of retina, keenest vision)
         - The Manacle
@@ -835,6 +848,7 @@ anagram names:
         - The Pulchritude* (beauty)
         - The Pullulation (to bud, sprout, pread prolifically or rapidly, be teeming with)
         - The Quell*
+        - The Ramification
         - The Rampant
         - The Rectitude
         - The Recital
@@ -847,15 +861,17 @@ anagram names:
         - The Ripple*
         - The Rue
         - The Sap
+        - The Shift
         - ‎The Shimmer
         - The Sift
         - The Simmer
+        - The Skein
         - The Snarl
         - The Speck*
         - The Squall
         - The Sum
         - The Surge
-        - The Swell* (a thing in the Bloom)
+        - The Swell (a thing in the Bloom)
         - The Taxonomy
         - The Tessellation*
         - The Tesseract*
@@ -876,10 +892,12 @@ anagram names:
         - [look up "harvest" synonyms]
         - used
             + The Bell
+            + The Brink*
+            + ‎The Grip (CEP demonym)
+            + The Knot
     - demonyms
         - Abounds
         - Alters
-        - Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
         - Certorari ("writ from superior to inferior courts seeking the records of a case," legal Latin, "to be certified, to be informed or shown") - Certors?
         - Clarions
         - Coalescents
@@ -901,7 +919,6 @@ anagram names:
         - Keys
         - Kinetics
         - Knells (sound of bell)
-        - Knots
         - Ligands (molecule that binds to another, from latin "that can be tied" or bound)
         - Limns
         - Looms
@@ -914,8 +931,10 @@ anagram names:
         - Rebukes
         - Reveries
         - Riarchs
+        - Rifes
         - Roots
         - Rues
+        - Runes
         - Saraphs
         - Sifters
         - Simmers
@@ -925,8 +944,11 @@ anagram names:
         - Tetrarchs (ruler of one of four divisions of a kingdom or province)
         - Unfettered
         - Whiloms (formerly, in the past)
+        - Whorls
         - used
             + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
+            + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
+            + Knots (CEP name)
 - Characters (political leaders, famous rebels, merchants, demigods, invaders, wizards, researchers)
     - names
         - jinsa
@@ -1111,19 +1133,28 @@ BUT DO I WANT THEM?
 
 # The ____
 
-<!--
-    notes
--->
-
 ---
 subtitle: Colorful Grandmas Crystallize (CGC)
+toc_only: True
+<!-- post_toc_only: MEDIA("David Hellman - Braid background.jpg") -->
 quote: |
-    > Intro quote
+    > TODO quote
+    >
+    > ---Jesma Shirancord, "Vectors"
 abstract: |
-    Intro para 1
-
-    Intro para 2
+    TODO abstract
 ---
+
+<!--
+what's the point?
+
+-
+-->
+
+- name
+- demonym
+- environment
+- culture
 
 ## Environment
 
@@ -1133,20 +1164,18 @@ abstract: |
 
 ~
 
-## Guide
-
-### Visiting
+## Visiting
 
 ~
 
-### Locations
+## Locations
 
-### Figures & Groups
+## Figures & Groups
 
-### Festivals & Traditions
+## Festivals & Traditions
 
-### Historical Events (or History? have used both)
+## History
 
-### Rumors
+## Rumors & Mysteries
 
 ## GM notes

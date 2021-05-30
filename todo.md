@@ -32,8 +32,6 @@
     + thread header: brief description and the alignments
     + backdating some already-completed chapters
     + The Moilers of the Instrument (Hierarchy, Utility, Destruction) live in the interior of a colossal machine (outside has never been seen) which they maintain, but their culture has lost its knowledge of the purpose of the machine and its operation and as a result have devolved into blah blah mission they can't fulfill
-- should "guide" heading be moved and everything promoted?
-    + check if anything is actually under guide
 - finalize copyright stance
 - "ready" in each lamina section and task
     + each needs
@@ -624,7 +622,7 @@ this gets used (no double quotes allowed):
 
 handle translated refs! (what does this mean?)
 
-Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Text content of node is the term being defined, or the `title` attribute can be it. Definition is optional - the `def` attribute or wrapping element's text (end with period). Id is its or parents `id`.
+Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Text content of node is the name of term being defined, or the `title` attribute can be it. Definition is optional - the `def` attribute or wrapping element's text (end with period). Id is its or parents `id`. `no-index` attribute excludes from index
 
 Should have an optional actual definition string that can be shown in tooltip, and "go to [page title]" link if same page, otherwise "go to text" if on same page?
 
@@ -636,13 +634,11 @@ References themselves just link <a> tags for now (maybe should be <abbrv> or <dl
     REF[____[the Concordance]](LGP)
     REF[TODO(artist plane)[the Bauble]](NEC)
     REF[Galabast](#galabast)
-    REF[Galabast] # default id is kebab-cased string TODO not implemented
+    REF[Galabast] # default id is kebab-cased string
     REF[Blighted lovers](CNP#the-lovers)
     REF[wind shifters](LNC#wind-shifters)
     REF[Equilibrium](facets#equilibrium)
-    REF[Equilibrium] # whitelist dict of terms to auto-map to above TODO not implemented
-
-process all `<dfn>`s and all headings to find IDs and which pages they're on.
+    REF[Equilibrium] # whitelist dict of terms to auto-map to facets
 
 - parse
     + parse each file

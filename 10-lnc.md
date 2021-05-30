@@ -63,13 +63,11 @@ Although the work involved in building twice is arduous, there are several advan
 
 As a result of this process, the Unfolding is filled with copies of many of the most famous architectural gems in the multiverse. Once a project is completed, interested petitioners take up residence in it, or a guild may adopt and often modify the structure. The Architects are not hoarders, however, and few structures last indefinitely. When a creation falls into disuse, a celebration is held before the structure is dismantled and its materials returned to the ocean. A scale model is then entered alongside research, blueprints, and adjustment metrics in the alcove-lined corridors beneath the Grand Tensile Pavilion.
 
-### Local Projects
+### <dfn no-index>Local Projects</dfn>
 
 Of course, the most spectacular, creative, and experimental structures in the Unfolding are created in the service of no client, but instead for the pure joy and challenge of it, often for entry into annual competitions in an ever-changing array of categories. Recent competitions include ones for structures with as little contact with the ground as possible, live adjustments to existing structures while REF[Patterners] modify the terrain on which they stand, or buildings made from drastically different materials than they appear to be made with. On these internal projects, the Architects do indeed perform the required physical labor. Many are expert artisans in good health, and they often congregate en masse to erect an entire structure in as little as a single day.
 
-## Guide
-
-### Visiting
+## Visiting
 
 Both the environment and culture of the Unfolding are more hospitable to visitors than many laminae. Combined with the fact that the Architects explicitly work with mortals, this results in a large foreign contingent here. When visiting you must register at an imposing and somewhat bureaucratic office at the base of the REF[Scaffold], and you may then reside temporarily in various taverns and dormitories that will freely cater to your needs. You are welcome to peruse the glories of Axial, but are restricted from viewing any projects under construction, which are anyways safely beyond reach on distant islands. Likewise the laborers arriving with clients for actual construction are quarantined on the island created for their project.
 
@@ -77,9 +75,9 @@ Proposals for projects can be presented at an office at the Scaffold. Those who 
 
 Gates to the Unfolding can be found in esteemed engineering and architecture guilds across the multiverse, as well as in the possession of the odd library or patron of the arts. Notably lacking a connection is Soblei; the legend is that before its destruction the ruler of that otherwise famously portal-laden place was so incensed with consequences stemming from a resident's commission that any connection between the two realms was severed.
 
-### Locations
+## Locations
 
-#### The Echo Plateau
+### The Echo Plateau
 
 One consistently recurring architectural contest solicits blueprints for building a monument from struts collected from any REF[wind shifters] that collapsed during the previous year. The winner may take one associate with them and spend as much time as required to personally construct their design on the Echo Plateau, an isolated and windswept grassy promontory that is unreachable by wind shifters, so as not to pose them any further collision risk. The contest is held most years, but occasionally a year will pass with no collapses; correspondingly, some years will see the remains of many or unusually large wind shifters, resulting in a very substantial monument. Atop the plateau rest hundreds of monuments, and no other construction is allowed on the land.
 
@@ -89,7 +87,7 @@ Shifters are made of a strong, lightweight, opalescent material, affording the o
 
 The Echo Plateau is a common place of solo pilgrimage for those who have experienced loss, and it is here that a core principle of the Unfolding resonates powerfully: all happenings, irrespective of their emotional or moral content, are opportunities for commemoration, challenge, creation, and beauty.
 
-#### Promenade of Congruities
+### <span class="no-toc-children">Promenade of Congruities</span>
 
 A slim peninsula forms a long arc off the coast of Axial, and on this strip of land sits the Promenade of Congruities: one long building that follows the land, growing over time, with every section built by different artists. Each new addition extends the original building with a space that simultaneously evokes two contrasting aesthetic properties, one of which is shared with the previous section. Apart from this, the only requirement is that a pedestrian should be able to walk in an uninterrupted path from one end of the promenade to the other.
 
@@ -97,11 +95,11 @@ Reader, the Unfolding is resplendent with masterpieces, but walking the full len
 
 A meager summary of the hour's journey will be attempted here.
 
-##### Cozy yet Spacious
+#### <dfn no-index>Cozy yet Spacious</dfn>
 
 The entrance to the promenade is a tall facade the width of the peninsula, built from a rosy warm stone and adorned with pillars and vaulted alcoves. An exterior spiral staircase leads ten meters up to a landing, where an archway passes through the facade to a small balconied corner terrace lush with heavy rugs, darkly patterned bolstered floor cushions, and low tables heaped with lanterns and relics. Silk and gauze canopies flutter from free-standing columns, and ornately carved wooden screens create a maze of niches. The clustered terrace overhangs a vast open courtyard, bounded by white marble walls thirty meters high and angled just slightly outwards. The entire courtyard is completely smooth and empty save for a wide strip of the same rosy stone from the facade running horizontally across the upper part of the walls.
 
-##### Spacious yet Cluttered
+#### <dfn no-index>Spacious yet Cluttered</dfn>
 
 Stairs lead down from the terrace, along the wall to the blank enclosure which continues on for a minute's walk, footsteps echoing off the walls. The ground is gradually adorned by small tables, stacked with odd collections of objects. As the courtyard continues, large shelves and cabinets accumulate baubles: pottery and glass dishes, brass lamps, figurines and candlesticks, toys, gems, icons, masks, jewelry boxes, bottles, puppets, daggers, tools, and many objects of unknown purpose, until the wide open enclosure bursts wall to towering wall as an orchard overflowing with treasures underneath the clear sky. A narrow path barely meanders its way through the jumble, though nothing rises above head height and so the path and entire courtyard can be surveyed from every point.
 
@@ -109,7 +107,7 @@ The items are not mere knick knacks. Every last object reveals fantastical detai
 
 MEDIA
 
-##### Cluttered yet Minimal
+#### <dfn no-index>Cluttered yet Minimal</dfn>
 
 The courtyard ends abruptly outside a square structure of smooth white alabaster into which cuts a square entryway. In the large enclosure inside, thousands of featureless alabaster cubes from as small as a fist to as large as a boulder affix to the floor, walls, ceiling, and each other. They pile irregularly, sometimes stacking towards the vertical middle of the room like stalagmites and stalactites, leaving no path through except to clamber over and around their rectilinear precipices and crevasses.
 
@@ -117,7 +115,7 @@ MEDIA("Stéphane Malka - Rue Sans Frontieres.jpg")
 
 Each cube presents a slight indentation on one edge, with which that face can be slid aside to reveal an interior overflowing with more artifacts. As varied as those in the courtyard outside, these however are every last one pure white, of the same material as the building and its cubes, without any variation in shade or texture. From this visitor's brief exploration, the cubes appear to be organized in ways both obvious and obscure. One contained pieces carved into shapes of branches and leaves, while another was full of reliefs showing the portion of the face containing one eye and the small area of brow and cheekbone around it. One especially large cube gathered life-size sculptures that included a hand attached to an arm, a small birch tree, a flower, a scimitar, a spoon, a chess piece, a tied-back curtain, a pipe, and several animal horns, all collected under perhaps no more articulate an organizing principle than the aesthetic of slenderness.
 
-##### Minimal yet Oppressive
+#### <dfn no-index>Minimal yet Oppressive</dfn>
 
 A small square cut-out in one corner, through which one must duck, exits into another sparse, smooth, white room. The space is dimly lit by the sky visible through a series of small, square openings in the ceiling over which a constant wind whips, creating a loud, toneless, hum that also causes the room and everything within it to steadily vibrate. The ceiling itself slopes evenly downwards as one progresses along a narrow path along the right wall, cut out from the chest-height platform that fills the rest of the space. to the left
 
@@ -125,17 +123,17 @@ It is tempting to hurry through this unpleasant place, but lingering as one's ey
 
 Towards the exit the ceiling lowers to a height too low to stand freely.
 
-##### Oppressive yet Peaceful
+#### <dfn no-index>Oppressive yet Peaceful</dfn>
 
 At about one and a half meters high, the ceiling ceases descending, and the raised platform that fills the whole chamber to the left of the narrow path opens into a placid body of water, held back from the path at the same height by a low wall. Fewer openings in the sky decrease the intensity of the wind's hum and vibration, and the further dimmed light makes the vertiginous patterns less perceptible. The already-narrow path is reduced by a seating platform running along the right wall, leaving a space too thin to either stand or sit comfortably. One can sit uncomfortably, however, angling the legs to find foot room without treading into the water, obliquely observing the vast, glassy pool. From this lower elevation, the whistling hum of the wind shifts to a just slightly more tolerable tone.
 
-##### Peaceful yet Cursed
+#### <dfn no-index>Peaceful yet Cursed</dfn>
 
-The path leads up a few steps to level with the pool and through a narrow opening mercifully into a gleaming, bright, outdoor space, once again contained by towering walls sloping outwards, one the same marbled white, the other a sleek black. The water continues, at an angle alongside a checkered black and white plaza, and ending at a crumbling grotto of igneous black rock that rises incongruously from the tiled ground. The water ripples just barely at the edge of the rock. From the overhang of the grotto waves a series of black wind chimes that issue gentle, clodding, flat noises in the breeze.
+The path leads up a few steps to level with the pool and through a narrow opening mercifully into a gleaming, bright, outdoor space, once again contained by lofty walls sloping outwards, one the same marbled white, the other a sleek black. The water continues, at an angle alongside a checkered black and white plaza, and ending at a crumbling grotto of igneous black rock that rises incongruously from the tiled ground. The water ripples just barely at the edge of the rock. From the overhang of the grotto waves a series of black wind chimes that issue gentle, clodding, flat noises in the breeze.
 
 Two large statues of horses stand knee-deep in the water, one black, one white, each with a flourishing of dozens of smooth globes in the place of a head MEDIA(andrea galvani). The acoustics of the space are such that sounds seem to echo louder and longer than they should, in a strange interval that accelerates before fading. Footsteps on the crisp tiles produce a startling noise, leading one to walk gingerly. By the edge of the water a passage leads darkly through the rock.
 
-##### Cursed yet Hallowed
+#### <dfn no-index>Cursed yet Hallowed</dfn>
 
 The short passage opens up to an immaculate shrine of sleek black. Light trickles down from white frosted windows behind wrought metal skirting the dome that tops the space, and four archways along the perimeter each lead down four steps to a blank wall. In the place of one of these walls is a small window hushed closed with heavy red curtains. A smell like burnt honey hangs with the sunbeams.
 
@@ -147,7 +145,7 @@ An additional feature decorates this space. Initially one might notice a dab of 
 
 The room initially presents no exit, and some have apparently turned to backtrack from here. This visitor, however, had traded her hesitance before the central statuette for a sudden curiosity to see outside the velveted window, and found there behind it a small egress through which to climb.
 
-##### Hallowed yet Sullied
+#### <dfn no-index>Hallowed yet Sullied</dfn>
 
 <!--
 	Hallowed: stained glass, angel statues, pews, choir singing, ritual, height, music (wind plucking harps), holy symbols, holy books, fasting, sacrifice (pile of sacrificed dirty things), maybe pit or fountain, star-studded ceiling (actually fungus?)
@@ -163,7 +161,7 @@ A fine layer of dust covers the whole space: a combination of dirt, crumbled sto
 
 At the end of the structure, the ground itself crumbles away until only a narrow path of stone leads across a distant pit littered with rubble, walled by the same sloping white from earlier courtyards. The path ends in a wall that holds a narrow door of smoky glass running up its whole height.
 
-##### Sullied yet Luminous
+#### <dfn no-index>Sullied yet Luminous</dfn>
 
 The towering door opens to a dim chamber in which the same narrow stone path leads across a deep chasm walled by scratched and frosted glass lit a pale violet. The blurry surface makes it impossible to ascertain the walls' distance as they recede downwards into darkness. From the ceiling hangs at varying heights just out of reach a dense forest of glowing objects, a wild and motley jumble filling the space above except for a narrow empty channel over the bridge itself.
 
@@ -173,11 +171,11 @@ The swaying aerial kaleidoscope makes it difficult to focus on the slender pathw
 
 At the end of the pathway a narrow opening cuts through the height of the space, and stark white light bolts from the hallway beyond.
 
-##### Luminous yet Dark
+#### <dfn no-index>Luminous yet Dark</dfn>
 
 This section consists solely of a precipitously tall and winding hallway, studded with narrow alcoves ending in featureless, blindingly bright windows that fail to illuminate the pitch-dark and matte material out of which every surface is built, a material which collapses the distinction between wall and empty space, leaving a maze of evasive obtuse and acute corners. There is nowhere one can stand such that anything can be properly seen at all: from all angles intervenes a slender blazing light too large to shield the eyes from, constricting the vision such that nothing can be discerned along the dark hallway which, as a cruel joke, is irregularly interrupted by sudden turns and one or a handful of steps up or down. Perhaps other features lurk in the brilliant shadows, awaiting appreciation by those with especially limber pupils.
 
-##### Dark yet Fiery
+#### <dfn no-index>Dark yet Fiery</dfn>
 
 The lights dim as the hallway progresses, eventually taking on a warmer tone and growing hot, until the narrow path gives way to a soaring cleft abutting a dark open space. A maze of low piles of smoldering embers forms a vast, circular walking labyrinth. The room is ablaze with the heat of the embers, but their light is too dim to illuminate either any walls or ceiling or even your own body: everything is suspended in blackness. This visitor walked nearly to the point of losing sight of the maze without reaching side walls, even back to the entrance, tracing the dark anterior wall until, after bordering the previous chamber, it turned away from the labyrinth to continue receding.
 
@@ -193,7 +191,7 @@ labyrinths: pilgrimage, trapping evil spirits, contemplation
 
 There is no indication of the chamber's egress except to walk straight from the labyrinth's exit, carefully, until reaching a black wall, following it left or right to adjust for an imprecise gait, until an opening reveals itself. A narrow black hallway turns back and forth upon itself as it progresses towards more light.
 
-##### Fiery yet Wet
+#### <dfn no-index>Fiery yet Wet</dfn>
 
 <!--
 Fiery: burning, ash, things being consumed, inability to approach, heat
@@ -206,7 +204,7 @@ Above one pillared bonfire at the edge of the room, a leak in the ceiling, or pe
 
 After the warmth of the previous room the water is refreshing, but your face remains subject to the prickling heat of the bonfires until steps rise out at the other end of the chamber.
 
-##### Wet yet Arid
+#### <dfn no-index>Wet yet Arid</dfn>
 
 <!--
 Wet: soaked, cold, dissolving, refreshing, life-giving, humid, slippery,
@@ -221,7 +219,7 @@ Suspended just off the ground in the center of the otherwise empty room is what 
 
 MEDIA("Floto+Warner - Colourant - orange.jpg")
 
-##### Arid yet Verdant
+#### <dfn no-index>Arid yet Verdant</dfn>
 
 <!--
 Arid: barren, not supporting life, thirst, dry, dispirited, bare, blank
@@ -234,7 +232,7 @@ A terraced, pillared, white stone ziggurat fills the chamber, rectangular but bo
 
 The edifice itself is sculpted on all surfaces with low reliefs depicting rituals and gatherings of all kinds: funerals, banquets, processions, harvests, weddings, and scenes that this visitor could not decipher. From the top of the structure tower a series of the most gargantuan sort of aloe, pressing up against the glass ceiling and then draping over the entire space, their smooth gray-green tendrils thicker than tree trunks.
 
-##### Verdant yet Lifeless
+#### <dfn no-index>Verdant yet Lifeless</dfn>
 
 <!--
 Verdant: flourishing, lush, fresh
@@ -245,7 +243,7 @@ The building continues as the chamber does, but the plants become gradually more
 
 The higher terraces give way to a long, elevated pool that releases a caustic, pungent, overwhelming odor, stinging the nose and lungs. The roots and stalks of crowded vegetation are absolutely white where they dip into the fluid, and at its bottom a painting depicting in sharp detail an orderly and colorful garden lies visible through the still and clear liquid.
 
-##### Lifeless yet Colorful
+#### <dfn no-index>Lifeless yet Colorful</dfn>
 
 <!--
 Lifeless: muted, clouded, barren, inert, empty, inanimate, sterile, waste, dull, passive, lackluster
@@ -258,7 +256,7 @@ The building itself continues in identical structure but painted bright colors, 
 
 The sloping marble-walled chamber continues to contain the bizarre structure, which finally and abruptly ends with a thin elevated pathway that stretches out to a translucent, iridescent barrier that extends across the whole chamber. The glassy barrier glints with a crackled texture: purplish and teal and red depending on the angle of sight to its surface. Where the pathway strikes the wall stands a door, barely delineated by a slim gap, which opens with a gentle push to the next section.
 
-##### Colorful yet Clear
+#### <dfn no-index>Colorful yet Clear</dfn>
 
 <!--
 Colorful: brilliant, vibrant, rich, splashy, gaudy, kaleidoscopic, loud, lively
@@ -287,26 +285,26 @@ clear yet opaque: information/knowledge (maybe "lori nix" pics library). escher-
 other attributes: formless, cold, hot (that effect of cold next to hot)
 -->
 
-#### Abandoned Archipelagos
+### Abandoned Archipelagos
 
 While in theory every disused or undesired construction is disassembled and reclaimed, in practice some face other fates for a variety of reasons, from the inhospitableness of its terrain or unusually difficult materials used, to simply gaps in bureaucracy. This visitor heard a few mentions of a sizable continent consisting of all the works of a particular disgraced Architect pushed far out at sea, but further details varied: a lingering plague, violent extraplanar squatters, a demigod's curse.
 
-### Figures & Groups
+## Figures & Groups
 
 - **Guilds**
 	+ **Shield of Both Eyes** retains genius defensive strategists and fortification virtuosos.
 	+ **The Multitudes** create hermitages and other places of solitude.
 	+ **Silver Thread** provides translation, diplomacy, and management expertise for dealing with challenging clients and overseeing laborers.
-	+ **The Eventual Whisper** analyzes atmospheric conditions and wind shifter dynamics in order to predict their movements, working closely with <dfn id="chords" def="Teams who manipulate the environment in order to change wind shifter paths.">**Chords**</dfn>, the teams who manipulate the environment in order to change wind shifter paths.
+	+ **The Eventual Whisper** analyzes atmospheric conditions and wind shifter dynamics in order to predict their movements, working closely with <dfn id="chords" def="Teams who manipulate the environment in order to change wind shifter paths.">**Chords**</dfn>, the teams who manipulate the environment in order to change REF[wind shifter](#wind-shifters) paths.
 	+ **Quip and Cable** focuses on intricate, large-scale, cause-and-effect contraptions
 	+ Smaller guilds specialize in a wide range of domains, for instance advising on projects situated in a specific environments (such as underwater domains, magma flows, or the Astral Plane), or providing expertise with specific materials or styles.
-	+ <dfn id="patterners">**Patterners**</dfn> are more a caste than a guild, and can be found in the service of various guilds or in independent groups. Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.
+	+ <dfn id="patterners" def="Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.">**Patterners**</dfn> are more a caste than a guild, and can be found in the service of various guilds or in independent groups. Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.
 - **Figures**
 	+ **Jindarma** is an elder statesman figure known for the soaring staircase he built with an extraplanar associate on the REF[Echo Plateau](#the-echo-plateau).
 	+ **Kurin** is the director who expertly managed the REF[Chords] during REF[The Kindling](#the-kindling-and-wind-shifter-sentience).
 	+ <dfn id="galabast">**Galabast**</dfn> is a famed mathematician who has attempted to model the form and function of REF[wind shifters].
 
-### Festivals & Traditions
+## Festivals & Traditions
 
 Many competitions are held, including one for structures with as little contact with the ground as possible, one involving live modifications of existing structures while Patterners drastically change the terrain on which it stands, and one around buildings made from drastically different materials than they appear to be made with.
 
@@ -318,11 +316,11 @@ Some other notable events include:
 
 TODO/traditions (more festivals etc for Unfolding)[]
 
-### Historical Events
+## History
 
 TODO(how has it changed over time?)[]
 
-#### The Unnoticed Feud
+### The Unnoticed Feud
 
 The Architects are aware that bringing in a large construction force is a potential security hazard. Riskier projects are situated on islands conjured far from important settlements, and the Glass Ocean and its inhospitable atmosphere take care of visitors who go exploring. At the same time, the Architects seem incapable of ascribing malicious intent, and treat the risks, challenges, and occasional failures of their projects as exercises in understanding and working with the nature of beings with agency.
 
@@ -348,15 +346,15 @@ This visitor was unable to find whether the gambit, in crippling the eladrin's f
 
 The Architects were keen to understand the circumstances: that understanding was an important part of their collective reckoning with what was, for them, a tragedy not only for the loss of Architects and failure of both projects, but also for their inability to comprehend and preempt the situation. The Architects bore no more ill will to the eladrin than one would to the scorpion that stings the foot about to step on it, and only wished to incorporate awareness of their nature into their preparations. Of course the eladrin would use any means necessary to thwart their opponents. "That is how they are built," an Architect would say, adjusting their blueprints accordingly.
 
-#### The Scaffold's Collapse
+### The Scaffold's Collapse
 
 "Not since the REF[Scaffold]'s collapse" is a local idiom used to indicate how incredibly long something has carried on for. This visitor was unable to find any particulars about the event however. Asked, Architects assumed that yes, such a thing had happened long ago, and that records in the Scaffold vaults would surely tell more. They did not, only containing the same oblique references except for one cursory timeline of pre-historical events which listed it without a date. Perhaps it originated as tongue in cheek expression---the presently referenced thing ancient enough to have been happening ever since something which never happened---and from here made its way into the historical consciousness.
 
 TODO/history (more historical events for Unfolding)[]
 
-### Rumors
+## Rumors & Mysteries
 
-#### The Kindling and Wind Shifter sentience
+### The Kindling and Wind Shifter sentience
 
 After an untold number of failed attempts to communicate with or elicit reaction from REF[wind shifters], it has been assumed that they are inanimate natural constructions. This position is bolstered by the esteemed mathematician REF[Galabast], who was able to replicate their behavior purely from physical principles and produce a mechanical model that functioned on a smaller scale, albeit much more weakly.
 

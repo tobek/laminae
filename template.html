@@ -198,6 +198,9 @@
         text-align: right;
       }
 
+    #TOC .no-toc-children + ul {
+      display: none;
+    }
     #TOC ul {
       list-style-type: none;
       counter-reset: toc;
@@ -396,6 +399,11 @@ $endif$
     // TODO set up ref
   });
 
+  // total hack to allow a heading tag to affect the TOC
+  document.querySelectorAll('#TOC .no-toc-children').forEach(function(el) {
+    el.parentNode.classList.add("no-toc-children");
+  });
+
   var guildTitle = document.querySelector(".guild-name");
   var guildTerms = document.querySelectorAll(".guild-term");
   if (guildTitle || guildTerms.length) {
@@ -433,7 +441,7 @@ $endif$
 
   var laminaNames = document.querySelectorAll(".toc .lamina-name.undone");
   if (laminaNames.length) {
-    var names = ["The Aleatory", "The Asymmetry", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Braid", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "‎The Grip", "The Hidebound", "The Hierarch", "‎The Horn", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
+    var names = ["The Aleatory", "The Asymmetry", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Braid", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "The Hidebound", "The Hierarch", "‎The Horn", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
     laminaNames.forEach(function(name) {
       name.innerHTML = names.popRandom();
     });

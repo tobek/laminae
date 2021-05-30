@@ -112,39 +112,37 @@ no one has been or seen the "outside" of this machine, if it exists. endless roo
 
 ### Asymmetry
 
-## Guide
+## Visiting
 
-### Visiting
-
-### Locations
+## Locations
 
 maybe one or two open spaces, see LND pics
 
-#### The Organ
+### The Organ
 
-#### The Reservoir
+### The Reservoir
 
-### Figures & Groups
+## Figures & Groups
 
-#### Smoothers
+### Smoothers
 
-#### Bleachers
+### Bleachers
 
-#### Listeners
+### Listeners
 
-#### Seekers
+### Seekers
 
-#### Balancers
+### Balancers
 
-<!-- ### Festivals & Traditions -->
+<!-- ## Festivals & Traditions -->
 
-### Historical Events
+## History
 
-#### The Rout
+### The Rout
 
-### Rumors
+## Rumors & Mysteries
 
-#### The Control Room
+### The Control Room
 
-#### Outside the Automaton
+### Outside the Automaton
 

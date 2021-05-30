@@ -47,10 +47,10 @@ media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses
 ed_note_replace = r"\1<span class='editor-note'>\2</span>"
 
-facet_regex = r"(?:[^'])[LNC][GNE][CPD]" # make sure first char is not ' from being in HTML attribute
+facet_regex = r"([^'])[LNC][GNE][CPD]" # make sure first char is not ' from being in HTML attribute
 def facet_replace(match):
-    match = match.group()[1:]
-    return '<span class="glyph">' + id_to_glyph[0][match[0]] + id_to_glyph[1][match[1]] + id_to_glyph[2][match[2]] + '</span>'
+    tri = match.group(0)[1:]
+    return match.group(1) + '<span class="glyph">' + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]] + '</span>'
 
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
     print(input_file)
@@ -109,7 +109,7 @@ input_files = []
 output_files = []
 
 # Grab metadata about all the files
-print("\ngrabbing metadata...")
+print("grabbing metadata...")
 for i, filename in enumerate(files):
     if os.stat(filename).st_size == 0:
         continue
@@ -165,7 +165,7 @@ for filename in outer_files:
     build_file(filename)
 
 anchors = {}
-anchor_blacklist = ["environment", "culture-paradigm", "guide", "visiting", "locations", "rumors", "rumors-mysteries", "history", "historical-events", "festivals-traditions", "figures-groups", "overview", "others", "todo"]
+anchor_blacklist = ["environment", "culture-paradigm", "visiting", "locations", "rumors-mysteries", "history", "festivals-traditions", "figures-groups", "overview", "others", "todo"]
 print("\ngathering anchors...")
 for file_id, data in file_data.items():
     # if only_file and data["input"] != only_file:
@@ -202,6 +202,7 @@ for file_id, data in file_data.items():
                 "name": anchor_name,
                 "def": anchor.get("def") or (anchor.name[0] != "h" and anchor.parent.get_text()),
                 "untranslated": untranslated,
+                "no_index": "no-index" in anchor.attrs,
             }
 
             anchors[file_id + "#" + anchor_id] = anchor_info

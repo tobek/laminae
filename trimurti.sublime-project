@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "."
+			"path": ".",
 		}
 	],
 	"settings":
@@ -17,6 +17,6 @@
 		"line_padding_top": 2,
 		"margin": 4,
 		"translate_tabs_to_spaces": false,
-		"wrap_width": 65
-	}
+		"wrap_width": 65,
+	},
 }

@@ -55,9 +55,7 @@ It is easy to perceive the Florets, with their psychopathic acts of curious crue
 
 They are in a way artists freed from the fear that all artists face: of wasting resources, of actions that cannot be undone. This realm is their utopia. And so it appears that the only thing they might fear---though they fear it in a way that one can only fear that which can't be understood---is exile from their cradle. They of course face judgment from their peers, resulting in loners and outcasts, but that is not exile: Florets thrive on their own, and can return to their kin transfigured whenever they wish. True exile would require losing the Bloom. Florets speak of a place called the "<dfn id="smooth-land" def="A rumored location, feared by Florets, in which the Bloom's influence ceases.">Smooth Land</dfn>", varyingly a high plateau or a deep crater, in which the Bloom's influence ceases. Some say that Florets who stumble upon the place are trapped there, and others that REF[Mother] can command a Floret there for violating imagined dictums---this is wielded as a threat by Florets. This visitor was unable to find evidence or even hearsay of a Floret having ever been thus trapped or exiled.
 
-## Guide
-
-### Visiting
+## Visiting
 
 The Bloom is an alarming place, and this visitor travelled primarily under the guidance of the REF[Islet](#the-islet)'s caretakers, treading gingerly outside their garden with the knowledge that the healing of the slightest scratch or bruise can blossom into a hideous and permanent deformity. You would do well to take similar care, but are unlikely to find support from the caretakers who are suspicious of and reluctant to help visitors. Unfortunately there are few practical suggestions; the best you can do is to proceed slowly, touch as little as possible, and assume the worst of every last twig and flower. Bushwhacking techniques will have unpredictable effects: cutting away vegetation may on average be less dangerous than wading through it, but has a far wider range of outcomes.
 
@@ -67,13 +65,13 @@ In theory no traveller need hunger or thirst in the Bloom, for fruit and moistur
 
 Florets rarely see outsiders, though they are familiar with concept, and will reliably try to engage you in play. They are not malicious but are insistent, and their games and pranks pose real danger. it is nearly impossible for a Floret to say no to an idea, and so the most reliable way to steer an encounter away from potential hazards is to make an alternative proposal. They are however excited about visitors; in order for your alternate proposals to be effective they should at least appear to involve you.
 
-### Locations
+## Locations
 
 The Bloom is packed with legends and superstitions, which like everything here are driven by wonder and curiosity rather than fear. Asked for examples, one Floret rattled off a list that included a forest of mirrors that grant onlookers animal shape-shifting powers, a thorn-encrusted fortress inhabited by a tribe of Floret slavers who roam the Bloom on slave-catching raids, and a region of gem-encrusted carnivorous trees sought after by treasure-hunters. Identifying these places is hopeless. Pathfinding is challenging in the ever-shifting landscape lit by wandering and irregular suns, few locations survive unchanged for long, and cartographic hearsay is just as likely to magnify a Floret game of make-believe as it is to represent a real happening.
 
 The only reliable feature is a rough arrangement of biomes, though this visitor is insufficiently well-versed to provide any sort of map. The bulk of the Bloom is dense jungle heavily populated by Florets, but other environments such as swamps, woodlands, and meadows, more varyingly populated, can be found. The climate everywhere is warm to hot and rarely very dry.
 
-#### TODO(better name for the Islet? refuge, sanctum, harbor, haven, oasis, conservatory)[The Islet]
+### TODO(better name for the Islet? refuge, sanctum, harbor, haven, oasis, conservatory)[The Islet]
 
 TODO(how to people get to the Islet, depends on cosmography: either a: there's a well-guarded gate here, or b: just travel on foot, or c: there's an intermittent gate phenomenon in the bloom)[]
 
@@ -85,7 +83,7 @@ The Islet is far more deserving of the term "garden" than the Bloom itself. Mode
 
 On these trips to the mainland, members of the Islet interface delicately with Florets---who they regard with the wonder and respect one would give a dangerous animal in its native range---to glean news of any outsiders. They are experts at avoiding injurious games or tangles, and always present themselves as visitors to the plane and take care not to lead Florets back to the Islet, though Florets have little in the way of attention span or patience, never venturing out into the dry wilderness that buffers the Islet for there is nothing for them to play with there, and fortunately it is about a day's journey from any populated or vegetated place through that wilderness to reach the Islet.^[In some directions the wilderness---rocky badlands peppered with alien scrub and tumbleweed---extends farther than any known efforts to explore it.] It is possible that the Florets' story of the REF[Smooth Land] is an exaggerated tale of a wilderness that in reality bores rather than frightens them.
 
-##### The Islet Conservatory
+#### The Islet Conservatory
 
 At the center of the community, dug into the ground around the rhythmic spring itself, is a lattice-walled conservatory that functions as a botany museum, research laboratory, and art gallery. Spring-fed rivulets trickle down multi-level aqueducts and along channels in the floor. From the infinite palette of the Bloom has been composed a baffling harmony of color, scent, shape, and texture. The garden here is tended to largely by a lone mute Floret child who won the trust of one of the founding matriarchs and has remained here since.
 
@@ -97,15 +95,15 @@ Generations of study have found no predictability whatsoever in the mutations of
 
 The stability of the spring and land around is essential to the community's endeavors: the unrelenting turmoil of the rest of the Bloom would render all civilization efforts hopeless. There is a subtle fear amongst some of the Islet that the Bloom is being cheated of its labors by this anomalously productive work, and that it could somehow seek or stumble upon revenge. Certainly the border of the mainland varies and could eventually approach the Islet, but more worrisome is that one day a tremendous REF[Swell](#swells) could surge through the barren land, over which it normally peters out, and wash disastrously over the Islet.
 
-<!-- ### Figures & Groups -->
+<!-- ## Figures & Groups -->
 
-<!-- ### Festivals & Traditions -->
+<!-- ## Festivals & Traditions -->
 
-<!-- ### Historical Events -->
+<!-- ## History -->
 
-### Rumors
+## Rumors & Mysteries
 
-#### Mother
+### Mother
 
 Florets speak of "Mother" with wide-eyed reverence, more as a cosmic force than an actual being. Mother is the reason they are here, they say, and Mother ensures that they enjoy themselves and are safe. All the Florets say they have seen Mother, for Mother is all around them, but they also speak of seeing her during moments of transfiguration. There is disagreement on whether Mother is a wholly benevolent figure: some Florets invoke her threateningly as one who may exile insufficiently creative or pure Florets to the REF[Smooth Land], or out of the Bloom entirely. Others reject these threats and insist that Mother always wishes her children the best, and is always kind.
 

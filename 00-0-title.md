@@ -325,7 +325,7 @@
   <div class="dots"></div><div class="page">CEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">26.</div><a class="lamina-name undone" hreff="26-cep.html"></a></div>
+  <div class="left"><div class="numeral">26.</div><a class="lamina-name" href="26-cep.html">The Knot</a></div>
   <div class="dots"></div><div class="page">CEP</div>
 </div>
 <div class="row">

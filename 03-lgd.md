@@ -48,6 +48,8 @@ The ____[this plane]'s ritual of forgetfulness is mediated by the bookkeeper's r
 
 ### Supplication
 
+TODO(should this be under Visiting, but is context needed for the next section?)
+
 Those who make the pilgrimage to _____ to seek aid are known as supplicants, and must go through a lengthy and TODO/somber process. First the supplicant must seek out an appropriate pavilion housing an appropriate hero. A handful of esoteric libraries and astral hermits have knowledge or maps of the realm that may aid a supplicant, but even with such guidance you may have to search for weeks, intuiting from a pavilion's construction what glory it may house. Bookkeepers at each pavilion, who are able to quickly rule out many requests, will often offer direction to other pavilions near or far which may be more appropriate, or suggest, if necessary, that no pavilion is likely to aid their quest.
 
 Supplicants must come alone, bringing any evidence or material regarding the challenge that they can bring. Once an initial review of a supplicant's crisis has been passed, true deliberations begin. During this process this process the pavilion is sealed from the realm, and the supplicant must place aside all of their belongings and wear one of the bookkeeper's robes while they remain there housed and cared for. Deliberation may last for days or much more, during which bookkeepers conduct extensive research, often traveling to the location of the challenge for further information. Urgent matters are rarely suited for this process, though the process has been expedited in rare cases where the crisis is sufficiently enormous and obviously suited to the hero.
@@ -58,7 +60,7 @@ If a supplicant's request is rejected, their belongings are returned to them and
 
 If a supplicant's request is accepted, the hero is woken. The supplicant and bookkeepers inform the hero of all they know, and a TODO/ritual (describe it) is conducted, in which the robes are burned and the hero sent forth by TODO/teleportation to the appropriate location. The supplicant's belongings are returned, and they are released to return the way they came, knowing only that their request was honored.
 
-### TODO/term The Hero Beyond (The Hero Utterly, as in how sentences start?)
+### TODO/term(The Hero Beyond, or The Hero Utterly, as in how sentences start?)[The Hero Utterly]
 
 There are many reasons why bookkeepers work so hard to ensure that a challenge is sufficiently perilous to ensure a fatal victory for their hero. Firstly, any lesser challenge would be a waste of their hero's prowess. TODO/reword Their valiance must be used to the last drop. The second reason is widely feared. A hero that has passed through this realm emerges blinded with vengeful purpose, with all intent boiled and distilled into their quest, and if they do not perish in the process, no consciousness remains: only force and might. These broken raving saviors know only destruction, and wreak it upon anything in their presence. Entire cities have been leveled in the misguided aftermath of such episodes, and the hero will not stop until slain or lost.
 
@@ -72,7 +74,7 @@ The source of this effect is TODO disputed, maybe necessary side effect of chann
 
 most successful, a few broken
 
-## Notable locations
+## Locations
 
 ### Known pavilions
 
@@ -80,4 +82,4 @@ most successful, a few broken
 
 one huge pavilion (what theme?) has been closed in deliberation for as long as anyone can remember
 
-## Rumors
+## Rumors & Mysteries

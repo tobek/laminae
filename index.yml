@@ -8,21 +8,21 @@
 #
 # need some way to signal "presentable"
 
-Lawful Good (Hierarchy Empathy):
+Hierarchy Empathy:
 
-    '○○○○○○ Lawful Good Creation (LGC)':
+    '○○○○○○ Hierarchy Empathy Creation (LGC)':
         name: The Bauble? The Procedure?
         demonym:
         summary: |
             *?* a surprisingly exhausting, crushing place? Too much energy? Conduit should maybe be missing from this one or CEC or CED or LEC. W40k Terra? Or crystalline? Some deal/symbiosis with CED
 
-    '◍◍○○○○ Lawful Good Equilibrium (LGP)':
+    '◍◍○○○○ Hierarchy Empathy Equilibrium (LGP)':
         name: The Concordance, The Positioning, The Arrangement, The Procedure
         demonym: Archons, Valiants
         summary: |
             An answer to the question "is suffering needed to give context to happiness?" - their answer is "no". A perfect civilization that gently guides any visitor or resident towards benevolent perfection. Idealized Japan?
 
-    '◍◍◍○○○ Lawful Good Dissolution (LGD)':
+    '◍◍◍○○○ Hierarchy Empathy Dissolution (LGD)':
         link: true
         name: The Ardence (The Lattice, The Reticulation (having the veins or nerves disposed like the threads of a net), The Braid)
         demonym: Avatars, Archons, Ardents, Apeirons, Pyreans
@@ -30,65 +30,65 @@ Lawful Good (Hierarchy Empathy):
             Resting place for famous champions (martial and otherwise) who wish to engage with evil one more time, but only if the challenge is perfectly matched such that it results in the hero simultaneously succeeding and perishing. Visitors make their cases requesting help from these mythical heros, and bookkeepers assess the odds that it will be sufficiently valiant and perilous.
 
 
-Neutral Good (Synthesis Empathy):
+Synthesis Empathy:
 
-    '●◍◍○○○ Neutral Good Creation (NGC)':
+    '●◍◍○○○ Synthesis Empathy Creation (NGC)':
         link: true
         name: The Epiphany?
         demonym:
         summary: |
             Self-improvement? Keepers of the "universal story". Is the insight real, or is it the feeling of insight. They're insufferable, but you can't blame them. Pilgrimages and crowds. How can so many experience it without infinite queues? Everyone should experience it but it's so cringe some people never will. They try to optimize this but can't? Or no, do they evangelize or no? maybe they don't but others do. Some struggle here, in the way that IJ is a struggle against addictiveness. goal is to motivate one to do better. this place should be beautiful, like the mechanical monk image
 
-    '◍○○○○○ Neutral Good Equilibrium (NGP)':
+    '◍○○○○○ Synthesis Empathy Equilibrium (NGP)':
         name:
         demonym: Nomads, Benefactors, Samaritans
         summary: |
             Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril? No. Restorative justice and problem solving
 
-    '◍○○○○○ Neutral Good Dissolution (NGD)':
+    '◍○○○○○ Synthesis Empathy Dissolution (NGD)':
         name:
         demonym:
         summary: |
             *?* Ritualistic athletes that push themselves to transcendent disintegration? Holy assassins? Revenge? Maybe swap with CGD
 
 
-Chaotic Good (Autonomy Empathy):
+Autonomy Empathy:
 
-    '○○○○○○ Chaotic Good Creation (CGC)':
+    '○○○○○○ Autonomy Empathy Creation (CGC)':
         name:
         demonym:
         summary: |
             *?* Artists? Creative chaotic be-careful-what-you-wish-for self improvement/metamorphoses? random acts of poetic terrorism a la those goes in SCP Foundation and Hakim Bey? Pure experience/observation is all that's possible, is that this place?
 
-    '●◍◍○○○ Chaotic Good Equilibrium (CGP)':
+    '●◍◍○○○ Autonomy Empathy Equilibrium (CGP)':
         name: The Brink
         demonym: Apeirons
         summary: |
             Rivalry with LGP, believe suffering and risk of failure is required for happiness. Burnt out minds and exultant savants, psychedelic natural disasters tearing and regenerating the landscape. Burning manish
 
-    '◍○○○○○ Chaotic Good Dissolution (CGD)':
+    '◍◍○○○○ Autonomy Empathy Dissolution (CGD)':
         name:
         demonym:
         summary: |
-            *?* Cathartic sacrificial/purging rituals? Celebratory graveyard/memorializing? maybe swap with NGD
+            Cathartic sacrificial/purging rituals? Celebratory graveyard/memorializing? maybe swap with NGD
 
 
-Lawful Neutral (Hierarchy Utility):
+Hierarchy Utility:
 
-    '●◍◍◍◍○ Lawful Neutral Creation (LNC)':
+    '●◍◍◍◍○ Hierarchy Utility Creation (LNC)':
         link: true
         name: The Unfolding
         demonym: Architects
         summary: |
             Artists and engineers that freely architect all the most famous constructions in existence. Will work with anyone on any project - all things, irrespective of emotional or moral content, are opportunities for commemoration, challenge, creation, and beauty. Islands tended to by Patterners split and join to create archipelagos and continents spread across the Glass Ocean, where the enormous automaton Wind Shifters interlock and glide across empty waters.
 
-    '◍◍○○○○ Lawful Neutral Equilibrium (LNP)':
+    '◍◍○○○○ Hierarchy Utility Equilibrium (LNP)':
         name: The Essentialism
         demonym: Archivists
         summary: |
             Collecting everything in a crystalline library hive, for cataloging and categorization according to infinitely varied sets of overlapping ontologies, none of which can be argued to be a universally useful or applicable paradigm. Also, free storage of stuff they don't have? Lost and found?
 
-    '●◍◍○○○ Lawful Neutral Dissolution (LND)':
+    '●◍◍○○○ Hierarchy Utility Dissolution (LND)':
         link: true
         name: The Instrument
         demonym: Moilers
@@ -96,22 +96,22 @@ Lawful Neutral (Hierarchy Utility):
             OCD to its most extreme. Different factions OCD about different things, and cities built around them, e.g. cleaning things to the bone/disintegration, or smoothing until nothing remains, or analysis until meaninglessness, or repetition until nonsense
 
 
-Neutral Neutral (Synthesis Utility):
+Synthesis Utility:
 
-    '◍◍○○○○ Neutral Neutral Creation (NNC)':
+    '◍◍○○○○ Synthesis Utility Creation (NNC)':
         name: The Precision, ‎The Hew
         demonym:
         summary: |
             Sculptors + research/exploration in order to predict how their sculptures/creations can nudge everything towards some kind of balance, keeping endless ledgers of outcomes and future adjustments needed. Everything ever made was made here in its prototypical form?
 
-    '◍◍◍○○○ Neutral Neutral Equilibrium (NNP)':
+    '◍◍◍○○○ Synthesis Utility Equilibrium (NNP)':
         link: true
         name: The Cartography, The Shape, The Aspect, The Facet, The Outlook, The Substantiation, The Exhibition, The Testimony
         demonym:
         summary: |
             Entire multiverse laid out like endless chess set, everything recreated in 1-to-1 scale in grayscale, nothing ever moving. For every instant in time, this plane contains one complete copy reality of occupying the full space it requires. This makes it really really hard to find anything, because every physical location is represented by an infinite number of snapshots of it over time, but if you can find anything, you can study a specific moment with limitless time and attention, even the future.
 
-    '◍◍◍○○○ Neutral Neutral Dissolution (NND)':
+    '◍◍◍○○○ Synthesis Utility Dissolution (NND)':
         link: true
         name: The Lucidity
         demonym: Precepts
@@ -119,15 +119,15 @@ Neutral Neutral (Synthesis Utility):
             Obliterating zen monks aim for ultimate nothingness residing in blank palaces. Flawless control over their attention gives them otherwordly abilities. They occasionally gather outside their realm to perform lengthy ceremonies of "erasure" causing an unepected thing (an artifact, a memory, a person, a river, a civilization) to vanish at the end of the ceremony. Swap with NED? if not need something that pulls them away from pure power
 
 
-Chaotic Neutral (Autonomy Utility):
+Autonomy Utility:
 
-    '◍○○○○○ Chaotic Neutral Creation (CNC)':
+    '◍○○○○○ Autonomy Utility Creation (CNC)':
         name:
         demonym:
         summary: |
             *?* "Mutatorium" (fractal passageways where patient caretakers guide visitors through undertakings that cause drastic transformations that rarely go as planned)? Creative madness/art? Thieves (that... duplicate stuff?)? Lost and found? Artists?
 
-    '◍◍◍○○○ Chaotic Neutral Equilibrium (CNP)':
+    '◍◍◍○○○ Autonomy Utility Equilibrium (CNP)':
         name: The Wilt
         demonym: Blighted, Catatons
         summary: |
@@ -135,7 +135,7 @@ Chaotic Neutral (Autonomy Utility):
 
             OR new alignments: more like some peaceful apathetic limbo for loners? In which case CNP. Their holes are beautifully decorated, some are grassy patches with sun, silence and peace. Sometimes they sleep and the holes close up. Weirdly blank outside each hole.
 
-    '●◍◍◍◍○ Chaotic Neutral Dissolution (CND)':
+    '●◍◍◍◍○ Autonomy Utility Dissolution (CND)':
         link: true
         name: The Inevitability
         demonym: Unravellers
@@ -143,66 +143,66 @@ Chaotic Neutral (Autonomy Utility):
             Basically an embodiment of the second law of thermodynamics. They are the mechanism by which the multiverse ensures that entropy always increases. They organize into collectives around particular domains of entropy - rotting food, aging, combustion, political dissolution, broken furniture, romantic miscommunication, decomposing buried treasure, etc.
 
 
-Lawful Evil (Hierarchy Power):
+Hierarchy Power:
 
-    '◍◍○○○○ Lawful Evil Creation (LEC)':
+    '◍◍○○○○ Hierarchy Power Creation (LEC)':
         name:
         demonym:
         summary: |
-            Catacombs of industrious, hierarchical workers who invent convoluted (evil) schemes to unleash on the rest of existence. Not a single instance of a scheme being enacted has ever been observed. Are we not looking hard enough or are they obfuscating their work? Or more of this in NEC? "optimistic evil" like nazis, their vision of social progress at all costs
+            Catacombs of industrious, hierarchical workers who invent convoluted schemes to unleash on the rest of existence. Not a single instance of a scheme being enacted has ever been observed. Are we not looking hard enough or are they obfuscating their work? Or more of this in NEC? "optimistic evil" like nazis, their vision of social progress at all costs. Barbarella society?
 
-    '◍○○○○○ Lawful Evil Equilibrium (LEP)':
+    '◍○○○○○ Hierarchy Power Equilibrium (LEP)':
         name:
         demonym:
         summary: |
             In on the LGP/CGP questions? This or LEC has to be a cruel but beautiful and powerful and successful society, what ZHP wants.
-            Paranoid tyrants holed up in indestructible fortresses, overwhelmingly prepared for threats that never materialize, obsessively studying, the best at it. The culture has spiraled into paranoia. - must just be a citystate? Or maybe the whole place but minus the paranoia
+            Paranoid tyrants holed up in indestructible maze fortresses, overwhelmingly prepared for threats that never materialize, obsessively studying, the best at it. The culture has spiraled into paranoia (too much like LND?) - or just be a citystate? Or maybe the whole place but minus the paranoia
 
-    '○○○○○○ Lawful Evil Dissolution (LED)':
+    '○○○○○○ Hierarchy Power Dissolution (LED)':
         name:
         demonym:
         summary: |
             Elaborate weavers of personalized, creative curses. Maybe swap with LEC?
 
 
-Neutral Evil (Synthesis Power):
+Synthesis Power:
 
-    '◍○○○○○ Neutral Evil Creation (NEC)':
+    '◍◍○○○○ Synthesis Power Creation (NEC)':
         name:
         demonym:
         summary: |
-            Nightmare-makers (or just dreams of all kinds, unfiltered) or swap with LEP
+            Dreams, unfiltered, dangerous, inspiration
 
-    '◍○○○○○ Neutral Evil Equilibrium (NEP)':
+    '◍○○○○○ Synthesis Power Equilibrium (NEP)':
         name:
         demonym:
         summary: |
-            Nomadic devils - opposite of NGP, pacts of power, helping however but not honorably. Or dangerous beauty
+            Nomadic devils - opposite of NGP, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
 
-    '◍○○○○○ Neutral Evil Dissolution (NED)':
+    '◍○○○○○ Synthesis Power Dissolution (NED)':
         name:
         demonym:
         summary: |
             Torturers. They ask the opposite question to LGP/CGP/LEP - is occasional pleasure necessary for true suffering? And two rival civilizations have formed over opposite answers to this question. Swap with NND?
 
 
-Chaotic Evil (Autonomy Power):
+Autonomy Power:
 
-    '●◍◍◍○○ Chaotic Evil Creation (CEC)':
+    '●◍◍◍○○ Autonomy Power Creation (CEC)':
         link: true
         name: The Bloom
         demonym: Florets
         summary: |
             Pestilence garden full of children "playing". Anything brought here, even (especially) living things, will eventually blossom and transform hideously.
 
-    '◍○○○○○ Chaotic Evil Equilibrium (CEP)':
-        name: The Retelling?
-        demonym:
+    '●◍◍○○○ Autonomy Power Equilibrium (CEP)':
+        name: The Knot
+        demonym: Grips
         summary: |
             Ouroboros - filled with giant ouroboros crashing through landscape eating everything and themselves. Inhabitants routinely eat themselves, but some force suffuses the place that makes everything regenerate?
 
-    '◍○○○○○ Chaotic Evil Dissolution (CED)':
+    '◍○○○○○ Autonomy Power Dissolution (CED)':
         name:
         demonym:
         summary: |
-            Murder as art
+            Murder as art? Forgettign place?

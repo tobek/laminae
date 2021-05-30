@@ -10,7 +10,7 @@ quote: |
     > ---Jesma Shirancord, "Vectors"
 abstract: |
 
-    The Bell is frustrating to describe, for all that try must resort to superlatives that ring true only for those who have also witnessed it, but which fall embarrassingly flat on the ears of those who have not. It is a startlingly beautiful place. Storm-brushed cliffs and forests roll in the golden half-light of an unpredictable sun spilling through dark clouds, washing the landscape and its many shrines in the sharp glow of déjà vu. The Kalons who reside here are keepers of "the Universal Story," and each creates a sanctuary devoted to elaborating and retelling this story. The Universal Story is the Kalons' gift of empathy, insight, and equanimity to the multiverse, which they offer with a quiet humility totally unlike the rapturous praise of those who experience it. Visitors are invited to spend a month sealed ritually alone in a sanctum of their choice, reading and experiencing the Universal Story as manifested by one Kalon. The story may take the form of a tremendous illuminated tome in an empty room, or a gallery of hundreds of sculptures covered in fine inscriptions, or a huge temple whose every surface holds intricate mosaics, or all of these at once, and the visitor must remain alone with the work until the sound of a bell welcomes them back to the world.
+    The Bell is frustrating to describe, for all that try must resort to superlatives that ring true only for those who have also witnessed it, but which fall embarrassingly flat on the ears of those who have not. It is a startlingly beautiful place. Storm-brushed cliffs and forests roll in the golden half-light of an unpredictable sun spilling through dark clouds, washing the landscape and its many shrines in the sharp glow of déjà vu. The Kalons who reside here are keepers of the "Universal Story," and each creates a sanctuary devoted to elaborating and retelling this story. The Universal Story is the Kalons' gift of empathy, insight, and equanimity to the multiverse, which they offer with a quiet humility totally unlike the rapturous praise of those who experience it. Visitors are invited to spend a month sealed ritually alone in a sanctum of their choice, reading and experiencing the Universal Story as manifested by one Kalon. The story may take the form of a tremendous illuminated tome in an empty hall, or a gallery of hundreds of sculptures covered in fine inscriptions, or a huge temple whose every surface holds intricate mosaics, or all of these at once. A visitor must remain alone with the work until the sound of a bell welcomes them back to the world.
 
     The Universal Story is a kaleidoscopic mirror: from one angle you see the story of your childhood, from another the great foundational myth of your culture, and from another your dreams and fears, all woven into a coherent whole with overwhelming fidelity and insight. In every vicissitude of joy and despair and beauty the story seems written personally for each reader, placating impossible questions and imparting a framework for approaching one's life and its challenges with serenity and purpose. It is tiresome but wholly warranted to describe this with such confidence. It is no exaggeration to say, despite having approached it with reluctance and all the cynicism of one who had heard its virtues extolled ad nauseam by every past traveller, that undergoing this experience has been the most significant event of this visitor's life, and is in many ways responsible for the creation of the work which you now read.
 ---
@@ -113,50 +113,48 @@ each kalon making their own
 
 kalons explore others?
 
-## Guide
+## Visiting
 
-### Visiting
+### Choosing a Sanctum
 
-#### Choosing a Sanctum
-
-#### The Ritual of the Universal Story
+### The Universal Story
 
 related here for the curiosity of those who will never be able to go but i beg of you if there is any chance you may go, skip this blah blah
 
-#### The Bell
+### The Bell
 
-### Locations
+## Locations
 
-#### The Golden Spine
+### The Golden Spine
 
-#### The Golden Lake
+### The Golden Lake
 
 maybe this is what catches all the falling rain? Beautiful underground cave river system that feeds the bottomless underground Golden lake? but if underground why golden, maybe shafts of light come through, sunbeams
 
-#### The Golden Sound
+### The Golden Sound
 
 is this a sound as in an inlet, or a place where a certain sound manifests?
 
-### Figures & Groups
+## Figures & Groups
 
-#### Tutelary Council
+### Tutelary Council
 
-#### Orators
+### Orators
 
 kalons who don't do sanctums, you just talk to them? they crazy?
 
-<!-- ### Festivals & Traditions -->
+<!-- ## Festivals & Traditions -->
 
-### Historical Events
+## History
 
-#### The First Story
+### The First Story
 
-#### Fruitless Apostles
+### Fruitless Apostles
 
 those who tried to evangelize and it messed things up
 
-### Rumors
+## Rumors & Mysteries
 
-#### The Illusion of Insight
+### The Illusion of Insight
 
-#### Kalon Intentions
+### Kalon Intentions

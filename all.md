@@ -1,6 +1,6 @@
-# **Lawful Good**
+# **Hierarchy Empathy**
 
-## Lawful Good Creation (LGC)
+## Hierarchy Empathy Creation (LGC)
 
 Maybe they have some rumored and controversial deal/symbiosis with CED?
 
@@ -8,7 +8,7 @@ crystalline structure
 
 @conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
 
-## Lawful Good Preservation (LGP)
+## Hierarchy Empathy Equilibrium (LGP)
 
 <https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun>
 
@@ -45,25 +45,25 @@ the goal is that anyone can be dropped in and will become a wonderful citizen, a
 
 headsoak note 724 about a system designed to allow for bad actors vs. is it ok if the good guys do it when it's not ok if the bad guys do it.
 
-## Lawful Good Destruction (LGD)
+## Hierarchy Empathy Dissolution (LGD)
 
 [transferred]
 
 ***
 
-# **Neutral Good**
+# **Synthesis Empathy**
 
-## Neutral Good Creation (NGC)
+## Synthesis Empathy Creation (NGC)
 
 [transferred]
 
-## Neutral Good Preservation (NGP)
+## Synthesis Empathy Equilibrium (NGP)
 
 [opposite to NEP, and between the two of them have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism]
 
-Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to Neutral Evil Preservation)
+Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to NEP)
 
-## Neutral Good Destruction (NGD)
+## Synthesis Empathy Dissolution (NGD)
 
 Could swap with LGD
 
@@ -77,33 +77,31 @@ Graveyard?
 
 ***
 
-# **Chaotic Good**
+# **Autonomy Empathy**
 
-## Chaotic Good Creation (CGC)
+## Autonomy Empathy Creation (CGC)
 
 Artists? Be-careful-what-you-wish-for self improvement? Poetic Terrorism? Mutatorium?
 
-## Chaotic Good Preservation (CGP)
+## Autonomy Empathy Equilibrium (CGP)
 
 [transferred]
 
-## Chaotic Good Destruction (CGD)
+## Autonomy Empathy Dissolution (CGD)
 
-Sacrificers: bring something you are done with or want to get rid of (or celebrate in a blaze of glory) and a ritual will be created around it, its essence split up and dispersed. Or maybe like a graveyard (could swap with NGD) where everything is done appropriate justice, eulogized by incredible orators. Bloodletting.
-
-Blissful letting go. But the thing you are forced to let go of is rarely the thing you came to let go of.
+[transferred]
 
 ***
 
-# **Lawful Neutral**
+# **Hierarchy Utility**
 
-## Lawful Neutral Creation (LNC)
+## Hierarchy Utility Creation (LNC)
 
 **Architects of the Unfolding**
 
 [transferred]
 
-## Lawful Neutral Preservation (LNP)
+## Hierarchy Utility Equilibrium (LNP)
 
 Archivists.
 
@@ -131,15 +129,15 @@ people come from all over the multiverse to store stuff there, and they are REAL
 
 there are conditions to storage. maybe it has to be something they don't currently have? and if that's the case, they will store it for free, in flawless condition, taking care of it if necessary. part of the condition though maybe is that they have to be allowed to study it? can they touch it? they've never been known to mess anything up though. is there anything they won't store?
 
-## Lawful Neutral Destruction (LND)
+## Hierarchy Utility Dissolution (LND)
 
 [transferred]
 
 ***
 
-# **Neutral Neutral**
+# **Synthesis Utility**
 
-## Neutral Neutral Creation (NNC)
+## Synthesis Utility Creation (NNC)
 
 Sculptors? Some believe the gods themselves---some of them, all of them, who knows?---were painstakingly sculpted in these forges. They'll make anything but keep careful ledger so that the output of the plane remains balanced. Every thing created is forecast to have certain effects, and miscalculations are rapidly accounted for. They are famous employers (famously rewarding, famously exacting) of explorers and researchers who report back to them on the results of their more ambitious or uncertain endeavors. It's said that these mercenaries are chosen very, very carefully. Often the act of investigation itself and those chosen to investigate are meant to fix any imbalances, and surprisingly often the investigators themselves find their own nature changed in the process.
 
@@ -147,13 +145,13 @@ look into http://www.rilmani.org/timaresh/Timaresh
 
 DIFFERENTIATE FROM LNP
 
-## Neutral Neutral Preservation (NNP)
+## Synthesis Utility Equilibrium (NNP)
 
 **The Cartography (?)**
 
 [transferred]
 
-## Neutral Neutral Destruction (NND)
+## Synthesis Utility Dissolution (NND)
 
 **The Precepts of the Lucidity (?)**
 
@@ -161,9 +159,9 @@ DIFFERENTIATE FROM LNP
 
 ***
 
-# **Chaotic Neutral**
+# **Autonomy Utility**
 
-## Chaotic Neutral Creation (CNC)
+## Autonomy Utility Creation (CNC)
 
 - the Mutatorium in the Plane of Creation could instead be this? Or the dream-creators (if oppositional to nightmares) could be this (or a place located here)?
 - could swap with CGC, which could be mutatorium or observation-only
@@ -180,7 +178,7 @@ DIFFERENTIATE FROM LNP
 
 A barren void. A pulsating fractal rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
 
-## Chaotic Neutral Preservation (CNP)
+## Autonomy Utility Equilibrium (CNP)
 
 Voiders? The Wilt?
 
@@ -200,7 +198,7 @@ The arrangement of holes changing/unpredictable somehow? Holes slowly close up s
 
 Peaceful.
 
-## Chaotic Neutral Destruction (CND)
+## Autonomy Utility Dissolution (CND)
 
 **The Unravellers of the Inevitability**
 
@@ -208,17 +206,17 @@ Peaceful.
 
 ***
 
-# **Lawful Evil**
+# **Hierarchy Power**
 
-## Lawful Evil Creation (LEC)
+## Hierarchy Power Creation (LEC)
 
-Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate evil schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the downfall of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
+Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
 
-Is the multiverse too big? Is the plan somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
+Is the multiverse too big? Is the lamina somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
 
 Could be like Barbarella society, decadent
 
-## Lawful Evil Preservation (LEP)
+## Hierarchy Power Equilibrium (LEP)
 
 tyrants
 
@@ -226,7 +224,7 @@ regimented armies. gauntlet and boot
 
 paranoid tyrants holed up in indestructible fortresses, overwhelmingly prepared for threats that never materialize
 
-easily the most militarily powerful of all the planes, but since they remain in defensive mode indefinitely, it's all moot.
+easily the most militarily powerful of all the laminae, but since they remain in defensive mode indefinitely, it's all moot.
 
 there was once some extraordinary incident where a trickster managed to harness their military might---maybe either by luring an enemy into hopeless attack against these guys, or by somehow managing them to, for once, sally out from their fortresses.
 
@@ -236,7 +234,7 @@ maybe it's actually not bad, if you're into it?
 
 Ben Sack art?
 
-## Lawful Evil Destruction (LED)
+## Hierarchy Power Dissolution (LED)
 
 elaborate weavers of personalized, creative curses
 
@@ -244,39 +242,35 @@ Beautiful, intricate, ornate.
 
 ***
 
-# **Neutral Evil**
+# **Synthesis Power**
 
-## Neutral Evil Creation (NEC)
+## Synthesis Power Creation (NEC)
 
-Dreamers - they manufacture nightmares
+[transferred]
 
-## Neutral Evil Preservation (NEP)
+## Synthesis Power Equilibrium (NEP)
 
 Nomadic devils - the opposite of NGP, or CND holes in ground.
 
-## Neutral Evil Destruction (NED)
+## Synthesis Power Dissolution (NED)
 
 Torturers, or CND holes in ground.
 
 ***
 
-# **Chaotic Evil**
+# **Autonomy Power**
 
-## Chaotic Evil Creation (CEC)
+## Autonomy Power Creation (CEC)
 
 [transferred]
 
-## Chaotic Evil Preservation (CEP)
+## Autonomy Power Equilibrium (CEP)
 
-Ouroboros: filled with giant ouroboros thrashing and crashing through landscape eating everything in search of their tails, which they often catch, falling into devouring loop. inhabitants routinely eat themselves. aura makes things regenerate.
+[transferred]
 
-"You are here to be swallowed [and regurgitated]" quote, maybe for CED or CEP, some kind of scholarly jabba/Yoda thing that is found calmly astride an ouroboros?
+## Autonomy Power Dissolution (CED)
 
-churning landscape, maybe geometric or runic? maybe no solid ground, like clouds and mud and geysers of steam and lava.
-
-the way to protect yourself from the ouroboros is to get them to catch their own tails, which distracts them for a while, maybe forever? each ouroboros is extremely unique, and ones which were self eating have later been seen to be no longer self eating, but no one has ever seen the transition. what happens? does it just... stop? does it... succeed? maybe they constantly grow at crazy speed, so unless they eat themselves, they just get enormous.
-
-## Chaotic Evil Destruction (CED)
+maybe this is the forgetting place
 
 Murder as art
 
