@@ -1,15 +1,16 @@
 # The Bauble SKIP
 
 ---
-subtitle: Synthesis Power Creation (NEC)
-toc_only: True
-<!-- post_toc_only: MEDIA("David Hellman - Braid background.jpg") -->
+subtitle: Synthesis Power Creation NEC
+intro_only: True
+<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
 quote: |
     > Beauty is nothing but the beginning of terror.
     >
     > ---Errian Ariam Kelri
 abstract: |
     TODO abstract
+
 ---
 
 <!--
@@ -18,7 +19,11 @@ what's the point?
 - inspiration can be unsettling and hard to control
 -->
 
-The Bauble is the ocean of dreams and nightmares.
+The Bauble is the ocean of dreams and nightmares. it is colorful and twisted, full of Limns who speak in free association. strange forms rumble under the smooth deep waves, and in some places vast warm shallows are filled with gardens of fancy and lilting tunes, while in others dark crags loom with shadows, and all can change flavor with a sudden swell of wave or weather. in this lamina you can see which souls said yes more than no in their mortal lives, or the reverse. the yes's float surrounded by the flux of their inspiration, and the no's wall themselves off in latticed prisons and sink into the hopeful quiet deep.
+
+the fruits of this place are a blessing and a curse: the dreams come and go at the whim of the Limns, and many artists have been torn by the wilting lack or unharnessable abundance of waking dreams. dreams of grandeur, unbidden, unfiltered, dreams of curiosity, dreams of feared things. a place where the unformed shapes beneath waters in corner of the eye take the form of the thoughts of those nearby.
+
+*need more about limns, and one more unique component*
 
 - name
 - demonym

@@ -1,6 +1,6 @@
 # **Hierarchy Empathy**
 
-## Hierarchy Empathy Creation (LGC)
+## Hierarchy Empathy Creation LGC
 
 Maybe they have some rumored and controversial deal/symbiosis with CED?
 
@@ -8,7 +8,7 @@ crystalline structure
 
 @conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
 
-## Hierarchy Empathy Equilibrium (LGP)
+## Hierarchy Empathy Equilibrium LGP
 
 <https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun>
 
@@ -45,7 +45,7 @@ the goal is that anyone can be dropped in and will become a wonderful citizen, a
 
 headsoak note 724 about a system designed to allow for bad actors vs. is it ok if the good guys do it when it's not ok if the bad guys do it.
 
-## Hierarchy Empathy Dissolution (LGD)
+## Hierarchy Empathy Dissolution LGD
 
 [transferred]
 
@@ -53,17 +53,17 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 # **Synthesis Empathy**
 
-## Synthesis Empathy Creation (NGC)
+## Synthesis Empathy Creation NGC
 
 [transferred]
 
-## Synthesis Empathy Equilibrium (NGP)
+## Synthesis Empathy Equilibrium NGP
 
 [opposite to NEP, and between the two of them have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism]
 
 Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to NEP)
 
-## Synthesis Empathy Dissolution (NGD)
+## Synthesis Empathy Dissolution NGD
 
 Could swap with LGD
 
@@ -79,15 +79,15 @@ Graveyard?
 
 # **Autonomy Empathy**
 
-## Autonomy Empathy Creation (CGC)
+## Autonomy Empathy Creation CGC
 
 Artists? Be-careful-what-you-wish-for self improvement? Poetic Terrorism? Mutatorium?
 
-## Autonomy Empathy Equilibrium (CGP)
+## Autonomy Empathy Equilibrium CGP
 
 [transferred]
 
-## Autonomy Empathy Dissolution (CGD)
+## Autonomy Empathy Dissolution CGD
 
 [transferred]
 
@@ -95,13 +95,13 @@ Artists? Be-careful-what-you-wish-for self improvement? Poetic Terrorism? Mutato
 
 # **Hierarchy Utility**
 
-## Hierarchy Utility Creation (LNC)
+## Hierarchy Utility Creation LNC
 
 **Architects of the Unfolding**
 
 [transferred]
 
-## Hierarchy Utility Equilibrium (LNP)
+## Hierarchy Utility Equilibrium LNP
 
 Archivists.
 
@@ -117,9 +117,7 @@ Similar to the Mathematicians of Mechanus:
 
 > A sect splintered from the Guvners, the Mathematicians hold that everything that you can imagine can be found on Mechanus in some form, and by cataloguing this and applying logic, symbolism and math to this one can unlock the secrets of the plane. They don't do this for riches or power: they are a group of serious minds who want to discover the secrets of the plane for scholastic reasons. While they still have a long way to go their stay on Mechanus has impaired the Mathematicians with a superior understanding of the Labyrinthine Portal, the network of portals on Mechanus that links every single cog with another one. With this understanding the members of this sect can calculate in record time in which order you have to go through the portals in order to get to where you want to go. Lawful people of superior intelligence are welcome to join them, but it is expected of members to not share their findings with non-members.
 
-look into http://www.rilmani.org/timaresh/Timaresh
-
-DIFFERENTIATE FROM NNC
+some connection to [Timaresh](http://www.rilmani.org/timaresh/Timaresh) where every written work in the multiverse is reflected, reproduced, and stored.
 
 ### storage
 
@@ -129,7 +127,7 @@ people come from all over the multiverse to store stuff there, and they are REAL
 
 there are conditions to storage. maybe it has to be something they don't currently have? and if that's the case, they will store it for free, in flawless condition, taking care of it if necessary. part of the condition though maybe is that they have to be allowed to study it? can they touch it? they've never been known to mess anything up though. is there anything they won't store?
 
-## Hierarchy Utility Dissolution (LND)
+## Hierarchy Utility Dissolution LND
 
 [transferred]
 
@@ -137,21 +135,17 @@ there are conditions to storage. maybe it has to be something they don't current
 
 # **Synthesis Utility**
 
-## Synthesis Utility Creation (NNC)
+## Synthesis Utility Creation NNC
 
-Sculptors? Some believe the gods themselves---some of them, all of them, who knows?---were painstakingly sculpted in these forges. They'll make anything but keep careful ledger so that the output of the plane remains balanced. Every thing created is forecast to have certain effects, and miscalculations are rapidly accounted for. They are famous employers (famously rewarding, famously exacting) of explorers and researchers who report back to them on the results of their more ambitious or uncertain endeavors. It's said that these mercenaries are chosen very, very carefully. Often the act of investigation itself and those chosen to investigate are meant to fix any imbalances, and surprisingly often the investigators themselves find their own nature changed in the process.
+[transferred]
 
-look into http://www.rilmani.org/timaresh/Timaresh
-
-DIFFERENTIATE FROM LNP
-
-## Synthesis Utility Equilibrium (NNP)
+## Synthesis Utility Equilibrium NNP
 
 **The Cartography (?)**
 
 [transferred]
 
-## Synthesis Utility Dissolution (NND)
+## Synthesis Utility Dissolution NND
 
 **The Precepts of the Lucidity (?)**
 
@@ -161,7 +155,7 @@ DIFFERENTIATE FROM LNP
 
 # **Autonomy Utility**
 
-## Autonomy Utility Creation (CNC)
+## Autonomy Utility Creation CNC
 
 - the Mutatorium in the Plane of Creation could instead be this? Or the dream-creators (if oppositional to nightmares) could be this (or a place located here)?
 - could swap with CGC, which could be mutatorium or observation-only
@@ -178,7 +172,7 @@ DIFFERENTIATE FROM LNP
 
 A barren void. A pulsating fractal rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
 
-## Autonomy Utility Equilibrium (CNP)
+## Autonomy Utility Equilibrium CNP
 
 Voiders? The Wilt?
 
@@ -198,7 +192,7 @@ The arrangement of holes changing/unpredictable somehow? Holes slowly close up s
 
 Peaceful.
 
-## Autonomy Utility Dissolution (CND)
+## Autonomy Utility Dissolution CND
 
 **The Unravellers of the Inevitability**
 
@@ -208,7 +202,7 @@ Peaceful.
 
 # **Hierarchy Power**
 
-## Hierarchy Power Creation (LEC)
+## Hierarchy Power Creation LEC
 
 Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
 
@@ -216,7 +210,7 @@ Is the multiverse too big? Is the lamina somehow removed from the normal flow of
 
 Could be like Barbarella society, decadent
 
-## Hierarchy Power Equilibrium (LEP)
+## Hierarchy Power Equilibrium LEP
 
 tyrants
 
@@ -234,7 +228,7 @@ maybe it's actually not bad, if you're into it?
 
 Ben Sack art?
 
-## Hierarchy Power Dissolution (LED)
+## Hierarchy Power Dissolution LED
 
 elaborate weavers of personalized, creative curses
 
@@ -244,15 +238,15 @@ Beautiful, intricate, ornate.
 
 # **Synthesis Power**
 
-## Synthesis Power Creation (NEC)
+## Synthesis Power Creation NEC
 
 [transferred]
 
-## Synthesis Power Equilibrium (NEP)
+## Synthesis Power Equilibrium NEP
 
 Nomadic devils - the opposite of NGP, or CND holes in ground.
 
-## Synthesis Power Dissolution (NED)
+## Synthesis Power Dissolution NED
 
 Torturers, or CND holes in ground.
 
@@ -260,15 +254,15 @@ Torturers, or CND holes in ground.
 
 # **Autonomy Power**
 
-## Autonomy Power Creation (CEC)
+## Autonomy Power Creation CEC
 
 [transferred]
 
-## Autonomy Power Equilibrium (CEP)
+## Autonomy Power Equilibrium CEP
 
 [transferred]
 
-## Autonomy Power Dissolution (CED)
+## Autonomy Power Dissolution CED
 
 maybe this is the forgetting place
 

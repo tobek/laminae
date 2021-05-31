@@ -159,6 +159,11 @@ see Template
 
 - Name - Alea?
 - Predictions that come true or repeat. What same thing could keep showing up on different lamina that's more about her than the multiverse?
+    + doppelganger?!
+        * they are usually bad omens
+        * footnotes "it was here this visitor had her first encounter with her laminal doppelganger"
+        * unclear if just for her or in general
+        * or maybe, like goethe story (https://en.wikipedia.org/wiki/Doppelg%C3%A4nger#Johann_Wolfgang_von_Goethe), some premonition of herself that later accidentally comes true in some looped way
 - how tough is she? e.g. facing the CEC kids.
     + gracious, self-controlled, clever
 - travelling with a companion somewhere, maybe with consequences?
@@ -295,6 +300,12 @@ steam -> rust and/or ground glass
     + https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
 - Something that changed over time
     + e.g. the komusou - anonymous monks so attracted bandits etc
+- *once done*
+    + search name/demonym everywhere and mark as used
+    + search trinym everywhere and see if updates needed
+    + update progress
+    + update TOC
+    + comment out from rand
 
 ### Foci (high-ish priority?)
 
@@ -312,25 +323,26 @@ TODO go through evil sketch
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
 - Generation ship (high-tech-low-tech caravan across 100,000 mile desert - why?)
 - Restorative justice destination (NGP?)
-- One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move
-- the echo - everything you hear or read you know its source, all the way back - LGC, NGD. crystalline psychedelic reverb
+- One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC)
+- the echo - everything you hear or read you know its source, all the way back. crystalline psychedelic reverb - LGC, NGD
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
     + maybe weirdly LGC? NGD, CGD, CNP, LEC, LEP, NEC, CEP
-    + *definitely CGD if nothing else, but maybe duplicative with CGD* - maybe CEP
+    + *definitely CGD if nothing else, but maybe duplicative with CGD* - maybe CEP, ugh NEC also good
 - saying yes vs. saying no
     + LND or CNP is no?
+    + both are in NEC?
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
     - maybe this is in cosmology, someone went to exactly 2 planes and then said the above, lead the way into there being more
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or NED or LED or CNP
 - Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
-- All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds)
+- All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?)
 - Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ (maybe NGP LGC LGP - "The Retelling")
+- incredible beauty - LEC, LEP, NEP
 - Sex
-- Something ridiculously hazardous
 - a prison
-- visual distortion like "Rorik Smith" polyhedral panoramic pics
+- visual distortion like "Rorik Smith" polyhedral panoramic pics (NNC?)
 - sleep
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
@@ -339,15 +351,13 @@ TODO go through evil sketch
 - used
     + https://en.wikipedia.org/wiki/Rotation_method
     + an infinite jest (/burning man/blockchain/lsd)-inspired thing, something where everyone annoyingly loves it, raves, but it's actually good and changes your ife
+    + Something ridiculously hazardous
 
 ### Physical, Environmental, Aesthetic
 
-- A single giant wall, no ground or top (is there secretly a top?) two sides but no way to get from one to other - no one has dug far enough. people talk mythically about "the other side". but since it's infinite, two places too far apart to be reached on foot/climbing, how do you know they're not on the same side? people have attempted to map it out but many locations still haven't been connected
-    - if there is a top (or bottom) it should be sheared off absolutely flat like a glitch in a video game
 - Sort of like the wall place, one place could be an endless crevasse
     + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - probably XEX
-    + "Karaz_ca_01" pic
-    + the wall gardens here!!
+    + "Karaz_ca_01" pic and michael hutter
 - No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker than 10 feet wide that protrude wildly sidways into the air without any support underneath it. And entire pathways do occasionally snap, falling upwards as often as downwards. maybe CNC or LEC
     - The capital, known as The Anvil, rests on an unusually solid mass of rock that, viewed in profile, resembles an anvil. On the tip of the long, slender horn rests the palace of TODO/ruler.
 - Underwater
@@ -355,7 +365,6 @@ TODO go through evil sketch
 - Floating islands
 - Endless river delta
 - R'lyeh
-- The entire plane a single spiral corridor (NO THAT'S BEEN DONE)
 - Church
 - Valley cathedral, like that photo I took in Molasses (?)
 - Gothic architecture
@@ -371,12 +380,13 @@ TODO go through evil sketch
     + stumpery (nicely piled dead trees)
     + stepping stones
     + waterfall
-    + monopteros
+    + monopteros (circular colonnade like a pavilion)
     + moon gate
     + moss lawn
 - Orchard
 - Something like a space habitat
 - Like a temple space station with galaxy backdrop, see one of the Philippe Druillet pics
+    + "mark ferrari - spyro- eternal night - icetemple01b"
 - Cofferdam (enclosure in a body of water)
 - Smoke
 - Black desert (and its oases!) (maybe CNP, or CEC if nothing else)
@@ -386,7 +396,7 @@ TODO go through evil sketch
     - But also walled gardens for protection from elements https://en.wikipedia.org/wiki/Walled_garden
 - Smells
     - sour, citrus, bitter, pine, vanilla, ash, resin
-- Everything is black and white - maybe CEP or CED? or NNP. or... LGC or LGP?
+- Everything is black and white - maybe CED? or NNP. or... LGC or LGP?
     - (except visitors and their stuff? what about their stuff left behind?)
 - stelae (carved stone slabs)
 - *eremia* "a solitude, an uninhabited region, a waste," from *erēmos* "uninhabited, empty, desolate, bereft," from PIE *\*erem-* "to rest, be quiet"
@@ -396,33 +406,31 @@ TODO go through evil sketch
 - non-euclidean like Rorik Smith polyhedral pics or something
 - gargantuan statue(s) (https://en.wikipedia.org/wiki/Statue_of_Unity) LGD?
 - *used*
-    + CND - Pageant/parade/procession (https://en.wikipedia.org/wiki/Procession#Procession_elements)
+    + Pageant/parade/procession (https://en.wikipedia.org/wiki/Procession#Procession_elements)
     + a beautiful metropolis whose divine destruction was averted just moments too late, and is now left frozen in a state of apocalypse, massive eldritch beams coming from the sky, geysers of rubble hovering, etc.
     + Storms
+    + single infinite wall
 
 ### Relational, Situational, Happenings
 
 - caste systems (LND?)
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
-- rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity
+- rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
 - A caste system signaled by fashion and/or mannerisms
-    - Clothing covered with writing/scrolls that catalog some thing <https://78.media.tumblr.com/f5e02ac131c8586071c6a977654b4836/tumblr_nwej2xnuzh1qhslato1_1280.jpg>
+    - Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
 - Mnemonic objects - clothing or jewelry records life events (maybe part of caste system above)
 - Language/writing
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP
 - someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND
 - some 3-headed god represents C/P/D all in one? (a simple farmer, 3 headed, 6 armed, see Dattatreya?) but it's a sham. where?
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
-- Elemental forces (CGP)
 - Some creature that responds to Creation and/or Destruction, to be used to test if exposure is too high. Maybe by those wizards that study the planes of pure C/D.
     - from something: "Canaries are extremely sensitive to ambient magic, and will mutate in the presence of cursed architecture. Grave-looters keep them as pets"
 - some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, could be added to LNC promenade for "Arid yet Verdant"?
 - psychedelics (CGP)
 - "Somewhere in the ocean hundreds of miles north of the Shirerithian mainland there is a mountainous arctic island upon which thrives an emergent oracular techno-theocracy that calls itself the Shining Garden of Raikoth. Its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too wear the spiral."
-- Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something (CGD)
-- being scared before beautiful things: "Rainer Maria Rilke proclaimed: ‘beauty is nothing but the beginning of terror’. To put this association to the test, I, together with Kendall Eskine and Natalie Kacinik, psychologists at CUNY, recently conducted another experiment. First, we scared a subset of our respondents by showing them a startling film in which a zombie jumps out on a seemingly peaceful country road. Then we asked all of our subjects to evaluate some abstract, geometric paintings by El Lissitzky. Those subjects who had been startled found the paintings more stirring, inspiring, interesting, and moving" - good for CGD or NGD
 - sexual proclivities replace other tribal markers and are increasingly fractured
 - many sex partners but only one friend, good form to break up before making another, cheating, etc.
 - someone or a group famous for making works of art that convince the viewer to commit suicide. (you must be interviewed first and it's tailored?) (CGP if nowhere else)
@@ -449,6 +457,8 @@ TODO go through evil sketch
     + Epiphanies (place where you have them)
     + place where you can swap lives
     + https://en.wikipedia.org/wiki/Emotional_flooding
+    + Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something
+    + Elemental forces
 
 ### Abstract Concepts
 
@@ -530,7 +540,7 @@ TODO go through evil sketch
 - angel called sandolphon, known as the shoe-maker. every time god speaks god emits angels from his mouth. sandolphon's express purpose is to deliver prayers from the synagogue to the next dimensional realm
 - <https://en.wikipedia.org/wiki/Time_perception>
 - CS concepts
-    - Halting problem
+    - Halting problem (NNC)
     - NP hard
     - Solvability
 - Physics
@@ -600,19 +610,18 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "It no more is than it is not or it both is and is not or it neither is nor is not." -- Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views <https://en.wikipedia.org/wiki/Pyrrho>
 - "You'd have to stand a very long time at the top of a mountain before a cooked goose flies into your mouth."
 - "A transition from an author’s book to his conversation, is too often like an entrance into a large city, after a distant prospect. Remotely, we see nothing but spires of temples and turrets of palaces, and imagine it the residence of splendour, grandeur and magnificence; but when we have passed the gates, we find it perplexed with narrow passages, disgraced with despicable cottages, embarrassed with obstructions, and clouded with smoke." -- Dr. Samuel Johnson; The Rambler, No. 14 (5 May 1750)
-- "An amazing creative solution has to obey at least one law, the criterion that makes it a "solution".  It's the one box you can't step outside:  No optimization without goals." -- <http://www.lesswrong.com/posts/KKLQp934n77cfZpPn/lawful-creativity> then "The pleasant shock of witnessing Art arises from the constraints of Art - from watching a skillful archer send an arrow into an exceedingly narrow target."
-- "And from billions of these bubbles within bubbles are all the beasts and baubles of the world composed." GEB
+- "An amazing creative solution has to obey at least one law, the criterion that makes it a "solution".  It's the one box you can't step outside: No optimization without goals." -- <http://www.lesswrong.com/posts/KKLQp934n77cfZpPn/lawful-creativity> then "The pleasant shock of witnessing Art arises from the constraints of Art - from watching a skillful archer send an arrow into an exceedingly narrow target."
+- "And from billions of these bubbles within bubbles are all the beasts and baubles of the world composed." GEB (NNC)
 - "modest expectations, remorselessly fulfilled" https://www.theguardian.com/news/2017/nov/24/how-the-sandwich-consumed-britain
 - "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html
 - "he has grasped the falsity of the hedonistic attitude to life. Nearly all western thought since the last war, certainly all “progressive” thought, has assumed tacitly that human beings desire nothing beyond ease, security and avoidance of pain. In such a view of life there is no room, for instance, for patriotism and the military virtues. The Socialist who finds his children playing with soldiers is usually upset, but he is never able to think of a substitute for the tin soldiers; tin pacifists somehow won’t do. Hitler, because in his own joyless mind he feels it with exceptional strength, knows that human beings don’t only want comfort, safety, short working-hours, hygiene, birth-control and, in general, common sense; they also, at least intermittently, want struggle and self-sacrifice, not to mention drums, flags and loyalty-parades. However they may be as economic theories, Fascism and Nazism are psychologically far sounder than any hedonistic conception of life. The same is probably true of Stalin’s militarized version of Socialism. All three of the great dictators have enhanced their power by imposing intolerable burdens on their peoples. Whereas Socialism, and even capitalism in a more grudging way, have said to people “I offer you a good time,” Hitler has said to them “I offer you struggle, danger and death,” and as a result a whole nation flings itself at his feet." - George Orwell review of Mein Kampf, 1940 - LGC? and/or LGP vs CGP has to deal with this. LEP tho?
 - "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP?)
-- edward gorey ideally if anything were any good it would be indescribable
-- "beauty is nothing but the beginning of terror" - Rainer Maria Rilke (CGC or CNC or CEC or something)
+- edward gorey ideally if anything were any good it would be indescribable (NNC)
 - Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
 - mutantur omnia nos et mutamur in illis - All things change, and we change with them (CNC? CGC?)
 - "Nothing that comes at the right time for you is too early or too late for me. Everything is fruit to me that your seasons bring, Nature." (marcus aurelius stoicism paraphrase) (CEC? NGC)
-- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads
+- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
 - "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC maaaybe but not great)
 - "Nothing in life is to be feared, it is only to be understood." - Marie Curie
@@ -620,9 +629,8 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
 - James Richardson
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
-        - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them.
-        - 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins.
-        - 273. You who have proved how much like me you are: how could I trust you?
+        - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (CGD)
+        - 273. You who have proved how much like me you are: how could I trust you? (CGD)
     - James Richardson, Vectors 2.0: More Aphorisms and Ten-Second Essays
         - 91. If you make rules only you can win by, they will play by other rules.
         - 17. When all agree, so does the Devil.
@@ -640,12 +648,12 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 111. Don’t touch, don’t stare. But no one minds how hard you listen.
         - 122. Our resolutions for self-control are like our wars for peace. (NGC?)
         - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP?)
-        - 135. A very few people have seen me only at my best. They are precious friends, but I dare not meet them again.
         - 140. When you think in words, are you sure it’s your own voice you hear?
-        - 170. Closing a door very gently, you pull with one hand, push with the other.
+        - 170. Closing a door very gently, you pull with one hand, push with the other. (CGD NNC)
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
+    * 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. (NNC)
 
 
 Semja
@@ -757,12 +765,12 @@ anagram names:
         - Protean (exceedingly variable)
     - names (* = add to rando)
     	- The Absolution*
+        - The Alacrity*
         - The Aleatory
         - The Alleviation
         - The Antechamber
         - The Apprehension
         - The Assembly (similar to instrument)
-        - The Asymmetry
         - The Ataraxia (unperturbedness)
         - The Autocephaly (appointing its own head, not subject to external authority)
         - The Ataxia (lack of muscle control or coordination of voluntary movements)
@@ -788,7 +796,7 @@ anagram names:
         - The Collision
         - The Concert
         - The Concordance (agreement or consistency)
-        - The Consonance
+        - The Consonance (agreement or compatibility)
         - The Convergence*
         - ‎The Creak
         - The Crescendo
@@ -808,9 +816,11 @@ anagram names:
         - The Encumbrance
         - The Equivocation
         - The Fabric*
+        - The Fell
         - The Figure*
         - The Formation
         - The Frame
+        - The Gleam
         - The Gossamer
         - The Gnarl*
         - The Grain
@@ -819,7 +829,7 @@ anagram names:
         - ‎The Horn
         - The Hull
         - The Husk
-        - The Illumination*
+        - The Illumination
         - The Imminence (state or fact of being about to happen)
         - The Keen*
         - The Keyhole*
@@ -871,7 +881,6 @@ anagram names:
         - The Squall
         - The Sum
         - The Surge
-        - The Swell (a thing in the Bloom)
         - The Taxonomy
         - The Tessellation*
         - The Tesseract*
@@ -891,10 +900,12 @@ anagram names:
         - The Zenith
         - [look up "harvest" synonyms]
         - used
+            + The Asymmetry
             + The Bell
             + The Brink*
-            + ‎The Grip (CEP demonym)
+            + ‎The Grip
             + The Knot
+            + The Swell (a thing in the Bloom)
     - demonyms
         - Abounds
         - Alters
@@ -909,7 +920,6 @@ anagram names:
         - Feuds
         - The Found
         - Grains
-        - Grips
         - Harrows (distress, ravage, spoil)
         - Hidebound (unwilling or unable to change because of tradition or convention)
         - Hierophants (one interprets sacred mysteries or esoteric principles)
@@ -948,7 +958,8 @@ anagram names:
         - used
             + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
             + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
-            + Knots (CEP name)
+            + Knots
+            + Grips
 - Characters (political leaders, famous rebels, merchants, demigods, invaders, wizards, researchers)
     - names
         - jinsa
@@ -1134,13 +1145,17 @@ BUT DO I WANT THEM?
 # The ____
 
 ---
-subtitle: Colorful Grandmas Crystallize (CGC)
-toc_only: True
-<!-- post_toc_only: MEDIA("David Hellman - Braid background.jpg") -->
+subtitle: Colorful Grandmas Crystallize CGC
+intro_only: True
+<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+
 quote: |
     > TODO quote
     >
     > ---Jesma Shirancord, "Vectors"
+
+summary: TODO
+
 abstract: |
     TODO abstract
 ---

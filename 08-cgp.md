@@ -1,9 +1,9 @@
 # The Brink
 
 ---
-subtitle: Autonomy Empathy Equilibrium (CGP)
-toc_only: True
-post_toc_only: MEDIA("Leonora Carrington - The Juggler.jpg")
+subtitle: Autonomy Empathy Equilibrium CGP
+intro_only: True
+post_intro_only: MEDIA("Leonora Carrington - The Juggler.jpg")
 quote: |
     > Nothing is lost<br>
     > Nothing is created<br>

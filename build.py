@@ -57,6 +57,19 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
     if output_file is None:
         output_file = input_file.replace(".md", ".html")
 
+    input_string = open(input_file, "r").read()
+
+    image_match = re.search(media_regex, input_string)
+    default_og_image = image_match.group(1) if image_match else ""
+
+    input_string = re.sub(todo_regex, todo_replace, input_string)
+    input_string = re.sub(blank_regex, blank_replace, input_string)
+    input_string = re.sub(ref_regex, ref_replace, input_string)
+    input_string = re.sub(media_regex, media_replace, input_string)
+    input_string = re.sub(media_wip_regex, media_wip_replace, input_string)
+    input_string = re.sub(ed_note_regex, ed_note_replace, input_string)
+    input_string = re.sub(facet_regex, facet_replace, input_string)
+
     pandoc_args = default_pandoc_args + [
         "--variable=filename:" + input_file.replace(".md", ""),
         "--variable=prev_href:" + prev_href,
@@ -65,10 +78,16 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
         "--variable=contents_title:" + contents_title,
         "--variable=next_href:" + next_href,
         "--variable=next_title:" + next_title,
+        "--variable=default_og_image:" + default_og_image,
     ]
     if re.match(r"^00-0", input_file):
         pandoc_args += [
             "--variable=pagetitle:Observations on the Twenty-Seven Laminae",
+            "--variable=summary:Regarding their various Environs & Cultures / gathered upon decades of journey past the Ordial Plane / by an Unknown Traveller / edited & translated by the Order of Peripatetic Affairs",
+        ]
+    else:
+        pandoc_args += [
+            "--variable=title_suffix:Observations on the Twenty-Seven Laminae",
         ]
 
     if not re.match(r"^00", input_file) or "cosmography" in input_file:
@@ -76,15 +95,6 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
             "--toc",
             "--toc-depth=3",
         ]
-
-    input_string = open(input_file, "r").read()
-    input_string = re.sub(todo_regex, todo_replace, input_string)
-    input_string = re.sub(blank_regex, blank_replace, input_string)
-    input_string = re.sub(ref_regex, ref_replace, input_string)
-    input_string = re.sub(media_regex, media_replace, input_string)
-    input_string = re.sub(media_wip_regex, media_wip_replace, input_string)
-    input_string = re.sub(ed_note_regex, ed_note_replace, input_string)
-    input_string = re.sub(facet_regex, facet_replace, input_string)
 
     output = pypandoc.convert_text(
         input_string,
@@ -168,17 +178,17 @@ anchors = {}
 anchor_blacklist = ["environment", "culture-paradigm", "visiting", "locations", "rumors-mysteries", "history", "festivals-traditions", "figures-groups", "overview", "others", "todo"]
 print("\ngathering anchors...")
 for file_id, data in file_data.items():
-    # if only_file and data["input"] != only_file:
-    #     continue
     if file_id == "title":
+        continue
+    if data["metadata"].get("hide_toc"):
         continue
 
     anchors[file_id] = {
         "href": data["output"],
         "name": data["title"],
-        "def": data["metadata"].get("abstract"), # TODO what's the short description and also need to ensure there's no REF/etc markup in these or any defs!!
+        "def": data["metadata"].get("summary") or data["metadata"].get("abstract"), # TODO need to ensure there's no REF/etc markup in these or any defs!!
     }
-    untranslated = data["metadata"].get("toc_only")
+    untranslated = data["metadata"].get("intro_only")
 
     print(data["output"])
     with open("build/" + data["output"]) as f:

@@ -1,7 +1,7 @@
 # The Lucidity
 
 ---
-subtitle: Synthesis Utility Destruction (NND)
+subtitle: Synthesis Utility Destruction NND
 in_progress: True
 
 ---

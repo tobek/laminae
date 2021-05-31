@@ -267,20 +267,21 @@
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">13.</div><a class="lamina-name" hreff="13-nnc.html">The Hew</a></div>
+  <div class="left"><div class="numeral">13.</div><a class="lamina-name" href="13-nnc.html">The Asymmetry</a></div>
   <div class="dots"></div><div class="page">NNC</div>
 </div>
 <div class="row">
   <div class="left"><div class="numeral">14.</div><a class="lamina-name" href="14-nnp.html">The Cartography</a></div>
   <div class="dots"></div><div class="page">NNP</div>
 </div>
+</div>
+
+<div class="lamina-section">
 <div class="row">
   <div class="left"><div class="numeral">15.</div><a class="lamina-name" href="15-nnd.html">The Lucidity</a></div>
   <div class="dots"></div><div class="page">NND</div>
 </div>
-</div>
 
-<div class="lamina-section">
 <div class="row">
   <div class="left"><div class="numeral">16.</div><a class="lamina-name undone" hreff="16-cnc.html"></a></div>
   <div class="dots"></div><div class="page">CNC</div>
@@ -333,18 +334,6 @@
   <div class="dots"></div><div class="page">CED</div>
 </div>
 
-<div class="row">
-  <div class="left"><div class="numeral">28.</div><a hreff="28-c.html">Creation</a></div>
-  <div class="dots"></div><div class="page">ꧠ</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">29.</div><a hreff="29-p.html">Equilibrium</a></div>
-  <div class="dots"></div><div class="page">ဓ</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">30.</div><a hreff="30-d.html">Dissolution</a></div>
-  <div class="dots"></div><div class="page">ဗ</div>
-</div>
 </div>
 </div>
 

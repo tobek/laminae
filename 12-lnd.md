@@ -1,8 +1,8 @@
 # The Instrument
 
 ---
-subtitle: Hierarchy Utility Dissipation (LND)
-toc_only: True
+subtitle: Hierarchy Utility Dissipation LND
+intro_only: True
 #quote: |
 #    > TODO(find intro quote)
 abstract: |
@@ -10,6 +10,11 @@ abstract: |
     Any Moiler will tell you that something went very wrong in this place. The Instrument consists of the interior of a titanic clockwork automaton whose exterior has never been seen, and in its cramped and infinite chambers the Moilers tend to its byzantine contraptions with maniacal focus. The Instrument's purpose---if there ever was one---has long been lost to the culture here, and in the absence of that teleology the Moilers' work takes on the frantic intensity of a unattainable goal and seems to have driven them mad. The Instrument presents its residents with a kaleidoscope of functions: raw materials cascading through chutes and filling up rooms, hallways locking and unlocking unpredictably and which contain caches of tools and undeciphered etchings and diagrams, all exposed by harsh white lighting and groaning and rumbling with echoes.
 
     An industrious hierarchy has been consumed by the neurotic quest to map out their world and recover meaning in ever more baroque applications and measurements of the Instrument's mechanisms. Cult-like groups carry out tasks driven by these interpretations: ferrying supplies back and forth uselessly, cleaning components and sanding materials into dust, analyzing schematics into meaninglessness, and chanting hypothetical decipherments into nonsense. Each Moiler manifests their burdens with their own elaborate tics and rituals, each facing an itch here that may never be scratched.
+
+summary: |
+
+    TODO The Moilers of the Instrument live in the interior of a colossal machine (outside has never been seen) which they maintain, but their culture has lost its knowledge of the purpose of the machine and its operation and as a result have devolved into blah blah mission they can't fulfill
+
 ---
 
 <!--
@@ -21,7 +26,7 @@ abstract: |
 - name
 	+ The Itch
 	+ The Instrument
-	+ The Asymmetry
+	+ The Asymmetry (used)
 	+ The Carapace (maybe name for the thing)
 	+ The Procedure (oh man really good)
 - demonym
@@ -111,6 +116,8 @@ no one has been or seen the "outside" of this machine, if it exists. endless roo
 ## Culture & Paradigm
 
 ### Asymmetry
+
+so some connection to NNC? they like have to deal with it. and maybe they disagree: asymmetry is not necessary, they will fix it, they will prove it!
 
 ## Visiting
 

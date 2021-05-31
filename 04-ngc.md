@@ -1,9 +1,9 @@
 # The Bell
 
 ---
-subtitle: Synthesis Empathy Creation (NGC)
-toc_only: True
-post_toc_only: MEDIA("David Hellman - Braid background.jpg")
+subtitle: Synthesis Empathy Creation NGC
+intro_only: True
+post_intro_only: MEDIA("David Hellman - Braid background.jpg")
 quote: |
     > All the falling rain is caught.
     >
@@ -30,7 +30,7 @@ abstract: |
 - Name
 	+ The Illumination? too easy
 	+ The Epiphany? too easy
-	+ The Asymmetry
+	+ The Asymmetry (used)
 	+ The Bell
 		* weather/light is such that you can't keep track of the days, and you only know it's done when the petitioner rings the bell
 	+ The Braid

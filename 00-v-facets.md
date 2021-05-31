@@ -58,7 +58,7 @@ REF[Hierarchy] tends towards order, deference to authority, systematic analysis,
 
 REF[Hierarchy] judges REF[Synthesis] to be unreliable and overly complicated, but finds REF[Autonomy] to be totally untrustworthy, seeing their refusal to follow rules as unprincipled, immoral, thoughtless, mercenary, and lacking in self-respect.
 
-REF[Hierarchy] is righteous when paired with REF[Empathy], orthodox when paired with REF[Utility], and totalitarian when paired with REF[Power].
+REF[Hierarchy] is righteous and pure when paired with REF[Empathy], orthodox when paired with REF[Utility], and totalitarian when paired with REF[Power].
 
 ### Synthesis
 
@@ -80,95 +80,78 @@ REF[Autonomy] tends towards freedom, independence, unpredictability, individuali
 
 REF[Autonomy] accuses accuses REF[Synthesis] of pedantry and cowardliness, but lambasts REF[Hierarchy] for being close-minded, servile, unprincipled, and corrupt.
 
-REF[Autonomy] is universalist when paired with REF[Empathy], maverick when paired with REF[Utility], and voracious when paired with REF[Power].
+REF[Autonomy] is universalist when paired with REF[Empathy], maverick when paired with REF[Utility], and TODO(power/autonomy pair)[voracious] when paired with REF[Power].
 
 ## Motive
 
-how to determine what is an acceptable goal
+The facets of REF[Empathy], REF[Utility], and REF[Power] concern the methods by which we determine whether a goal is worthy, and what drives us towards those goals. These facets dictate how one relates to other beings and nature at large, and each have their own visions of integrity and their own claims to realistic views of the world.
 
-~"realism = a way of viewing the world. pragmatism = the related way of acting within it"~
-
-each see their own vision as one of integrity and honor
-
-utility sees empathy as idealistic, and power as rash
-
-Maleficium (Bad): Ill or evil will, in its mildest application, seeks the selfish advancement of an individual. In its most hateful aspect, it is vindictive and destructive.
-
-Beneficium (Good): Pursues the ethics of kindness and goodness. It represents the self effacement of the will of the individual toward acquisition of glory and power.
-
-
-    Good    -> Humane
-    Neutral -> Realistic
-    Evil    -> Determined
-
-    Righteous (Lawful Good) - Conformity/Tradition and Benevolence
-    Humane (Neutral Good) - Benevolence and Universalism
-    Transcendent (Chaotic Good) - Universalism and Self-Direction
-    Autonomous (Chaotic Neutral) - Self-Direction and Stimulation
-    Sybaritic (Chaotic Evil) - Stimulation and Achievement (Hedonism)
-    Ambitious (Neutral Evil) - Achievement and Power
-    Ascendant (Lawful Evil) - Power and Security
-    Orthodox (Lawful Neutral) - Security and Conformity/Tradition
-    Pragmatic (Neutral Neutral)
-
-- good/neutral/evil
-    - good
-        - Benevolence/Benevolent
-        - Righteousness/Righteous (you could be righteous and determined)
-    - neutral
-        - Pragmatism/Pragmatic or Realism/Realist
-    - evil
-        - Determinism/Determined
-        - Ambition/Ambitious (can you not be benevolent and ambitious?)
-        - Malevolence/Malevolent (cartoonish?)
-
-everyone supports "community" but how communities are defined will vary a lot
+Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe---the exact extent of one considers one's own tribe being formed largely by facets along the Method axis, REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all. These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit it.
 
 ### Empathy
 
-concerned with not offending
+REF[Empathy] believes that lack of compassion is at the root of all struggles and evils---compassion for oneself and one's community, but also for all beings and the environment. Compromise is essential in this worldview, and all perspectives must be considered before embarking on a task. Acolytes are concerned with understanding and being understood, and strive to never offend or hurt others. When this inevitably happens, conflicts are resolved with conversation and compassion in the best case, but in the worst case shame and ostracism become potent reprisals.
 
-shame and ostracism, even occasionally subverting itself to revenge
+REF[Empathy] tends towards kindness, self-effacement, benevolence, righteousness, judgment, stubbornness, idealism, altruism, universalism, equity, compromise, compassion, and tolerance.
 
-righteousness and purity when paired with REF[Hierarchy], TODO when paired with REF[Synthesis], and TODO when paired with REF[Autonomy].
+REF[Empathy] accuses REF[Utility] of being complicit---arguing that without the primacy of empathy even well-intentioned efforts inevitably result in harmful outcomes---and of course considers the fruits of REF[Power] to be selfish to the point of evil.
+
+REF[Empathy] is righteous and pure when paired with REF[Hierarchy], humane and cooperative when paired with REF[Synthesis], and universalist when paired with REF[Autonomy].
 
 ### Utility
 
-pedantry
+REF[Utility] aims for a nuanced realism in viewing the world, and pragmatic heuristics for acting within it. It acknowledges that individuals vary widely in their goals and moral constructs, and so find that the best one can do is to assess situations in the light of all available information and act for the balanced benefit of oneself and others. Conflicts should be measured, discussed, and resolved to the mutual advantage of all parties.
+
+REF[Utility] tends towards rationality, pragmatism, realism, balance, pedantry, judiciousness, perception, and level-headedness.
+
+REF[Utility] finds REF[Empathy] to be naive, and REF[Power] to be rash and monomaniacal.
+
+REF[Utility] is orthodox when paired with REF[Hierarchy], practical and diligent when paired with REF[Synthesis], and maverick when paired with REF[Autonomy].
 
 ### Power
 
-fear
+REF[Power] believes that nature has distributed its merits unevenly, and that efforts to accommodate this fact will backfire. Progress on all levels occurs when individuals work as hard as possible to advance their and their communities' interests, and the tension that arises when those advancements come at the expense of others only pushes others to work harder, resulting in a greater overall advancement. This is a worldview that prizes competence and beauty, but sees strength and security as essential to survival, resorting to dominance and fear to manage threats.
+
+REF[Power] tends towards ambition, achievement, glory, determination, focus, efficiency, beauty, domination, competition, selfishness, cynicism, security, success, and luxury.
+
+REF[Power] disdains REF[Empathy] as passive, weak, and dependent on others, while finding REF[Utility] to be manipulable and inefficient.
+
+REF[Power] is totalitarian when paired with REF[Hierarchy], ambitious when paired with REF[Synthesis], and TODO(power/autonomy pair)[voracious] when paired with REF[Autonomy].
 
 ## Means
 
+The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively, the inhale, the pause, and the exhale---an endless cycle that every being TODO
+
+are harnessed by all beings, in the service of other goals or facets or sometimes only in the service of itself.
+
 Creative destruction is still constructive in a sense.
 
-None of these lean towards good/evil or law/chaos - each can be harnessed in myriad ways in the service of other alignments or only in service of itself.
 
 creation is the inhale, preservation is the pause, destruction is the exhale. some creation myth about an ur-god whose breathing supplies the powers of these planes.
 
-creation is an imbalance that eventually spills over into prime worlds. destruction is an imbalance that can only be fueled by prime worlds. the two forces are linked via prime worlds. preservation...
+creation is an imbalance that eventually spills over into cardinal worlds. destruction is an imbalance that can only be fueled by cardinal worlds. the two forces are linked via cardinal worlds. preservation...
 
-It's tempting to associate Creation or Destruction with the force of Chaos. To clear this misconception, compare Lawful Creation to Lawful Destruction. In the former, creation unfolds according to precise rules, like crystals growing, in many cases building over and giving order to pre-existing material. In the latter, destruction likewise precedes along in a very particular process, whether it be that only certain types of things are destroyed, or certain facets, or matter is destroyed or torn down in a specific way.
-
-Nor should one think that Law tends towards Creation. While it is easy to picture Lawful reditions of the Creative traits of ambition and dynamism, the Destructive traits of delusion, apathy, and dullness come chillingly easily to some manifestations of Lawfulness.
-
-Preservation also can also be mistaken for having a bias for Law against Chaos. Once again there are counterexamples. The properly-attuned find peace and serenity in the preservation and purity of Chaos, and Chaos has its own kind of harmony and balance that must be maintained, or else order may sometimes spawn out of chaos.
-
-destruction seeming evil but no, think also of destruction of the things that no longer serve you, letting go.
 
 ### Creation
 
-- Activity, energy, passion, ambitiousness, agitation, change, mutation, excitation
+- Activity, energy, passion, ambitiousness, agitation, change, mutation, excitation, creativity
 - Self-centeredness, egoistic, individualizing, driven, moving, dynamic
 
 ### Equilibrium
 
-- Maintenance, harmony, protection, purity (not as in "goodness" but as in "pureness of essence"), serenity, being-ness, universality, equilibrium
+observation? others kinda too require
+
+- Maintenance, harmony, protection, purity (not as in "goodness" but as in "pureness of essence"), serenity, being-ness, renewal, preservation, persistence
+- stagnation
 
 ### Dissolution
 
-- Finality, dissolution, subversion, nullification, loss, darkness, ignorance, inertia, apathy, indifference, anxiety, insensitivity, imbalance, impurity, delusion, negativity, dullness, waste, death
+destruction is scary, and powerful, but not evil in the slightest, and is perfectly necessary
+
+think also of dissolution of the things that no longer serve you, letting go.
 
 destruction takes many paths. some approach it pursuing glee in the act of destruction itself, but this is a less pure desire, as it necessitates a cycle of creation which allows them to continue destruction. the true believers do not want anything to rise in the place of the destroyed, especially not a new order that might be more to their liking. they want literal nothing.
+
+- like measuring what you need
+- Finality, destruction, subversion, nullification, loss, darkness, ignorance, inertia, apathy, indifference, anxiety, insensitivity, imbalance, impurity, delusion, negativity, dullness, waste, death
+

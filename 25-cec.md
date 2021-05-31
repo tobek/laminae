@@ -1,7 +1,7 @@
 # The Bloom
 
 ---
-subtitle: Autonomy Power Creation (CEC)
+subtitle: Autonomy Power Creation CEC
 #quote: |
 #    > TODO(find intro quote)
 abstract: |

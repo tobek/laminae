@@ -1,7 +1,7 @@
 # The Cartography
 
 ---
-subtitle: Synthesis Utility Preservation (NNP)
+subtitle: Synthesis Utility Preservation NNP
 in_progress: True
 
 ---
@@ -13,13 +13,13 @@ in_progress: True
 
 This is possibly the most uncanny of realms, for it contains copies of the entire multiverse, including itself, shorn of the concept of time and encumbered by implacable hazards. Somewhere within this realm every separate instant of the entire multiverse is replicated at full scale, animate and inanimate laid out in complete detail with all the lifelessness of a chess set. Should you chance a visit must, you must take extraordinary precautions to even survive.
 
-You may find here the scene of your own birth, any fraction of an instant of it, and from that moment explore outwards through your world, encountering it as it was frozen at that point in time. Or you may find the scene of your death (as this visitor was incomprehensibly lucky enough to witness) or perhaps the lair of your enemy, the workshop of a future inventor, a key scene in your past or future with infinite leisure to explore and learn. But, infinitely more likely, your visits to this plane will land you in only the most random and irrelevant of slices of space and time.
+You may find here the scene of your own birth, any fraction of an instant of it, and from that moment explore outwards through your world, encountering it as it was frozen at that point in time. Or you may find the scene of your death (as this visitor was incomprehensibly lucky enough to witness) or perhaps the lair of your enemy, the workshop of a future inventor, a key scene in your past or future with infinite leisure to explore and learn. But, infinitely more likely, your visits to this lamina will land you in only the most random and irrelevant of slices of space and time.
 
 Although the overworked and over-inspired dream of the ability to stop time, and occasional wizards attain this control, the passage of time is so deeply rooted in the experiences of sentient things that a world without time feels broken; the cold silence of things that should be breathing is unnerving. And despite a superficial appearance of normality, it is deathly dangerous here. Light, sound, warmth, and even breath do not follow their normal patterns, and many visitors lose their grasp and remain forever as frozen additions to the display.
 
 ## Environment
 
-The ____[Cartography] is unfathomably vast, and navigating it is both very straightforward and quite impossible. From within a given replica of a moment in time and space, known as a tableau, you may explore the geography of the world as normal: everything is laid out at one-to-one scale. But there is no obvious way to remain in the same location and move forwards or backwards in time, nor does there seem to be any way to move to a drastically different location (say, a different plane) while remaining at the same moment in time. Portals from outside the plane connect to a range of tableau of course, and methods are known to attempt travel to a desired tableau, with terrible risk and unpredictability. Most journeys here lead to tableau that unrelated or useless except for curiosity or perhaps meditation, and most often of all you will arrive in what appears to be an infinite primordial darkness.
+The ____[Cartography] is unfathomably vast, and navigating it is both very straightforward and quite impossible. From within a given replica of a moment in time and space, known as a tableau, you may explore the geography of the world as normal: everything is laid out at one-to-one scale. But there is no obvious way to remain in the same location and move forwards or backwards in time, nor does there seem to be any way to move to a drastically different location (say, a different lamina) while remaining at the same moment in time. Portals from outside the lamina connect to a range of tableau of course, and methods are known to attempt travel to a desired tableau, with terrible risk and unpredictability. Most journeys here lead to tableau that unrelated or useless except for curiosity or perhaps meditation, and most often of all you will arrive in what appears to be an infinite primordial darkness.
 
 It is not a pleasant place to loiter. The first thing you will notice is that this realm is devastatingly cold. Unprotected, you will succumb in minutes from a cold shock worse than being plunged into an icy lake: rapid breathing, panic, muscle incapacitation, and failure of the heart. Touching an object with bare skin will result immediate and severe frostbite. Encumbrous physical protection will work for a time, but magical warmth is typically needed.
 
@@ -37,15 +37,15 @@ A peculiar inversion results here. Water, quicksand, acid, and lava alike are gr
 
 The greatest hazard of all is cumulative: each of these physical constraints---the cold, the muffle of sound and scent, the slow movement of light, the weight of all substance---slowly worsens the longer you spend in the ____[Cartography]. Though the exact parameters vary in a way not yet predictable, to a newly-arrived visitor another visitor already there for only hours may appear to be moving with twice the difficulty and be even slower to react to change. Attempts to aid someone in that state must overpower the increased resistance the victim is facing. Of course, remain for long enough and the tourist becomes a permanent resident, as immobile as the rest of the scene.
 
-Visitors sealed into a tableau, artifacts left behind, or any successful attempts to move or bend lighter objects are the only known scenarios in which the state of things in this plane may not be true to the outside multiverse. Though it is an unlikely scenario given the infinite spread of space and time represented here, this fact provides a tiny seed of doubt behind the assumption that a tableau accurately reflects a real happening.
+Visitors sealed into a tableau, artifacts left behind, or any successful attempts to move or bend lighter objects are the only known scenarios in which the state of things in this lamina may not be true to the outside multiverse. Though it is an unlikely scenario given the infinite spread of space and time represented here, this fact provides a tiny seed of doubt behind the assumption that a tableau accurately reflects a real happening.
 
 Lastly, you have read that this realm contains even itself. What does that mean? This has been experimentally proven: tableau have been found depicting the ____[Cartography], that is to say, tableau of explorers visiting a tableau, and even, in one tragic recorded case, tableau of an explorer finding a tableau of explorers visiting a tableau, which will be discussed shortly.
 
 ## Culture & Paradigm
 
-Unique among all of the planes TODO(is this true)[], there appear to be no petitioners who make the ____[Cartography] their final residence. The only beings who seem at home here are the rilmani, occasionally sighted by visitors from a distance, their slender, iridescent flesh wrapped in cloaks, carefully inspecting some detail of a tableau. Apparently unencumbered by the oppressive nature of the plane, they are swifter than any visitor and gently depart when sighted. Whether they are natives or simply frequent guests is unknown, but their presence is in keeping with their role as watchmen of multiversal balance.
+Unique among all of the laminae TODO(is this true)[], there appear to be no petitioners who make the ____[Cartography] their final residence. The only beings who seem at home here are the rilmani, occasionally sighted by visitors from a distance, their slender, iridescent flesh wrapped in cloaks, carefully inspecting some detail of a tableau. Apparently unencumbered by the oppressive nature of the lamina, they are swifter than any visitor and gently depart when sighted. Whether they are natives or simply frequent guests is unknown, but their presence is in keeping with their role as watchmen of multiversal balance.
 
-Amongst those few scholars, mercenaries, and obsessives familiar with this plane, however, a small and wildly dangerous cottage industry has sprung up, accompanied by a certain camaraderie. The plane is something of a holy grail that, if tamed, would hold untold promise. It is reminiscent of that fable of the near-infinite library that contains all possible books of a certain size, which are mostly gibberish but must by necessity have among their member all past and future books, some of great knowledge and power.
+Amongst those few scholars, mercenaries, and obsessives familiar with this lamina, however, a small and wildly dangerous cottage industry has sprung up, accompanied by a certain camaraderie. The ____[Cartography] is something of a holy grail that, if tamed, would hold untold promise. It is reminiscent of that fable of the near-infinite library that contains all possible books of a certain size, which are mostly gibberish but must by necessity have among their member all past and future books, some of great knowledge and power.
 
 The case of the ____[Cartography], however, is more tantalizing, since some methods hold promise of guiding you closer to a desired moment! The beauty is that once the desired tableau has been reached, especially if this was achieved with a permanent portal that lets visitors come and go as they please to avoid the gradual burden of the place, it can be explored with none of the hazards of the original place. Enemy defenses or the location of powerful relics in a hostile environment can be explored and mapped out at leisure. One can travel to places normally inaccessible. With a suit fashioned from lotus leaves or shark skin you can swim through fog, and with a large kind of solid snowshoe you can walk on clouds if you keep moving. Lava is lukewarm to the touch and completely solid, acid too is firm and harmless, traps are never sprung, magical defenses hang helplessly in the air, treacherous paths never crumble,
 
@@ -60,14 +60,14 @@ discuss groups trying, how it works: complex ritual *sometimes* guides journey i
 
 ### Navigation
 
-As with every other plane, portals connecting to locations in the ____[Cartography] are scattered across the multiverse, many residing in Soblei. The vast, vast majority of these lead to uninteresting tableau or barren landscapes of the past or future or remote present. Attempts to travel to a particular time and location in this folded infinite spacetime require incredible power and are time-consuming, expensive, prone to error, and frequently fatal.
+As with every other lamina, apertures connecting to locations in the ____[Cartography] are scattered across the multiverse, many residing in Soblei. The vast, vast majority of these lead to uninteresting tableau or barren landscapes of the past or future or remote present. Attempts to travel to a particular time and location in this folded infinite spacetime require incredible power and are time-consuming, expensive, prone to error, and frequently fatal.
 
-I have copied here the best efforts of TODO/name (scholar studying NNP plane) to summarize the complex mechanics of travel to, from, and within the ____[Cartography]:
+I have copied here the best efforts of TODO/name (scholar studying NNP) to summarize the complex mechanics of travel to, from, and within the ____[Cartography]:
 
 > If one wishes to reach a specific tableau, there are three options:
 >
 > 1. Find an existing portal that happens to go to the right period of time, and then make one's way from there to one's desired location without dying.
-> 2. Use the standard teleportation spells and rituals, which are wildly inaccurate in this case and prone to failure. In the event one achieves the desired location, one will mostly likely not achieve the desired time. Once there, one will slowly die, and upon returning to one's home plane before death, one will be unlikely to successfully return to the same tableau.
+> 2. Use the standard teleportation spells and rituals, which are wildly inaccurate in this case and prone to failure. In the event one achieves the desired location, one will mostly likely not achieve the desired time. Once there, one will slowly die, and upon returning to one's home world before death, one will be unlikely to successfully return to the same tableau.
 > 3. Attempt to modify an existing portal to point to a new tableau. This is prone to catastrophic failure, but if one succeeds, one may come and go as one pleases, which reduces the chance of dying.
 
 If you are interested in the particulars I have copied here more detailed notes:
@@ -82,7 +82,7 @@ If you are interested in the particulars I have copied here more detailed notes:
 >
 > **Travel within the ____[Cartography]**
 >
-> The separation of planes is preserved in the ____[Cartography]. I am lucky to have in my laboratory a gate to the coronation of Prince Uyik in his resplendent palace on the Elemental Plane of Mirrors. From that tableau, simpler teleportation efforts that only work within the same plane will only take one elsewhere in the Elemental Plane of Mirrors, while inter-planar transport will take one to any plane. However, no matter how one gets there, one will remain at the moment of the coronation of Print Uyik.
+> The separation of laminae and cardinal worlds is preserved in the ____[Cartography]. I am lucky to have in my laboratory a gate to the coronation of Prince Uyik in his resplendent palace on the Elemental Plane of Mirrors. From that tableau, simpler teleportation efforts that only work within the same realm will only take one elsewhere in the Elemental Plane of Mirrors, while inter-planar transport will take one to any realm. However, no matter how one gets there, one will remain at the moment of the coronation of Print Uyik.
 >
 > <!-- plane of mirrors: https://1d4chan.org/wiki/Plane_of_Mirrors -->
 >
@@ -122,7 +122,7 @@ TODO some famous (chance) meeting here?
 
 A large cabinet under the bar at a private back room in the grimy Lukewarm Caldera in Soblei leads to possibly the most hospitable spot in the ____[Cartography]. The pub is of course named after the portal, which leads to nothing less than the mouth of an active volcano in the aftermath of a vast eruption. TODO describe sea
 
-While the ____[Cartography] is a famously bone-shatteringly freezing place, and the center of a bonfire is merely extremely cold, magma flows can approach pleasantly cool to the touch. And the center of this molten cataclysm is balmy enough to work up a sweat. Better yet, no one knows when or how the enormous amounts of smoke and ash and igneous chunks that must have hung in the air were cleaned out, but the atmosphere in and around the entire caldera is clean as the Plane of Air. A practically solid wall of billowing ash forms a barrier that begins just a couple dozen paces over the lip of the edge of the caldera, as well as overhead covering the whole opening. TODO would it be ash, also how bright
+While the ____[Cartography] is a famously bone-shatteringly freezing place, and the center of a bonfire is merely extremely cold, magma flows can approach pleasantly cool to the touch. And the center of this molten cataclysm is balmy enough to work up a sweat. Better yet, no one knows when or how the enormous amounts of smoke and ash and igneous chunks that must have hung in the air were cleaned out, but the atmosphere in and around the entire caldera is clean as the TODO(place as clean as plane of air)[Plane of Air]. A practically solid wall of billowing ash forms a barrier that begins just a couple dozen paces over the lip of the edge of the caldera, as well as overhead covering the whole opening. TODO would it be ash, also how bright
 
 coliseum for interesting combat
 
@@ -130,7 +130,7 @@ inside caldera of volcano and it's like... cool but fine. and they laboriously c
 
 #### TODO
 
-plane of mirrors, unknown future or past. planar transport to all planes except elemental planes fails - because they don't exist? is this some ancient primordial past or degenerate future where only element planes exist?
+plane of mirrors, unknown future or past. planar transport to all realms except some (like elemental planes) fails - because they don't exist? is this some ancient primordial past or degenerate future where only element planes exist?
 
 (maybe quote from guy)
 
@@ -154,9 +154,9 @@ ritual revisiting of past event. snowy mountain where something religious or wha
 
 #### Extent in Space
 
-TODO(replace Sigil and Outlands and spire with Soblei)[]
+TODO(replace Sigil and Outlands and spire and EVERYTHING with Soblei)[]
 
-To be clear, the ____[Cartography] doesn't reflect only the prime material plane. It holds everything---the Inner and Outer Planes, the Astral and the Ethereal, wildspace, the Hinterlands, all of it, even the Far Realm. The one exception, perhaps, is Sigil. Tableau of the Outlands are plentiful (notably, magic is not suppressed in tableau there) from which of course you can see Sigil atop the infinite Spire. But since the Spire is infinitely tall, there seems no way to reach Sigil. Must it be there, if it can be seen, replicated in total detail, holding all its secrets? For the slim price of overcoming this plane's natural hazards, we could explore the City of Doors at leisure, unmolested by the Lady or her servants!
+To be clear, the ____[Cartography] doesn't reflect only cardinal worlds. It holds everything---the Inner and Outer Planes, the Astral and the Ethereal, wildspace, the Hinterlands, all of it, even the Far Realm. The one exception, perhaps, is Sigil. Tableau of the Outlands are plentiful (notably, magic is not suppressed in tableau there) from which of course you can see Sigil atop the infinite Spire. But since the Spire is infinitely tall, there seems no way to reach Sigil. Must it be there, if it can be seen, replicated in total detail, holding all its secrets? For the slim price of overcoming this lamina's natural hazards, we could explore the City of Doors at leisure, unmolested by the Lady or her servants!
 
 If Sigil is here, why have all attempts to reach tableau there failed? One theory is that the giant torus visible from the Outlands is not actually Sigil, which itself resides in some pocket demiplane. This wouldn't directly explain the lack of Sigil tableau, but would allow for the apparent visibility of Sigil from tableau of the Outlands without Sigil's interior being accessible, while some other explanation must be found for while Sigil alone is missing.
 
@@ -178,7 +178,7 @@ Light travels about 300,000,000m/s. Time passes about a billion times slower her
 
 ### Conditions
 
-Most dangers of the original plane are neutralized here, leaving only the natural dangers of the ____[Cartography]. The only things that remain harmful are:
+Most dangers of the original world are neutralized here, leaving only the natural dangers of the ____[Cartography]. The only things that remain harmful are:
 
 - Pointy and sharp things still damage, often worse than they would normally due to their stiffness (e.g. grass)
 - Crushing: if you for some reason end up trapped in some way, it's still a problem
@@ -191,7 +191,7 @@ How long until stuff bogs you down? A very dusty room or thick fog is challengin
 
 ### Transport
 
-Permanent Teleportation Circle requires casting every day for 100 years. Existing permanent circles on the plane that you know the sigils of you can go to that location, but utterly random time.
+Permanent Teleportation Circle requires casting every day for 100 years. Existing permanent circles on the lamina that you know the sigils of you can go to that location, but utterly random time.
 
 Plane Shift works for location, but random time.
 

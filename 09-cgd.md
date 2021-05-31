@@ -1,9 +1,9 @@
 # The ____ SKIP
 
 ---
-subtitle: Autonomy Empathy Dissolution (CGD)
-toc_only: True
-<!-- post_toc_only: MEDIA("David Hellman - Braid background.jpg") -->
+subtitle: Autonomy Empathy Dissolution CGD
+intro_only: True
+<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
 quote: |
     > TODO Intro quote
 abstract: |
@@ -19,6 +19,8 @@ the point:
 - the joy of letting go
 -->
 
+
+
 Cathartic sacrificial/purging rituals? Celebratory graveyard/memorializing? maybe swap with NGD
 
 Sacrificers: bring something you are done with or want to get rid of (or celebrate in a blaze of glory) and a ritual will be created around it, its essence split up and dispersed. Or maybe like a graveyard (could swap with NGD) where everything is done appropriate justice, eulogized by incredible orators. Bloodletting.
@@ -26,7 +28,7 @@ Sacrificers: bring something you are done with or want to get rid of (or celebra
 Blissful letting go. But the thing you are forced to let go of is rarely the thing you came to let go of.
 
 - name
-    + The Asymmetry
+    + The Asymmetry (used)
     + The Cicatrix (the scar of a healed wound e.g. on plant)
     + The Curtain
     + The Divergence
@@ -38,12 +40,7 @@ Blissful letting go. But the thing you are forced to let go of is rarely the thi
 	+ Knots
 	+ Mercies
 	+ Pyreans (maybe CGP apeiron, maybe LGD)
-- quote
-	+ “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum
-	+ "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads
-	+ vectors
-		* "Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them."
-		* "You who have proved how much like me you are: how could I trust you?"
+- quotes search CGD
 - they sometimes appear to mortals - in what form?
 	+ the house burned down that relieved a burden, etc.
 - doppelganger - you see yourself and are compelled to...
@@ -68,7 +65,6 @@ Blissful letting go. But the thing you are forced to let go of is rarely the thi
 - everyone missing a sense - why?
 - bloodletting ceremony, maybe summoning, transformation, intense experience
 - darkly absurdist?
-- CS halting problem somehow?
 - apophatic, describing by what it's not
 - author surely discovered something here
 

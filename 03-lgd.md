@@ -1,7 +1,7 @@
 # The Ardence SKIP
 
 ---
-subtitle: Lawful Good Destruction (LGD)
+subtitle: Lawful Good Destruction LGD
 in_progress: True
 
 ---

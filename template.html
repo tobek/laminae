@@ -4,7 +4,19 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+
+  <title>$pagetitle$$if(title_suffix)$ | $title_suffix$$endif$</title>
+
+  <meta property="og:title" content="$pagetitle$$if(title_suffix)$ | $title_suffix$$endif$" />
+  $if(summary)$
+    <meta property="og:description" content="$summary$" />
+  $endif$
+  $if(og_image)$
+    <meta property="og:image" content="images/$og_image$" />
+  $elseif(default_og_image)$
+    <meta property="og:image" content="images/$default_og_image$" />
+  $endif$
+
   <style>
     $-- $styles.html()$
 
@@ -95,6 +107,10 @@
       font-size: 0.67rem;
     }
 
+    header {
+      text-align: center;
+      margin: 4rem 0 3rem;
+    }
     .subtitle {
       /*font-style: italic;*/
       font-weight: normal;
@@ -339,21 +355,25 @@ $if(abstract)$
   </div>
 $endif$
 
-$if(toc)$
-  <nav id="$idprefix$TOC" role="doc-toc">
-  $if(toc-title)$
-    <h2 id="$idprefix$toc-title">$toc-title$</h2>
+$if(hide_toc)$
+$else$
+  $if(toc)$
+    <nav id="$idprefix$TOC" role="doc-toc">
+    $if(toc-title)$
+      <h2 id="$idprefix$toc-title">$toc-title$</h2>
+    $endif$
+    $table-of-contents$
+    </nav>
   $endif$
-  $table-of-contents$
-  </nav>
 $endif$
 
-$if(toc_only)$
+$if(intro_only)$
   <p class="editor-note">[This chapter has not yet been translated. Please turn to the <a href="18-cnd.html">Inevitability</a>, the <a href="25-cec.html">Bloom</a>, or the <a href="10-lnc.html">Unfolding</a> for completed chapters.]</p>
 
-  $if(post_toc_only)$
-    $post_toc_only$
+  $if(post_intro_only)$
+    $post_intro_only$
   $endif$
+
   $-- Keeping it in HTML output so that we can parse heading IDs for untranslated index items
   <div style="display: none">$body$</div>
 $else$
@@ -441,7 +461,7 @@ $endif$
 
   var laminaNames = document.querySelectorAll(".toc .lamina-name.undone");
   if (laminaNames.length) {
-    var names = ["The Aleatory", "The Asymmetry", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Braid", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "The Hidebound", "The Hierarch", "‎The Horn", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
+    var names = ["The Aleatory", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Braid", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "The Hidebound", "The Horn", "‎The Illumination", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
     laminaNames.forEach(function(name) {
       name.innerHTML = names.popRandom();
     });

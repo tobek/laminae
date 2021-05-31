@@ -1,8 +1,38 @@
+# requirements before launch
+
+roughly in order of necessity (not really yet)
+
+- facets `2h`
+- preface `2h`
+- glossary/index `2h`
+- colophon `1h`
+- dissimulation `30m`
+- cosmology visualization?? `2h`
+- style pass `3h`
+- title => tooltips `1h`
+- handle laminae where we have nothing - just the "untranslated" hover link `15m`
+- 19 laminae `19+h`
+- glyph stuff `2h`
+    + facet hover?
+    + lamina reference with trinym - hover?
+    + lamina intro
+- favicon `30m`
+    + something from diagram inspo? maybe "Folio from 'Kitab..." or compass rose from "Piri_Reis..."
+- lamina name
+    + ASK:
+        * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
+    + laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
+    + just hate "la-mi-nay"
+    + latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
+        * https://www.dailywritingtips.com/latin-plural-endings/
+- finalize copyright/D&D removal (just eladrin etc from LNC?) `30m`
+- renumber/reorder `30m`
+
+~17h non laminae
+
 # big questions
 
-- facets
 - include conduit?
-- dissimulation
 - setting
     + part of our world? tenuously, compatible
     + is there any benefit to using fantasy races? elves etc. maybe not.
@@ -11,51 +41,26 @@
         * lgd bookeepers "race"
         * searched "human" and "race" and accounted for all
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
+- more/better narrator stuff
 
 # big ideas
 
 - branch out with allusions
     + pick an oulipo process and a myth or concept and see where they go
 
-# misc before launch
+# misc after launch
 
-- favicon!
-    + something from diagram inspo? maybe "Folio from 'Kitab..." or compass rose from "Piri_Reis..."
-- lamina
-    + ASK:
-        * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
-    + laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
-    + just hate "la-mi-nay"
-    + latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
-        * https://www.dailywritingtips.com/latin-plural-endings/
-- twitter?
-    + thread header: brief description and the alignments
-    + backdating some already-completed chapters
-    + The Moilers of the Instrument (Hierarchy, Utility, Destruction) live in the interior of a colossal machine (outside has never been seen) which they maintain, but their culture has lost its knowledge of the purpose of the machine and its operation and as a result have devolved into blah blah mission they can't fulfill
-- finalize copyright stance
-- "ready" in each lamina section and task
-    + each needs
-        * for overview/viz: name, demonym, summary
-        * for page itself: reuse summary (or longer abstract) and enticing table of contents
-        * don't worry about things changing form later
-    + go through index.yml and all.md side by side
-    + pick one, go deeper!
-- more narrator stuff
-- cosmology viz
 - feedback
     + i'm interested in primarily in:
         * things that take you OUT of the flow of reading, whether that's grammatical/stylistic (something is hard to follow) or something in the world doesn't make sense ("wait, why would they do that that doesn't make sense")
         * also interested in what DOES work for you, things that stand out that you like
         * which parts are boring/you want to hear less about, and which parts you're curious to hear more about
-- email - mid april or may?
-    + BCC "a few of you said you were interested in an update along the way..." maybe March or April share something
-        * christen, dan
-
-# misc after launch
-
 - reach out to
     + IJ subreddit to say i put an homage to IJ in here
     + mechanical monk twitter about that "build spaces like this" beautiful tweet
+- twitter?
+    + thread header: brief description and the alignments
+    + backdating some already-completed chapters
 
 # Sections
 
@@ -415,9 +420,10 @@ destruction is scary, and powerful, but not evil in the slightest, and is perfec
 - check to see if we have any duplicate anchor ids across different file ids
 - bold the main reference, but show each chapter that references concept
 
-so far (some need changing, decide/find and replace):
+so far (some need changing, decide/find and replace, and then REF them):
 
 - in cosmography chapter
+    + add "cardinal"? maybe replace "mortal worlds" (only used in cosmo, never used mortal realm - replace prime. used cardinal in CND and NNC and others)
     + petitioner
     + outsider (check if used anyway)
     + mortal
@@ -461,8 +467,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 
 ## ■▤▤ Build
 
-- process (remove # from file name?? maybe not)
-- opengraph etc
+- remove # from file name?? maybe not
 
 ### clean
 
@@ -483,7 +488,10 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 - figure out TOC format
 - probably change order to all hierarchy first, etc.
 - probably figure out way to build it rather than type it fuckin out
-- glyphs for non-laminae? maye ၜ for "overview of the laminae"
+- glyphs
+    + for non-laminae? maye ၜ for something (close, index)
+    + cosmography and facets should be similar
+    + first two, written by the Order, shouldn't have burmese glyphs right? maybe other cool unicode
 
 goals:
 
@@ -498,8 +506,8 @@ viz:
     + alignment (english and glyphs)
     + demonym
     + name
-    + summary
-        * `abstract` (1-3 paragraphs) *can* work for overview page, but if necessary make new small `summary` that is like 2-3 sentences
+    + `abstract` 1-3 paragraphs
+    + `summary` that is like 2-3 sentences (google will show ~160)
     + pic(s)?
 - generate from YML (maybe gather some stuff from scanning pages?)
     + `import yaml`
@@ -527,9 +535,8 @@ viz:
         * Lombardic/rubricated capitals every paragraph?
     + navigation links
         * small caps? but then should front TOC - and chapter TOC - be small caps?
-    + contents OVERVIEW OF THE PLANES - should it be under next section, what
     + intro quotes
-    + ask about capitalization
+    + ask about capitalization (demonyms, The Laminaname)
 - confirm all indic fonts
     + make sure nested bullets work
     + maybe update font(s) to just have needed symbols
@@ -538,6 +545,7 @@ viz:
 - mobile and browser compatibility check
     + styles, fonts, what else?
 - later
+    + [Capituli: Some notes on summaries, chapter divisions and chapter titles in ancient and medieval manuscripts](https://www.roger-pearse.com/tertullian/rpearse/manuscripts/chapter_titles.htm)
     + footnotes/hash fragment links should highlight word (and maybe paragraph)
         * maybe like some scroll curlicue drawn around it or to the side
         * or a glow
