@@ -55,6 +55,9 @@
     margin: 2rem 0;
     font-weight: bold;
   }
+  .bask .title-page .title-1 {
+    font-size: 2.7rem;
+  }
   .title-page .title-2 {
     font-size: 2rem;
     margin: 1.33rem 0;
@@ -206,7 +209,7 @@
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">V.</div><a hreff="00-v-facets.html">Facets</a></div>
+  <div class="left"><div class="numeral">V.</div><a href="00-v-facets.html">Facets</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 

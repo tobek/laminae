@@ -17,6 +17,10 @@
     <meta property="og:image" content="images/$default_og_image$" />
   $endif$
 
+  $-- TODO(confirm fonts)
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,500;0,600;0,700;1,600&display=swap" rel="stylesheet">
+
   <style>
     $-- $styles.html()$
 
@@ -30,27 +34,27 @@
       font-style: normal;
     }
     @font-face {
-      font-family: "Poliphilus";
-      src: url("./fonts/PoliphilusItal.eot"); /* IE9 Compat Modes */
-      src: url("./fonts/PoliphilusItal.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-        url("./fonts/PoliphilusItal.otf") format("opentype"), /* Open Type Font */
-        url("./fonts/PoliphilusItal.svg") format("svg"), /* Legacy iOS */
-        url("./fonts/PoliphilusItal.ttf") format("truetype"), /* Safari, Android, iOS */
-        url("./fonts/PoliphilusItal.woff") format("woff"), /* Modern Browsers */
-        url("./fonts/PoliphilusItal.woff2") format("woff2"); /* Modern Browsers */
-      font-weight: 400;
-      font-style: italic;
-    }
-    @font-face {
       font-family: "NotoSansMyanmar";
       src: url("./fonts/NotoSansMyanmar-Regular.ttf") format("truetype");
       font-weight: 400;
       font-style: normal;
     }
 
+    body.bask {
+      font-size: 18px;
+      font-family: 'Libre Baskerville' !important;
+    }
+    .bask p {
+      line-height:  1.25rem;
+    }
+
+    h1, h2, h3, h4, h5, h6, blockquote {
+      font-family:  'Cormorant Garamond', serif;
+    }
+
     html {
       background: #f9e6cd;
-      font-size: 22px;
+      font-size: 24px;
       position: relative;
     }
     html[class="00-0-title"] {
@@ -87,6 +91,7 @@
     }
     h1.title {
       font-size: 2.5rem;
+      margin-bottom:  1rem;
     }
     h1 {
       font-size: 2rem;
@@ -112,10 +117,21 @@
       margin: 4rem 0 3rem;
     }
     .subtitle {
-      /*font-style: italic;*/
       font-weight: normal;
-      margin-top: -1rem;
+      margin-top: -0.375rem;
       margin-bottom: 1rem;
+      font-variant: all-small-caps;
+      font-weight: 700;
+      letter-spacing: 0.25px;
+    }
+    .subtitle .glyph {
+      font-variant: normal;
+      display:  block;
+      color: #113a6b;
+      font-size: 110%;
+      font-weight:  500;
+      line-height: 2;
+      letter-spacing: 5px;
     }
     .intro {
       margin-top: 2rem;
@@ -123,13 +139,13 @@
 
     a[href] {
       text-decoration: none;
-      color: #a90000;
+      color: #b00000;
     }
     a[href]:visited {
-      color: #620000;
+      color: #900000;
     }
     a[href]:active, a[href]:hover, a[href]:focus {
-      color: #ca0000;
+      color: #700000;
     }
 
     dfn {
@@ -143,8 +159,55 @@
       opacity: 0.75;
     }
 
+    .tooltip-wrap {
+      position: relative;
+    }
+      .tooltip-wrap:hover .tooltip {
+        display: block;
+        opacity: 1;
+        pointer-events: auto;
+      }
+      .tooltip {
+        pointer-events: none;
+        opacity: 0;
+        transition: opacity 0.5s ease-in-out;
+        font-size: 0.875rem;
+        background: #F8E8D4;
+        color: #311500;
+        border:  1px solid #31150030;
+        padding: 15px 15px 10px;
+        position: absolute;
+        z-index: 999;
+        bottom: 10px;
+        left: 50%;
+        width:  300px;
+        transform: translate(-50%, calc(100% + 10px));
+      }
+        .img-wrap .tooltip {
+          width: 75%;
+        }
+
+      @media only screen and (max-width: 767px) {
+        /*TODO(otherwise extending page off to sides e.g. on cosmography)*/
+        .tooltip {
+          display: none !important;
+        }
+      }
+
     .glyph {
       font-family: "NotoSansMyanmar", sans-serif;
+    }
+
+    p .em-dash {
+      font-weight: bold;
+      margin-right: 2px;
+      margin-left: 1px;
+      /*
+      width: 22px;
+      overflow: hidden;
+      display: inline-block;
+      vertical-align: middle;
+      */
     }
 
     hr {
@@ -161,6 +224,11 @@
 
     .img-wrap {
       text-align: center;
+      opacity: 0.85;
+      transition: opacity 0.5s ease-out;
+    }
+    .img-wrap:hover {
+      opacity: 1;
     }
     img {
       max-width: 100%;
@@ -171,9 +239,7 @@
     header + p:first-letter,
     header + blockquote + p:first-letter,
     header + blockquote + blockquote + p:first-letter,
-    h1 + p:first-letter,
-    h1 + h2 + p:first-letter,
-    h1 + h2 + h3 + p:first-letter {
+    h1 + p:first-letter {
       float: left;
       font-size: 500%;
       margin: 1px 0 -16px 0;
@@ -183,12 +249,69 @@
     }
 
     blockquote {
+      font-weight: 600;
       font-style: italic;
-      background: rgba(49, 21, 0, .01);
-      margin: 1.5rem 10px;
-      padding: .5rem 1.5rem;
+      margin: -2rem 10px 1.5rem;
+      padding: .155rem 1.5rem;
     }
+      /*.img-wrap img:before,*/
+      blockquote:only-child:before,
+      blockquote:first-child:before {
+        content: '';
+        display: block;
+        border-bottom: 1.5px solid #31150018;
+        margin: 0 auto 35px;
+        width: calc(100% + 3rem);
+        margin-left: -1.5rem;
+      }
+      /*.img-wrap img:after,*/
+      blockquote:only-child:after,
+      blockquote:last-child:after {
+        content: '';
+        display: block;
+        border-top: 1.5px solid #31150018;
+        margin: 35px auto 0;
+        width: calc(100% + 3rem);
+        margin-left: -1.5rem;
+      }
+      /*.img-wrap img,*/
+      blockquote:only-child,
+      blockquote:first-child {
+        border-top: 3px solid #31150018;
+      }
+      /*.img-wrap,*/
+      blockquote:only-child,
+      blockquote:last-child {
+        border-bottom: 3px solid #31150018;
+      }
+
+      @media only screen and (max-width: 767px) {
+        blockquote {
+          padding-left:  0;
+          padding-right:  0;
+        }
+        blockquote:before,
+        blockquote:after {
+          width: 100% !important;
+          margin-left: 0 !important;
+        }
+      }
+
+      blockquote .attribution {
+        display: block;
+        font-size:  90%;
+        font-style: normal;
+        margin-top: -.5rem;
+      }
+      blockquote .em-dash {
+        font-weight: 700;
+      }
+
+    em,
     .editor-note {
+      font-family:  'Cormorant Garamond', serif;
+      font-size: 97%;
+      font-weight: 600;
       font-style: italic;
     }
 
@@ -197,6 +320,7 @@
       display: flex;
       justify-content: space-between;
       font-variant: small-caps;
+      text-transform: lowercase;
     }
       .shortcuts.top{
         margin-bottom: 2rem;
@@ -205,13 +329,21 @@
         margin-top: 4rem;
       }
       .shortcuts a {
-        width: 33%;
+        width: 40%;
       }
       .shortcuts a:nth-child(2) {
         text-align: center;
       }
       .shortcuts a:last-child {
         text-align: right;
+      }
+      .shortcuts .contents {
+        font-weight: 700;
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 110%;
+        margin-top: -3.5px;
+        width: auto;
+        min-width: 100px;
       }
 
     #TOC .no-toc-children + ul {
@@ -289,9 +421,46 @@
       line-height: 1rem;
       content:  attr(data-facet);
     }
+    /*
     .glyph-group [data-facet] + [data-facet] {
       margin-left: 0.25rem;
     }
+    */
+
+    .copy-table {
+      margin: auto;
+    }
+      .copy-table td {
+        padding: 0.25rem 1rem;
+      }
+      .facet-table td:first-child {
+        padding: 0 1rem 0 0;
+      }
+      .lamina-table td {
+        padding: 0.15rem 0.5rem;
+      }
+      .lamina-table tr:first-child td {
+        padding-bottom: 0.25rem;
+      }
+      @media only screen and (max-width: 767px) {
+        .copy-table {
+          font-size:  90%;
+        }
+        .facet-table td {
+          padding: 0.25rem 0.05rem;
+        }
+        .facet-table td:first-child {
+          padding: 0 0.5rem 1rem 0;
+        }
+        .lamina-table td {
+          padding: 0 0.25rem;
+        }
+        .copy-table [data-facet]:after {
+          display: block;
+          margin-bottom: 17px;
+        }
+      }
+
   </style>
 $for(css)$
   <link rel="stylesheet" href="$css$" />
@@ -320,7 +489,7 @@ $if(prev_href)$
       <a></a>
     $endif$
     $if(contents_href)$
-      <a href="$contents_href$">$contents_title$</a>
+      <a class="contents" href="$contents_href$">$contents_title$</a>
     $else$
       <a></a>
     $endif$
@@ -336,7 +505,9 @@ $if(title)$
   <header id="title-block-header">
   <h1 class="title">$title$</h1>
   $if(subtitle)$
-    <h4 class="subtitle">$subtitle$</h4>
+    <h4 class="subtitle">
+      $subtitle$
+    </h4>
   $endif$
   $if(in_progress)$
     <h3>TRANSLATION IN PROGRESS</h3><br>
@@ -346,12 +517,14 @@ $if(title)$
 $endif$
 
 $if(quote)$
-  $quote$
+  <div>
+    $quote$
+  </div>
 $endif$
 
-$if(abstract)$
+$if(intro)$
   <div class="intro">
-    $abstract$
+    $intro$
   </div>
 $endif$
 
@@ -368,7 +541,12 @@ $else$
 $endif$
 
 $if(intro_only)$
-  <p class="editor-note">[This chapter has not yet been translated. Please turn to the <a href="18-cnd.html">Inevitability</a>, the <a href="25-cec.html">Bloom</a>, or the <a href="10-lnc.html">Unfolding</a> for completed chapters.]</p>
+  <p class="editor-note" id="untranslated">[This chapter has not yet been translated. Please turn to the <a href="18-cnd.html">Inevitability</a>, the <a href="25-cec.html">Bloom</a>, or the <a href="10-lnc.html">Unfolding</a> for completed chapters.]</p>
+  <script>
+    document.querySelectorAll('#TOC a').forEach(function(el) {
+      el.setAttribute("href", "#untranslated");
+    });
+  </script>
 
   $if(post_intro_only)$
     $post_intro_only$
@@ -387,7 +565,7 @@ $endif$
     <a></a>
   $endif$
   $if(contents_href)$
-    <a href="$contents_href$">$contents_title$</a>
+    <a class="contents" href="$contents_href$">$contents_title$</a>
   $else$
     <a></a>
   $endif$
@@ -413,11 +591,6 @@ $endif$
     var index = Math.floor(Math.random()*this.length);
     return this[index];
   }
-
-  document.querySelectorAll('a.ref').forEach(function(el) {
-    var href = el.getAttribute("href");
-    // TODO set up ref
-  });
 
   // total hack to allow a heading tag to affect the TOC
   document.querySelectorAll('#TOC .no-toc-children').forEach(function(el) {

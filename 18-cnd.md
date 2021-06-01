@@ -8,13 +8,13 @@ quote: |
 
     > TODO/maybe[] Decay is inherent in all compound things. Work out your own salvation with diligence.
     >
-    > ---Last words of the Dabhud <!-- Buddha -->
+    > <span class="attribution">--- Last words of the Dabhud <!-- Buddha --></span>
 
     > TODO/maybe[] "You should call it entropy [...] nobody knows what entropy really is, so in a debate you will always have the advantage."
     >
-    > ---Jhennon von Numa <!-- John von Neumann -->
+    > <span class="attribution">--- Jhennon von Numa <!-- John von Neumann --></span>
 
-abstract: |
+intro: |
 
     This realm embodies and safeguards a primal force in the multiverse: entropy. Barring hypothetical states of perfect equilibrium or reversibility, all systems lie precariously on an irreversible slide from order into disorder, from certainty into uncertainty, a fact known to some philosophers as the Second Law of Thermodynamics. The gleeful inhabitants of the Inevitability are the ones who wield this mandate. Grouped into collectives undertaking particular manifestations of entropy---combustion, aging, decomposition, irreversible food transformations (in this otherwise inhospitable lamina there is a fantastical culinary ensemble from which cascade creations of the wildest epicureans), broken tools and furniture, political dissolution, romantic miscommunication, and even the fading of deities---this lamina's residents, the Unravellers, are summoned by natural forces across the multiverse to shepherd these transformations, after which they return to the lamina with stories and trophies of their work.
 
@@ -73,7 +73,7 @@ MEDIA("Michael Hutter - Carcosa XXXIV.jpg")
 
 The march presents every romantic discord imaginable. These Unravellers scour the multiverse and return with the stories and mementos of their spoils: arguments rehashed ad nauseam, miscommunications entrenched, wandering eyes tempted, widowings celebrated, unrequited infatuations goaded, doubts sown, tempers boiled, backs stabbed, families sundered, promises mocked.
 
-Romantic Unravellers insist that relationships are not tampered without cause; then again a cause can nearly always be found. Beholding the wanton crowd, however, this visitor searched and found no malice. In fact, she joined the revelry for a time, finding resonance in the finitude of attachment, even stepping outside herself to share in the call-and-response. This community is joined together by sweat and joy and celebration of dissolution given gravitas by the gravitas of the thing being dissolved. To revel in the sunk cost: all of that effort for nothing---exactly! One mortal found here was so wooed in the course of an unravelling that he had abandoned his life to join the parade. He is likely not the only one to have done so.
+Romantic Unravellers insist that relationships are not tampered without cause; then again a cause can nearly always be found. Beholding the wanton crowd, however, this visitor searched and found no malice. In fact, she joined the revelry for a time, finding resonance in the finitude of attachment, even stepping outside herself to share in the call-and-response. This community is joined together by sweat and joy and celebration of dissolution given gravitas by the gravitas of the thing being dissolved. To revel in the sunk cost: all of that effort for nothing<span>---</span>exactly! One mortal found here was so wooed in the course of an unravelling that he had abandoned his life to join the parade. He is likely not the only one to have done so.
 
 ### Loss of Knowledge
 
@@ -147,12 +147,17 @@ The presence of fire Unravellers is known to ignite nearby materials: indispensa
 
 ### Others
 
-- **Weather Patterns**: Guiding everything from hurricanes to dust storms to earthquakes, these powerful, atavistic Unravellers communicate only through dance and mime
-- **Aging**: Giddy cherubs flitting unseen around mortal lives' most trying times
-- **Rust**: Trollish Unravellers heap metal objects onto huge vessels sloshing wet brown rust over their sides and onto the ground
-- **Melting Ice** and **Boiling Water**: As raw as weather or fire Unravellers, but more slippery
-- **Heat Transfer**: Apparently one of the more fundamental undertakings here, these silent Unravellers resemble phantoms and their troupes are sculptural geometric tangles of metal and bone and stone
-- **Broken furniture**: Absolute mayhem, as one might expect
+**Weather patterns** · Guiding everything from hurricanes to dust storms to earthquakes, these powerful, atavistic Unravellers communicate only through dance and mime.
+
+**Aging** · Giddy cherubs flitting unseen around mortal lives' most trying times.
+
+**Rust** · Trollish Unravellers heap metal objects onto huge vessels sloshing wet brown rust over their sides and onto the ground.
+
+**Melting ice** and **boiling water** · As raw as weather or fire Unravellers, but more slippery.
+
+**Heat Transfer** · Apparently one of the more fundamental undertakings here, these silent Unravellers resemble phantoms and their troupes are sculptural geometric tangles of metal and bone and stone.
+
+**Broken furniture** · Absolute mayhem, as one might expect.
 
 TODO(dissolving is entropic)[]
 
@@ -166,11 +171,15 @@ The only figures that regularly stray from the Procession---never far---are the 
 
 Certain individuals are so distinctive, venerable, and skilled as to be treated by locals and visitors alike as demigods of their domains. These Unravellers possess to an alarmingly magnified degree the same entropic aura which in their brethren only delicately guides nature along its course. Around these powers minor calamities unfold as appropriate to each one's influence: clothing tears, food turns sour, thoughts derail.
 
-- **Jindl, of broken chairs**, a ludicrous gangly figure constantly humming to himself, around whom the ground is the only reliable seating surface
-- **Goramor, of malfunctioning mechanical weapons**, an unimaginably ancient gnome with intuitive comprehension of the most alien of devices
-- **Ahamara, of cooked eggs**, an enormous and blind matronly woman, said to hold simultaneously in her awareness each egg being cooked in that instant across the entire multiverse
-- **Tist, of benevolent surprises gone awry**, an attentive, placid feline in front of whom this visitor immediately made a fool of herself
-- **Blidibil, of mixed paint**, who claims total colorblindness and additionally has an unusual effect on the digestion of nearby mortals
+**Jindl, of broken chairs**, a ludicrous gangly figure constantly humming to himself, around whom the ground is the only reliable seating surface.
+
+**Goramor, of malfunctioning mechanical weapons**, an unimaginably ancient gnome with intuitive comprehension of the most alien of devices.
+
+**Ahamara, of cooked eggs**, an enormous and blind matronly woman, said to hold simultaneously in her awareness each egg being cooked in that instant across the entire multiverse.
+
+**Tist, of benevolent surprises gone awry**, an attentive, placid feline in front of whom this visitor immediately made a fool of herself.
+
+**Blidibil, of mixed paint**, who claims total colorblindness and additionally has an unusual effect on the digestion of nearby mortals.
 
 TODO(more Unraveller demigods - forest fires?)[]
 

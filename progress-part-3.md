@@ -45,10 +45,10 @@
 | :-- | :-- |
 | Build | <span class="bloop">■▤▤</span> |
 | Title Page | <span class="bloop">■▤□</span> |
-| Styles | <span class="bloop">■□□</span> |
-| Author | <span class="bloop">■□□</span> |
+| Styles | <span class="bloop">■▤□</span> |
+| Author | <span class="bloop">■▤□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
-| Plates | <span class="bloop">■□□</span> |
+| Plates | <span class="bloop">■▤□</span> |
 | References | <span class="bloop">■▤□</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |

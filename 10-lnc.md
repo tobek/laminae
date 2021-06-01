@@ -2,7 +2,7 @@
 
 ---
 subtitle: Hierarchy Utility Creation LNC
-abstract: |
+intro: |
 
     Landscapes as diverse as the multiverse itself cover islands scattered across the Glass Ocean, teeming with assorted regiments beckoning imagination into structural reality: towers, bridges, monuments, citadels, silos, domes, parapets, temples, amphitheaters, catacombs, highways, bridges, labyrinths, palaces, prisons, and crenellated parliaments soar and plunge, constructed of wood and stone, metal and bone, crystal and coral and mineral. Across the Unfolding they arc and glisten and groan and grow, and upon the enormous central continent of this realm these structures congregate in a dense symphonic metropolis as far as the eyes can see.
 
@@ -289,20 +289,31 @@ other attributes: formless, cold, hot (that effect of cold next to hot)
 
 While in theory every disused or undesired construction is disassembled and reclaimed, in practice some face other fates for a variety of reasons, from the inhospitableness of its terrain or unusually difficult materials used, to simply gaps in bureaucracy. This visitor heard a few mentions of a sizable continent consisting of all the works of a particular disgraced Architect pushed far out at sea, but further details varied: a lingering plague, violent extraplanar squatters, a demigod's curse.
 
-## Figures & Groups
+## <span class="no-toc-children">Figures & Groups</span>
 
-- **Guilds**
-	+ **Shield of Both Eyes** retains genius defensive strategists and fortification virtuosos.
-	+ **The Multitudes** create hermitages and other places of solitude.
-	+ **Silver Thread** provides translation, diplomacy, and management expertise for dealing with challenging clients and overseeing laborers.
-	+ **The Eventual Whisper** analyzes atmospheric conditions and wind shifter dynamics in order to predict their movements, working closely with <dfn id="chords" def="Teams who manipulate the environment in order to change wind shifter paths.">**Chords**</dfn>, the teams who manipulate the environment in order to change REF[wind shifter](#wind-shifters) paths.
-	+ **Quip and Cable** focuses on intricate, large-scale, cause-and-effect contraptions
-	+ Smaller guilds specialize in a wide range of domains, for instance advising on projects situated in a specific environments (such as underwater domains, magma flows, or the Astral Plane), or providing expertise with specific materials or styles.
-	+ <dfn id="patterners" def="Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.">**Patterners**</dfn> are more a caste than a guild, and can be found in the service of various guilds or in independent groups. Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.
-- **Figures**
-	+ **Jindarma** is an elder statesman figure known for the soaring staircase he built with an extraplanar associate on the REF[Echo Plateau](#the-echo-plateau).
-	+ **Kurin** is the director who expertly managed the REF[Chords] during REF[The Kindling](#the-kindling-and-wind-shifter-sentience).
-	+ <dfn id="galabast">**Galabast**</dfn> is a famed mathematician who has attempted to model the form and function of REF[wind shifters].
+### Guilds
+
+**Shield of Both Eyes** retains genius defensive strategists and fortification virtuosos.
+
+**The Multitudes** create hermitages and other places of solitude.
+
+**Silver Thread** provides translation, diplomacy, and management expertise for dealing with challenging clients and overseeing laborers.
+
+**The Eventual Whisper** analyzes atmospheric conditions and wind shifter dynamics in order to predict their movements, working closely with <dfn id="chords" def="Teams who manipulate the environment in order to change wind shifter paths.">**Chords**</dfn>, the teams who manipulate the environment in order to change REF[wind shifter](#wind-shifters) paths.
+
+**Quip and Cable** focuses on intricate, large-scale, cause-and-effect contraptions.
+
+Smaller guilds specialize in a wide range of domains, for instance advising on projects situated in a specific environments (such as underwater domains, magma flows, or the Astral Plane), or providing expertise with specific materials or styles.
+
+<dfn id="patterners" def="Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.">**Patterners**</dfn> are more a caste than a guild, and can be found in the service of various guilds or in independent groups. Patterners shape the terrain of the Unfolding itself to produce islands and environments suitable for Architects to build upon.
+
+### Figures
+
+**Jindarma** is an elder statesman figure known for the soaring staircase he built with an extraplanar associate on the REF[Echo Plateau](#the-echo-plateau).
+
+**Kurin** is the director who expertly managed the REF[Chords] during REF[The Kindling](#the-kindling-and-wind-shifter-sentience).
+
+<dfn id="galabast">**Galabast**</dfn> is a famed mathematician who has attempted to model the form and function of REF[wind shifters].
 
 ## Festivals & Traditions
 
@@ -310,9 +321,11 @@ Many competitions are held, including one for structures with as little contact 
 
 Some other notable events include:
 
-- <dfn id="glintings">**Glintings**</dfn> are events large and small held by various guilds or regions, in which apprentices prepare scale models for feedback, alongside demonstrations and brainstorming sessions.
-- **The Chorus of Sails** celebrates the magnificent work of REF[Chords] during REF[The Kindling](#the-kindling-and-wind-shifter-sentience), but has also come to represent Chords in general. Challenges are laid out, demos performed, and awards given. Some use this day to honor the event of The Kindling itself.
-- **The Echo Symposium** collects and judges proposals for the upcoming year's addition to the REF[Echo Plateau](#the-echo-plateau).
+<dfn id="glintings">**Glintings**</dfn> are events large and small held by various guilds or regions, in which apprentices prepare scale models for feedback, alongside demonstrations and brainstorming sessions.
+
+**The Chorus of Sails** celebrates the magnificent work of REF[Chords] during REF[The Kindling](#the-kindling-and-wind-shifter-sentience), but has also come to represent Chords in general. Challenges are laid out, demos performed, and awards given. Some use this day to honor the event of The Kindling itself.
+
+**The Echo Symposium** collects and judges proposals for the upcoming year's addition to the REF[Echo Plateau](#the-echo-plateau).
 
 TODO/traditions (more festivals etc for Unfolding)[]
 

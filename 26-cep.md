@@ -7,11 +7,11 @@ post_intro_only: MEDIA("Yoshitaka Amano - Sandman - Dream Hunters - Spiritual Re
 quote: |
     > You are here to be swallowed.
     >
-    > ---Gorol
+    > <span class="attribution">--- Gorol<span>
 
-summary: TODO may be the most hazardous of any lamina, a churning landscape with no reliable purchase but only seas of cloud and mud split by geysers of steam and lava in which perplexing rocky outcrops rise and fall. Towering creatures
+summary: TODO may be the most dangerous of any lamina, a churning landscape with no reliable purchase but only seas of cloud and mud split by geysers of steam and lava in which perplexing rocky outcrops rise and fall. Towering creatures
 
-abstract: |
+intro: |
 
     Almost nothing has been written about the Knot and this visitor, travelling there against all advice, gleaned little. It may be the most hazardous of any lamina, a churning landscape with no reliable purchase but only seas of cloud and mud split by geysers of steam and lava in which perplexing rocky outcrops rise and fall. Towering creatures, nightmarish and fascinating, crash dumbly through the landscape: endless serpents, amorphous horned behemoths, long-necked bony black equines, and segmented lumbering bulks with no discernible features. They appear to be chasing each other and themselves, often attempting, like an ouroboros, to devour their own bodies, tumbling to the ground.
 

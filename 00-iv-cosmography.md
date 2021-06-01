@@ -1,8 +1,8 @@
 # Cosmography
 
 ---
-abstract: |
-    Those of a meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead into a visceral experience of the laminae and only later return here to understand how the pieces fit together. That is to say, the intrepid reader should pass over these introductory passages for now.
+intro: |
+    A meticulous mind may wish to start with a broad metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead to a more visceral experience of the laminae and only later return here to understand how the pieces fit together. The intrepid reader may always refer to the REF[glossary](glossary) when TODO(the going gets tough)[necessary].
 ---
 
 TODO(revise)[]
@@ -15,49 +15,58 @@ TODO(revise)[]
 
 ## Overview
 
-The nine facets and twenty-seven laminae are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[the Inevitability](CND) ensures the physical laws of entropy, and REF[the Asymmetry](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
+The nine REF[facets](facets) and twenty-seven REF[laminae] are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of mortal worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[the Inevitability](CND) ensures the physical laws of entropy, and REF[the Asymmetry](NNC) crafts the intrinsic shape of every physical object. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
 
 Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each.*]
 
-TODO(should these facets be regular REFs?)[]
+<div class="copy-table facet-table">
+| | | | |
+| :-- | :-: | :-: | :-: |
+| *Method* | REF[Hierarchy] | REF[Synthesis] | REF[Autonomy] |
+| *Motive* | REF[Empathy] | REF[Utility] | REF[Power] |
+| *Means* | REF[Creation] | REF[Equilibrium] | REF[Dissolution] |
+</div>
 
-- *Method*: &nbsp;REF[Hierarchy] --- REF[Synthesis] --- REF[Autonomy]
-- *Motive*: &nbsp;REF[Empathy] --- REF[Utility] --- REF[Power]
-- *Means*: &nbsp;REF[Creation] --- REF[Equilibrium] --- REF[Dissolution]
+These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, and from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
 
-These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
+<div class="copy-table lamina-table">
+| | | | |
+| :-: | :-: | :-: |
+| *Method* | *Motive* | *Means* |
+| REF[Hierarchy] | REF[Empathy] | REF[Creation] |
+| REF[Hierarchy] | REF[Empathy] | REF[Equilibrium] |
+| REF[Hierarchy] | REF[Empathy] | REF[Dissolution] |
+| REF[Hierarchy] | REF[Utility] | REF[Creation] |
+| REF[Hierarchy] | REF[Utility] | REF[Equilibrium] |
+| REF[Hierarchy] | REF[Utility] | REF[Dissolution] |
+| REF[Hierarchy] | REF[Power] | REF[Creation] |
+| REF[Hierarchy] | REF[Power] | REF[Equilibrium] |
+| REF[Hierarchy] | REF[Power] | REF[Dissolution] |
+| REF[Synthesis] | REF[Empathy] | REF[Creation] |
+| REF[Synthesis] | REF[Empathy] | REF[Equilibrium] |
+| REF[Synthesis] | REF[Empathy] | REF[Dissolution] |
+| REF[Synthesis] | REF[Utility] | REF[Creation] |
+| REF[Synthesis] | REF[Utility] | REF[Equilibrium] |
+| REF[Synthesis] | REF[Utility] | REF[Dissolution] |
+| REF[Synthesis] | REF[Power] | REF[Creation] |
+| REF[Synthesis] | REF[Power] | REF[Equilibrium] |
+| REF[Synthesis] | REF[Power] | REF[Dissolution] |
+| REF[Autonomy] | REF[Empathy] | REF[Creation] |
+| REF[Autonomy] | REF[Empathy] | REF[Equilibrium] |
+| REF[Autonomy] | REF[Empathy] | REF[Dissolution] |
+| REF[Autonomy] | REF[Utility] | REF[Creation] |
+| REF[Autonomy] | REF[Utility] | REF[Equilibrium] |
+| REF[Autonomy] | REF[Utility] | REF[Dissolution] |
+| REF[Autonomy] | REF[Power] | REF[Creation] |
+| REF[Autonomy] | REF[Power] | REF[Equilibrium] |
+| REF[Autonomy] | REF[Power] | REF[Dissolution] |
+</div>
 
-- <span class="glyph-group">REF[Hierarchy] REF[Empathy] REF[Creation]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Empathy] REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Empathy] REF[Dissolution]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Utility] REF[Creation]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Utility] REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Utility] REF[Dissolution]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Power]   REF[Creation]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Power]   REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Hierarchy] REF[Power]   REF[Dissolution]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Empathy] REF[Creation]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Empathy] REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Empathy] REF[Dissolution]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Utility] REF[Creation]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Utility] REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Utility] REF[Dissolution]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Power]   REF[Creation]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Power]   REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Synthesis] REF[Power]   REF[Dissolution]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Empathy] REF[Creation]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Empathy] REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Empathy] REF[Dissolution]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Utility] REF[Creation]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Utility] REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Utility] REF[Dissolution]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Power]   REF[Creation]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Power]   REF[Equilibrium]</span>
-- <span class="glyph-group">REF[Autonomy]  REF[Power]   REF[Dissolution]</span>
+And each is its own world.
 
-## Laminae
+## <dfn def="Afterworlds that are each aligned with a particular set of facets. The twenty-seven laminae are layered on top of our reality and interact with it in myriad ways.">Laminae</dfn>
 
-The laminae are afterworlds: they are among the destinations that souls, untethered from material concerns, drift towards. The laminae are also however fully tangible realms---while some have outlandish properties, most provide solid ground, breathable air, and recognizable forms---and as such souls gather laminal substance upon arrival, gaining new form with which to carry out an indeterminate existence in pursuit of the shape and ideals of that particular lamina. These re-formed souls are known as petitioners.
+The twenty-seven laminae are afterworlds: they are among the destinations that souls, untethered from material concerns, drift towards. The laminae are also however fully tangible realms---while some have outlandish properties, most provide solid ground, breathable air, and recognizable forms---and as such souls gather laminal substance upon arrival, gaining new form with which to carry out an indeterminate existence in pursuit of the shape and ideals of that particular lamina. These re-formed souls are known as REF[petitioners].
 
 Petitioners choose their laminae in the same manner that an object chooses whether to float or sink in water: their nature determines their direction. The notions of merit, punishment, or reward---common to many conceptions of afterworlds, the veracity of which this visitor cannot confirm---are absent in this understanding. The log may not wish to float upon the surface, but there is neither surprise nor blame in finding that it does. Most petitioners see themselves suited to their new homelands, far better suited than they were to wherever they left, and every lamina's nature lends itself to the execution of the consequences of its facets.
 
@@ -73,13 +82,13 @@ Petitioners are the re-manifestation of souls that found their way to the lamina
 
 No memories follow souls into the laminae (dashing mortal hopes of persistent consciousness after death); some claim glimpses of their former experiences, but these are impossible to judge. Their method of arrival varies from lamina to lamina. On REF[the Inevitability](CND) petitioners appear confused and alone in its grey wastes until the Procession crashes upon them, while REF[the Concordance](LGP) welcomes its citizens as they traverse the Gossamer Arch that descends from the sky into that land's great metropolis.
 
-Except for in in REF[the Bloom](CEC), petitioners appear as adults, and all the cycles and necessities of mortal life are superfluous. Some may eat or drink or make love, but to little material effect. They are not immortal ,but generally persist for long timespans before gradually or suddenly, due to fading relevance or injury, disperse into the background substance of their lamina. In the interim, petitioners inhabit their worlds in ways as varied as mortals do, from the solitary life of a wild nomad to the structured citizenry of a military corps, depending on the nature of the lamina and their role within it.
+Except for in in REF[the Bloom](CEC), petitioners appear as adults, and all the cycles and necessities of mortal life are superfluous. Some may eat or drink or make love, but to little material effect. They are not immortal, but generally persist for long timespans before gradually or suddenly, due to fading relevance or injury, disperse into the background substance of their lamina. In the interim, petitioners inhabit their worlds in ways as varied as mortals do, from the solitary life of a wild nomad to the structured citizenry of a military corps, depending on the nature of the lamina and their role within it.
 
 ### Mortals
 
-Mortals are those that, for the most part, live out their short lives of joy, struggle, and complexity on the cardinal worlds of the multiverse. These are sometimes referred to as "temporals" by petitioners, for their understandable preoccupation with the passage of time. There is additionally no small number of mortals who reside on the laminae, either as visitors or as native descendants of mortals who established permanent homes there. These are known as laminal mortals, in contrast to cardinal mortals that for the most part remain oblivious to the laminae. Many laminal mortals align their philosophy and purpose with that of their chosen lamina in the same way petitioners do, sometimes working alongside them, while some mortals reside on laminae for their own purposes that may be unrelated to even contrary to those of that realm.
+Mortals are those that, for the most part, live out their short lives of joy, struggle, and complexity on the <dfn id="cardinal" name="Cardinal Worlds" def="The cardinal worlds are the foundational, everyday realities over which the laminae are layered.">REF[cardinal]</dfn> worlds of the multiverse. <!-- These are sometimes referred to as "temporals" by petitioners, for their understandable preoccupation with the passage of time.  -->There is additionally no small number of mortals who reside on the laminae, either as visitors or as native descendants of mortals who established permanent homes there. These are known as laminal mortals, in contrast to cardinal mortals that for the most part remain oblivious to the laminae. Many laminal mortals align their philosophy and purpose with that of their chosen lamina in the same way petitioners do, sometimes working alongside them, while some mortals reside on laminae for their own purposes that may be unrelated to even contrary to those of that realm.
 
-### Laminals
+### <dfn id="laminal" name="Laminal" def="Relating to, stemming from, or residing on the laminae. Can also be used to refer to creatures that natively reside on the laminae but which are not manifestations of mortal souls.">Laminals</dfn>
 
 There are presences on the laminae that are neither mortals nor the transformed souls of mortals, but instead seem to be native beings born from the material of the lamina itself. These are known as laminals, and nothing can be said to be common to them all. They range from the huge and silently elegant REF[wind shifters](LNC#wind-shifters) that roam the REF[the Unfolding](LNC), to the TODO(made up)[] oracular Looms that guide petitioners on REF[The Reticulum](TODO), and have varying relationships with petitioners and mortal worlds: some live among petitioners and play a role in their societies, while others merely share the realm but form their own groups or roam as flora and fauna in native ecologies.
 
@@ -105,11 +114,11 @@ Apertures are quite rare, though in the appropriate circles they are not uncommo
 
 Soblei is at once one of the most important and one of the most cursed places in the multiverse. The first thing you will hear about Soblei is that it is full of apertures to the nearest and farthest reaches of existence---that is of course what makes it important. But it is a wretched place. It appears to be a wild metropolis the spectacular destruction of which was averted moments too late and then frozen in a suspended apocalypse. A blinding white light suffuses the sky, flattening everything in muted shades of gray and casting sharp, jet black shadows downwards. Geysers of rubble hang in the air and light blasts through the fissures that cleave every structure. There is a constant, howling, frigid wind, though only visitors seem to suffer it; all the matter of the city---torn awnings and splintered wagons and shards of glass---are unyielding, unaffected, even when the winds rise to unstoppable force.
 
-By all accounts and investigations Soblei exists outside of every lamina and cardinal world in its own crease of reality. It has an unusual topology: though the light always strikes from above, the land curves slightly upwards underfoot, and it is said that a long enough journey may bring you back to where you started, if you are able to work around the massive edifices blocking many paths. There is no trace of the organic life that must have once been here. There are no bones or bodies (except those of occasional recent arrivals succumbed to injury or exposure, whose remains lie in undecaying stasis) or animals or even food to be found, but other artifacts of city life are plentiful. Inside most buildings is an immovable maelstrom of their contents: kitchenware, clothes, books, merchandise, and tools clutter the air of pitch dark interiors in which the wind whips even more furiously.
+By all accounts and investigations Soblei exists outside of every REF[lamina](#laminae) and REF[cardinal] world in its own crease of reality. It has an unusual topology: though the light always strikes from above, the land curves slightly upwards underfoot, and it is said that a long enough journey may bring you back to where you started, if you are able to work around the massive edifices blocking many paths. There is no trace of the organic life that must have once been here. There are no bones or bodies (except those of occasional recent arrivals succumbed to injury or exposure, whose remains lie in undecaying stasis) or animals or even food to be found, but other artifacts of city life are plentiful. Inside most buildings is an immovable maelstrom of their contents: kitchenware, clothes, books, merchandise, and tools clutter the air of pitch dark interiors in which the wind whips even more furiously.
 
 No living creature wishes to spend time here. The wind can kill through cold or a rubble-wards bludgeoning gust. Outdoors the light can blind, while indoors the wind intensifies, the noise driving one mad. It is far too loud to allow verbal communication, and written communication is unwieldy in the gale---only gestures are possible. Coordination difficulties mean that most pass through alone or in very small groups. But those that tread widely always pass through here, for nearly every lamina is connected to Soblei, and the shortest path from one place to another usually passes through it. This visitor knows the city far, far, better than she would like to.
 
-Apertures are everywhere: in city square fountains, in cellars and back rooms, stables and markets, palace halls and libraries. To reach them you must clamber and squeeze through hurricane rubble, and many seem inaccessible. Despite the potential power of such a connected place, no one has conquered its hazards,^[There of course have been innumerable attempts. The merchant king Haradaw sponsored a formidable effort to construct walls of imported stone with which to cordon off wind-free avenues to connect major destinations, and while a handful of sections were successfully built to withstand Soblei's forces, the number of lives lost during construction quickly exhausted the will of everyone involved. An unrelated attempt involved tunneling, which reportedly faced insurmountable challenges in the form of unstable underground apertures to hazardous realms.] and it continues to function as a welcome point of friction in interlaminal affairs. Though guides and strategies abound, there is no comfortable or remotely safe way to shepherd a sightseeing aristocrat or an invading army through this place. At the same time it is not so impossibly hazardous a place TODO(compared to extremely inhospitable plane)[] such that elaborate expedition planning is required to survive at all: an individual with warm clothing, a helmet, steady balance, and directions could, with some luck, make the journey between two nearby apertures. It is also an unshakably neutral place, with no possibility of building fortifications, laying traps, or setting up preparations of any kind that won't be swept away in a moment, and so over the ages Soblei has been party to a significant number of duels and high-stakes or clandestine engagements.
+Apertures are everywhere: in city square fountains, in cellars and back rooms, stables and markets, palace halls and libraries. To reach them you must clamber and squeeze through hurricane rubble, and many seem inaccessible. Despite the potential power of such a connected place, no one has conquered its hazards,^[There of course have been innumerable attempts. The merchant king Haradaw sponsored a formidable effort to construct walls of imported stone with which to cordon off wind-free avenues to connect major destinations, and while a handful of sections were successfully built to withstand Soblei's forces, the number of lives lost during construction quickly exhausted the will of everyone involved. An unrelated attempt involved tunneling, which reportedly faced insurmountable challenges from unstable underground apertures.] and it continues to function as a welcome point of friction in interlaminal affairs. Though guides and strategies abound, there is no comfortable or remotely safe way to shepherd a sightseeing aristocrat or an invading army through this place. At the same time it is not so impossibly hazardous a place as REF[the Knot](CEP) or REF[the Cartography](NNP) such that elaborate expedition planning is required to survive at all: an individual with warm clothing, a helmet, steady balance, and directions could, with some luck, make the journey between two nearby apertures. It is also an unshakably neutral place, with no possibility of building fortifications, laying traps, or setting up preparations of any kind that won't be swept away in a moment, and so over the ages Soblei has been party to a significant number of duels and high-stakes or clandestine engagements.
 
 A handful of accessible and central apertures have way stations on their non-Soblei side, a few hosting assortments of guides, explorers, diplomats, and lunatics, but most little more than deserted shacks offering respite and the detritus of past travellers. A handful of guides are known to offer their services, along with protective gear, but there is no such thing as a comfortable journey here. Navigation is particularly difficult. Maps have been made, but their usage and updates must be committed to memory so as not to be destroyed by wind. Stone tablets are more resilient than parchment but are hard to maneuver through the gale and likely to cause injury or get smashed. Etchings on animal hide are sufficiently resilient, but must be small or incorporated into clothing, as holding up a sheet of any size catches the wind uncontrollably. It is a difficult realm to map anyway, the notion of streets having been laid to waste. The primary subjects to map are landmarks, though it is hard to recognize them through a glaring squint. Up close there is an incredible diversity of building styles and materials, but when struggling through the streets everything appears the same.^[This visitor has over time crafted something of a personal map, using a web of small beads connected by fine chain links. Each bead is carved on one side to represent a landmark and on the other side with the glyphs that denote the destination of nearby apertures, if any. These carvings can be understood by touch. The beads are chained to each other in a way that matches the orientation and proximity between landmarks, notched to indicate direction. For instance, when facing the central peacock head on a particular fountain, behind you is a library with an aperture to REF[____[the Essentialism]](LNP), to your the left by the corner of a florid-tiled building on the edge of the plaza is an aperture to the deserts of Koratia, while ahead on the ground where the gargoyles have toppled off some sort of temple is an aperture to REF[____[the Brink]](CGP), but that is quite some ways---four chain links as opposed to the usual one. At the time of writing this web has roughly forty beads, though in a mnemonic fashion this is a scaffold upon which this visitor's cartographic knowledge has grown somewhat larger.]
 

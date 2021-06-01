@@ -26,6 +26,8 @@ todo_regex = r"TODO(/\w+\b)? ?(\([^\)]+\))? ?(\[([^\]]*)\])" # non-optional [rep
 todo_replace = r"\4"
 blank_regex = r"____(\([^\)]+\))?\[([^\]]*)\]"
 blank_replace = r"\2"
+em_dash_regex = r"—"
+em_dash_replace = "<span class='em-dash'>—</span>"
 
 ref_regex = r"REF\[([^\]]+)\](?:\(([^\)]+)\))?"
 def ref_replace(match):
@@ -36,12 +38,12 @@ def ref_replace(match):
         additional = " data-facet=\" %s\"" % name_to_glyph[text]
     else:
         link = match.group(2) or "#" + to_kebab_case(text)
-    out = "<a href='%s' class='ref'%s>%s</a>" % (link, additional, text)
+    out = "<span class='tooltip-wrap'><a href='%s' class='ref'%s>%s</a><span class='tooltip'></span></span>" % (link, additional, text)
     # print(out)
     return out
 
 media_regex = r"MEDIA\(\"(([^\"]+)\.\w\w\w\w?)\"\)"
-media_replace = r"<div class='img-wrap'><img src='images/\1' title='\2' /></div>"
+media_replace = r"<div class='img-wrap tooltip-wrap'><img src='images/\1' alt='\2' /><span class='tooltip'>\2</span></div>"
 media_wip_regex = r"\s?MEDIA(\([^\)]*\))?"
 media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses
@@ -102,6 +104,8 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
         format="markdown", # "gfm" is also an option, but "markdown" handles footnotes better, not sure what other differences are relevant here
         extra_args=pandoc_args
     )
+
+    output = re.sub(em_dash_regex, em_dash_replace, output)
 
     with open("build/" + output_file, "w") as f:
         f.write(output)
@@ -175,22 +179,24 @@ for filename in outer_files:
     build_file(filename)
 
 anchors = {}
-anchor_blacklist = ["environment", "culture-paradigm", "visiting", "locations", "rumors-mysteries", "history", "festivals-traditions", "figures-groups", "overview", "others", "todo"]
+anchor_blacklist = ["environment", "culture-paradigm", "visiting", "locations", "rumors-mysteries", "history", "festivals-traditions", "figures-groups", "overview", "others", "figures", "todo"]
 print("\ngathering anchors...")
 for file_id, data in file_data.items():
     if file_id == "title":
-        continue
-    if data["metadata"].get("hide_toc"):
         continue
 
     anchors[file_id] = {
         "href": data["output"],
         "name": data["title"],
-        "def": data["metadata"].get("summary") or data["metadata"].get("abstract"), # TODO need to ensure there's no REF/etc markup in these or any defs!!
+        "def": data["metadata"].get("summary") or data["metadata"].get("intro"), # TODO need to ensure there's no REF/etc markup in these or any defs!!
     }
     untranslated = data["metadata"].get("intro_only")
 
     print(data["output"])
+
+    if data["metadata"].get("hide_toc"):
+        continue
+
     with open("build/" + data["output"]) as f:
         soup = BeautifulSoup(f, 'html.parser')
         for anchor in soup.select("dfn, h1[id], h2[id], h3[id]"):
@@ -202,7 +208,7 @@ for file_id, data in file_data.items():
                 continue
 
             anchor_id = anchor.get("id") or anchor.parent.get("id")
-            anchor_name = anchor.get("title") or anchor.string
+            anchor_name = anchor.get("name") or anchor.string
 
             if anchor_id in anchor_blacklist or "TODO" in anchor_name:
                 continue
@@ -231,21 +237,25 @@ for file_id, data in file_data.items():
         for ref in soup.select("a.ref"):
             href = ref["href"].lower()
             href_lookup = href if href[0] != "#" else (file_id + href)
+            tooltip = ref.parent.select(".tooltip")[0]
 
             if href_lookup not in anchors:
                 print("HEY found unreffable ref:", href)
                 del ref["href"]
-                ref["title"] = "Referenced text has not yet been translated"
+                tooltip.string = "The referenced text has not yet been translated."
                 continue
 
             anchor = anchors[href_lookup]
             if anchor.get("def"):
-                ref["title"] = anchor["def"].strip()
+                tooltip.string = anchor["def"].strip()
             if href[0] != "#":
                 ref["href"] = anchors[href]["href"]
                 if anchor.get("untranslated"):
                     ref["href"] = ref["href"][:ref["href"].index("#")] # cut off the anchor, just go to the page
-                    ref["title"] = "Referenced text has not yet been translated"
+                    tooltip.string = "The referenced text has not yet been translated."
+
+            if not tooltip.string:
+                tooltip.decompose()
 
             # print(ref)
 

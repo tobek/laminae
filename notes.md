@@ -164,6 +164,9 @@ see Template
         * footnotes "it was here this visitor had her first encounter with her laminal doppelganger"
         * unclear if just for her or in general
         * or maybe, like goethe story (https://en.wikipedia.org/wiki/Doppelg%C3%A4nger#Johann_Wolfgang_von_Goethe), some premonition of herself that later accidentally comes true in some looped way
+    + maybe cursed for having the conduit
+    + maybe sees/manifests her dead brother
+        * i guess she'd be looking for him?!
 - how tough is she? e.g. facing the CEC kids.
     + gracious, self-controlled, clever
 - travelling with a companion somewhere, maybe with consequences?
@@ -184,11 +187,15 @@ i don't think her position should be that "no one is right or wrong"... but then
 
 ### back story
 
+*sheltered royalty who aided genocide and then self-exiled herself to wander, in her wanderings she met with the "enemy" and they were fine and it destroyed her worldview, receded into delirium. at the Bell (some entheogen) she realized that ~if we could all just work together and see how we need each other~ it'd be great, and so she decided to try to engineer a foundational myth for her culture that would find a place for all kinds of people, but parable-izing how going hard in one way won't work.*
+
+maybe the genocide split her family, like her younger brother sided with the peasants, and wanted to escape with her, but instead she let him get executed for it.
+
 early thoughts: daughter of a noble who left, buddha like, to journey and leave it all behind, maybe after a civil war. absolutely no combat nor magic skills or anything. if she had stats, they would all be... str 9, dex 11, con 13, cha 13, int 11, wis 15. no rpg class.
 
 journeyed her whole life but spend lots of time in some of these places, in at least once she considered living forever there because she loved it, but she didn't want to fall prey to dogmatism, this work would remain incomplete if she had stayed
 
-ok so if the ordial plane is the imagination, then she is imaginative. she could be a creative genius that is responsible for the whole ordial thing, so her goals could be just creative production. maybe after some trauma she fell into a a creative delirium. NO BETTER: she had a formative experience with some political strife that led her to want to convince people that these political absolutes belong to the laminae only (where they are perpetuated by natural forces and semi-no-frill-will'd people) but that on cardinal worlds we must cOexIsT. a world with just sheep or wolves wouldn't work, except a superatural one.
+she had a formative experience with some political strife that led her to want to convince people that these political absolutes belong to the laminae only (where they are perpetuated by natural forces and semi-no-frill-will'd people) but that on cardinal worlds we must cOexIsT. a world with just sheep or wolves wouldn't work, except a superatural one.
 
 keep in mind that the Bell's Universal Story is partly responsible for the work??
 
@@ -217,7 +224,6 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + she was outcast, also connected, or
     + child of nomads, or
     + yes, she has a community - why did she leave?
-- if she has some objective, and if impossible/failed, then maybe on echo plateau something like "it was here that this visitor formally gave up on the cause that began her journey" or something
 - personality traits
     + humble, funny/amused, listens, regal, simple, kind, accepted by everyone, absolutely no expectations from anything ever
 - her fate and fate of her work
@@ -231,6 +237,14 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + Parrigues
     + crying/self-doubt
     + finds a companion
+- the conduit
+- on echo plateau or CGD she gives up looking for her brother, and/or where she forgave herself
+    + "it was here that this visitor formally gave up on the cause that began her journey" eh
+- a slip up where she reveals that it's fictional
+    + like "but this visitor couldn't think of a more plausible outcome for this lamina"
+    + this visitor's imagination couldn't...
+    + maybe translator's note calls attention to it, translates it as something more plausible but gives alternate that makes you question
+    + it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right
 - author having an argument with someone over something, mentioned say in footnote
 - one plane, fairly late on, "it was through this portal that this visitor first set foot in one of the laminae"
 - also fairly late, a simple note that this is this visitor's favorite spot in the multiverse - maybe it has to do as much with relief from something really difficult. coming out of the cave in spain, a fire.
@@ -752,7 +766,9 @@ anagram names:
 - https://open.spotify.com/album/245ZFNN3ONDPXlAdD8qynk?si=7mz_SheSSw2xFowHSOiseg YAS-KAZ Virgo Indigo - interesting fourth-worldy music, ambient-ish but lots going on
 - Midori Takada - Through The Looking Glass https://www.youtube.com/watch?v=eGjHJOnmDZA - hypnotic percussion and dreamy stuff. 2nd and last tracks are cool and intense
 - Koto Vortex - Koto Vortex II: Arcadia (1996) https://www.youtube.com/watch?v=jITsT4GpHWc - intense and repetitive and complex, maybe CEP
-
+- John Elder - Antarctica (1987) https://www.youtube.com/watch?v=nNHRaGGBFC4 ambient, track 4 in particular is haunting and mysterious and desolate, maybe CNP or eh, maybe even CND? it has some activity in it
+- Momoe Soeda (添田百枝) - Aloe Extract Sound (アロエ その不思議なサウンド) (1995) https://www.youtube.com/watch?v=1nVAveg-UQI maybe CEC
+- Warren Burt - Music For Tuning Forks (1987) https://www.youtube.com/watch?v=LK0WdW1HDzQ eerie and sparse
 
 # idle resources to generate
 
@@ -1152,12 +1168,12 @@ intro_only: True
 quote: |
     > TODO quote
     >
-    > ---Jesma Shirancord, "Vectors"
+    > <span class="attribution">--- Jesma Shirancord, "Vectors"<span>
 
 summary: TODO
 
-abstract: |
-    TODO abstract
+intro: |
+    TODO intro
 ---
 
 <!--

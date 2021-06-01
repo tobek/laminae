@@ -1,21 +1,26 @@
 # requirements before launch
 
-roughly in order of necessity (not really yet)
+listings project
 
-- facets `2h`
+https://en.wikipedia.org/wiki/Dog%27s_bollocks_(typography)
+
+- URL (laminae)
+- analytics `30m`
+- facets `1h`
 - preface `2h`
+- write summaries `1h`
 - glossary/index `2h`
+    + set up
+    + add REFs
 - colophon `1h`
 - dissimulation `30m`
 - cosmology visualization?? `2h`
-- style pass `3h`
-- title => tooltips `1h`
+- style pass `1h`
 - handle laminae where we have nothing - just the "untranslated" hover link `15m`
 - 19 laminae `19+h`
-- glyph stuff `2h`
+- glyph stuff `1h`
     + facet hover?
     + lamina reference with trinym - hover?
-    + lamina intro
 - favicon `30m`
     + something from diagram inspo? maybe "Folio from 'Kitab..." or compass rose from "Piri_Reis..."
 - lamina name
@@ -28,10 +33,11 @@ roughly in order of necessity (not really yet)
 - finalize copyright/D&D removal (just eladrin etc from LNC?) `30m`
 - renumber/reorder `30m`
 
-~17h non laminae
+~13h non laminae
 
 # big questions
 
+- should ordial primer link to laminae and glossary terms?
 - include conduit?
 - setting
     + part of our world? tenuously, compatible
@@ -225,14 +231,12 @@ complete draft = 3 + ready, revised = 4
 
     "problem of universals" - "Philosophers agree that human beings can talk and think about universals [being human, red, big, liquid, circular], but disagree on whether universals exist in reality beyond mere thought and speech" or are simply mental artifacts
 
-- change from D&D alignments
-    + noun vs adj: noun, "A, B, C"
-    + goals
-        * each can be viewed in a wholly positive light
-        * one can be sacrificed for the other
-    + swap good & evil or law & chaos so that they line up?
-    + counter examples
-    + think about what each side accuses the other of
+- do "paired with" for all facets?
+- list "tends to" in pros and cons?
+- noun vs adj: noun, "A, B, C"
+- goals
+    + each can be viewed in a wholly positive light
+    + one can be sacrificed for the other
 - a name for each axis
     + hierarchy/synthesis/autonomy
         * method
@@ -260,6 +264,11 @@ complete draft = 3 + ready, revised = 4
         * "Traditional values emphasize the importance of religion, parent-child ties, deference to authority and traditional family values. People who embrace these values also reject divorce, abortion, euthanasia and suicide. These societies have high levels of national pride and a nationalistic outlook."
         * "Secular-rational values have the opposite preferences to the traditional values. These societies place less emphasis on religion, traditional family values and authority. Divorce, abortion, euthanasia and suicide are seen as relatively acceptable."
         * "People's priorities shift from traditional to secular-rational values as their sense of existential security increases" (this suggests evil -> good brings about law -> chaos)
+    + survival vs. self-expression? power is about survival
+        * "Survival values place emphasis on economic and physical security. It is linked with a relatively ethnocentric outlook and low levels of trust and tolerance." "priority of security over liberty"
+        * "Self-expression values give high priority to environmental protection, growing tolerance of foreigners, gays and lesbians and gender equality, and rising demands for participation in decision-making in economic and political life."
+        * "People's priorities shift from survival to self-expression values as their sense of individual agency increases"
+            - this suggests... some relationship with law/chaos axis
     + is this some CG pole? "A specific subset of self-expression values—emancipative values—combines an emphasis on freedom of choice and equality of opportunities. Emancipative values, thus, involve priorities for lifestyle liberty, gender equality, personal autonomy and the voice of the people."
 
 > "You only go to the wrong place if you fail at your alignment." Thus, an evil person who performs good acts is sent to, for example, Celestia, and suffers there. A good character who murders is sent to one of the lower planes and suffers there. But an evil person who murders is sent to a plane matching his/her alignment and fits right in.
@@ -269,8 +278,6 @@ complete draft = 3 + ready, revised = 4
 so what's the process by which a petitioner goes to a lamina? i don't think it should be some magical rap-sheet building up over time and your actions are weighed by some beard in the sky. there is no punishment or reward, it's more: where are you most suited to. the rap-sheet is YOU, how your world and actions have shaped you. after a lifetime of hard work fitting your nature and circumstances into the world around you, you go somewhere where you tendencies are pleasantly utilized. how? TODO(better example) if you roll an object over a surface with carefully cut slots in it, the object will fall through only the slot that fits. does this mean that every soul has a true "shape" - what about non-self... maybe more like reincarnation in a fitting role
 
 maybe some, or even most, souls don't go to lamina, but fall through cracks and go nowhere, or maybe reincarnated for another go round? eh
-
-what is "neutral"? needed?
 
 ### other examples
 
@@ -315,87 +322,6 @@ torment: tides of numenera:
 - *Silver Tide*: Represents admiration of power and seekers of fame. It is the Tide of people who seek to influence the lives of others or who actively seek to be remembered.
 
 "The Tides are linked to action, not intention."
-
-### Lawful, Neutral, Chaotic
-
-- HIERARCHY VS AUTONOMY
-
-### Good, Neutral, Evil
-
-is this about feelings towards other beings and also nature?
-
-power - the belief that nature has distributed its goods unevenly and that efforts to deny that will backfire. advancement on all levels occurs when individuals work as hard as possible to advance their and their communities' interests, and that the tension arising when individuals and communities' advancements come at the expense of others only pushes people to exceed more and result in a great overall advancement
-
-what about someone who has great empathy for their in group, but don't give a shit about out group? maybe those are neutral - the extreme good has some kind of universalism. actually the law/chaos axis contributes to in-group. law means in-group is at minimum their tribe, chaos means in-group is at minimum themselves. so yeah "empathy" absolute is universal, even for out-group.
-
-tolerance of outsiders vs. tribalism. but this also seems related to law/chaos axis? no. LG is tolerant, LE is not. CG is tolerant, CE basically doesn't matter
-
-do you exploit weakness, in order to purge weakness, or accommdate it?
-
-- name
-    + political compass left/right calls this economic
-    + d&d calls it moral?
-- POWER VS EMPATHY
-- survival vs. self-expression? power is about survival
-    + "Survival values place emphasis on economic and physical security. It is linked with a relatively ethnocentric outlook and low levels of trust and tolerance." "priority of security over liberty"
-    + "Self-expression values give high priority to environmental protection, growing tolerance of foreigners, gays and lesbians and gender equality, and rising demands for participation in decision-making in economic and political life."
-    + "People's priorities shift from survival to self-expression values as their sense of individual agency increases"
-        * this suggests... some relationship with law/chaos axis
-- it is linked to economic: power says things should be "left to the devices of competing individuals and organizations"
-- tough vs tender
-- is good more utopian or optimistic, evil more cynical?
-- empathy
-    + compassion
-    + humane
-    + altruism
-    + universalism
-    + peace
-    + equity
-    + compromise
-    + idealism
-    + universality
-- neutral
-    + balance
-    + rationality
-    + pragmatism
-    + focus
-    + realism
-    + utility
-- power
-    + notes
-        * power is a good word cause it also means like competence, capacity, strength, but also control and dominance (leaning into hierarchy... well no, hierarchy is only one way of doing it; hierarchy can structure empathy too)
-    + ambition
-    + appetite
-    + determination
-    + achievement
-    + aggression
-    + force
-    + security
-    + success
-    + luxury
-    + cynicism (sees itself as realism)
-
-power accuses empathy of being passive, weak, dependent on others
-empathy accuses power of being evil, selfish
-
-### Creation, Preservation, Destruction
-
-destruction is scary, and powerful, but not evil in the slightest, and is perfectly necessary
-
-- creation
-    + creativity
-- preservation
-    + maintenance
-    + perpetuation
-    + persistence
-    + *equilibrium*
-    + observation?
-    + prob not
-        * harmony
-        * regeneration
-        * renewal
-- destruction
-    + *dissolution*
 
 ## ○○○○ Close
 
@@ -506,7 +432,7 @@ viz:
     + alignment (english and glyphs)
     + demonym
     + name
-    + `abstract` 1-3 paragraphs
+    + `intro` 1-3 paragraphs
     + `summary` that is like 2-3 sentences (google will show ~160)
     + pic(s)?
 - generate from YML (maybe gather some stuff from scanning pages?)
@@ -515,40 +441,48 @@ viz:
         * `index = yaml.load(file, Loader=yaml.FullLoader)`
     + `import pprint; pprint.PrettyPrinter(indent=2).pprint(index)`
 
-## ■□□ Styles
+## ■▤□ Styles
 
-- *figure out chapter heading (demonym, alignment)*
-- *line spacing on title lamina*
-- *try baskerville*
-    + google "baskerville specimen"
-    + http://marikoproduct.com/Typography
-- with leise:
-    + ordering of laminae by facets
-    + fonts
-    + hr's
-    + h's (h3's look wrong, h4's like in CND language...)
-    + line and paragraph spacing - possible to make like manuscript?
-    + title page
-        * small caps anywhere?
-    + drop caps? decorated initials (historiated/illuminated initial)
-        * go one heading level deeper?
-        * Lombardic/rubricated capitals every paragraph?
-    + navigation links
-        * small caps? but then should front TOC - and chapter TOC - be small caps?
-    + intro quotes
-    + ask about capitalization (demonyms, The Laminaname)
-- confirm all indic fonts
-    + make sure nested bullets work
-    + maybe update font(s) to just have needed symbols
-    + choose burmese font (from `/usr/share/fonts/noto/NotoSansMyanmar*`)
-        * compare on different browsers
-- mobile and browser compatibility check
+- title page - spacing, caps, weights
+- table of contents/viz
+- provide indic fonts for bullets
+    + burmesefrom `/usr/share/fonts/noto/NotoSansMyanmar*`
+- bullets in lists (LNC, maybe CND?)
+    + maybe just... paragraphs
+- blue glyphs in lamina headings - should they be blue elsewhere?
+    + see e.g. Equilibrium in intro in 08 Brink
+- glyphs after every lamina name?
+    + even repeated mentions, like in 08 Brink intro?
+- index/glossary
+
+maybe
+
+- glyph tooltips
+    + facets
+    + laminae
+- glyph hover - slow color change or glow?
+    + maybe when you hover glyph in header, it highlights the word in subtitle
+- h's off? (h3's look wrong, h4's like in CND language...)
+- hr's (LNC)
+- drop caps? decorated initials (historiated/illuminated initial)
+    + go one heading level deeper?
+    + Lombardic/rubricated capitals every paragraph?
+- capitalization (demonyms, The Laminaname)
+- middot · (with nbsp before) instead of colons? used middot in CND list
+
+later
+
+- update indic fonts to only include needed characters
+- tooltip on mobile
+    + images - tap to show (might already work?)
+    + references - tap should pop up, with link to view more
+- more mobile and browser compatibility check
     + styles, fonts, what else?
-- later
-    + [Capituli: Some notes on summaries, chapter divisions and chapter titles in ancient and medieval manuscripts](https://www.roger-pearse.com/tertullian/rpearse/manuscripts/chapter_titles.htm)
-    + footnotes/hash fragment links should highlight word (and maybe paragraph)
-        * maybe like some scroll curlicue drawn around it or to the side
-        * or a glow
+- mobile nav "Contents" could be on its own line so there's space for the others
+- [Capituli: Some notes on summaries, chapter divisions and chapter titles in ancient and medieval manuscripts](https://www.roger-pearse.com/tertullian/rpearse/manuscripts/chapter_titles.htm)
+- footnotes/hash fragment links should highlight word (and maybe paragraph)
+    + maybe like some scroll curlicue drawn around it or to the side
+    + or a glow
 
 ### code tasks
 
@@ -558,14 +492,18 @@ viz:
     + change mobile nav bar color
     + full screen?
 
-## ■□□ Author
+### font
+
+https://www.myfonts.com/fonts/flanker/poliphili/ but it's $20-50 (http://www.studiodilena.com/en/2305.html) from https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili
+
+could try Bembo font, also based off the same book
+
+## ■▤□ Author
 
 2 = fleshed out backstory and voice
 3 = lotsa content - is that it?
 
-- burmese connection? some burmese myth of a writer?
-- decide on "visitor" or whatever
-- parrigues
+- burmese connection? some burmese myth of a writer? there's https://en.wikipedia.org/wiki/Zawgyi_(alchemist) and https://en.wikipedia.org/wiki/Weizza
 
 ## ▤□□ Visualization
 
@@ -600,10 +538,10 @@ code:
 - https://threejs.org/examples/#webgl_lines_fat_wireframe
 - https://threejs.org/examples/#webgl_postprocessing_unreal_bloom
 
-## ■□□ Plates
+## ■▤□ Plates
 
+- border
 - lightbox?
-- credit visible on hover?
 - captions? i think maybe not
 - float, or only full width?
 - multi-image ones?
@@ -628,9 +566,9 @@ this gets used (no double quotes allowed):
 
 ## ■▤□ References
 
-handle translated refs! (what does this mean?)
+TODO actually go and add REFs for all the glossary terms
 
-Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Text content of node is the name of term being defined, or the `title` attribute can be it. Definition is optional - the `def` attribute or wrapping element's text (end with period). Id is its or parents `id`. `no-index` attribute excludes from index
+Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Text content of node is the name of term being defined, or the `name` attribute can be it. Definition is optional - the `def` attribute or wrapping element's text (end with period). Id is its or parents `id`. `no-index` attribute excludes from index
 
 Should have an optional actual definition string that can be shown in tooltip, and "go to [page title]" link if same page, otherwise "go to text" if on same page?
 

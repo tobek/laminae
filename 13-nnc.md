@@ -9,11 +9,11 @@ hide_toc: True
 quote: |
     > By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins.
     >
-    > ---Jesma Shirancord, "Vectors"
+    > <span class="attribution">--- Jesma Shirancord, "Vectors"<span>
 
-summary: TODO
+<!-- summary: TODO -->
 
-abstract: |
+intro: |
 
     In the workshops of the Asymmetry all the essential forms of reality have been hewn and sculpted and forged, in great open chambers set into a cliff face with no known ground or top or sides. It is simply a wall facing an empty sky, and into the fruitful earth of this wall Grains mine ever deeper for materials for their creations that will eventually delivered into nature or the minds or hands of mortals.
 

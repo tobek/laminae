@@ -151,6 +151,7 @@
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-06-01|7.5 |42250|1398|40%|40%|17|90|58|32|
 |2021-05-30|5   |42006|1215|40%|38%|17|87|58|29|
 |2021-05-29|6   |40999|1185|38%|38%|16|86|57|29|
 |2021-05-28|9   |40126|1176|35%|36%|15|82|53|29|
@@ -269,7 +270,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 42,006 | 1,215 | 17/42 | 87/224 |
+| 42,250 | 1,398 | 17/42 | 90/224 |
 </div>
 
 <div class="progress-wrap">
@@ -317,10 +318,10 @@
 | :-- | :-- |
 | Build | <span class="bloop">■▤▤</span> |
 | Title Page | <span class="bloop">■▤□</span> |
-| Styles | <span class="bloop">■□□</span> |
-| Author | <span class="bloop">■□□</span> |
+| Styles | <span class="bloop">■▤□</span> |
+| Author | <span class="bloop">■▤□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
-| Plates | <span class="bloop">■□□</span> |
+| Plates | <span class="bloop">■▤□</span> |
 | References | <span class="bloop">■▤□</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |

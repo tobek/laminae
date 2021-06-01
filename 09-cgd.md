@@ -5,9 +5,12 @@ subtitle: Autonomy Empathy Dissolution CGD
 intro_only: True
 <!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
 quote: |
-    > TODO Intro quote
-abstract: |
-    TODO abstract
+    > TODO quote
+    >
+    > <span class="attribution">--- Jesma Shirancord, "Vectors"<span>
+summary: TODO
+intro: |
+    TODO intro
 
 ---
 

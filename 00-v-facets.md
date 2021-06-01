@@ -1,7 +1,7 @@
 # Facets
 
 ---
-in_progress: True
+summary: "Abstract forces that drive beings and cultures, divided into three spectra: Hierarchy opposite Autonomy, Empathy opposite Power, and Creation opposite Dissipation."
 ---
 
 <!--
@@ -14,13 +14,15 @@ in_progress: True
     }
 </style>
 
+<!--
 "Facets are the philosophical undercurrents that gird our actions"
 
 absolutes are inhospitable for mortals, but they exist. whether they actually exist (the way a fire plane might exist) or are simply mental artifacts is irrelevant, they just make sense, cause many things to fall into line? natural forces yada yada.
+-->
 
-The facets are arranged across three axes of Method, Motive, and Means. These, respectively, answer the following questions:
+the facets are arranged across three axes of Method, Motive, and Means. These, respectively, answer the following questions:
 
-TODO(indic for this list, and the next? or else some other bullet)[]
+TODO(indic for this list, and the next? or else some other bullet)
 
 - In what manner should resources and efforts be organized?
 - To what ends should resources and efforts be allocated?
@@ -28,9 +30,13 @@ TODO(indic for this list, and the next? or else some other bullet)[]
 
 The nine facets are, accordingly:
 
-- *Method*: &nbsp;REF[Hierarchy] --- REF[Synthesis] --- REF[Autonomy]
-- *Motive*: &nbsp;REF[Empathy] --- REF[Utility] --- REF[Power]
-- *Means*: &nbsp;REF[Creation] --- REF[Equilibrium] --- REF[Dissolution]
+<div class="copy-table facet-table">
+| | | | |
+| :-- | :-: | :-: | :-: |
+| *Method* | REF[Hierarchy] | REF[Synthesis] | REF[Autonomy] |
+| *Motive* | REF[Empathy] | REF[Utility] | REF[Power] |
+| *Means* | REF[Creation] | REF[Equilibrium] | REF[Dissolution] |
+</div>
 
 Upon reading this, several of these facets are likely to strike you as more essential than others. Readers will vary in such assessments. All readers, however, will find that regardless of personal resonance, each of these facets *exists*, and various actors align themselves with these facets with more or less rigidity.
 
@@ -120,7 +126,7 @@ REF[Power] is totalitarian when paired with REF[Hierarchy], ambitious when paire
 
 ## Means
 
-The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively, the inhale, the pause, and the exhale---an endless cycle that every being TODO
+The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---an endless cycle that every being TODO
 
 are harnessed by all beings, in the service of other goals or facets or sometimes only in the service of itself.
 
