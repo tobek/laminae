@@ -14,4 +14,4 @@ This is a work in <a href="https://thereitwas.com/bits/progress.html">progress</
 		position: static;
 	}
 </style>
-<div class="shortcuts corner"><a href="index.html">title page</a></div>
+<div class="shortcuts corner"><a href="./">title page</a></div>

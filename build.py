@@ -164,7 +164,7 @@ for i, filename in enumerate(input_files):
         prev_href = output_files[i-1]
         prev_title = file_titles[i-1]
     if i > 1:
-        contents_href = output_files[0] + "#contents"
+        contents_href = "./#contents"
         contents_title = file_titles[0]
     if i < len(input_files) - 1:
         next_href = output_files[i+1]

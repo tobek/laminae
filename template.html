@@ -481,7 +481,7 @@ $endfor$
     var pageId = "$filename$";
     fetch(url + "?id=" + pageId, {mode: 'no-cors'});
     function beep(e) {
-      var href = e.target.getAttribute("href").replace(".", "-").replace("#", "!");
+      var href = e.target.getAttribute("href").replace(".", "-").replace("#", "!").replace("/", "|");
       navigator.sendBeacon(url + "?id=" + pageId + "&link=" + href);
     }
     document.querySelectorAll('a').forEach(function(el) {
