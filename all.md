@@ -6,6 +6,8 @@ Maybe they have some rumored and controversial deal/symbiosis with CED?
 
 crystalline structure
 
+Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ "The Retelling"
+
 @conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
 
 ## Hierarchy Empathy Equilibrium LGP
@@ -14,7 +16,7 @@ crystalline structure
 
 what is nature of LGP vs CGP, is it suffering vs none (pure peace), or suffering vs. "struggle" with no risk of failure.
 
-- suffering vs struggle gives opportunity for hyper-optimized LGP struggle, but CGP might not hyper optimize cause C (although i guess could by evolutionary methods)
+- suffering vs struggle (effort) gives opportunity for hyper-optimized LGP struggle, but CGP might not hyper optimize cause C (although i guess could by evolutionary methods)
 - what are other solutions to happiness without suffering?
 - maybe CGP has like real pain and risk of failure, violence, gritty. but it's not as absolute a difference
 - maybe it's about positive vs. negative consequence? although "you lost the competition" which i can imagine in LGP with struggle, is kind of a negative consequence.
@@ -35,15 +37,15 @@ Maybe a loose confederation of small cities, all within same min and max size, a
 
 They are really really good at it. no issues with wireheading or "is struggle needed for happiness", the answer is obviously yes, but the struggle need not be suffering, there are hierarchies, there are successes and failures, value systems which petitioners strive to do well by and feel disappointment when they don't or others perceive that they don't, etc. but obviously this is a factor of great experimentation among cities. (or wait, is there some disagreement between LGP and CG...P about whether suffering oh wait at the otp right so either re-work this, or emphasis struggle vs. suffering).
 
-all of this experimentation of millennia has produced amazing civilizations, but there doesn't seem to be an upper limit and they only continue to progress. some hyper-optimized cities have unbelievably intense struggle and competition, cyclic rituals of deprivation and joy
+all of this experimentation of millennia has produced amazing civilizations, but there doesn't seem to be an upper limit and they only continue to progress. some hyper-optimized cities have unbelievably intense struggle and competition, cyclic rituals of patience and joy
 
 Tokyo?
 
-Does this (and/or other planes) have anything to say about whether humans are fundamentally born good or evil, or blank slate? i say "humans" because in this world presumably some species are innately evil or good. maybe this shouldn't be a d&d fantasy setting...
+Does this (and/or other planes) have anything to say about whether humans are fundamentally born good or evil, or blank slate?
 
 the goal is that anyone can be dropped in and will become a wonderful citizen, and many petitioners will claim---gently, as if humbly admitting---that this is the case. in practice of course you can go fuck it up, yet there are also many instances of various incorrigibles finding perfect niches here
 
-headsoak note 724 about a system designed to allow for bad actors vs. is it ok if the good guys do it when it's not ok if the bad guys do it.
+headsoak note 724 about a system designed to allow for bad actors vs. is it ok if the good guys do it when it's not ok if the bad guys do it. "if a system breaks down when its members are bad actors, then it's a shitty system." the counter to that is "if a building falls down when its built with rotten beams, then it's a shitty building", which is obviously false. but of course it's a spectrum of how many bad components a system can take before it breaks down, and of course, the more the better.
 
 ## Hierarchy Empathy Dissolution LGD
 
@@ -63,17 +65,13 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to NEP)
 
+restorative justice, past reverb
+
 ## Synthesis Empathy Dissolution NGD
 
 Could swap with LGD
 
-Holy assassins? Weirdly insensitive and/or literally stupid, but powerful. Ritualistic caste system (or is that too lawful? maybe not if it's like natural order of things?). Maybe these are the "spacious mind, lucid body" folks if not NND
-
-Or ritualistic athletes that push themselves to transcendent disintegration?
-
-Land of peaceful mystic nomads, who every X amount of time ritualistically destroy everything they have built up and move on to another place?
-
-Graveyard?
+[transferred]
 
 ***
 
@@ -81,7 +79,19 @@ Graveyard?
 
 ## Autonomy Empathy Creation CGC
 
-Artists? Be-careful-what-you-wish-for self improvement? Poetic Terrorism? Mutatorium?
+- could swap with CGC, which could be mutatorium or observation-only
+- artists, creative madness.?
+- it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point.
+- a gorgeous crazy world where *thought* is not possible, only observation and feeling
+- observations are not quite reliable, they constantly flower with related or plausible images and variations - when you observe a boy, you also see a baby, a grown man, a woman, a tiger cub. when you perceive a castle, you also perceive a manor, a fortified wall, a dungeon, a floating island, an army. each observation leads to more observations, it's almost impossible to get one's bearing.
+- a technique is to wear these pinhole goggles (not so pinhole that you get a full image like pinhole camera) so that you perceive as little as possible at once, so there's less branching. a similar technique has not been developed for hearing, since earmuffs equally dim all sound, but what is desired is a narrowing of sound. so total sound blockage is used, along with nose, since smell is a particularly evocative sense and the smells are myriad. touch TODO
+- constant festival?
+- what is it actually like? there's a recurring image of a boy in a chariot who seems to be a local deity, or perhaps there are many and they are the inhabitants.
+- pure inspiration
+
+*The Something*
+
+A barren void. A pulsating fractal rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
 
 ## Autonomy Empathy Equilibrium CGP
 
@@ -89,7 +99,15 @@ Artists? Be-careful-what-you-wish-for self improvement? Poetic Terrorism? Mutato
 
 ## Autonomy Empathy Dissolution CGD
 
-[transferred]
+torture/masochism
+
+missing senses? or other perception issue
+
+glitch: the only way to understand something is by understanding how it breaks, and everything breaks in a way that's unique to the thing
+
+connoiseurs of pain. maybe this is kinda gone wrong. really good at fucking you up and thinking they're doing you a favor.
+
+generation ship?
 
 ***
 
@@ -113,9 +131,7 @@ People come here to discover and define *themselves* like meyers briggs or astro
 
 Is there some currency/market element to this?
 
-Similar to the Mathematicians of Mechanus:
-
-> A sect splintered from the Guvners, the Mathematicians hold that everything that you can imagine can be found on Mechanus in some form, and by cataloguing this and applying logic, symbolism and math to this one can unlock the secrets of the plane. They don't do this for riches or power: they are a group of serious minds who want to discover the secrets of the plane for scholastic reasons. While they still have a long way to go their stay on Mechanus has impaired the Mathematicians with a superior understanding of the Labyrinthine Portal, the network of portals on Mechanus that links every single cog with another one. With this understanding the members of this sect can calculate in record time in which order you have to go through the portals in order to get to where you want to go. Lawful people of superior intelligence are welcome to join them, but it is expected of members to not share their findings with non-members.
+the Mathematicians of Mechanus "hold that everything that you can imagine can be found on Mechanus in some form, and by cataloguing this and applying logic, symbolism and math to this one can unlock the secrets of the plane. They don't do this for riches or power: they are a group of serious minds who want to discover the secrets of the plane for scholastic reasons". be different from this
 
 some connection to [Timaresh](http://www.rilmani.org/timaresh/Timaresh) where every written work in the multiverse is reflected, reproduced, and stored.
 
@@ -157,26 +173,33 @@ there are conditions to storage. maybe it has to be something they don't current
 
 ## Autonomy Utility Creation CNC
 
-- the Mutatorium in the Plane of Creation could instead be this? Or the dream-creators (if oppositional to nightmares) could be this (or a place located here)?
-- could swap with CGC, which could be mutatorium or observation-only
-- artists, creative madness.?
-- it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point.
-- a gorgeous crazy world where *thought* is not possible, only observation
-- observations are not quite reliable, they constantly flower with related or plausible images and variations - when you observe a boy, you also see a baby, a grown man, a woman, a tiger cub. when you perceive a castle, you also perceive a manor, a fortified wall, a dungeon, a floating island, an army. each observation leads to more observations, it's almost impossible to get one's bearing.
-- a technique is to wear these pinhole goggles (not so pinhole that you get a full image like pinhole camera) so that you perceive as little as possible at once, so there's less branching. a similar technique has not been developed for hearing, since earmuffs equally dim all sound, but what is desired is a narrowing of sound. so total sound blockage is used, along with nose, since smell is a particularly evocative sense and the smells are myriad. touch TODO
-- constant festival?
-- what is it actually like? there's a recurring image of a boy in a chariot who seems to be a local deity, or perhaps there are many and they are the inhabitants.
-- pure inspiration
+mutatorium
 
-*The Something*
+metamorphoses
 
-A barren void. A pulsating fractal rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
+Be-careful-what-you-wish-for self improvement
+
+Poetic Terrorism
+
+does it also have the outpost? maybe two places, has both
+
+thin barrier to pure creation - which is thinner, here or CGC? should be here but feels like there. maybe this would be even crazier if it weren't for the mutatorium floating in the chaos, yeah! "utility"? outside are all possible factors, the raw stuff from which anything can be made
+
+From the outside, the Mutatorium of TODO resembles a single nautilus shell the size of a small city. Its colors, ridges, and spirals constantly shift, but it holds impossibly still as the splurging winds of creation buffet its sheening impenetrable surface.
+
+Inside, twisting fractal passageways that can be navigated only by the caretakers (a clan of well-meaning but quite thoroughly demented lillendi). People who seek great change in their life find their way here, either by mercenaries who ferry supplicants back and forth, or by certain spells or portals sought out by the enterprising. Some come to change their minds, some come to change their appearances, some come to change their future some come bring others (willing or unwilling) for changing. With sufficient planning, willpower, or skilled guides, the mutation sometimes goes according to plan. Unsurprisingly frequently, however, supplicants leave the Mutatorium with something very different than they intended.
+
+No payment is expected for the services provided here - the plane itself supplies the raw materials necessary, and the caretakers partake for the joy of it.
+
+What sustains the Mutatorium remains unknown, but the best guess is that the nautilus structure itself is responsible, and that it may be the husk of a dead Lawful Neutral god transported from the Astral Plane and revived into a powerful but dormant, semi-conscious state.
 
 ## Autonomy Utility Equilibrium CNP
 
 Voiders? The Wilt?
 
-maybe NED, or even NEP
+find stuff from dissimulation intro
+
+activity is punished, lazily?
 
 An endless gray plain of enormous geometric holes in the ground, like that exhibit at DIA Beacon, also Chichu. Each void is inhabited by a single individual, residing in indefinite inertia and dissolution.
 
@@ -230,7 +253,7 @@ Ben Sack art?
 
 ## Hierarchy Power Dissolution LED
 
-elaborate weavers of personalized, creative curses
+elaborate weavers of personalized, creative curses (curses could be LEC)
 
 Beautiful, intricate, ornate.
 
@@ -244,11 +267,11 @@ Beautiful, intricate, ornate.
 
 ## Synthesis Power Equilibrium NEP
 
-Nomadic devils - the opposite of NGP, or CND holes in ground.
+the opposite of NGP - opposite of restorative justice? training
 
 ## Synthesis Power Dissolution NED
 
-Torturers, or CND holes in ground.
+ritual athletes? use yourself up
 
 ***
 

@@ -14,19 +14,19 @@ summary: "Abstract forces that drive beings and cultures, divided into three spe
     }
 </style>
 
-<!--
-"Facets are the philosophical undercurrents that gird our actions"
+outlook, "categorization of ethical and moral perspectives... "
 
-absolutes are inhospitable for mortals, but they exist. whether they actually exist (the way a fire plane might exist) or are simply mental artifacts is irrelevant, they just make sense, cause many things to fall into line? natural forces yada yada.
--->
+Facets are the TODO that guide our actions and instincts. whether facets exist in a material sense or are simply mental artifacts that help organize our reality is is far from agreed upon. Many believe that there are TODO actual realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring, through the REF[laminae](cosmography#laminae) and shaped by the hands of REF[petitioners](cosmography#petitioners) on their way to TODO cardinal worlds. Whether this is the case is irrelevant to the present work, since TODO the laminae are still organized this way?
 
-the facets are arranged across three axes of Method, Motive, and Means. These, respectively, answer the following questions:
+The facets are arranged across three axes of Method, Motive, and Means. These, respectively, answer the following questions:
 
-TODO(indic for this list, and the next? or else some other bullet)
-
-- In what manner should resources and efforts be organized?
-- To what ends should resources and efforts be allocated?
-- Through what means should this be achieved?
+<div class="lamina-table" style="padding-left: 1rem">
+| |
+| :-- |
+|By what method should resources and efforts be organized?|
+|In service of what motive should resources and efforts be marshalled?|
+|Through what means should this be achieved?|
+</div>
 
 The nine facets are, accordingly:
 
@@ -39,6 +39,8 @@ The nine facets are, accordingly:
 </div>
 
 Upon reading this, several of these facets are likely to strike you as more essential than others. Readers will vary in such assessments. All readers, however, will find that regardless of personal resonance, each of these facets *exists*, and various actors align themselves with these facets with more or less rigidity.
+
+differences here between individuals or cultures can be extremely hard to bridge, for everyone judges others by their internal compasses which have been calibrated to these facets in such a way as to make it hard to see how others are different.
 
 Within the observational structure of these absolutes, personal and cultural alignments manifest all manner of relative judgments. For instance many of those driven by REF[Empathy] find those loyal to REF[Power] as something akin to evil, while the latter will disdain the former as weak and ineffective. TODO
 
@@ -56,7 +58,7 @@ The facets of REF[Hierarchy], REF[Synthesis], and REF[Autonomy] concern matters 
 
 In a hierarchical system there is a clear and rigid relationship between every member in the system, and every member understands their position. Well-established hierarchies tend to be extremely effective at accomplishing goals, but they require that either participants accept the rules of the system, or that those less favored by the system are unable to change their lot: hierarchies by definition contain inequalities, and often maintain these via coercion.
 
-Many find great comfort and purpose in the clarity of hierarchy. Devotees point out the universality of hierarchies from family trees to chains of predation among animals, and find essential hierarchy in arrangements of knowledge, language, history, music, and the body. Hierarchy should not be confused with a lack of creativity; rather hierarchy determines the channels through which ideas flow, and, while there may be more experimentation in REF[Autonomy], the constraints of a systems can produce targeted and efficient creativity.
+Many find great comfort and purpose in the clarity of hierarchy. Devotees point out the universality of hierarchies from family trees to chains of predation among animals, and find essential hierarchy in arrangements of knowledge, language, history, music, and the body. Hierarchy should not be confused with a lack of creativity; rather hierarchy determines the channels through which ideas flow, and, while there may be more experimentation in REF[Autonomy], the constraints of a system can produce targeted and efficient creativity.
 
 Cohesion and pride result from successful hierarchies, but these are often maintained by the threat of guilt and punishment, and a strict sense of order can result in a visceral disgust at real or perceived transgressions of that order.
 
@@ -68,9 +70,9 @@ REF[Hierarchy] is righteous and pure when paired with REF[Empathy], orthodox whe
 
 ### Synthesis
 
-REF[Synthesis] believes that dictums are valuable and should be neither ignored nor abused. No hierarchy is perfect, for no one system can account for the range and details of individual challenges that are best understood by the individuals closest to those challenges, but nor can large and complex tasks be surmounted without structure and objective accountability. Disciples often take into account multiple and contradictory hierarchies in which responsibilities and status depend on context and rules should not be followed blindly.
+REF[Synthesis] believes that established dictums are valuable and should be neither ignored nor abused. No hierarchy is perfect, for no one system can account for the range and details of individual challenges that are best understood by the individuals closest to those challenges, but nor can large and complex tasks be surmounted without structure and objective accountability. Disciples often take into account multiple and contradictory hierarchies in which responsibilities and status depend on context and rules should not be followed blindly.
 
-REF[Synthesis] tends towards practicality, pragmatism, balance, harmony, focus, realism, and syncretism.
+REF[Synthesis] tends towards practicality, pragmatism, balance, harmony, focus, realism, observation, and syncretism.
 
 REF[Synthesis] regards REF[Hierarchy] as reflexively rigid and incapable of nuanced judgement, and sees REF[Autonomy] as recklessly idealistic.
 
@@ -84,7 +86,7 @@ This paradigm is accused by REF[Hierarchy] of being disorganized and untrustwort
 
 REF[Autonomy] tends towards freedom, independence, unpredictability, individualism, ad hoc invention, radicalism, dynamism, chaos, and change.
 
-REF[Autonomy] accuses accuses REF[Synthesis] of pedantry and cowardliness, but lambasts REF[Hierarchy] for being close-minded, servile, unprincipled, and corrupt.
+REF[Autonomy] dismisses REF[Synthesis] as pedantic and cowardly, but lambasts REF[Hierarchy] for being close-minded, servile, unprincipled, and corrupt.
 
 REF[Autonomy] is universalist when paired with REF[Empathy], maverick when paired with REF[Utility], and TODO(power/autonomy pair)[voracious] when paired with REF[Power].
 
@@ -126,38 +128,33 @@ REF[Power] is totalitarian when paired with REF[Hierarchy], ambitious when paire
 
 ## Means
 
-The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---an endless cycle that every being TODO
+The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---a cycle harnessed by every being in support of its goals. TODO carry out tasks
 
-are harnessed by all beings, in the service of other goals or facets or sometimes only in the service of itself.
+These three facets lie in a careful balance, for any disparity would over aeons result respectively in overflow, stagnation, or annihilation. Those who believe that the same matter has been endlessly cycling into an infinite past feel this balance very deeply, but those who believe that there was once nothing and at some point something came into being must also believe in a delicate imbalance in favor of creation in order to explain our presence.
 
-Creative destruction is still constructive in a sense.
+where other facets can be antagonistic towards each other the facets of Means tend to acknowledge the necessity this balance, for each would flail in the absence of one of the others.
 
 
-creation is the inhale, preservation is the pause, destruction is the exhale. some creation myth about an ur-god whose breathing supplies the powers of these planes.
 
 creation is an imbalance that eventually spills over into cardinal worlds. destruction is an imbalance that can only be fueled by cardinal worlds. the two forces are linked via cardinal worlds. preservation...
 
 
 ### Creation
 
-- Activity, energy, passion, ambitiousness, agitation, change, mutation, excitation, creativity
-- Self-centeredness, egoistic, individualizing, driven, moving, dynamic
+REF[Creation] is the construction of new ideas, new energy, and new matter. Combining forms to make new ones is a manner of creation, and even creative destruction is constructive for it adds shape to what it is destroying. As the artist will tell you, creative forces can be as maddening as they are inspiring, and take tremendous effort to harness with purpose.
+
+On REF[laminae](cosmography#laminae) this facet results in a spillover TODO
+
+REF[Creation] tends towards activity, energy, passion, agitation, change, mutation, excitation, creativity, egoism, instability, uncertainty, and dynamism.
 
 ### Equilibrium
 
-observation? others kinda too require
+REF[Equilibrium] is the balance and cycle of creative and destructive energies. On REF[laminae](cosmography#laminae) this facet often manifests as TODO transit point for mediating these alternating forces, also reaching out to cardinal worlds to tweak
 
-- Maintenance, harmony, protection, purity (not as in "goodness" but as in "pureness of essence"), serenity, being-ness, renewal, preservation, persistence
-- stagnation
+REF[Equilibrium] tends towards maintenance, harmony, protection, pureness of essence, persistence, stagnation, indifference, serenity, observation, renewal, inertia, and preservation.
 
 ### Dissolution
 
-destruction is scary, and powerful, but not evil in the slightest, and is perfectly necessary
+REF[Dissolution] is powerful and frightening to most mortals, but essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation take hold. On a less cosmic scale dissolution concerns measuring and understanding what one needs and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet TODO
 
-think also of dissolution of the things that no longer serve you, letting go.
-
-destruction takes many paths. some approach it pursuing glee in the act of destruction itself, but this is a less pure desire, as it necessitates a cycle of creation which allows them to continue destruction. the true believers do not want anything to rise in the place of the destroyed, especially not a new order that might be more to their liking. they want literal nothing.
-
-- like measuring what you need
-- Finality, destruction, subversion, nullification, loss, darkness, ignorance, inertia, apathy, indifference, anxiety, insensitivity, imbalance, impurity, delusion, negativity, dullness, waste, death
-
+REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, certainty, and death.

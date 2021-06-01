@@ -9,7 +9,7 @@ quote: |
     >
     > <span class="attribution">--- Gorol<span>
 
-summary: TODO may be the most dangerous of any lamina, a churning landscape with no reliable purchase but only seas of cloud and mud split by geysers of steam and lava in which perplexing rocky outcrops rise and fall. Towering creatures
+summary: Possibly the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
 
 intro: |
 

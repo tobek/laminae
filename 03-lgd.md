@@ -1,13 +1,14 @@
 # The Ardence SKIP
 
 ---
-subtitle: Lawful Good Destruction LGD
+subtitle: Hierarchy Empathy Dissolution LGD
 in_progress: True
 
 ---
 
 - Rules/logic for the forgetting thing: if you have visited this plane, then you forget
 - bureaucrats ensure missions aren't anywhere where hero will be recognized
+- its believed that every hero has one mission for which they are perfect, bookkeepers assess this
 - TODO replace hero/champion/etc with demonym
 - TODO come up with name (or just stick with) bookkeepers, and find and replace
 - maybe different colors (of pavilions and/or champions) based on different spectral emissions/fluorescence of a system of qualities. maybe all the warriors are aesthetically transformed into this?

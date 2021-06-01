@@ -1,9 +1,9 @@
 # The Lucidity
 
 ---
-subtitle: Synthesis Utility Destruction NND
+subtitle: Synthesis Utility Dissolution NND
 in_progress: True
-
+summary: 'A blank, white void graced with marble monasteries in which contemplatives cultivate "lucid body, spacious mind, empty heart." Feared for their ritual of Erasure whereby they cause unpredictable targets to vanish from cardinal worlds.'
 ---
 
 <!--

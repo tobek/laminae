@@ -10,11 +10,11 @@
 
 Hierarchy Empathy:
 
-    '○○○○○○ Hierarchy Empathy Creation (LGC)':
+    '◍○○○○○ Hierarchy Empathy Creation (LGC)':
         name: The Bauble? The Procedure?
         demonym:
         summary: |
-            *?* a surprisingly exhausting, crushing place? Too much energy? Conduit should maybe be missing from this one or CEC or CED or LEC. W40k Terra? Or crystalline? Some deal/symbiosis with CED
+            *?* a surprisingly exhausting, crushing place? Too much energy? Conduit should maybe be missing from this one or CEC or CED or LEC. W40k Terra? Or crystalline? Some deal/symbiosis with CED. oral history in wisdom, maybe in clothing and everything. incoming godhead, they're creating it
 
     '◍◍○○○○ Hierarchy Empathy Equilibrium (LGP)':
         name: The Concordance, The Positioning, The Arrangement, The Procedure
@@ -43,22 +43,22 @@ Synthesis Empathy:
         name:
         demonym: Nomads, Benefactors, Samaritans
         summary: |
-            Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril? No. Restorative justice and problem solving
+            Restorative justice and problem solving, past reverb. tip the scales
 
-    '◍○○○○○ Synthesis Empathy Dissolution (NGD)':
+    '◍◍○○○○ Synthesis Empathy Dissolution (NGD)':
         name:
         demonym:
         summary: |
-            *?* Ritualistic athletes that push themselves to transcendent disintegration? Holy assassins? Revenge? Maybe swap with CGD
+            cathartic ritual
 
 
 Autonomy Empathy:
 
-    '○○○○○○ Autonomy Empathy Creation (CGC)':
+    '◍◍○○○○ Autonomy Empathy Creation (CGC)':
         name:
         demonym:
         summary: |
-            *?* Artists? Creative chaotic be-careful-what-you-wish-for self improvement/metamorphoses? random acts of poetic terrorism a la those goes in SCP Foundation and Hakim Bey? Pure experience/observation is all that's possible, is that this place?
+            Pure experience/observation is all that's possible
 
     '●◍◍○○○ Autonomy Empathy Equilibrium (CGP)':
         name: The Brink
@@ -66,11 +66,11 @@ Autonomy Empathy:
         summary: |
             Rivalry with LGP, believe suffering and risk of failure is required for happiness. Burnt out minds and exultant savants, psychedelic natural disasters tearing and regenerating the landscape. Burning manish
 
-    '◍◍○○○○ Autonomy Empathy Dissolution (CGD)':
+    '◍○○○○○ Autonomy Empathy Dissolution (CGD)':
         name:
         demonym:
         summary: |
-            Cathartic sacrificial/purging rituals? Celebratory graveyard/memorializing? maybe swap with NGD
+            masochism
 
 
 Hierarchy Utility:
@@ -121,11 +121,11 @@ Synthesis Utility:
 
 Autonomy Utility:
 
-    '◍○○○○○ Autonomy Utility Creation (CNC)':
+    '◍◍○○○○ Autonomy Utility Creation (CNC)':
         name:
         demonym:
         summary: |
-            *?* "Mutatorium" (fractal passageways where patient caretakers guide visitors through undertakings that cause drastic transformations that rarely go as planned)? Creative madness/art? Thieves (that... duplicate stuff?)? Lost and found? Artists?
+            "Mutatorium" (fractal passageways where patient caretakers guide visitors through undertakings that cause drastic transformations that rarely go as planned)? Creative madness/art? Thieves (that... duplicate stuff?)? Lost and found? Artists?
 
     '◍◍◍○○○ Autonomy Utility Equilibrium (CNP)':
         name: The Wilt
@@ -177,13 +177,13 @@ Synthesis Power:
         name:
         demonym:
         summary: |
-            Nomadic devils - opposite of NGP, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
+            the opposite of NGP - opposite of restorative justice? training, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
 
     '◍○○○○○ Synthesis Power Dissolution (NED)':
         name:
         demonym:
         summary: |
-            Torturers. They ask the opposite question to LGP/CGP/LEP - is occasional pleasure necessary for true suffering? And two rival civilizations have formed over opposite answers to this question. Swap with NND?
+            ritual athletes, use yourself up
 
 
 Autonomy Power:
@@ -205,4 +205,4 @@ Autonomy Power:
         name:
         demonym:
         summary: |
-            Murder as art? Forgettign place?
+            Murder as art? Forgetting place?

@@ -21,6 +21,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,500;0,600;0,700;1,600&display=swap" rel="stylesheet">
 
+  <link rel="shortcut icon" href="images/favicon.png">
+
   <style>
     $-- $styles.html()$
 
@@ -180,7 +182,7 @@
         z-index: 999;
         bottom: 10px;
         left: 50%;
-        width:  300px;
+        width:  350px;
         transform: translate(-50%, calc(100% + 10px));
       }
         .img-wrap .tooltip {
@@ -427,7 +429,7 @@
     }
     */
 
-    .copy-table {
+    .copy-table table {
       margin: auto;
     }
       .copy-table td {
@@ -443,7 +445,7 @@
         padding-bottom: 0.25rem;
       }
       @media only screen and (max-width: 767px) {
-        .copy-table {
+        .copy-table table {
           font-size:  90%;
         }
         .facet-table td {
@@ -465,9 +467,38 @@
 $for(css)$
   <link rel="stylesheet" href="$css$" />
 $endfor$
-$if(math)$
-  $math$
-$endif$
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11829346-3"></script>
+<script>
+  function setUpG() {
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-11829346-3');
+  }
+  function setUpBoops() {
+    var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop";
+    var pageId = "$filename$";
+    fetch(url + "?id=" + pageId, {mode: 'no-cors'});
+    function beep(e) {
+      var href = e.target.getAttribute("href").replace(".", "-").replace("#", "!");
+      navigator.sendBeacon(url + "?id=" + pageId + "&link=" + href);
+    }
+    document.querySelectorAll('a').forEach(function(el) {
+      el.addEventListener("click", beep);
+    });
+  }
+
+  var no = false;
+  try {
+    no = localStorage.no;
+  } catch {}
+  if (location.origin.indexOf("thereitwas.com") !== -1 && !no) {
+    setUpG();
+    setUpBoops();
+  }
+</script>
+
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->

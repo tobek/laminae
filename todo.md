@@ -1,14 +1,12 @@
-# requirements before launch
+ # requirements before launch
 
 listings project
 
 https://en.wikipedia.org/wiki/Dog%27s_bollocks_(typography)
 
 - URL (laminae)
-- analytics `30m`
-- facets `1h`
+- facets `30m`
 - preface `2h`
-- write summaries `1h`
 - glossary/index `2h`
     + set up
     + add REFs
@@ -21,8 +19,6 @@ https://en.wikipedia.org/wiki/Dog%27s_bollocks_(typography)
 - glyph stuff `1h`
     + facet hover?
     + lamina reference with trinym - hover?
-- favicon `30m`
-    + something from diagram inspo? maybe "Folio from 'Kitab..." or compass rose from "Piri_Reis..."
 - lamina name
     + ASK:
         * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
@@ -33,7 +29,7 @@ https://en.wikipedia.org/wiki/Dog%27s_bollocks_(typography)
 - finalize copyright/D&D removal (just eladrin etc from LNC?) `30m`
 - renumber/reorder `30m`
 
-~13h non laminae
+~12h non laminae
 
 # big questions
 
@@ -116,7 +112,7 @@ contents:
     + probably search world and realm and mortal to make sure they make sense
 - name for this all? the twenty-seven lamina(e)
 - LAMINA
-    - lamina/laminae or laminum/lamina or laminus/lamina or laminon/lamina
+    - lamina/laminae or laminum/lamina or laminus/lamina (eh no laminus)
     - example sentences
         + Observations on the Twenty-Seven ____
         + Overview of the ____
@@ -411,6 +407,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 
 ## ■▤□ Title
 
+- tooltip TOC laminae?
 - figure out TOC format
 - probably change order to all hierarchy first, etc.
 - probably figure out way to build it rather than type it fuckin out

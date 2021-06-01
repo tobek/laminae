@@ -9,7 +9,8 @@ quote: |
     > Nothing is created<br>
     > Everything is transformed
     >
-    > <span class="attribution">--- Etianon Relovisia TODO(too conservation-of-mass-ish? is that what they're about)[]</span>
+    > <span class="attribution">--- Etianon Relovisia TODO(too conservation-of-mass-ish? is that what they're about)[] <!-- Antoine Lavoisier --></span>
+summary: Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
 intro: |
 
     The Apeirons of the Brink hold a vigorous rivalry with REF[____[the Concordance]](LGP) regarding pursuits of happiness and fulfillment. Where those of ____[the Concordance] aim to prove that suffering is superfluous in this quest, Apeirons are eager to demonstrate what heights of realization and beauty can be attained when struggle and failure lie on the path, and their case is presented here with terrifying prowess. To genuinely engage with this place---and it is nearly impossible not to, for in the cacophony some notes inevitably strike deep---is to undergo turns of trauma and euphoria that together result in exhilarating regeneration. As a place of constant reinvention transforming the landscape and culture as if by hallucinated natural disasters, the Brink more than any other lamina of REF[Equilibrium] is fueled by waves of self-contained creation and destruction rather than a gentle balance of stillness.

@@ -8,6 +8,7 @@ quote: |
     > Beauty is nothing but the beginning of terror.
     >
     > <span class="attribution">--- Errian Ariam Kelri<span>
+summary: TODO
 intro: |
     TODO intro
 

@@ -254,6 +254,8 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
 - this visitor was honored to be invited to participate in [such and such ceremony], though of course she was not permitted in the [special place]
 - something omitted for it would not reflect well upon this visitor
 - close call (maybe somewhere not particularly dangerous). It was here, of all places, that this visitor came closest to mortal harm, when a ____
+- more beauty - some busy activity in a beautiful place, the beauty makes the time stop
+    + And then it turned again, and suddenly we were on a street ablaze with cherry trees in luxuriant, excessive bloom. There they were, a dozen on each side of the street, all of them shaggy with flowers, the air around them swarming with floating petals, as if the petals were affixing themselves to the branches. Beneath and around them were everyday people doing everyday things, the tasks that need to be completed if a great city is to function: A delivery truck was being unloaded, and the sidewalk was being swept, and a repairman was shimmying up a telephone pole, and a woman was dragging a wooden crate of what might have been daikon to the door of a soba-ya. It was comical and also unbelievable, as if above them the skies were busy with flying pigs, and no one had noticed. This was a plain, unremarkable street, but in that moment, it was the most beautiful in Japan. It made me wonder whether it wasn’t good fortune after all that the sakura season was so brief, for, these people aside, how could anyone get anything done in the face of such splendor? Wasn’t it miraculous that life didn’t simply cease in those two weeks in April that the trees were in bloom? How could you concentrate on anything else? How could a human compete?
 - show kindness, show listening, show humility
     + "as is customary, this visitor left an offering..."
     + did not wish to bother, but made space for her bedroll...
@@ -334,38 +336,46 @@ TODO go through evil sketch
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
+    - CED
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
-- Generation ship (high-tech-low-tech caravan across 100,000 mile desert - why?)
-- Restorative justice destination (NGP?)
-- One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC)
-- the echo - everything you hear or read you know its source, all the way back. crystalline psychedelic reverb - LGC, NGD
+- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED? NGD/CGD you join for ritual
+- magical research outpost, maybe in CNC or CGC
+- One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC)
+- the echo - everything you hear or read you know its source, all the way back. crystalline psychedelic reverb - LGC, NGD, *NGP*
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
-    + maybe weirdly LGC? NGD, CGD, CNP, LEC, LEP, NEC, CEP
-    + *definitely CGD if nothing else, but maybe duplicative with CGD* - maybe CEP, ugh NEC also good
+    + maybe weirdly LGC? NGD, CGD, CNP, LEC, LEP, NEC, CEP, CNC, CGC
+    + *definitely NGD if nothing else* - maybe CEP
 - saying yes vs. saying no
     + LND or CNP is no?
     + both are in NEC?
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
     - maybe this is in cosmology, someone went to exactly 2 planes and then said the above, lead the way into there being more
-- Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or NED or LED or CNP
+- Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
 - Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
-- All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC
-- Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?)
-- Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ (maybe NGP LGC LGP - "The Retelling")
+- All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC
+- Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
 - incredible beauty - LEC, LEP, NEP
-- Sex
-- a prison
+- Sex CGD?
+- a prison (w research/testing?)
 - visual distortion like "Rorik Smith" polyhedral panoramic pics (NNC?)
 - sleep
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
-    + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it
+    + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it LXX or NXX. LNP?
+- weirdly insensitive and/or literally stupid, but powerful
 - used
     + https://en.wikipedia.org/wiki/Rotation_method
     + an infinite jest (/burning man/blockchain/lsd)-inspired thing, something where everyone annoyingly loves it, raves, but it's actually good and changes your ife
     + Something ridiculously hazardous
+    + Restorative justice destination
+    + oral history that means stuff only to the initiated
+    + eschaton godhead approaching
+    + Pure experience/observation
+    + mutatorium
+    + pain/torture
+        * torturers are split in the way LGP and CGP are split - whether pleasure is required for utmost torture or if pure pain will suffice. Pleasure provides more tools, such as rewarding victims with sex or abatement of pain for them doing things that make them despise themselves. One clique or torturer is famous for inflicting BSG Cavil on people.
 
 ### Physical, Environmental, Aesthetic
 
@@ -428,15 +438,16 @@ TODO go through evil sketch
 ### Relational, Situational, Happenings
 
 - caste systems (LND?)
+    + signaled by fashion and/or mannerisms
+        * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
-- A caste system signaled by fashion and/or mannerisms
-    - Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
 - Mnemonic objects - clothing or jewelry records life events (maybe part of caste system above)
 - Language/writing
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP
+    + maybe some other perception issue
 - someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND
 - some 3-headed god represents C/P/D all in one? (a simple farmer, 3 headed, 6 armed, see Dattatreya?) but it's a sham. where?
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
@@ -617,7 +628,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
     + "chaos is the sum of all orders" hakim bey, p41
     + ‎"the architecture of suffocation and paralysis will be *blown up* only by our total celebration of everything---even darkness" hakim bey p42
     + “Chaos comes before all principles of order & entropy, it's neither a god nor a maggot, its idiotic desires encompass & define every possible choreography, all meaningless aethers & phlogistons: its masks are crystallizations of its own facelessness, like clouds. ”
-- “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum (NND, CGD)
+- “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum (NND, NGD, CGD)
 - “Mamá sabía ser alegre. Mamá sabía ser temerosa. Mamá sabía olvidar fácilmente. Y, sin embargo tenía buena memoria. Mamá me daba con la puerta en la narices, y sin embargo, me admitía en su baño. A veces mamá se me perdía, pero su instinto me encontraba. Cuando yo rompía vidrios, mamá ponía la masilla. A veces se instalaba en el error, aunque a su alrededor hubiera sillas suficientes. Aun cuando se encerraba en sí misma, para mí siempre estaba abierta. Temía las corrientes de aire y sin embargo no paraba de levantar el viento. Gastaba, y no le gustaba pagar impuestos. Yo era el revés de su medalla. Cuando mamá jugaba corazones ganaba siempre. ” ― Günter Grass, El Tambor De Hojalata (CEC?)
 - Just had a dream where I was a protagonist named Jim. Jim knew that after death, part of Jim's patron god would become a copy of Jim, remember being Jim. But Jim figured that had nothing to do with him. Dead was dead. / Woke up, realized Jim was right and I was Jim's patron god. - https://twitter.com/St_Rev/status/1085079881627643904
 - "A taker likewise is an order taker. These are different than market makers and market takers, which make and take markets, but may take or make orders. On the AirSwap Network, you may take the role of maker or taker." LNP if there is some market element? LND somehow?
@@ -633,18 +644,21 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - edward gorey ideally if anything were any good it would be indescribable (NNC)
 - Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
-- mutantur omnia nos et mutamur in illis - All things change, and we change with them (CNC? CGC?)
+- mutantur omnia nos et mutamur in illis - All things change, and we change with them (CNC? CGC? NGD)
 - "Nothing that comes at the right time for you is too early or too late for me. Everything is fruit to me that your seasons bring, Nature." (marcus aurelius stoicism paraphrase) (CEC? NGC)
-- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (CGD)
+- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
 - "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC maaaybe but not great)
 - "Nothing in life is to be feared, it is only to be understood." - Marie Curie
     - followed by "Now is the time to understand more, so that we may fear less."
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
+- rilke quote about god coming
+    + Why don’t you think of him as the one who is coming, who has been approaching from all eternity, the one who will someday arrive, the ultimate fruit of a tree whose leaves we are? What keeps you from projecting his birth into the ages that are coming into existence, and living your life as a painful and lovely day in the history of a great pregnancy? Don’t you see how everything that happens is again and again a beginning, and couldn’t it be His beginning, since, in itself, starting is always so beautiful? If he is the most perfect one, must not what is less perfect precede him, so that he can choose himself out of fullness and superabundance? Must he not be the last one, so that he can include everything in himself, and what meaning would we have if he whom we are longing for has already existed?
+    + As bees gather honey, so we collect what is sweetest out of all things and build Him. Even with the trivial, with the insignificant (as long as it is done out of love) we begin, with work and with the repose that comes afterward, with a silence or with a small solitary joy, with everything that we do alone, without anyone to join or help us, we start Him whom we will not live to see, just as our ancestors could not live to see us. And yet they, who passed away long ago, still exist in us, as predisposition, as burden upon our fate, as murmuring blood, and as gesture that rises up from the depths of time.
 - James Richardson
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
-        - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (CGD)
-        - 273. You who have proved how much like me you are: how could I trust you? (CGD)
+        - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGD, CGD)
+        - 273. You who have proved how much like me you are: how could I trust you? (NGD, CGD)
     - James Richardson, Vectors 2.0: More Aphorisms and Ten-Second Essays
         - 91. If you make rules only you can win by, they will play by other rules.
         - 17. When all agree, so does the Devil.
@@ -663,7 +677,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 122. Our resolutions for self-control are like our wars for peace. (NGC?)
         - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP?)
         - 140. When you think in words, are you sure it’s your own voice you hear?
-        - 170. Closing a door very gently, you pull with one hand, push with the other. (CGD NNC)
+        - 170. Closing a door very gently, you pull with one hand, push with the other. (NGD, CGD, NNC)
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
@@ -1168,7 +1182,7 @@ intro_only: True
 quote: |
     > TODO quote
     >
-    > <span class="attribution">--- Jesma Shirancord, "Vectors"<span>
+    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 
 summary: TODO
 

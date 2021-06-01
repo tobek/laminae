@@ -28,5 +28,4 @@ appreciation of murder as art form (that book alex was reading) (subset of tortu
 slavers (maybe the torturers... stockholm syndrome, torture victims become torturers. add sex)
 
 
-torturers are split in the way LGP and CGP are split - whether pleasure is required for utmost torture or if pure pain will suffice. Pleasure provides more tools, such as rewarding victims with sex or abatement of pain for them doing things that make them despise themselves. One clique or torturer is famous for inflicting BSG Cavil on people.
 

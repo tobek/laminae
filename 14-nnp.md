@@ -3,6 +3,7 @@
 ---
 subtitle: Synthesis Utility Preservation NNP
 in_progress: True
+summary: A paralyzingly lifeless expanse that contains every moment of every location in the multiverse, frozen and duplicated here in suffocating emptiness.
 
 ---
 

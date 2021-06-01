@@ -7,7 +7,8 @@ post_intro_only: MEDIA("David Hellman - Braid background.jpg")
 quote: |
     > All the falling rain is caught.
     >
-    > <span class="attribution">--- Jesma Shirancord, "Vectors"<span>
+    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
+summary: Beautiful, storm-drenched mountains inhabited by the keepers of the "Universal Story," an indescribably transformative experience which they offer to visitors and continually seek to perfect.
 intro: |
 
     The Bell is frustrating to describe, for all that try resort to superlatives that ring true only for those who have also witnessed it, but which fall embarrassingly flat on the ears of those who have not. It is a startlingly beautiful place. Storm-brushed cliffs and forests roll in the golden half-light of an unpredictable sun spilling through dark clouds, washing the landscape and its many shrines in the sharp glow of déjà vu. The Kalons who reside here are keepers of the "Universal Story," and each creates a sanctuary devoted to elaborating and retelling this story. The Universal Story is the Kalons' gift of empathy, insight, and equanimity to the multiverse, which they offer with a quiet humility totally unlike the rapturous praise of those who experience it. Visitors are invited to spend a month sealed ritually alone in a sanctum of their choice, reading and experiencing the Universal Story as manifested by one Kalon. The story may take the form of a tremendous illuminated tome in an empty hall, or a gallery of hundreds of sculptures covered in fine inscriptions, or a huge temple whose every surface holds intricate mosaics, or all of these at once. A visitor must remain alone with the work until the sound of a bell welcomes them back to the world.

@@ -118,7 +118,6 @@ files.sort()
 file_data = {}
 file_titles = []
 file_ids = []
-file_metadata = {}
 input_files = []
 output_files = []
 

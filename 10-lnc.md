@@ -2,6 +2,7 @@
 
 ---
 subtitle: Hierarchy Utility Creation LNC
+summary: Artists and engineers that have architected all of the most famous constructions in existence, original copies of which fill archipelagos that spread across the Glass Ocean, where the enormous automaton wind shifters interlock and glide across empty waters.
 intro: |
 
     Landscapes as diverse as the multiverse itself cover islands scattered across the Glass Ocean, teeming with assorted regiments beckoning imagination into structural reality: towers, bridges, monuments, citadels, silos, domes, parapets, temples, amphitheaters, catacombs, highways, bridges, labyrinths, palaces, prisons, and crenellated parliaments soar and plunge, constructed of wood and stone, metal and bone, crystal and coral and mineral. Across the Unfolding they arc and glisten and groan and grow, and upon the enormous central continent of this realm these structures congregate in a dense symphonic metropolis as far as the eyes can see.
