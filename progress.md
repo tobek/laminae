@@ -270,7 +270,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 42,546 | 1,398 | 17/42 | 94/224 |
+| 43,030 | 1,428 | 17/42 | 94/224 |
 </div>
 
 <div class="progress-wrap">
