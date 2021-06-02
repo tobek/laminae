@@ -6,7 +6,6 @@ echo
 echo
 python build.py
 echo
-cp build/00-0-title.html build/index.html
 aws s3 sync build/ s3://thereitwas.com/laminae/
 aws s3 cp build/progress.html s3://thereitwas.com/bits/
 

@@ -58,6 +58,7 @@ def facet_replace(match):
     tri = match.group(0)[1:]
     return match.group(1) + '<span class="glyph">' + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]] + '</span>'
 
+os.makedirs("build", exist_ok=True)
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
     print(input_file)
     if output_file is None:
@@ -114,6 +115,10 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
 
     with open("build/" + output_file, "w") as f:
         f.write(output)
+
+    if re.match(r"^00-0", input_file):
+        with open("build/index.html", "w") as f:
+            f.write(output)
 
 only_file = sys.argv[1] if len(sys.argv) > 1 else None
 
@@ -263,7 +268,7 @@ for file_id, data in file_data.items():
             else:
                 href_lookup = href if href[0] != "#" else (file_id + href)
                 if href_lookup not in anchors:
-                    print("HEY found unreffable ref:", href)
+                    print("HEY unreffable ref:", href)
                     del ref["href"]
                     tooltip.string = "The referenced text has not yet been translated."
                     continue
