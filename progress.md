@@ -13,6 +13,7 @@
 	}
 	body {
 		max-width: 1024px;
+		font-size:  22px;
 	}
 	    @media only screen and (max-width: 479px) {
 	    	body {
@@ -145,12 +146,18 @@
 	}
 </style>
 
+It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">Observations on the Twenty-Seven Laminae</a>
+
+<br />
+
 <div><p><b>Log</b></p></div>
 
 <div class="updates">
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-06-02|8   |43990|1559|52%|44%|22|99|63|36|
+|2021-06-01|6   |43176|1465|40%|41%|17|94|62|32|
 |2021-05-31|7.5 |42250|1398|40%|40%|17|90|58|32|
 |2021-05-30|5   |42006|1215|40%|38%|17|87|58|29|
 |2021-05-29|6   |40999|1185|38%|38%|16|86|57|29|
@@ -270,7 +277,7 @@
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 43,030 | 1,428 | 17/42 | 94/224 |
+| 43,990 | 1,559 | 22/42 | 99/224 |
 </div>
 
 <div class="progress-wrap">
@@ -280,9 +287,9 @@
 
 | | | | |
 | :-- | :-- | :-- | :-- |
-| <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> |
-| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">◍◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
 | <span class="glyph">ꧪဥဓ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
@@ -293,7 +300,7 @@
 | <span class="glyph">ꩧ၇ဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹ဋꧠ</span> | <span class="bloop">●◍◍◍○○</span> |
 | <span class="glyph">ꩧ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဓ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꧪ၇ꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဗ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꧪ၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꧪ၇ဓ</span> | <span class="bloop">●◍◍○○○</span> |
 
 </div>
 <div>
@@ -303,11 +310,11 @@
 | :-- | :-- |
 | Frame | <span class="bloop">●◍◍○</span> |
 | Primer | <span class="bloop">●◍◍○</span> |
-| Preface | <span class="bloop">◍○○○</span> |
+| Preface | <span class="bloop">●◍◍○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |
-| Facets | <span class="bloop">◍◍◍○</span> |
+| Facets | <span class="bloop">●◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
-| Glossary | <span class="bloop">◍◍○○</span> |
+| Glossary | <span class="bloop">●◍◍○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |
 
 </div>
@@ -322,7 +329,7 @@
 | Author | <span class="bloop">■▤□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
 | Plates | <span class="bloop">■▤□</span> |
-| References | <span class="bloop">■▤□</span> |
+| References | <span class="bloop">■▤▤</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
 | <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |

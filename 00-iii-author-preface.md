@@ -1,22 +1,11 @@
-# Author's Preface SKIP
+# Author's Preface
 
----
-in_progress: True
----
+The twenty-seven laminae are unimaginably varied and vast, and all the superlatives of the multiverse lie within their folds. In the malignant wilderness of REF[the Bloom](CEC) there is a sheltered garden laboratory that holds a plant from which is brewed what must be the most spectacular tea known to conscious minds. On REF[the Unfolding](LNC) original copies of each of the greatest architectural wonders of the multiverse crowd around the feet of the towering Scaffold, while on REF[the Inevitability](CND) stands an Unraveller who holds simultaneously in her awareness each egg being cooked in that instant across all of reality. Buffeted by REF[the Gossamer](CNC)'s primordial maelstrom drifts the nautilus-shelled palace of the Mutatorium in which you may reimagine yourself at will, or you might instead seek out the Universal Story of REF[the Bell](NGC) and be transformed in ways impossible to foresee.
 
-<!--
-goals:
+The mountain shows us what is possible to achieve with constructs of stone, and while the stone cottage we build cannot match the strength and size attained by mountains over geological ages, the cottage is better suited to our needs and can be combined with other resources around us. As the mountain shows us what is possible with stone, so the REF[laminae]---boundless reservoirs of physical and notional forces---show us the shapes and possibilities of nature. On REF[cardinal] worlds we must contend with the intractable diversities of personality and culture, with all their resulting fruits and labors, but the laminae shape their inhabitants towards concentrated philosophical extremes, and so are able to reach baffling heights and alarming depths only attainable with aeons of unified effort.
 
-- entice reader into the work
-- make the reader curious about the author
-	+ anecdotes
-	+ perspective
-	+ "to all these places i am a visitor, as you would be" but are we not simply visitors on this mortal coil yada yada
-- intro the vibe
--->
+To such places I am a visitor and will remain a visitor, as would you be should you follow in this visitor's footsteps. In our cardinal realities however we are not visitors, and with our stones and seeds and cultures must build lives for ourselves and each other. We would do well to understand laminal forces, for in each lamina the seeds of human psyches and building blocks of reality play out to myriad conclusions, but we should not aim to emulate them literally; rather we should draw from them what we need.
 
-This visitor's second favorite spot in the multiverse is TODO (nice description of place and people). (Her favorite, of course, awaits your discovery within these pages.)
+Over decades of travel and residence on the twenty-seven laminae this visitor found little of what she initially sought, but let go of much, and can only hope that the knowledge and perspective gathered in this work provide some avenue of interchange between the laminal and the cardinal, between realms of the abstract possible and the lives we share with our kin.
 
-The twenty-seven laminae are unimaginably vast, and all the superlatives of the multiverse lie within their folds. On REF[the Inevitability](CND) stands an Unraveller who holds simultaneously in her awareness each egg being cooked in that instant across all of reality, while on REF[the Unfolding](LNC) original copies of all the greatest architectural wonders of the multiverse crowd at the feet of the Scaffold. TODO
-
-societies take all kinds of people but in the laminae they cluster together. this works sometimes and doesn't work others, but it relies [does it?] on the universe having all types
+You may forgive this visitor any ignorance or provincial incredulity that reveals itself in the following text. It is not intentional, but we all carry our stories with us. One must attempt to be generous in understanding the nature of drastically different states of mind. May you reach compassion and even insight in the face of the alien and fantastic modes of being in these pages.

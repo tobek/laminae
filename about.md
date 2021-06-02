@@ -1,10 +1,12 @@
 # About
 
-This is a work in <a href="https://thereitwas.com/bits/progress.html">progress</a>.
+This is a work in perpetual <a href="https://thereitwas.com/bits/progress.html">progress</a>.
 
 <br>
 
-<a href="mailto:lamina@thereitwas.com">lamina@thereitwas.com</a></p>
+<a href="mailto:laminae@thereitwas.com">laminae@thereitwas.com</a></p>
+
+<a href="https://tobyfox.com" target="_blank">https://tobyfox.com</a></p>
 
 <style>
 	#about {

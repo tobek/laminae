@@ -180,6 +180,11 @@ see Template
 - "...its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too [now] wear the spiral." from slate star codex thing
 - the ivory pendant she has in frame frontmatter - change and/or connect to plot
 - the soblei bead map - does she give it away?
+- favorite spot candidates:
+    + the islet
+    + echo plateau
+    + bell duh
+    + maybe NGD cathartic ritual
 
     descriptive moral relativism holds only that people do, in fact, disagree fundamentally about what is moral, with no judgment being expressed on the desirability of this. Meta-ethical moral relativism holds that in such disagreements, nobody is objectively right or wrong.[1] Normative moral relativism holds that because nobody is right or wrong, everyone ought to tolerate the behavior of others
 
@@ -219,11 +224,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
         * civil war ensued, she was cast out, revelation when meeting the other side
         * inspired her to write this fiction, and it took off
 - i can see her spreading word of laminae to different laminae
-- does she have ties to a community?
-    + community destroyed in something connected to the beginning of her journey, or
-    + she was outcast, also connected, or
-    + child of nomads, or
-    + yes, she has a community - why did she leave?
+- does she have ties to a community? she did but it got pretty fucked up
 - personality traits
     + humble, funny/amused, listens, regal, simple, kind, accepted by everyone, absolutely no expectations from anything ever
 - her fate and fate of her work
@@ -237,6 +238,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + Parrigues
     + crying/self-doubt
     + finds a companion
+- parrigues: "claimed to recognize one of the authors, but she responded that they were not acquainted" - maybe somewhere where EVERYBODY seems to recognize one of the authors, this was assumed to be a trait of the plane, but didn't happen to anyone else, so... make of it what you will
 - the conduit
 - on echo plateau or CGD she gives up looking for her brother, and/or where she forgave herself
     + "it was here that this visitor formally gave up on the cause that began her journey" eh
@@ -333,6 +335,7 @@ TODO go through evil sketch
 
 19 of them!
 
+- death?
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
@@ -359,7 +362,7 @@ TODO go through evil sketch
 - Sex CGD?
 - a prison (w research/testing?)
 - visual distortion like "Rorik Smith" polyhedral panoramic pics (NNC?)
-- sleep
+- sleep NEC
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
@@ -397,7 +400,7 @@ TODO go through evil sketch
 - (Traveling) Carnival (is this CND already)
     - "Other common features of carnival include mock battles such as food fights; expressions of social satire; mockery of authorities; costumes of the grotesque body that display exaggerated features such as large noses, bellies, mouths, phalli, or elements of animal bodies; abusive language and degrading acts; depictions of disease and gleeful death; and a general reversal of everyday rules and norms."
     - in Roman Saturnalia, masters and slaves feasted together, or masters provided table service for slaves, also a time for free speech where slaves could say anything
-- Cemetery (same as prison plane?)
+- Cemetery/necropolis (same as prison plane?)
 - W40k teeming Terra - maybe LGC but that might not fit yet. LG would be ideal, but any L ok
 - Japanese garden
 - https://en.wikipedia.org/wiki/List_of_garden_features
@@ -909,6 +912,7 @@ anagram names:
         - The Snarl
         - The Speck*
         - The Squall
+        - The Substantiation
         - The Sum
         - The Surge
         - The Taxonomy

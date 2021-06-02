@@ -1,10 +1,23 @@
-# The Ardence SKIP
+# The Ardence
 
 ---
 subtitle: Hierarchy Empathy Dissolution LGD
-in_progress: True
+intro_only: True
+post_intro_only: MEDIA("Waneella - Knight.gif")
+summary: Dark, star-slicked highlands of altars and shrines, each dedicated to a single exceptional petitioner who awaits one final and fatal quest worthy of their heroism.
+intro: |
+
+    Most laminae offer mortals the chance for eternal pursuit and perfection of their philosophical and spiritual ideals as reincarnated petitioners. Not the Ardence. This realm is but a way station on a one-way path to oblivion in the name of honor and benevolence. The champions who find themselves reborn among these dark, star-slicked highlands of altars and mausoleums are instilled with a single purpose: to find one last mission worthy of their abilities, a challenge so perfectly matched that it results in the hero's success and destruction. Pilgrims journey to this lamina to appeal to these heroes for aid, and councils of native bookkeepers receive these pleas and assess the odds that it will be appropriately valiant and perilous before sending their champions forth for their final battles.
+
+    No songs are sung nor monuments erected to commemorate the deeds of those who pass through this place: all memories of the heroes that leave are erased from the minds of residents and supplicants alike. It is not a land of myth or renown, nor ledgers and historical tomes, only hard work and sacrifice for the greater good. Nothing is commemorated, and the fallen are forgotten.
 
 ---
+
+<style>
+	.img-wrap {
+		opacity: 0.95;
+	}
+</style>
 
 - Rules/logic for the forgetting thing: if you have visited this plane, then you forget
 - bureaucrats ensure missions aren't anywhere where hero will be recognized
@@ -17,21 +30,16 @@ in_progress: True
 - if you see the hero: one can be waneella black knight
 - MEDIA(Doug Wheeler at Palazzo Grassi)
 
-*The ____*
-
-Most laminae offer mortals the chance for eternal pursuit and perfection of their philosophical and spiritual ideals as reincarnated petitioners. Not ____[this plane]. This realm is but a way station on a one-way path to oblivion in the name of honor and benevolence. The champions who find themselves reborn among these dark, star-slicked highlands of altars and mausoleums are instilled with a single purpose: to find one last mission worthy of their abilities, a challenge so perfectly matched that it results in the hero's success and destruction. Pilgrims journey to this lamina to appeal to these heroes for aid, and councils of native bookkeepers receive these pleas and assess the odds that it will be appropriately valiant and perilous before sending their champions forth for their final battles.
-
-No songs are sung nor monuments erected to commemorate the deeds of those who pass through this place: all memories of the heroes that leave are erased from the minds of residents and supplicants alike. It is not a land of myth or renown, nor ledgers and historical tomes, only hard work and sacrifice for the greater good. Nothing is commemorated, and the fallen are forgotten.
 
 (some reversal on the prototypical myth of hero who ventures into the underworld - unlike the prototype, these heroes do not return, and are forgotten. it's argued by fans that this is an authentic approach to heroism)
 
 ## Environment
 
-The landscape of ____[this plane] is otherworldly---hushed and soft and still. The sky is perpetual starry night, brilliant and twinkling, while the terrain is rolling and craggy and covered in rock, moss, heather, and occasional scrub, all in shades of deep gray and black, with occasional muted splashes of somber purple or dull gold. A steady cool breeze causes slight movement. Peaks and the occasional valley or cliffside are crowned by glittering pavilions, each ready to serve as the temporary resting place of a single champion.
+The landscape of the Ardence is otherworldly---hushed and soft and still. The sky is perpetual starry night, brilliant and twinkling, while the terrain is rolling and craggy and covered in rock, moss, heather, and occasional scrub, all in shades of deep gray and black, with occasional muted splashes of somber purple or dull gold. A steady cool breeze causes slight movement. Peaks and the occasional valley or cliffside are crowned by glittering pavilions, each ready to serve as the temporary resting place of a single champion.
 
 Though known generically as pavilions, these structures range in size and style from small altars and follies to sprawling amphitheaters, and they cover the land: from any vantage point you are likely to see at least one pavilion in the distance, and often several. All are made from deep black stone with a subtly colorful iridescent surface and edges that glint in sharp gold. Each calls out to heroes who evince particular preferences: temples and barracks and libraries attracting clerics and warriors and mages, while the size and grandeur tend to match the valor of the champions who wait within them. Innumerable finer distinctions arise: while some pavilions and their champions are more general-purpose, others are dedicated to eternal struggle against ills as varied as necromancy, political tyranny, theft, misinformation, or elemental rampage. In all these cases, structural form echoes motivation and function.
 
-### TODO/bookkeepers
+### TODO(term)[Bookkeepers]
 
 Native outsiders known as ____ live here. They are a solemn, industrious, but gentle race of tall humanoids with graying flesh and slender, sharp, gaunt faces. They shroud themselves in a dark uniform of hooded, ornate robes, each unique and tumbling with metallic embroidery in complex, methodical patterns.
 
@@ -45,7 +53,7 @@ Like all petitioners, ____s have little to no memory of their mortal life, but i
 
 In both accepting a hero and accepting a supplicant's plea for aid, the ____ are strict and thorough in their calculations. Their primary goals are that the hero matches the pavilion's ethos, and that the hero's mission both matches this too, and is uniquely suited to the strengths (and weaknesses) of the hero such that the hero will both succeed and perish. To aid the acceptance of a hero, it appears that these bookkeepers are able to recover information about a petitioner's mortal life, or else in their lengthy discussions can accurately divine the essence of each hero. This acceptance process rarely takes an hour or more.
 
-The ____[this plane]'s ritual of forgetfulness is mediated by the bookkeeper's robes. Once any being dons one of these intricate garments, their memories become wrapped up in the cloth, the symbols growing and warping as the wearer journeys through awareness. Once the robe is destroyed, all of the memories formed during wearing are erased from the wearer's mind. Before a pavilion begins opens to accept a new hero, the bookkeepers each craft a robe for themselves and wear it. Once a hero journeys forth from the pavilion, they weave new robes and burn the old ones in a ritual that lights up the whole pavilion. Thus all their memories of every hero and supplicant that came their way is erased.
+The Ardence's ritual of forgetfulness is mediated by the bookkeeper's robes. Once any being dons one of these intricate garments, their memories become wrapped up in the cloth, the symbols growing and warping as the wearer journeys through awareness. Once the robe is destroyed, all of the memories formed during wearing are erased from the wearer's mind. Before a pavilion begins opens to accept a new hero, the bookkeepers each craft a robe for themselves and wear it. Once a hero journeys forth from the pavilion, they weave new robes and burn the old ones in a ritual that lights up the whole pavilion. Thus all their memories of every hero and supplicant that came their way is erased.
 
 ### Supplication
 
@@ -71,15 +79,15 @@ The source of this effect is TODO disputed, maybe necessary side effect of chann
 
 ## History
 
-### Known Heroic episodes
+### <dfn no-index>Heroic Episodes</dfn>
 
 most successful, a few broken
 
 ## Locations
 
-### Known pavilions
+### Pavilions
 
-### TODO (pavilion name)
+<!-- ### TODO (pavilion name) -->
 
 one huge pavilion (what theme?) has been closed in deliberation for as long as anyone can remember
 

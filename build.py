@@ -18,6 +18,10 @@ default_pandoc_args = [
 
 def to_kebab_case(value):
     return "-".join(value.lower().split())
+def get_sort_name(name):
+    if "The " in name and name.index("The ") == 0:
+        return name[4:] + ", The"
+    return name
 
 file_id_regex = r"[^-]+(-[0iv]+)?-(.+).md"
 
@@ -92,6 +96,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
             "--variable=title_suffix:Observations on the Twenty-Seven Laminae",
         ]
 
+    # if not re.match(r"^00|[abcd]", input_file) or "cosmography" in input_file:
     if not re.match(r"^00", input_file) or "cosmography" in input_file:
         pandoc_args +=[
             "--toc",
@@ -113,7 +118,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
 only_file = sys.argv[1] if len(sys.argv) > 1 else None
 
 outer_files = ["progress.md", "about.md", "error.md"]
-files = glob.glob("[^0-9]*.md")
+files = glob.glob("[^0-9]*.md") + glob.glob("[^a-d]-*.md")
 files.sort()
 file_data = {}
 file_titles = []
@@ -185,9 +190,14 @@ for file_id, data in file_data.items():
         continue
 
     anchors[file_id] = {
+        "id": file_id,
+        "file_id": file_id,
+        "file_title": data["title"],
         "href": data["output"],
         "name": data["title"],
+        "sort_name": get_sort_name(data["title"]),
         "def": data["metadata"].get("summary") or data["metadata"].get("intro"), # TODO need to ensure there's no REF/etc markup in these or any defs!!
+        "no_index": len(file_id) != 3 and file_id != "cosmography" and file_id != "facets"
     }
     untranslated = data["metadata"].get("intro_only")
 
@@ -213,15 +223,25 @@ for file_id, data in file_data.items():
                 continue
 
             anchor_info = {
+                "id": file_id + "#" + anchor_id,
+                "file_id": file_id,
+                "file_title": data["title"],
                 "href": data["output"] + "#" + anchor_id,
                 "name": anchor_name,
+                "sort_name": get_sort_name(anchor_name),
                 "def": anchor.get("def") or (anchor.name[0] != "h" and anchor.parent.get_text()),
                 "untranslated": untranslated,
                 "no_index": "no-index" in anchor.attrs,
             }
-
-            anchors[file_id + "#" + anchor_id] = anchor_info
             # print(anchor_info)
+
+            anchors[anchor_info["id"]] = anchor_info
+
+            # make these top level - just ensure they don't conflict (they shouldn't)
+            if file_id == "cosmography":
+                dupe_anchor_info = dict(anchor_info)
+                dupe_anchor_info["no_index"] = True
+                anchors[anchor_id] = dupe_anchor_info
 
 print("\ninserting references...")
 for file_id, data in file_data.items():
@@ -234,17 +254,21 @@ for file_id, data in file_data.items():
     with open("build/" + data["output"]) as f:
         soup = BeautifulSoup(f, 'html.parser')
         for ref in soup.select("a.ref"):
-            href = ref["href"].lower()
-            href_lookup = href if href[0] != "#" else (file_id + href)
             tooltip = ref.parent.select(".tooltip")[0]
+            href = ref["href"].lower()
 
-            if href_lookup not in anchors:
-                print("HEY found unreffable ref:", href)
-                del ref["href"]
-                tooltip.string = "The referenced text has not yet been translated."
-                continue
+            # hack to make it easier to refer to top-level cosmography terms:
+            if href.replace("#", "") in anchors:
+                anchor = anchors[href.replace("#", "")]
+            else:
+                href_lookup = href if href[0] != "#" else (file_id + href)
+                if href_lookup not in anchors:
+                    print("HEY found unreffable ref:", href)
+                    del ref["href"]
+                    tooltip.string = "The referenced text has not yet been translated."
+                    continue
+                anchor = anchors[href_lookup]
 
-            anchor = anchors[href_lookup]
             if anchor.get("def"):
                 tooltip.string = anchor["def"].strip()
             if href[0] != "#":
@@ -261,4 +285,39 @@ for file_id, data in file_data.items():
     with open("build/" + data["output"], "w") as f:
         f.write(str(soup))
 
+
+sorted_anchors = sorted(anchors.values(), key = lambda a: a["sort_name"])
+index = [a for a in sorted_anchors if not a.get("no_index")]
+glossary = [a for a in index if a["def"]]
+# print(); import pprint; pprint.PrettyPrinter(indent=2).pprint(glossary)
 # print(); import pprint; pprint.PrettyPrinter(indent=2).pprint(anchors)
+
+def print_gloss_table(glosses, lams=False):
+    print("\n<table>")
+    for gloss in glosses:
+        glyphs = gloss["id"].upper() if lams else ""
+        print("    <tr><td>REF[%s](%s)%s</td><td>%s</td></tr>" % (gloss["name"], gloss["id"], glyphs, gloss["def"]))
+    print("</table>\n")
+
+def print_glossaries():
+    print()
+    print("## <dfn no-index>General Terms</dfn>")
+    print_gloss_table([g for g in glossary if "cosmography#" in g["id"]])
+    print("## <dfn no-index>Laminae</dfn>")
+    print_gloss_table([g for g in glossary if len(g["id"]) == 3], True)
+    # TODO
+    # print("## Others")
+    # print_gloss_table([g for g in glossary if ("#" in g["id"] and "cosmography" not in g["id"])])
+
+def print_index():
+    print("\n<table>")
+    for i in index:
+        label = i["file_id"].upper() if len(i["file_id"]) == 3 else i["file_title"]
+        href = i["href"]
+        if i.get("untranslated") and "#" in href:
+            href = href[:href.index("#")] + "#untranslated"
+        print("    <tr><td>%s</td><td><a href='%s'>%s</a></td></tr>" % (i["sort_name"], href, label))
+    print("</table>\n")
+
+# print_glossaries()
+# print_index()

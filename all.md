@@ -79,7 +79,6 @@ Could swap with LGD
 
 ## Autonomy Empathy Creation CGC
 
-- could swap with CGC, which could be mutatorium or observation-only
 - artists, creative madness.?
 - it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point.
 - a gorgeous crazy world where *thought* is not possible, only observation and feeling
@@ -88,10 +87,54 @@ Could swap with LGD
 - constant festival?
 - what is it actually like? there's a recurring image of a boy in a chariot who seems to be a local deity, or perhaps there are many and they are the inhabitants.
 - pure inspiration
+- how do you get out?? many have been lost, maybe there's some aperture route you have to like train yourself to go
+
+summary: A baffling and beautiful realm where ordinary thought is impossible: observations and feelings strike with such speed and force as to crowd out the conscious mind. It is like a manic dream and nothing is processed upon one's return.
 
 *The Something*
 
-A barren void. A pulsating fractal rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
+TODO. This visitor was amused to find that her ramblings spouted upon return had been written down by her companion, which she presents to you here with some reluctance:
+
+A boy on a chariot
+A white horse
+Wooden wind chimes
+The smell of thyme
+The color blue
+Silent heavy snowfall
+A starry night
+Rustling leaves
+Freshly baked bread
+Full moon over an empty ocean
+An elephant lumbering
+An orchard
+A bite of cucumber
+A big old house
+The sun rising
+A ripe plum
+A flock of swallows, their wings
+
+You're standing barefoot on a field of deep, soft moss
+Somewhere nearby a stream trickles
+The air is thick with cool mist
+
+One room has dancers in red and white.
+A framed picture of a silver thread.
+A book open to gilded curls of an illuminated manuscript
+A door to an endless plain of black and white tiles
+A single tulip in a mirrored hall
+
+The indigo sisters
+The touch of soft leather
+An antelope stops and turns its head
+A glass ocean
+TODO yourself doing something
+An iridescent hexagon
+Three brothers on a row boat laughing
+The owl perches on the gondola at high noon
+
+A barren void. A pulsating fractured rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
+
+add hints about brother and other stuff
 
 ## Autonomy Empathy Equilibrium CGP
 

@@ -24,6 +24,8 @@ The Bauble is the ocean of dreams and nightmares. it is colorful and twisted, fu
 
 the fruits of this place are a blessing and a curse: the dreams come and go at the whim of the Limns, and many artists have been torn by the wilting lack or unharnessable abundance of waking dreams. dreams of grandeur, unbidden, unfiltered, dreams of curiosity, dreams of feared things. a place where the unformed shapes beneath waters in corner of the eye take the form of the thoughts of those nearby.
 
+you can choose to sleep there forever
+
 *need more about limns, and one more unique component*
 
 - name

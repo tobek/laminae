@@ -13,6 +13,7 @@
 	}
 	body {
 		max-width: 1024px;
+		font-size:  22px;
 	}
 	    @media only screen and (max-width: 479px) {
 	    	body {
@@ -144,6 +145,10 @@
 	    line-height: unset;
 	}
 </style>
+
+It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">Observations on the Twenty-Seven Laminae</a>
+
+<br />
 
 <div><p><b>Log</b></p></div>
 

@@ -7,9 +7,9 @@
 
 | | | | |
 | :-- | :-- | :-- | :-- |
-| <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> |
-| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">◍◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
 | <span class="glyph">ꧪဥဓ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
@@ -20,7 +20,7 @@
 | <span class="glyph">ꩧ၇ဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹ဋꧠ</span> | <span class="bloop">●◍◍◍○○</span> |
 | <span class="glyph">ꩧ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဓ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꧪ၇ꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဗ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꧪ၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꧪ၇ဓ</span> | <span class="bloop">●◍◍○○○</span> |
 
 </div>
 <div>
@@ -30,11 +30,11 @@
 | :-- | :-- |
 | Frame | <span class="bloop">●◍◍○</span> |
 | Primer | <span class="bloop">●◍◍○</span> |
-| Preface | <span class="bloop">◍○○○</span> |
+| Preface | <span class="bloop">●◍◍○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |
-| Facets | <span class="bloop">◍◍◍○</span> |
+| Facets | <span class="bloop">●◍◍○</span> |
 | Close | <span class="bloop">○○○○</span> |
-| Glossary | <span class="bloop">◍◍○○</span> |
+| Glossary | <span class="bloop">●◍◍○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |
 
 </div>
@@ -49,7 +49,7 @@
 | Author | <span class="bloop">■▤□</span> |
 | Visualization | <span class="bloop">▤□□</span> |
 | Plates | <span class="bloop">■▤□</span> |
-| References | <span class="bloop">■▤□</span> |
+| References | <span class="bloop">■▤▤</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
 | <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |

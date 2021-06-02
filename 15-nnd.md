@@ -1,4 +1,4 @@
-# The Lucidity
+# The Lucidity SKIP
 
 ---
 subtitle: Synthesis Utility Dissolution NND

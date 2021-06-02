@@ -14,11 +14,7 @@ summary: "Abstract forces that drive beings and cultures, divided into three spe
     }
 </style>
 
-outlook, "categorization of ethical and moral perspectives... "
-
-Facets are the TODO that guide our actions and instincts. whether facets exist in a material sense or are simply mental artifacts that help organize our reality is is far from agreed upon. Many believe that there are TODO actual realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring, through the REF[laminae](cosmography#laminae) and shaped by the hands of REF[petitioners](cosmography#petitioners) on their way to TODO cardinal worlds. Whether this is the case is irrelevant to the present work, since TODO the laminae are still organized this way?
-
-The facets are arranged across three axes of Method, Motive, and Means. These, respectively, answer the following questions:
+Facets describe ethical, moral, and philosophical outlooks on reality from which communities create value systems of right and wrong, grounding concepts such as "fairness" and what "ought" to be. The facets are arranged across the three axes of Method, Motive, and Means that, respectively, answer the following questions:
 
 <div class="lamina-table" style="padding-left: 1rem">
 | |
@@ -38,17 +34,13 @@ The nine facets are, accordingly:
 | *Means* | REF[Creation] | REF[Equilibrium] | REF[Dissolution] |
 </div>
 
-Upon reading this, several of these facets are likely to strike you as more essential than others. Readers will vary in such assessments. All readers, however, will find that regardless of personal resonance, each of these facets *exists*, and various actors align themselves with these facets with more or less rigidity.
+Upon reading this, several of these facets are likely to strike you as more essential than others. Readers will vary in such assessments. All readers, however, will find that regardless of personal resonance, each of these facets *exists*, and individuals tend to align themselves with these facets with more or less rigidity.
 
-differences here between individuals or cultures can be extremely hard to bridge, for everyone judges others by their internal compasses which have been calibrated to these facets in such a way as to make it hard to see how others are different.
+These absolutes can be seen as a structure with which to measure and observe phenomena, but they also scaffold personal and cultural alignments that result in all manner of relative judgments. For instance many of those driven by REF[Empathy] find those loyal to REF[Power] as being something akin to evil, while the latter will disdain the former as weak and ineffective. Differences of facet between individuals or cultures can be extremely hard to bridge, for everyone judges others by internal compasses which have been calibrated to these facets in such a way as to make it impossible to imagine a different state of nature.
 
-Within the observational structure of these absolutes, personal and cultural alignments manifest all manner of relative judgments. For instance many of those driven by REF[Empathy] find those loyal to REF[Power] as something akin to evil, while the latter will disdain the former as weak and ineffective. TODO
+Each facet can be understood in a positive or negative light, and provides its adherents with a teleology of being. In REF[cardinal] realms of course absolutes are rare, and most balance views of opposing facets. Along each axis opposites are not wholly incompatible, but you will find that one extreme can always be sacrificed in pursuit of the other.
 
-TODO something about teleology. each can be viewed in a wholly positive light. in practice there are no absolutes, and most balance views of opposing facets. they key understanding is not that they are immutably opposite, but that one can be sacrificed in pursuit of the other.
-
-value system/code of conduct according to person/community etc, axioms from whence right and wrong. "what is fair?"
-
-here we describe in detail.
+Whether facets exist in a material sense---or are simply mental artifacts that help structure our conceptions---is is far from agreed upon. Many believe that there are raw and tangible realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring. Such forces should pass through the REF[laminae], where they are shaped by the efforts of REF[petitioners], eventually reaching cardinal worlds in recognizable forms.
 
 ## Method
 
@@ -128,12 +120,9 @@ REF[Power] is totalitarian when paired with REF[Hierarchy], ambitious when paire
 
 ## Means
 
-The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---a cycle harnessed by every being in support of its goals. TODO carry out tasks
+The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---a cycle harnessed by every being in support of its goals. These three facets lie in a careful balance, for any disparity would over aeons result respectively in overflow, stagnation, or annihilation. Those who believe that the same matter has been endlessly cycling from an infinite past feel this balance very deeply, but those who believe that there was once nothing which at some point gave rise to something must believe in a delicate imbalance in favor of creation in order to the presence of things.
 
-These three facets lie in a careful balance, for any disparity would over aeons result respectively in overflow, stagnation, or annihilation. Those who believe that the same matter has been endlessly cycling into an infinite past feel this balance very deeply, but those who believe that there was once nothing and at some point something came into being must also believe in a delicate imbalance in favor of creation in order to explain our presence.
-
-where other facets can be antagonistic towards each other the facets of Means tend to acknowledge the necessity this balance, for each would flail in the absence of one of the others.
-
+Where other facets can be antagonistic towards each other, each seeing their own way as more truly reflecting the nature of things, the facets of Means tend to acknowledge the necessity of balance. Despite the fervor with which adherents pursue their means, the wise know that each facet would eventually stall in the absence of one of the others.
 
 
 creation is an imbalance that eventually spills over into cardinal worlds. destruction is an imbalance that can only be fueled by cardinal worlds. the two forces are linked via cardinal worlds. preservation...
@@ -141,20 +130,18 @@ creation is an imbalance that eventually spills over into cardinal worlds. destr
 
 ### Creation
 
-REF[Creation] is the construction of new ideas, new energy, and new matter. Combining forms to make new ones is a manner of creation, and even creative destruction is constructive for it adds shape to what it is destroying. As the artist will tell you, creative forces can be as maddening as they are inspiring, and take tremendous effort to harness with purpose.
-
-On REF[laminae](cosmography#laminae) this facet results in a spillover TODO
+REF[Creation] is the construction of new ideas, new energy, and new matter. Combining forms in novel ways is a manner of creation, and even creative destruction is constructive for it adds shape to what remains. As the artist will tell you, creative forces can be as maddening as they are inspiring, and take tremendous effort to harness with purpose. On REF[laminae](cosmography#laminae) this facet results in an overflow of material into cardinal worlds, and it may be that all the stuff of our existence originates from these laminae of creation.
 
 REF[Creation] tends towards activity, energy, passion, agitation, change, mutation, excitation, creativity, egoism, instability, uncertainty, and dynamism.
 
 ### Equilibrium
 
-REF[Equilibrium] is the balance and cycle of creative and destructive energies. On REF[laminae](cosmography#laminae) this facet often manifests as TODO transit point for mediating these alternating forces, also reaching out to cardinal worlds to tweak
+REF[Equilibrium] is the balance and cycle of creative and destructive energies. In some cases this manifests as an active vacillation between the two, and in others there is instead a careful tiptoe of balance. REF[Laminae](cosmography#laminae) reflecting this facet are often transit points that mediate alternating forces, and many also reach to cardinal worlds to tweak or support processes already in place.
 
 REF[Equilibrium] tends towards maintenance, harmony, protection, pureness of essence, persistence, stagnation, indifference, serenity, observation, renewal, inertia, and preservation.
 
 ### Dissolution
 
-REF[Dissolution] is powerful and frightening to most mortals, but essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation take hold. On a less cosmic scale dissolution concerns measuring and understanding what one needs and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet TODO
+REF[Dissolution] is powerful and frightening to most mortals, and wholly essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation taking hold. On a less cosmic scale, dissolution concerns measuring and understanding what one needs, and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet is an imbalance that can only be sustained by an influx of material from cardinal worlds, breaking down and dispersing energies that distantly originated in facets of REF[Creation].
 
-REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, certainty, and death.
+REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.

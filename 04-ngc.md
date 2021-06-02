@@ -122,7 +122,7 @@ kalons explore others?
 
 related here for the curiosity of those who will never be able to go but i beg of you if there is any chance you may go, skip this blah blah
 
-### The Bell
+### <dfn no-index>The Bell</dfn>
 
 ## Locations
 

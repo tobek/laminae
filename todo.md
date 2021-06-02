@@ -1,35 +1,58 @@
- # requirements before launch
+# requirements before launch
 
-listings project
+now
 
-https://en.wikipedia.org/wiki/Dog%27s_bollocks_(typography)
+- update tobyfox.com
 
-- URL (laminae)
-- facets `30m`
-- preface `2h`
-- glossary/index `2h`
-    + set up
-    + add REFs
-- colophon `1h`
+~3h
+
+before launch to world
+
+- glossary/index `?`
+    + improve
+    + add REFs and defs
+- quick-revise facets `5m`
+- lucidity `15m`
+- 16 laminae `16+h`
 - dissimulation `30m`
 - cosmology visualization?? `2h`
 - style pass `1h`
-- handle laminae where we have nothing - just the "untranslated" hover link `15m`
-- 19 laminae `19+h`
 - glyph stuff `1h`
     + facet hover?
-    + lamina reference with trinym - hover?
-- lamina name
-    + ASK:
-        * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
-    + laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
-    + just hate "la-mi-nay"
-    + latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
-        * https://www.dailywritingtips.com/latin-plural-endings/
+    + lamina reference with trinym
+        * uncomment out translator note in cosmography
+        * hover?
+- revise cosmography `30m`
+- revise facets `30m`
+- colophon `1h`
+- border around images `30m`
 - finalize copyright/D&D removal (just eladrin etc from LNC?) `30m`
 - renumber/reorder `30m`
 
-~12h non laminae
+~7h non laminae
+
+
+separate for j
+
+Hey friends,
+
+As promised and intended, it's [not done](https://thereitwas.com/bits/progress.html), but it's ready enough: https://thereitwas.com/laminae/. I'll continue to grow it as the whims strike, but I am satisfied for now.
+
+To reiterate, I've no expectation that you look at it or be interested--it's a fantasy-ish worldbuilding project/guide/encyclopedia, which I think has a pretty narrow audience, and it's also book-length (though amenable to skimming, a la wikipedia). But if you check it out I am accepting comments feedback and bug reports, and regardless, thank you for your voiced and unvoiced support :muscle: and I enjoyed hearing from those of you that shared similar goals, and I welcome updates!
+
+I might do this again as I work on other stuff (like [this](https://photos.app.goo.gl/mGjPsSjNimbkuyUd9)), maybe one or two emails a year, but only if you want me to: https://tinyletter.com/tobyfox
+
+I hope you are healthy and well and soon awaking refreshed from a deep long slumber.
+
+Thanks for tuning in!
+
+Much love,
+Toby
+
+
+I might do this again as I work on other stuff, maybe one or two emails a year, but only if you want me to: https://tinyletter.com/tobyfox
+
+
 
 # big questions
 
@@ -70,7 +93,7 @@ https://en.wikipedia.org/wiki/Dog%27s_bollocks_(typography)
 
 ## ●◍◍○ Primer
 
-## ◍○○○ Preface
+## ●◍◍○ Preface
 
 you should be intrigued on the first read, and if you read it again after reading the whole work it should be really powerful
 
@@ -92,6 +115,13 @@ contents:
     + relation to our world
     + how you get there, portals etc. would be weird if author didn't mention, but if author does, does that give the guild hints on where to start?
         * can just talk about apertures but not mention where?
+- lamina name
+    + ASK:
+        * Hey I'm surveying people to get a read on something... How would you think to pronounce the word "laminae" as in the title "Observations on the Twenty-Seven Laminae"? Don't look anything up (at least not first). Also, what meanings/associations does the word have for you?
+    + laminae is actually pronounced "la-mi-nai" (~US) or "la-mi-nee" (~UK)
+    + just hate "la-mi-nay"
+    + latin rule is that words ending in "a" are made plural to "ae" (antenna, formula, nebula). lamina is latin singular. but if i invent a word laminum, the plural ending would be lamina (laminus should be lamini? but whatevs)
+        * https://www.dailywritingtips.com/latin-plural-endings/
 
 ### general stuff
 
@@ -131,7 +161,7 @@ contents:
         + strata
         + sheath
         + manifold
-- apertures
+- apertures (gate, portal)
 - "plane" - use anywhere other than Ordial Plane? no - use realm, world, land, domain
 - word for non-lamina
     + mortal worlds/lands/realms
@@ -217,7 +247,7 @@ might not need elemental planes - no prob not
 - have to have portals or something
 - easy to grok concept (with 3d cube) but maybe harder to grok... layout
 
-## ◍◍◍○ Facets
+## ●◍◍○ Facets
 
 FINALIZE GLYPHS - just about done!
 
@@ -321,16 +351,21 @@ torment: tides of numenera:
 
 ## ○○○○ Close
 
+- maybe the only first person is in preface and close
 - is this necessary?
 - if not, CEC or absolutes/facets would be last sequential thing, could maybe swing it
 - revisit parrigues ending
 - how come the work is basically done? maybe here she lists the things she didn't do
 - or she allows herself
 
-## ◍◍○○ Glossary/Index
+## ●◍◍○ Glossary/Index
 
-- define terms as per reference markup (headings, dfns)
-- print them all out in alphabetical order
+add many more terms in laminae and then add them to glossary
+
+- A-Z index of all of them, each showing chapter as source
+    + bold the one with definition
+    + how to show multiple references on same page? i guess don't
+
 - shared glossary + index?
     + shared:
         * for each term, show which laminae references it
@@ -340,7 +375,7 @@ torment: tides of numenera:
         * index for all
 - what to do with generically named ones from specific laminae, like LND "Mechanisms" - maybe that's okay?
 - check to see if we have any duplicate anchor ids across different file ids
-- bold the main reference, but show each chapter that references concept
+- bold the main reference, but show each chapter that references concept?
 
 so far (some need changing, decide/find and replace, and then REF them):
 
@@ -378,6 +413,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
     + easydabus/easydamus
     + d&d for alignments
     + hinduism for trimurti
+    + wikis
     + friends
 - stats?
 - about
@@ -441,11 +477,8 @@ viz:
 ## ■▤□ Styles
 
 - title page - spacing, caps, weights
+- editors note on NNP line spacing is too tight, but not elsewhere?
 - table of contents/viz
-- provide indic fonts for bullets
-    + burmesefrom `/usr/share/fonts/noto/NotoSansMyanmar*`
-- bullets in lists (LNC, maybe CND?)
-    + maybe just... paragraphs
 - blue glyphs in lamina headings - should they be blue elsewhere?
     + see e.g. Equilibrium in intro in 08 Brink
 - glyphs after every lamina name?
@@ -469,7 +502,14 @@ maybe
 
 later
 
+- FOUT for bold quotes
+- floating TOC?
 - update indic fonts to only include needed characters
+    + burmese from `/usr/share/fonts/noto/NotoSansMyanmar*`
+    + do myanmar noto, use https://stackoverflow.com/a/37159128/458614 and uni2ascii
+    + done
+        * `pyftsubset segoeui.ttf --output-file=segoeui-stripped.ttf --unicodes-file=kannada-tibetan-unicodes.txt`
+        * `pyftsubset DejaVuSans.ttf --output-file=DejaVuSans-stripped.ttf --unicodes-file=lao-unicodes.txt`
 - tooltip on mobile
     + images - tap to show (might already work?)
     + references - tap should pop up, with link to view more
@@ -494,6 +534,8 @@ later
 https://www.myfonts.com/fonts/flanker/poliphili/ but it's $20-50 (http://www.studiodilena.com/en/2305.html) from https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili
 
 could try Bembo font, also based off the same book
+
+for garamond currently using 500 (we ask for 400, but using 500), 600 italic, and 700
 
 ## ■▤□ Author
 
@@ -535,6 +577,22 @@ code:
 - https://threejs.org/examples/#webgl_lines_fat_wireframe
 - https://threejs.org/examples/#webgl_postprocessing_unreal_bloom
 
+### facet hover
+
+data-facet= (added when processing REFs) and :after content
+
+- (labeled) glyph square on trinym hover?
+    + like above and below are the other facets from that axis, dimmed, with text and glyph
+    + to the sides are the other axes
+- CSS/JS attached to data-facet for hover
+
+### lamina hover
+
+- show three glyphs in :after?
+    + probably not in ordial-primer chapter - do we even want those to link?
+- probably the same REF popup as anything else
+- could expand with facet definitions
+
 ## ■▤□ Plates
 
 - border
@@ -561,15 +619,15 @@ this gets used (no double quotes allowed):
 
     MEDIA("pic-name.jpg")
 
-## ■▤□ References
+## ■▤▤ References
 
-TODO actually go and add REFs for all the glossary terms
+"go to [page title]" link if diffrent page, otherwise "go to text" if on same page?
+
+### spec
 
 Source/main reference is EITHER an h# element with id, or a `<dfn>` element with `id` attr showing up anywhere. Text content of node is the name of term being defined, or the `name` attribute can be it. Definition is optional - the `def` attribute or wrapping element's text (end with period). Id is its or parents `id`. `no-index` attribute excludes from index
 
-Should have an optional actual definition string that can be shown in tooltip, and "go to [page title]" link if same page, otherwise "go to text" if on same page?
-
-References themselves just link <a> tags for now (maybe should be <abbrv> or <dl>)
+References themselves just `a.ref`
 
     REF[text](page#anchor)
     REF[text](#anchor)
@@ -597,31 +655,6 @@ References themselves just link <a> tags for now (maybe should be <abbrv> or <dl
     + if yes, update href with filename
 
 same-page REFs link as normal. if not found, look for page ID transform
-
-- gloss is just a ref to something in the glossary
-- A-Z index of all of them, each showing chapter as source
-    + bold the one with definition
-    + how to show multiple references on same page? i guess don't
-- don't do separate page for each item, each lives somewhere
-- should you be able to hover for quick description? for glossary items definitely yes, maybe heading/dfn can define a summary, or we can pull it out somehow (see dfn spec) and parse those
-
-floating TOC?
-
-### facet hover
-
-data-facet= (added when processing REFs) and :after content
-
-- (labeled) glyph square on trinym hover?
-    + like above and below are the other facets from that axis, dimmed, with text and glyph
-    + to the sides are the other axes
-- CSS/JS attached to data-facet for hover
-
-### lamina hover
-
-- show three glyphs in :after?
-    + probably not in ordial-primer chapter - do we even want those to link?
-- probably the same REF popup as anything else
-- could expand with facet definitions
 
 ## ▤▤□ Gondola Owl
 
