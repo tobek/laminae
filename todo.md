@@ -1,11 +1,5 @@
 # requirements before launch
 
-now
-
-- update tobyfox.com
-
-~3h
-
 before launch to world
 
 - glossary/index `?`
@@ -30,29 +24,6 @@ before launch to world
 - renumber/reorder `30m`
 
 ~7h non laminae
-
-
-separate for j
-
-Hey friends,
-
-As promised and intended, it's [not done](https://thereitwas.com/bits/progress.html), but it's ready enough: https://thereitwas.com/laminae/. I'll continue to grow it as the whims strike, but I am satisfied for now.
-
-To reiterate, I've no expectation that you look at it or be interested--it's a fantasy-ish worldbuilding project/guide/encyclopedia, which I think has a pretty narrow audience, and it's also book-length (though amenable to skimming, a la wikipedia). But if you check it out I am accepting comments feedback and bug reports, and regardless, thank you for your voiced and unvoiced support :muscle: and I enjoyed hearing from those of you that shared similar goals, and I welcome updates!
-
-I might do this again as I work on other stuff (like [this](https://photos.app.goo.gl/mGjPsSjNimbkuyUd9)), maybe one or two emails a year, but only if you want me to: https://tinyletter.com/tobyfox
-
-I hope you are healthy and well and soon awaking refreshed from a deep long slumber.
-
-Thanks for tuning in!
-
-Much love,
-Toby
-
-
-I might do this again as I work on other stuff, maybe one or two emails a year, but only if you want me to: https://tinyletter.com/tobyfox
-
-
 
 # big questions
 

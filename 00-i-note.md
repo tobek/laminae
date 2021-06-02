@@ -12,9 +12,9 @@ Verifying any the information related here has of course proved beyond our means
 
 TODO(some decorative dinkus)[]
 
-<i>
+<em>
 Ulchis Scriver, Rector Capitalis<br>
 <span class="guild-name">The Order of Anaphoric Circumstance</span><br>
 221st Year of Lyrian Conscientia<br>
 Cursus Aesculu, Lyria
-</i>
+</em>
