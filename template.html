@@ -505,30 +505,35 @@ $endfor$
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11829346-3"></script>
 <script>
+  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop";
+  var pageId = "$filename$";
+  var no = false;
+  try {
+    no = localStorage.no;
+  } catch {}
+  var doBoops = location.origin.indexOf("thereitwas.com") !== -1 && !no;
+
   function setUpG() {
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-11829346-3');
   }
+
+  function beep(e) {
+    var href = e.currentTarget.getAttribute("href").replace(".", "-").replace("#", "!").replace("/", "|");
+    navigator.sendBeacon(url + "?id=" + pageId + "&link=" + href);
+  }
   function setUpBoops() {
-    var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop";
-    var pageId = "$filename$";
     fetch(url + "?id=" + pageId, {mode: 'no-cors'});
-    function beep(e) {
-      var href = e.target.getAttribute("href").replace(".", "-").replace("#", "!").replace("/", "|");
-      navigator.sendBeacon(url + "?id=" + pageId + "&link=" + href);
-    }
-    document.querySelectorAll('a').forEach(function(el) {
-      el.addEventListener("click", beep);
+    window.addEventListener("load", function() {
+      document.querySelectorAll('a[href]').forEach(function(el) {
+        el.addEventListener("click", beep);
+      });
     });
   }
 
-  var no = false;
-  try {
-    no = localStorage.no;
-  } catch {}
-  if (location.origin.indexOf("thereitwas.com") !== -1 && !no) {
+  if (doBoops) {
     setUpG();
     setUpBoops();
   }
@@ -574,10 +579,6 @@ $if(title)$
     <h4 class="subtitle">
       $subtitle$
     </h4>
-  $endif$
-  $if(in_progress)$
-    <h3>TRANSLATION IN PROGRESS</h3><br>
-    <h4 class="subtitle editor-note">[Please turn to <a href="18-cnd.html">The Inevitability</a>, <a href="25-cec.html">The Bloom</a>, or <a href="10-lnc.html">The Unfolding</a> for completed chapters.]</h4>
   $endif$
   </header>
 $endif$
