@@ -505,7 +505,7 @@ $endfor$
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11829346-3"></script>
 <script>
-  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop";
+  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop?project=laminae";
   var pageId = "$filename$";
   var no = false;
   try {
@@ -521,11 +521,15 @@ $endfor$
   }
 
   function beep(e) {
-    var href = e.currentTarget.getAttribute("href").replace(".", "-").replace("#", "!").replace("/", "|");
-    navigator.sendBeacon(url + "?id=" + pageId + "&link=" + href);
+    var href = e.currentTarget.getAttribute("href")
+      .replace(".html", "")
+      .replace(/\./g, "·")
+      .replace("#", "~")
+      .replace(/\//g, "⁄");
+    navigator.sendBeacon(url + "&id=" + pageId + "&link=" + href);
   }
   function setUpBoops() {
-    fetch(url + "?id=" + pageId, {mode: 'no-cors'});
+    fetch(url + "&id=" + pageId, {mode: 'no-cors'});
     window.addEventListener("load", function() {
       document.querySelectorAll('a[href]').forEach(function(el) {
         el.addEventListener("click", beep);
