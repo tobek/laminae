@@ -505,11 +505,21 @@ $endfor$
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11829346-3"></script>
 <script>
-  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop?project=laminae";
   var pageId = "$filename$";
-  var no = false;
-  try { no = localStorage.no; } catch {}
+  var no = false; try { no = localStorage.no; } catch {}
   var doBoops = location.origin.indexOf("thereitwas.com") !== -1 && !no;
+
+  var booper;
+  try {
+    booper = localStorage.booper;
+    if (!booper) {
+      booper = Math.random().toString(36).substr(2, 7);
+      localStorage.booper = booper;
+    }
+  } catch {
+    booper = "X" + Math.random().toString(36).substr(2, 7);
+  }
+  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop?project=laminae&booper=" + booper;
 
   function setUpG() {
     window.dataLayer = window.dataLayer || [];
