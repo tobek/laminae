@@ -156,6 +156,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-06-02|1   |43990|1594|52%|44%|22|99|63|36|
 |2021-06-01|8   |43990|1559|52%|44%|22|99|63|36|
 |2021-06-01|6   |43176|1465|40%|41%|17|94|62|32|
 |2021-05-31|7.5 |42250|1398|40%|40%|17|90|58|32|
@@ -277,7 +278,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 43,990 | 1,564 | 22/42 | 99/224 |
+| 43,990 | 1,594 | 22/42 | 99/224 |
 </div>
 
 <div class="progress-wrap">

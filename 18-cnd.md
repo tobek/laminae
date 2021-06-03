@@ -121,7 +121,7 @@ Lost magic is the focus of a troupe that consist of a single building, perhaps t
 
 ### Decomposing Buried Treasure
 
-Ancient caches leave behind no recognizable spoils to return to the Inevitability, decaying as it does in place, but long after any trace of the subject remains, the quiet, shrewish, sentimental Unravellers of this troupe revisit the sites of their worked entropy and gather the dust or soil or undersea muck left behind to deposit here into yet another enormous barrow containing the rotted dreams of the multiverse.
+Ancient caches leave behind no recognizable spoils to return to the Inevitability, decaying as they do in place, but long after any trace of the subject remains the quiet, shrewish, sentimental Unravellers of this troupe revisit the sites of their worked entropy and gather the dust or soil or undersea muck left behind to deposit here into yet another enormous barrow containing the rotted dreams of the multiverse.
 
 ### Cooking
 

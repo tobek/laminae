@@ -1,29 +1,23 @@
 import * as functions from "firebase-functions";
 import * as admin from "firebase-admin";
 
+/*
+run locally (hits prod):
+
+$ firebase emulators:start
+$ tsc -w
+*/
+
 admin.initializeApp();
 
-// https://firebase.google.com/docs/functions/typescript
+// export const migrate = functions.https.onRequest(async (req, res) => {
+//   const db = admin.database();
+//   const snapshot = await db.ref("/").get();
+//   db.ref("/new").set(snapshot.toJSON());
+//   db.ref("/old").remove();
+// });
 
-export const migrate = functions.https.onRequest(async (req, res) => {
-  const db = admin.database();
-  // function increment(key: string) {
-  //   const ref = db.ref(key);
-  //   ref.transaction((count) => (count || 0) + 1);
-  // }
-  // increment("/testfoobarbaz");
-
-  const snapshot = await db.ref("/").get();
-  db.ref("/laminae").set(snapshot.toJSON());
-  db.ref("/beeps").remove();
-  db.ref("/beepsByPage").remove();
-  db.ref("/boops").remove();
-  db.ref("/boopsByPage").remove();
-
-  res.send(snapshot.toJSON());
-});
-
-export const getAll = functions.https.onRequest(async (req, res) => {
+export const getBoops = functions.https.onRequest(async (req, res) => {
   const db = admin.database();
   const snapshot = await db.ref("/").get();
   res.send(snapshot.toJSON());
@@ -35,6 +29,11 @@ export const boop = functions.https.onRequest((req, res) => {
   const link = req.query.link;
 
   const db = admin.database();
+
+  /**
+   * really?
+   * @param {string} key wow
+   */
   function increment(key: string) {
     const ref = db.ref((project ? project + "/" : "") + key);
     ref.transaction((count) => (count || 0) + 1);
