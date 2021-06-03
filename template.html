@@ -529,12 +529,19 @@ $endfor$
   }
 
   function beep(e) {
-    var href = e.currentTarget.getAttribute("href")
+    var href = e.currentTarget.getAttribute("href");
+    var cleanHref = href
       .replace(".html", "")
       .replace(/\./g, "·")
       .replace("#", "~")
       .replace(/\//g, "⁄");
-    navigator.sendBeacon(url + "&id=" + pageId + "&link=" + href);
+    navigator.sendBeacon(url + "&id=" + pageId + "&link=" + cleanHref);
+
+    gtag("event", "click", {
+      "event_category": href[0] === "#" ? "anchor" : (href.indexOf("http") === 0 ? "outbound" : "internal"),
+      "event_label": href,
+      "transport_type": "beacon",
+    });
   }
   function setUpBoops() {
     fetch(url + "&id=" + pageId, {mode: 'no-cors'});

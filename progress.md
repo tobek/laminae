@@ -278,7 +278,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 43,990 | 1,594 | 22/42 | 99/224 |
+| 43,990 | 1,604 | 22/42 | 99/224 |
 </div>
 
 <div class="progress-wrap">
