@@ -154,7 +154,6 @@ for i, filename in enumerate(files):
         file_titles += [title]
         input_files += [filename]
         output_files += [filename.replace(".md", ".html")]
-file_titles[0] = "Contents"
 
 # import pprint; pprint.PrettyPrinter(indent=2).pprint(file_data)
 
@@ -171,11 +170,15 @@ for i, filename in enumerate(input_files):
     next_title = ""
 
     if i > 0:
-        prev_href = output_files[i-1]
-        prev_title = file_titles[i-1]
+        if i == 1:
+            prev_href = "./"
+            prev_title = "Contents"
+        else:
+            prev_href = output_files[i-1]
+            prev_title = file_titles[i-1]
     if i > 1:
         contents_href = "./#contents"
-        contents_title = file_titles[0]
+        contents_title = "Contents"
     if i < len(input_files) - 1:
         next_href = output_files[i+1]
         next_title = file_titles[i+1]

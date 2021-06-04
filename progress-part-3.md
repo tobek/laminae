@@ -2,7 +2,7 @@
 
 <div class="progress-wrap">
 
-<div>
+<div class="laminae-wrap">
 <b>Laminae</b>
 
 | | | | |

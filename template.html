@@ -73,7 +73,7 @@
       position: relative;
     }
     html[class="00-0-title"] {
-      font-size: 18px;
+      font-size: 20px;
     }
     html, body {
       scroll-behavior: smooth;
@@ -360,6 +360,11 @@
       .shortcuts.bottom {
         margin-top: 4rem;
       }
+        @media only screen and (max-width: 767px) {
+          .shortcuts.bottom {
+            margin-bottom: 1rem;
+          }
+        }
       .shortcuts a {
         width: 40%;
       }
@@ -519,7 +524,7 @@ $endfor$
   } catch {
     booper = "X" + Math.random().toString(36).substr(2, 7);
   }
-  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop?project=laminae&booper=" + booper;
+  var url = "https://us-central1-laminae-33a27.cloudfunctions.net/boop?project=laminae";
 
   function setUpG() {
     window.dataLayer = window.dataLayer || [];
@@ -544,7 +549,7 @@ $endfor$
     });
   }
   function setUpBoops() {
-    fetch(url + "&id=" + pageId, {mode: 'no-cors'});
+    fetch(url + "&booper=" + booper + "&id=" + pageId, {mode: 'no-cors'});
     window.addEventListener("load", function() {
       document.querySelectorAll('a[href]').forEach(function(el) {
         el.addEventListener("click", beep);
@@ -646,7 +651,7 @@ $endif$
 
 <div class="shortcuts bottom">
   $if(prev_href)$
-    <a href="$prev_href$">&laquo; $prev_title$</a>
+    <a href="$prev_href$">&laquo;&nbsp;$prev_title$</a>
   $else$
     <a></a>
   $endif$
@@ -656,7 +661,7 @@ $endif$
     <a></a>
   $endif$
   $if(next_href)$
-    <a href="$next_href$">$next_title$ &raquo;</a>
+    <a href="$next_href$">$next_title$&nbsp;&raquo;</a>
   $else$
     <a></a>
   $endif$

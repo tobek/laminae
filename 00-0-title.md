@@ -46,30 +46,30 @@
 <style>
 .title-page {
   text-align: center;
-  margin: 4rem 0 6rem;
+  margin: 3.5rem 0 5.5rem;
   font-weight: normal;
-  line-height: 1.5rem;
+  line-height: 1.35rem;
 }
   .title-page .title-1 {
-    font-size: 3rem;
-    margin: 2rem 0;
+    font-size: 2.7rem;
+    margin: 1.8rem 0;
     font-weight: bold;
   }
   .bask .title-page .title-1 {
-    font-size: 2.7rem;
+    font-size: 2.4rem;
   }
   .title-page .title-2 {
-    font-size: 2rem;
-    margin: 1.33rem 0;
+    font-size: 1.8rem;
+    margin: 1.2rem 0;
   }
   .title-page .title-3 {
-    font-size: 1.17rem;
+    font-size: 1rem;
     font-style: italic;
-    margin: 1.33rem 0;
+    margin: 1.2rem 0;
   }
   .title-page .title-4 {
-    font-size: 0.83rem;
-    margin: 0.55rem 0;
+    font-size: 0.75rem;
+    margin: 0.5rem 0;
     font-weight: bold;
     text-transform: uppercase;
   }
@@ -77,24 +77,24 @@
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    line-height: 2rem;
+    line-height: 1.8rem;
     text-transform: uppercase;
   }
   .title-page .spaced {
-    margin: 2.5rem 0;
+    margin: 2.25rem 0;
   }
   @media only screen and (max-width: 767px) {
     .title-page {
-      margin: 1rem 0 4rem;
+      margin: 0.9rem 0 3.6rem;
     }
       .title-page .title-1 {
-        font-size: 2rem;
+        font-size: 1.8rem;
       }
       .title-page .title-2 {
-        font-size: 1.5rem;
+        font-size: 1.35rem;
       }
       .title-page .spaced {
-        margin: 1.5rem 0;
+        margin: 1.35rem 0;
       }
   }
 
@@ -197,6 +197,10 @@
     width: 250px;
     text-align: center;
     pointer-events: none !important;
+  }
+
+  .shortcuts {
+    font-size: 1rem;
   }
 </style>
 

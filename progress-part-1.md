@@ -13,7 +13,7 @@
 	}
 	body {
 		max-width: 1024px;
-		font-size:  22px;
+		font-size:  24px;
 	}
 	    @media only screen and (max-width: 479px) {
 	    	body {
@@ -115,14 +115,17 @@
 			padding-right: 20px;
 		}
 		    @media only screen and (max-width: 1023px) {
-				table td:last-child {
-					padding-right: 0;
-				}
+					table td:last-child {
+						padding-right: 0;
+					}
 		    }
 		    @media only screen and (max-width: 479px) {
-				.progress-wrap table td {
-					padding-right: 5px !important;
-				}
+					.progress-wrap table td {
+						padding-right: 5px !important;
+					}
+					.laminae-wrap table {
+						font-size:  20px;
+					}
 		    }
 
 .legend table {
