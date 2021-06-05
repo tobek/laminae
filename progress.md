@@ -123,7 +123,7 @@
 					.progress-wrap table td {
 						padding-right: 5px !important;
 					}
-					.laminae-wrap {
+					.laminae-wrap table {
 						font-size:  20px;
 					}
 		    }
