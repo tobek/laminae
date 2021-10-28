@@ -5,7 +5,7 @@ subtitle: Hierarchy Utility Dissipation LND
 intro_only: True
 #quote: |
 #    > TODO(find intro quote)
-summary: The labyrinthine interior of a colossal automaton, the outside of which never been seen. The Instrument is tended to by the Moilers, whose culture has lost its knowledge of the automaton's purpose and operation, and as a result have devolved into paranoia and neurosis.
+summary: The labyrinthine interior of a colossal automaton, the outside of which never been seen. The Instrument is tended to by the Moilers, whose culture has lost its knowledge of the automaton's purpose and operation, and as a result have devolved into industrious paranoia and neurosis.
 intro: |
 
     Any Moiler will tell you that something went very wrong in this place. The Instrument consists of the interior of a titanic clockwork automaton whose exterior has never been seen, and in its cramped and infinite chambers the Moilers tend to its byzantine contraptions with maniacal focus. The Instrument's purpose---if there ever was one---has long been lost to the culture here, and in the absence of that teleology the Moilers' work takes on the frantic intensity of a unattainable goal and seems to have driven them mad. The Instrument presents its residents with a kaleidoscope of functions: raw materials cascading through chutes and filling up rooms, hallways locking and unlocking unpredictably and which contain caches of tools and undeciphered etchings and diagrams, all exposed by harsh white lighting and groaning and rumbling with echoes.
@@ -19,6 +19,8 @@ intro: |
 > The Iron Law of Institutions
 >
 > When it comes to institutions or communities, people tend to act in a manner designed to maximize their status *within that institution or community*, not to maximize the probability of fulfilling the institution or community’s external goals.
+
+after viral tweet about possible solution to supply chain backup caused something to get fixed: "Yes exactly - the centralised hierarchies are so amazingly rubbish that there's massive low hanging fruit everywhere. What v v smart outsiders seldom realise is *Insiders dont give a damn & have no incentives to grab this fruit & often have incentives to let it rot*" - https://twitter.com/Dominic2306/status/1451890560395055112
 
 - name
 	+ The Itch

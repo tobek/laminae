@@ -7,9 +7,9 @@ post_intro_only: MEDIA("Waneella - Knight.gif")
 summary: Dark, star-slicked highlands of altars and shrines, each dedicated to a single exceptional petitioner who awaits one final and fatal quest worthy of their heroism.
 intro: |
 
-    Most laminae offer mortals the chance for eternal pursuit and perfection of their philosophical and spiritual ideals as reincarnated petitioners. Not the Ardence. This realm is but a way station on a one-way path to oblivion in the name of honor and benevolence. The champions who find themselves reborn among these dark, star-slicked highlands of altars and mausoleums are instilled with a single purpose: to find one last mission worthy of their abilities, a challenge so perfectly matched that it results in the hero's success and destruction. Pilgrims journey to this lamina to appeal to these heroes for aid, and councils of native bookkeepers receive these pleas and assess the odds that it will be appropriately valiant and perilous before sending their champions forth for their final battles.
+    Most laminae offer mortals the chance for eternal perfection of their philosophical and spiritual ideals as reincarnated petitioners. The Ardence, however, is a way station on a path to noble oblivion. The champions who find themselves reborn among these dark, star-slicked highlands of altars and mausoleums are instilled with a single purpose: to find one last mission worthy of their abilities, a challenge so perfectly matched that it results in the hero's success and destruction. Pilgrims journey to this lamina to appeal to these heroes for aid, and councils of native bookkeepers receive these pleas and assess the odds that it will be appropriately valiant and perilous before sending their champion forth for their final struggle.
 
-    No songs are sung nor monuments erected to commemorate the deeds of those who pass through this place: all memories of the heroes that leave are erased from the minds of residents and supplicants alike. It is not a land of myth or renown, nor ledgers and historical tomes, only hard work and sacrifice for the greater good. Nothing is commemorated, and the fallen are forgotten.
+    No songs are sung nor monuments erected to commemorate the deeds of those who pass through this place: all memories of the heroes that leave are erased from the minds of residents and supplicants alike. It is not a land of myth or renown, nor ledgers and historical tomes, only hard work and sacrifice for a greater good. Nothing is commemorated, and the fallen are forgotten.
 
 ---
 
@@ -18,6 +18,12 @@ intro: |
 		opacity: 0.95;
 	}
 </style>
+
+so, should it still be "good"? are there different groups with different ideas about goodness?
+
+should be very rigid
+
+kinda needs an overhaul and more flavor/complexity
 
 - Rules/logic for the forgetting thing: if you have visited this plane, then you forget
 - bureaucrats ensure missions aren't anywhere where hero will be recognized

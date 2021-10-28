@@ -22,6 +22,7 @@ what is nature of LGP vs CGP, is it suffering vs none (pure peace), or suffering
 - maybe it's about positive vs. negative consequence? although "you lost the competition" which i can imagine in LGP with struggle, is kind of a negative consequence.
 - "I think the most you can plausibly say is that for humanlike architectures, memories of suffering (not necessarily true ones) are necessary to appreciate pleasures more complex than heroin."
 	+ response: "Anyway it seems to me that utopianly speaking the proper psychological contrast for pleasure is sobriety rather than pain."
+- competition and striving is entertained to a huge degree and satisfied by all the creative stuff. people revel in their various masteries. striving over status isn't really a thing - everyone has what they need.
 
 *The ____*
 
@@ -61,11 +62,7 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ## Synthesis Empathy Equilibrium NGP
 
-[opposite to NEP, and between the two of them have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism]
-
-Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to NEP)
-
-restorative justice, past reverb
+[transferred]
 
 ## Synthesis Empathy Dissolution NGD
 
@@ -310,7 +307,7 @@ Beautiful, intricate, ornate.
 
 ## Synthesis Power Equilibrium NEP
 
-the opposite of NGP - opposite of restorative justice? training
+the opposite of NGP - opposite of restorative justice? training, using trauma to become stronger? revenge?
 
 ## Synthesis Power Dissolution NED
 

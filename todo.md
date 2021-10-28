@@ -1,6 +1,30 @@
+# race
+
+- At least stub content (+ TOC?) for all laminae (17 remaining)
+- Interactive cosmology visualization
+- Site-wide glyph visualization
+- Add GPT-3 content in distinct visual style
+- Fleshed out glossary/index stuff
+- Style pass and improvements across the site
+- More content about the author
+- Closing Notes chapter
+- A close edit pass across the whole thing
+- Colophon
+- Review every TODO
+- Other misc bits (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
+- Bonuses:
+    - moodboard images?
+    - more shifting elements
+    - ask myanmar subreddit about use
+    - post it places
+
+"Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168
+
+"Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440
+
 # requirements before launch
 
-before launch to world
+tiny back arrow??
 
 - glossary/index `?`
     + improve
@@ -22,6 +46,7 @@ before launch to world
 - border around images `30m`
 - finalize copyright/D&D removal (just eladrin etc from LNC?) `30m`
 - renumber/reorder `30m`
+- changelog?
 
 ~7h non laminae
 
@@ -37,7 +62,7 @@ before launch to world
         * lgd bookeepers "race"
         * searched "human" and "race" and accounted for all
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
-- more/better narrator stuff
+- more/better author stuff
 
 # big ideas
 
@@ -331,6 +356,10 @@ torment: tides of numenera:
 
 ## ●◍◍○ Glossary/Index
 
+Maybe some kind of floating TOC visualization that shows all 27 planes and the path you took reading through them (cube with intricate path forming a shape, can be shown without the cube)
+
+"tableau" shows up lowercased in index - i guess the term is lowercase? should index have title case applied?
+
 add many more terms in laminae and then add them to glossary
 
 - A-Z index of all of them, each showing chapter as source
@@ -447,6 +476,7 @@ viz:
 
 ## ■▤□ Styles
 
+- more noticable visited vs. unvisited links (for changelog)
 - title page - spacing, caps, weights
 - editors note on NNP line spacing is too tight, but not elsewhere?
 - table of contents/viz

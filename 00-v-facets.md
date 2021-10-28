@@ -124,10 +124,6 @@ The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces t
 
 Where other facets can be antagonistic towards each other, each seeing their own way as more truly reflecting the nature of things, the facets of Means tend to acknowledge the necessity of balance. Despite the fervor with which adherents pursue their means, the wise know that each facet would eventually stall in the absence of one of the others.
 
-
-creation is an imbalance that eventually spills over into cardinal worlds. destruction is an imbalance that can only be fueled by cardinal worlds. the two forces are linked via cardinal worlds. preservation...
-
-
 ### Creation
 
 REF[Creation] is the construction of new ideas, new energy, and new matter. Combining forms in novel ways is a manner of creation, and even creative destruction is constructive for it adds shape to what remains. As the artist will tell you, creative forces can be as maddening as they are inspiring, and take tremendous effort to harness with purpose. On REF[laminae](cosmography#laminae) this facet results in an overflow of material into cardinal worlds, and it may be that all the stuff of our existence originates from these laminae of creation.

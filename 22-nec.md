@@ -36,6 +36,7 @@ you can choose to sleep there forever
 - environment
 	+ of course an ocean, what things lurk beneath!
 		* in many places shallow and warm, in others bottomless
+	+ an area where the floor is covered in a layer of large uniform spheres packed together out of sight in all directions, unknown purpose/history
 - culture
 	+ yes world
 - you are here somewhere - when you're awake, your version here is asleep and still providing you with stuff. what happens if you find yourself?

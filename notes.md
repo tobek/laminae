@@ -35,6 +35,10 @@ skip entire section up to the next equal or higher heading
 
 infinite jest example sentences (does he ever list things, other things, and more things?)
 
+try harder. lyrical and concise and unexpected, like that GPT-3 example ha. going just a little further than expected, like The Angel of Doubt
+
+can i add tension and mystery? what makes the reader what to keep reading?
+
 - bird's eye
     + review todo ideas for shape and texture and philosophy
     + search textbase for trinym
@@ -123,9 +127,10 @@ see Template
     + capitalize demonyms
     + capitalize alignments
     + capitalize in-plane groups and places like Scaffold, Procession, Patterners, Tillers
-    + capitalize "The" in plane names? have been NOT, e.g. "the Netherlands" or "the Levant" (although "The Hague" why?)
+    + capitalize "The" article in plane names? have been NOT, e.g. "the Netherlands" or "the Levant" (although "The Hague" why?)
         * doing so is a little pretentious?
         * note that wiki doesn't link the "the" in "the Netherlands"
+        * the gambia, the bahamas, other examples: https://www.businessinsider.com/why-ukraine-isnt-the-ukraine-and-why-that-matters-now-2013-12
     + prime? so far yes for both Prime planes and Primes as being, Prime-wards, etc.
 
 ## Grammatical person
@@ -294,6 +299,7 @@ when decided, update the frame story
 
 - weirdtopia <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia?postId=cWjK3SbRcLkb3gN69&view=postCommentsBest>
 - Dissimulation
+- Gil Bruvel art?
 
 ### The Glassing
 
@@ -335,7 +341,11 @@ TODO go through evil sketch
 
 19 of them!
 
+- looking for the chosen one - in an interesting way
+    + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
+- society that glamorizes maintenance instead of creation?
 - death?
+- two plans that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
@@ -368,6 +378,13 @@ TODO go through evil sketch
 - strange loops
     + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it LXX or NXX. LNP?
 - weirdly insensitive and/or literally stupid, but powerful
+- bureaucracy?
+    + belgium
+        * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
+        * "Belgium offers a lesson in stability through chaos. Even its demise would be serene. It is the world’s most successful failed state."
+        * https://www.economist.com/europe/2021/06/24/belgitude-the-art-of-belgian-zen
+- transportation: they'll take you anywhere, ferriers
+- secret society so secret and/or went wrong such that no one could get back into it (LND?)
 - used
     + https://en.wikipedia.org/wiki/Rotation_method
     + an infinite jest (/burning man/blockchain/lsd)-inspired thing, something where everyone annoyingly loves it, raves, but it's actually good and changes your ife
@@ -825,6 +842,7 @@ anagram names:
         - The Cicatrix* (the scar of a healed wound e.g. on plant)
         - The Clamor*
         - The Clarion (shrill trumpet, or loud and clear)
+        - The Clasp
         - The Coalescence
         - The Collision
         - The Concert
@@ -864,6 +882,7 @@ anagram names:
         - The Husk
         - The Illumination
         - The Imminence (state or fact of being about to happen)
+        - The Increpation (chiding, rebuking, censure, from making a nosie, creaking)
         - The Keen*
         - The Keyhole*
         - The Kiln

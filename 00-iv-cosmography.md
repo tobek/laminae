@@ -30,6 +30,8 @@ Each of the twenty-seven laminae is shaped by its location at the intersection o
 
 These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, and from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:
 
+TODO(should each row link to the respective lamina?)[]
+
 <div class="copy-table lamina-table">
 | | | | |
 | :-: | :-: | :-: |
@@ -101,7 +103,7 @@ The laminae are divided from us and each other by a substance known as the <dfn 
 
 This visitor has not successfully cultivated this skill, and so like most travellers instead relies on established apertures, found and waymarked for the uninitiated.
 
-### <dfn def="Locations where two realms are close enough to each other that you may easily slip between them. They appear as uncanny distortions and passage through them can be disorienting and dangerous.">Apertures</dfn>
+### <dfn def="Locations where two realms are close enough to each other that you may easily slip between them. They appear as uncanny distortions through which passage can be disorienting and dangerous.">Apertures</dfn>
 
 Apertures are locations where two realms are close enough to each other that you may easily slip between them. The largest are striking. They resemble a region of space, solid like a sphere though the shapes vary wildly, through which you can see the realm on the other side. It is not like a window, offering a flat and neatly cropped view of what lies beyond, but rather the view is distorted as if through a glass bead, such that you will see the sky, the earth, and a whole panoramic landscape warped through the contours of the aperture, as likely to be sideways or upside-down as it is to be right side up. It is a staggering thing to see for the first time, violating the comfort of a lifetime's understanding of the shape of things.
 

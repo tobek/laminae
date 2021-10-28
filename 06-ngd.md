@@ -22,11 +22,11 @@ the point:
 - the joy of letting go
 -->
 
-
+HUMOR: just laughing at it. ayy lmao
 
 Cathartic sacrificial/purging rituals? Celebratory graveyard/memorializing?
 
-Sacrificers: bring something you are done with or want to get rid of (or celebrate in a blaze of glory) and a ritual will be created around it, its essence split up and dispersed. Or maybe like a graveyard (could swap with NGD) where everything is done appropriate justice, eulogized by incredible orators. Bloodletting.
+Sacrificers: bring something you are done with or want to get rid of (or celebrate in a blaze of glory) and a ritual will be created around it, its essence split up and dispersed. Or maybe like a graveyard where everything is done appropriate justice, eulogized by incredible orators. Bloodletting.
 
 Blissful letting go. But the thing you are forced to let go of is rarely the thing you came to let go of.
 
@@ -63,6 +63,8 @@ Graveyard?
 		* memorialize it
 	+ bloodletting, scarification
 	+ like the Midsommar screaming one
+	+ you put a construct on a pedestal and sing its praises and then smash it - graveyard of empty pedestals
+		* maybe higher impact: you're in a makeshift room with the pedestal, and aftewards the walls are let down and you see all the other empty pedestals. and then you smash it?
 - somewhat dangerous?
 - tattooed and weird petitioners?
 - enviro
