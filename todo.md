@@ -499,7 +499,20 @@ maybe
     + go one heading level deeper?
     + Lombardic/rubricated capitals every paragraph?
 - capitalization (demonyms, The Laminaname)
+    + i've been capitalizing Ordial, but not cardinal or laminae
+        * i guess Ordial Plane or the Ordial should be capitalized, and Ordial" adjective too?
+    + in english, adjectival forms of countries/languages are capitalized
+        * "the adjectival form of a proper noun keeps its properness (and thus its initial cap) for itself, but also that properness does not extend to phrases that are not proper with the noun form"
+            - e.g. "the Mississippi Band" vs "various Mississippian bands"
+    + lamina is not capitalized cause it's like plane
+    + should Cardinal be, like Prime Material planes?
+        * but then there should be a proper noun form, Cardinal Worlds, which eh
+        * currently not capitalized, but maybe looks odd e.g. end of cosmography Laminae section
 - middot · (with nbsp before) instead of colons? used middot in CND list
+    + how does this look compared to semicolon?
+- different/more noticeable styling for :visited links?
+    + maybe track in local storage which links user has clicked, so e.g. they might have visited a page but not clicked on a glossary term and unless they read the whole page maybe they didn't see the glossary term
+        * maybe like two tiers of :visited
 
 later
 

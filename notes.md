@@ -311,11 +311,16 @@ steam -> rust and/or ground glass
 
 ### Think about for each
 
+- Search trinym, as well as YXX, XYX, and XXY
 - What's the point?
 - Environment
     + Landscape
     + Seasonality
     + Weather
+- Culture
+    + How do they organize themselves?
+    + How do subgroups interact?
+    + How are they grouped? No "family", so
 - Review author notes and think about how to insert
 - How do they greet each other? Cultural tics
 - How they interact with prime worlds
@@ -339,8 +344,9 @@ TODO go through evil sketch
 
 (move from above and below into here)
 
-19 of them!
+21 of them!
 
+- "an indigenous Amazonian society that shifted seasonally between two entirely different forms of social organization (small, authoritarian nomadic bands during the dry months; large, consensual horticultural settlements during the rainy season)"
 - looking for the chosen one - in an interesting way
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
 - society that glamorizes maintenance instead of creation?
@@ -367,6 +373,7 @@ TODO go through evil sketch
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
 - Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
 - All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC
+    - https://twitter.com/TylerAlterman/status/1453671384186564610
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
 - incredible beauty - LEC, LEP, NEP
 - Sex CGD?
@@ -376,7 +383,7 @@ TODO go through evil sketch
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
-    + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it LXX or NXX. LNP?
+    + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
 - weirdly insensitive and/or literally stupid, but powerful
 - bureaucracy?
     + belgium
@@ -457,6 +464,7 @@ TODO go through evil sketch
 
 ### Relational, Situational, Happenings
 
+- headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND?)
 - caste systems (LND?)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
@@ -490,7 +498,6 @@ TODO go through evil sketch
     + "Because of the end of scarcity, the economic roles of production and consumption have switched; wealth is now acquired by consuming, and producers pay consumers to use their goods or services. The right to make something is highly coveted and prestigious, and producing without a customer is illegal and severely punished." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#gkAPnw9FmXn8ZHSPo>
     + there is some oracle that knows what's "best" for every action in its domain - you're free to listen to it or not. "Everyone is free to listen to The Computer or not, but you know that your decision would be less efficient for accomplishing your goals. Such rebellions are useless, however, because The Computer's prediction capabilities include whether or not you will take its advice, and it acts accordingly to make sure you get the best results anyway."
 - symbiotic creatures groom and pick things off you, but not physical stuff, something else, emotional/dreams too easy, but they live off of it? there's some efficiency here. don't stay too long or it's too much?
-- headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND?)
 - seeking out a state of "unknowing"
     + 'all thoughts and desires under a "cloud of forgetting," and thereby piercing God's cloud of unknowing with a "dart of longing love" from the heart... "For He can well be loved, but he cannot be thought." ... "And so I urge you, go after experience rather than knowledge"'
     + https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing
@@ -1195,7 +1202,7 @@ BUT DO I WANT THEM?
 
 # template
 
-# The ____
+# The ____ SKIP
 
 ---
 subtitle: Colorful Grandmas Crystallize CGC
