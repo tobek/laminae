@@ -11,16 +11,12 @@
 - A close edit pass across the whole thing
 - Colophon
 - Review every TODO
-- Other misc bits (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
+- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
 - Bonuses:
     - moodboard images?
     - more shifting elements
     - ask myanmar subreddit about use
     - post it places
-
-"Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168
-
-"Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440
 
 # requirements before launch
 
@@ -54,6 +50,9 @@ tiny back arrow??
 
 - should ordial primer link to laminae and glossary terms?
 - include conduit?
+- language??
+    + can petitioners and mortals understand each other? handwave something? how to petitioners from different worlds understand each other??
+    + planescape it's just celestial/infernal etc?
 - setting
     + part of our world? tenuously, compatible
     + is there any benefit to using fantasy races? elves etc. maybe not.
@@ -508,6 +507,7 @@ maybe
     + should Cardinal be, like Prime Material planes?
         * but then there should be a proper noun form, Cardinal Worlds, which eh
         * currently not capitalized, but maybe looks odd e.g. end of cosmography Laminae section
+        * might also use "cardinals"? nah use mortals
 - middot · (with nbsp before) instead of colons? used middot in CND list
     + how does this look compared to semicolon?
 - different/more noticeable styling for :visited links?

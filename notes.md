@@ -309,10 +309,12 @@ radiance -> honey? glass? just solid glass all the way. or swap with positive
 lightning -> metal? metal wire/strands?
 steam -> rust and/or ground glass
 
-### Think about for each
+### Think about for each/Procedure
 
-- Search trinym, as well as YXX, XYX, and XXY
 - What's the point?
+- Research
+- Search trinym, as well as YXX, XYX, and XXY
+- Read through foci and everything, list candidates
 - Environment
     + Landscape
     + Seasonality
@@ -321,17 +323,19 @@ steam -> rust and/or ground glass
     + How do they organize themselves?
     + How do subgroups interact?
     + How are they grouped? No "family", so
-- Review author notes and think about how to insert
-- How do they greet each other? Cultural tics
+    + How do they greet each other? Cultural tics
 - How they interact with prime worlds
     + if destruction, they consume, if creation, they overflow
+    + Arcs of laminal culture influence history of cardinal worlds
 - Nature of petitioners
     + https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
 - Something that changed over time
     + e.g. the komusou - anonymous monks so attracted bandits etc
+- Review author notes and think about how to insert
+- What's the point?
+- WRITE
 - *once done*
-    + search name/demonym everywhere and mark as used
-    + search trinym everywhere and see if updates needed
+    + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
     + update progress
     + update TOC
     + comment out from rand
@@ -344,14 +348,16 @@ TODO go through evil sketch
 
 (move from above and below into here)
 
-21 of them!
+23 of them!
 
+- something where everything is like a play, or all interactions are formulaic
+    + greek stock characters/jungian archetypes etc
 - "an indigenous Amazonian society that shifted seasonally between two entirely different forms of social organization (small, authoritarian nomadic bands during the dry months; large, consensual horticultural settlements during the rainy season)"
 - looking for the chosen one - in an interesting way
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
-- society that glamorizes maintenance instead of creation?
+- society that glamorizes maintenance instead of creation? LGP
 - death?
-- two plans that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
+- two planes that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
@@ -360,7 +366,6 @@ TODO go through evil sketch
 - Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED? NGD/CGD you join for ritual
 - magical research outpost, maybe in CNC or CGC
 - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC)
-- the echo - everything you hear or read you know its source, all the way back. crystalline psychedelic reverb - LGC, NGD, *NGP*
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
     + maybe weirdly LGC? NGD, CGD, CNP, LEC, LEP, NEC, CEP, CNC, CGC
@@ -378,19 +383,19 @@ TODO go through evil sketch
 - incredible beauty - LEC, LEP, NEP
 - Sex CGD?
 - a prison (w research/testing?)
-- visual distortion like "Rorik Smith" polyhedral panoramic pics (NNC?)
+- non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC?)
 - sleep NEC
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
     + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
 - weirdly insensitive and/or literally stupid, but powerful
-- bureaucracy?
+- bureaucracy? LXX
     + belgium
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
         * "Belgium offers a lesson in stability through chaos. Even its demise would be serene. It is the world’s most successful failed state."
         * https://www.economist.com/europe/2021/06/24/belgitude-the-art-of-belgian-zen
-- transportation: they'll take you anywhere, ferriers
+- transportation: they'll take you anywhere, ferriers, psychopomps
 - secret society so secret and/or went wrong such that no one could get back into it (LND?)
 - used
     + https://en.wikipedia.org/wiki/Rotation_method
@@ -401,6 +406,7 @@ TODO go through evil sketch
     + eschaton godhead approaching
     + Pure experience/observation
     + mutatorium
+    + the echo - everything you hear or read you know its source, all the way back. crystalline psychedelic reverb
     + pain/torture
         * torturers are split in the way LGP and CGP are split - whether pleasure is required for utmost torture or if pure pain will suffice. Pleasure provides more tools, such as rewarding victims with sex or abatement of pain for them doing things that make them despise themselves. One clique or torturer is famous for inflicting BSG Cavil on people.
 
@@ -414,18 +420,18 @@ TODO go through evil sketch
 - Underwater
 - On water
 - Floating islands
-- Endless river delta
+- Endless river delta - already CGP/Brink?
 - R'lyeh
 - Church
 - Valley cathedral, like that photo I took in Molasses (?)
 - Gothic architecture
 - Endless castle/palace (maybe LEP/LEC?)
 - Maze (LEC?)
-- (Traveling) Carnival (is this CND already)
+- (Traveling) Carnival (is this CND already) - maybe some in NGD
     - "Other common features of carnival include mock battles such as food fights; expressions of social satire; mockery of authorities; costumes of the grotesque body that display exaggerated features such as large noses, bellies, mouths, phalli, or elements of animal bodies; abusive language and degrading acts; depictions of disease and gleeful death; and a general reversal of everyday rules and norms."
     - in Roman Saturnalia, masters and slaves feasted together, or masters provided table service for slaves, also a time for free speech where slaves could say anything
 - Cemetery/necropolis (same as prison plane?)
-- W40k teeming Terra - maybe LGC but that might not fit yet. LG would be ideal, but any L ok
+- W40k teeming Terra - maybe LGC but that might not fit yet. LGX would be ideal, but any LXX ok
 - Japanese garden
 - https://en.wikipedia.org/wiki/List_of_garden_features
     + stumpery (nicely piled dead trees)
@@ -438,7 +444,7 @@ TODO go through evil sketch
 - Something like a space habitat
 - Like a temple space station with galaxy backdrop, see one of the Philippe Druillet pics
     + "mark ferrari - spyro- eternal night - icetemple01b"
-- Cofferdam (enclosure in a body of water)
+- Cofferdam (enclosure in a body of water - huge)
 - Smoke
 - Black desert (and its oases!) (maybe CNP, or CEC if nothing else)
 - Murals
@@ -454,7 +460,6 @@ TODO go through evil sketch
 - Medieval illuminated manuscripts
     - both the overaching style, and them as actual objects in the place
 - ice age engulfed something ("epic fantasy art dump - byPC1eB.jpg")
-- non-euclidean like Rorik Smith polyhedral pics or something
 - gargantuan statue(s) (https://en.wikipedia.org/wiki/Statue_of_Unity) LGD?
 - *used*
     + Pageant/parade/procession (https://en.wikipedia.org/wiki/Procession#Procession_elements)
@@ -472,7 +477,7 @@ TODO go through evil sketch
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
-- Mnemonic objects - clothing or jewelry records life events (maybe part of caste system above)
+- Mnemonic objects - clothing or jewelry records life events (maybe part of caste system above) NGP?
 - Language/writing
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP
     + maybe some other perception issue
@@ -481,7 +486,7 @@ TODO go through evil sketch
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
 - Some creature that responds to Creation and/or Destruction, to be used to test if exposure is too high. Maybe by those wizards that study the planes of pure C/D.
     - from something: "Canaries are extremely sensitive to ambient magic, and will mutate in the presence of cursed architecture. Grave-looters keep them as pets"
-- some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, could be added to LNC promenade for "Arid yet Verdant"?
+- some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, could be added to LNC promenade for "Arid yet Verdant"? NGP?
 - psychedelics (CGP)
 - "Somewhere in the ocean hundreds of miles north of the Shirerithian mainland there is a mountainous arctic island upon which thrives an emergent oracular techno-theocracy that calls itself the Shining Garden of Raikoth. Its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too wear the spiral."
 - sexual proclivities replace other tribal markers and are increasingly fractured
@@ -501,7 +506,7 @@ TODO go through evil sketch
 - seeking out a state of "unknowing"
     + 'all thoughts and desires under a "cloud of forgetting," and thereby piercing God's cloud of unknowing with a "dart of longing love" from the heart... "For He can well be loved, but he cannot be thought." ... "And so I urge you, go after experience rather than knowledge"'
     + https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing
-- empty mind, empty conscience - some kind of small brain everything is easier if you just think nothing oblivion situation
+- empty mind, empty conscience - some kind of small brain everything is easier if you just think nothing oblivion situation - is this already NND?
 - some crazy education process for new petitioners
     + like lesswrong weirdtopia comment where you work your way through simulation of human civilization learning everything
     + NGC could do this for Universal Story
@@ -585,7 +590,7 @@ TODO go through evil sketch
     - Ethical egoism
         - that actions whose consequences will benefit the doer can be considered ethical (as opposed to altruism or utilitarianism)
     - some radical effort to avoid cults of personality, like after a leader's fixed term you are never allowed to mention them again or something (what spurred this?)
-- Quaker/Amish
+- Quaker/Amish - NGP?
     + quaker: "belief in the ability of each human being to experience and access the light within or to see "that of God in every one""
 - Rhetorical genius (genius: "individual instance of a general divine nature that is present in every individual person, place, or thing")
 - ‎"They can't tell a context story. They can't tell a structure story. They have to tell a hero story." hakim bey. should one plane be a hero story? (LGD) But one which ends up deeply reflecting the context?
@@ -613,7 +618,9 @@ TODO go through evil sketch
     - definitionish
         - hm "a pervasive lack of interest and difficulty concentrating on the current activity"
         - 1) prevented from engaging in wanted activity, 2) when we are forced to engage in unwanted activity, or 3) when we are simply unable for some other reason to maintain engagement in an activity
-- "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB
+- "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better
+- "Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168
+- "Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 NGP?
 - done
     + physics - entropy and 2nd law of thermodynamics (done - CND)
 
@@ -667,16 +674,16 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "modest expectations, remorselessly fulfilled" https://www.theguardian.com/news/2017/nov/24/how-the-sandwich-consumed-britain
 - "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html
 - "he has grasped the falsity of the hedonistic attitude to life. Nearly all western thought since the last war, certainly all “progressive” thought, has assumed tacitly that human beings desire nothing beyond ease, security and avoidance of pain. In such a view of life there is no room, for instance, for patriotism and the military virtues. The Socialist who finds his children playing with soldiers is usually upset, but he is never able to think of a substitute for the tin soldiers; tin pacifists somehow won’t do. Hitler, because in his own joyless mind he feels it with exceptional strength, knows that human beings don’t only want comfort, safety, short working-hours, hygiene, birth-control and, in general, common sense; they also, at least intermittently, want struggle and self-sacrifice, not to mention drums, flags and loyalty-parades. However they may be as economic theories, Fascism and Nazism are psychologically far sounder than any hedonistic conception of life. The same is probably true of Stalin’s militarized version of Socialism. All three of the great dictators have enhanced their power by imposing intolerable burdens on their peoples. Whereas Socialism, and even capitalism in a more grudging way, have said to people “I offer you a good time,” Hitler has said to them “I offer you struggle, danger and death,” and as a result a whole nation flings itself at his feet." - George Orwell review of Mein Kampf, 1940 - LGC? and/or LGP vs CGP has to deal with this. LEP tho?
-- "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP?)
+- "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP? LEP?)
 - edward gorey ideally if anything were any good it would be indescribable (NNC)
-- Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC?)
+- Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC? NEC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
 - mutantur omnia nos et mutamur in illis - All things change, and we change with them (CNC? CGC? NGD)
 - "Nothing that comes at the right time for you is too early or too late for me. Everything is fruit to me that your seasons bring, Nature." (marcus aurelius stoicism paraphrase) (CEC? NGC)
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
 - "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC maaaybe but not great)
-- "Nothing in life is to be feared, it is only to be understood." - Marie Curie
+- "Nothing in life is to be feared, it is only to be understood." - Marie Curie - NGP sentiment, but too played out?
     - followed by "Now is the time to understand more, so that we may fear less."
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
 - rilke quote about god coming
@@ -687,7 +694,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGD, CGD)
         - 273. You who have proved how much like me you are: how could I trust you? (NGD, CGD)
     - James Richardson, Vectors 2.0: More Aphorisms and Ten-Second Essays
-        - 91. If you make rules only you can win by, they will play by other rules.
         - 17. When all agree, so does the Devil.
         - 148. Billions of years, the dust hasn't settled. Water's still seeking its own level.
     - VECTORS 3.0: EVEN MORE APHORISMS AND TEN-SECOND ESSAYS
@@ -708,26 +714,8 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
-    * 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. (NNC)
-
-
-Semja
-Jesma
-Masje
-Asjem
-
-Rosindarch
-Sorindarch
-Sirondarch
-Arsinchord
-Sarinchord
-Shirancord
-Orchidsarn
-Sorchinard
-Sordanrich
-Sordinrach
-Sardinroch
-Risardnoch
+    + 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. (NNC)
+    + 91. If you make rules only you can win by, they will play by other rules. NGP
 
 Whereto the almighty answered, not displeased.
 A nice and subtle happiness I see
@@ -765,6 +753,26 @@ Irradiance, virtual or immediate touch?
 -Adam asking Raphael if angels have sex, PL, Book VIII 611-17
 (Raphael blushes in response: he "glowed / Celestial rosy red, love's proper hue".  Then gracefully admits they do: "Let it suffice thee that thou knowst / Us happy, and without love no happiness."  Goes on to clarify a little more about the purity of it all.)
 
+#### quote authors
+
+Semja
+Jesma
+Masje
+Asjem
+
+Rosindarch
+Sorindarch
+Sirondarch
+Arsinchord
+Sarinchord
+Shirancord
+Orchidsarn
+Sorchinard
+Sordanrich
+Sordinrach
+Sardinroch
+Risardnoch
+
 anagram names:
 
     function shuffleArray(array) {
@@ -791,6 +799,7 @@ anagram names:
 - suicide cliff: https://open.spotify.com/track/5xc89NHPX4oUxikCYu1Mve
 - should be asleep https://www.youtube.com/channel/UC-RVESJTf_zSaFB8qGoxOnA
     + https://www.youtube.com/watch?v=3EUFiMj4leI track 2 beasts and baubles
+    + https://www.youtube.com/watch?v=9mHv2Zj_QW8 Kenneth Jay Ross - Moon Lagoon (1987) [Full Album]
 - https://exitab.exitmusic.org/album/in-white-rooms-extb037
 - C418
 - Takashi Kokubo
