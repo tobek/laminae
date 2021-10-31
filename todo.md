@@ -436,6 +436,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
     + check footnotes come after punctuation
         * search regex `\^.*\][\.,]`
         * or this `\^\[[^\]]+\][^ \n]` but that messes up even more with nested brackets
+        * UNLESS the footnote refers strictly to the portion of the sentence (like an individual word) in which case it can come before punctuation
 - check for english spelling
 - go through all the macros
 - remove comments
@@ -654,6 +655,7 @@ References themselves just `a.ref`
     REF[wind shifters](LNC#wind-shifters)
     REF[Equilibrium](facets#equilibrium)
     REF[Equilibrium] # whitelist dict of terms to auto-map to facets
+    REF[Ordial](ordial-plane) # whitelist with its own id
 
 - parse
     + parse each file

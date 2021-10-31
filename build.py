@@ -246,6 +246,7 @@ for file_id, data in file_data.items():
             anchors[anchor_info["id"]] = anchor_info
 
             # make these top level - just ensure they don't conflict (they shouldn't)
+            # so can do e.g. `REF[Ordial](ordial-plane)`
             if file_id == "cosmography":
                 dupe_anchor_info = dict(anchor_info)
                 dupe_anchor_info["no_index"] = True
