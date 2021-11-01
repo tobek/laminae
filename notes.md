@@ -191,21 +191,23 @@ see Template
     + bell duh
     + maybe NGD cathartic ritual
 
-    descriptive moral relativism holds only that people do, in fact, disagree fundamentally about what is moral, with no judgment being expressed on the desirability of this. Meta-ethical moral relativism holds that in such disagreements, nobody is objectively right or wrong.[1] Normative moral relativism holds that because nobody is right or wrong, everyone ought to tolerate the behavior of others
+    descriptive moral relativism holds only that people do, in fact, disagree fundamentally about what is moral, with no judgment being expressed on the desirability of this. Meta-ethical moral relativism holds that in such disagreements, nobody is objectively right or wrong. Normative moral relativism holds that because nobody is right or wrong, everyone ought to tolerate the behavior of others
 
 i don't think her position should be that "no one is right or wrong"... but then what?
 
 ### back story
 
-*sheltered royalty who aided genocide and then self-exiled herself to wander, in her wanderings she met with the "enemy" and they were fine and it destroyed her worldview, receded into delirium. at the Bell (some entheogen) she realized that ~if we could all just work together and see how we need each other~ it'd be great, and so she decided to try to engineer a foundational myth for her culture that would find a place for all kinds of people, but parable-izing how going hard in one way won't work.*
+*sheltered royalty who aided genocide and then self-exiled herself to wander, in her wanderings she met with the "enemy" and they were fine and it destroyed her worldview, receded into delirium. at the Bell (i.e. some entheogen) (maybe this was well into her laminal journey) she realized that ~if we could all just work together and see how we need each other~ it'd be great, and so she decided to try to engineer a foundational myth for her culture that would find a place for all kinds of people, but parable-izing how going hard in one way won't work.*
+
+so she planned to return to her people. did she? how'd it work out? she'd have to like disseminate it. maybe everything had changed by the time she got back and she wasn't welcome, and so her personal quest ended
 
 maybe the genocide split her family, like her younger brother sided with the peasants, and wanted to escape with her, but instead she let him get executed for it.
 
 early thoughts: daughter of a noble who left, buddha like, to journey and leave it all behind, maybe after a civil war. absolutely no combat nor magic skills or anything. if she had stats, they would all be... str 9, dex 11, con 13, cha 13, int 11, wis 15. no rpg class.
 
-journeyed her whole life but spend lots of time in some of these places, in at least once she considered living forever there because she loved it, but she didn't want to fall prey to dogmatism, this work would remain incomplete if she had stayed
+journeyed her whole life but spend lots of time in some of these places, in at least once she considered living forever there because she loved it, but she didn't want to fall prey to dogmatism, this work would remain incomplete if she had stayed, but she considered it because the lamina suited her (NGP or NGC/Bell?)
 
-she had a formative experience with some political strife that led her to want to convince people that these political absolutes belong to the laminae only (where they are perpetuated by natural forces and semi-no-frill-will'd people) but that on cardinal worlds we must cOexIsT. a world with just sheep or wolves wouldn't work, except a superatural one.
+she had a formative experience with some political strife that led her to want to convince people that these political absolutes belong to the laminae only (where they are perpetuated by natural forces and semi-no-free-will'd people) but that on cardinal worlds we must cOexIsT. a world with just sheep or wolves wouldn't work, except a superatural one.
 
 keep in mind that the Bell's Universal Story is partly responsible for the work??
 
@@ -213,7 +215,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
 - possible objectives:
     + no good or evil, everyone makes sense in their context
     + and no one paradigm works for everything
-        * although that's what Synthesis and Utility say. but likewise in practice you can't adhere to either of those dogmatically?
+        * although that's what Synthesis and Utility say. but likewise in practice you can't adhere to either of those dogmatically, sometimes an extreme is needed?
     + exploration, wonder, research
     + finding a home
     + fixing something - tracking down a family member, righting a wrong that someone (maybe herself) did
@@ -232,6 +234,8 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
 - does she have ties to a community? she did but it got pretty fucked up
 - personality traits
     + humble, funny/amused, listens, regal, simple, kind, accepted by everyone, absolutely no expectations from anything ever
+    + does she overflow with empathy for everything or is she cool-headed?
+        * maybe the former in most of her life, and her journey brought her to the latter?
 - her fate and fate of her work
     + some aperture gone wrong, or maybe emergency exit from The Cartography
     + no time stuff, rather she got suspended in some stasis for a long time and the Order unlocked it
@@ -245,15 +249,16 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + finds a companion
 - parrigues: "claimed to recognize one of the authors, but she responded that they were not acquainted" - maybe somewhere where EVERYBODY seems to recognize one of the authors, this was assumed to be a trait of the plane, but didn't happen to anyone else, so... make of it what you will
 - the conduit
+- she helps resolve some laminal dispute
 - on echo plateau or CGD she gives up looking for her brother, and/or where she forgave herself
     + "it was here that this visitor formally gave up on the cause that began her journey" eh
 - a slip up where she reveals that it's fictional
     + like "but this visitor couldn't think of a more plausible outcome for this lamina"
     + this visitor's imagination couldn't...
     + maybe translator's note calls attention to it, translates it as something more plausible but gives alternate that makes you question
-    + it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right
+- it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right
 - author having an argument with someone over something, mentioned say in footnote
-- one plane, fairly late on, "it was through this portal that this visitor first set foot in one of the laminae"
+- one plane, fairly late on, "it was through this aperture that this visitor first set foot in one of the laminae"
 - also fairly late, a simple note that this is this visitor's favorite spot in the multiverse - maybe it has to do as much with relief from something really difficult. coming out of the cave in spain, a fire.
 - one spot where she spends a very very long time, nearly retired from traveling.
     + but then this work would be incomplete and she'd fall prey to the same dogmatism etc etc
@@ -261,7 +266,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
 - this visitor was honored to be invited to participate in [such and such ceremony], though of course she was not permitted in the [special place]
 - something omitted for it would not reflect well upon this visitor
 - close call (maybe somewhere not particularly dangerous). It was here, of all places, that this visitor came closest to mortal harm, when a ____
-- more beauty - some busy activity in a beautiful place, the beauty makes the time stop
+- more beauty - some busy activity in a beautiful place, the beauty makes the time stop, maybe LGP
     + And then it turned again, and suddenly we were on a street ablaze with cherry trees in luxuriant, excessive bloom. There they were, a dozen on each side of the street, all of them shaggy with flowers, the air around them swarming with floating petals, as if the petals were affixing themselves to the branches. Beneath and around them were everyday people doing everyday things, the tasks that need to be completed if a great city is to function: A delivery truck was being unloaded, and the sidewalk was being swept, and a repairman was shimmying up a telephone pole, and a woman was dragging a wooden crate of what might have been daikon to the door of a soba-ya. It was comical and also unbelievable, as if above them the skies were busy with flying pigs, and no one had noticed. This was a plain, unremarkable street, but in that moment, it was the most beautiful in Japan. It made me wonder whether it wasn’t good fortune after all that the sakura season was so brief, for, these people aside, how could anyone get anything done in the face of such splendor? Wasn’t it miraculous that life didn’t simply cease in those two weeks in April that the trees were in bloom? How could you concentrate on anything else? How could a human compete?
 - show kindness, show listening, show humility
     + "as is customary, this visitor left an offering..."
@@ -333,6 +338,7 @@ steam -> rust and/or ground glass
     + e.g. the komusou - anonymous monks so attracted bandits etc
 - Review author notes and think about how to insert
 - What's the point?
+- Name/demonym
 - WRITE
 - *once done*
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
@@ -461,6 +467,7 @@ TODO go through evil sketch
     - both the overaching style, and them as actual objects in the place
 - ice age engulfed something ("epic fantasy art dump - byPC1eB.jpg")
 - gargantuan statue(s) (https://en.wikipedia.org/wiki/Statue_of_Unity) LGD?
+- https://en.wikipedia.org/wiki/List_of_individual_trees#Mythological_and_religious
 - *used*
     + Pageant/parade/procession (https://en.wikipedia.org/wiki/Procession#Procession_elements)
     + a beautiful metropolis whose divine destruction was averted just moments too late, and is now left frozen in a state of apocalypse, massive eldritch beams coming from the sky, geysers of rubble hovering, etc.
@@ -473,6 +480,7 @@ TODO go through evil sketch
 - caste systems (LND?)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
+- "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
@@ -887,6 +895,7 @@ anagram names:
         - The Figure*
         - The Formation
         - The Frame
+        - The Fulmination (vehement protest, violent explosion/flash)
         - The Gleam
         - The Gossamer
         - The Gnarl*

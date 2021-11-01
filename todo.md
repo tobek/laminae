@@ -559,6 +559,8 @@ for garamond currently using 500 (we ask for 400, but using 500), 600 italic, an
 
 - burmese connection? some burmese myth of a writer? there's https://en.wikipedia.org/wiki/Zawgyi_(alchemist) and https://en.wikipedia.org/wiki/Weizza
 
+ALSO: more translator's notes!
+
 ## ▤□□ Visualization
 
 places where viz would make sense:

@@ -13,7 +13,7 @@ quote: |
 summary: TODO
 
 intro: |
-    TODO intro
+    this lamina holds the seeds of resolution of BLAH. the very nature of it has an incredible property known as the Reverb. when observing the actions of an individual on this lamina, you simultaneously observe the trail of actions that led to that individual taking that action. when a frustrated person yells a particular insult, you will also witness their father flinging that same insult, and their father's childhood BLAH and BLAH (spread out), and onwards with receding intensity the whole history that led to this moment.
 ---
 
 <!--
@@ -32,6 +32,24 @@ NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is bete
 
 old: Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to NEP)
 
+- name
+	- The Resolution
+- demonym
+- environment
+	- huge mesas, communities on top, some other thing in the crevasses between - or vice versa, arduous trek up to the top
+	- grand canyon badlands, rivers and and some trees, sunlight between the mesas
+	- but white instead of orangered? maybe all the color drained out, white mesas over reddish brownish valleys
+	- hot, bright sun, occasional great rains
+- culture
+	- indigenous vibe
+	- quaker?
+	- it's a little fearsome/confusing for mortals brought here?
+	- complex interactions incomprehensible to outsiders, super in tune with each other
+	- sign language using some instrument/tool
+- some kind of messenger deity that helps communicate between groups/facilitate empathy?
+- 'We are always faced with the questions: "what must be destroyed?" and "what must be preserved?"'
+- forgiveness and tolerance - "i can tolerate anything except the outgroup"
+	- 'There are a lot of people who say “I forgive you” when they mean “No harm done”, and a lot of people who say “That was unforgivable” when they mean “That was genuinely really bad”'
 - how do they enact it?
 	+ do people come to them, or do they go out into cardinal worlds? trainings?
 	+ do they inspire peacemakers in dreams?
@@ -46,24 +64,7 @@ old: Literal angels that journey nomadically around the multiverse to tip the sc
 	+ group journeys to/from the mesas
 	+ all sides being disappointed is good
 	+ some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?)
-- so do they get involved in advising legally? no
-
-- name
-- demonym
-- environment
-	- huge mesas, communities on top, some other thing in the crevasses between - or vice versa, arduous trek up to the top
-	- grand canyon badlands, rivers and and some trees, sunlight between the mesas
-	- but white instead of orangered? maybe all the color drained out, white mesas over reddish brownish valleys
-	- hot, bright sun, occasional great rains
-- culture
-	- indigenous vibe
-	- quaker?
-	- it's a little fearsome/confusing for mortals brought here?
-	- complex interactions incomprehensible to outsiders, super in tune with each other
-- some kind of messenger deity that helps communicate between groups/facilitate empathy?
-- 'We are always faced with the questions: "what must be destroyed?" and "what must be preserved?"'
-- forgiveness and tolerance - "i can tolerate anything except the outgroup"
-	- 'There are a lot of people who say “I forgive you” when they mean “No harm done”, and a lot of people who say “That was unforgivable” when they mean “That was genuinely really bad”'
+- author realized here something she was looking for (that this lamina could help)
 
 restorative justice & larger social restorative practices
 
