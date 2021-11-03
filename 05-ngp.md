@@ -13,7 +13,7 @@ quote: |
 summary: TODO
 
 intro: |
-    this lamina holds the seeds of resolution of BLAH. the very nature of it has an incredible property known as the Reverb. when observing the actions of an individual on this lamina, you simultaneously observe the trail of actions that led to that individual taking that action. when a frustrated person yells a particular insult, you will also witness their father flinging that same insult, and their father's childhood BLAH and BLAH (spread out), and onwards with receding intensity the whole history that led to this moment.
+    this lamina holds the seeds of the resolution of BLAH. the very nature of it has an incredible property known as the Reverb. when observing the actions of an individual on this lamina, you simultaneously observe the trail of actions that led to that individual taking that action. when a frustrated person yells a particular insult, you will also witness their father flinging that same insult, and their father's childhood BLAH and BLAH (spread out), and onwards with receding intensity the whole personal history that led to this moment. It is dumbfounding to newcomers, to be faced with such a quantity of information and emotion.
 ---
 
 <!--
@@ -23,29 +23,43 @@ what's the point?
 - the ability to understand and empathise with others is a fundamental aspect of social creatures like humans, and we need it
 -->
 
-TODO: read wiki article on restorative justice
-
-
 restorative justice and problem solving, past reverb
 
 NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is beter to internalize and understand
 
-old: Literal angels that journey nomadically around the multiverse to tip the scales and shore up goodness in peril. The angel over your shoulder, swaying everyone from peasants to emperors in the face of adversity (and in opposition to NEP)
-
 - name
-	- The Resolution
+	- The Braid
+	- The Cicatrix
+	- The Consonance (agreement or compatibility) (not if using LGP Concordance)
+	- The Cumulation (to gather in a heap, combine, build up)
+	- The Echo
+	- The Marrow
+	- reverb effect:
+		- Bright
+		- Consonance
+		- Echo
+		- Sum
 - demonym
+	- Alters
+	- Keys
+	- Ligands
+	- Limns
+	- Looms
+	- Tides
 - environment
 	- huge mesas, communities on top, some other thing in the crevasses between - or vice versa, arduous trek up to the top
 	- grand canyon badlands, rivers and and some trees, sunlight between the mesas
 	- but white instead of orangered? maybe all the color drained out, white mesas over reddish brownish valleys
 	- hot, bright sun, occasional great rains
+	- landscape should be like a healed scar? in the scars (valleys) things grow
+	- animals? leggy things running
 - culture
+	- observant, curious, wise, good-natured
 	- indigenous vibe
 	- quaker?
 	- it's a little fearsome/confusing for mortals brought here?
 	- complex interactions incomprehensible to outsiders, super in tune with each other
-	- sign language using some instrument/tool
+	- sign language using some instrument/tool?
 - some kind of messenger deity that helps communicate between groups/facilitate empathy?
 - 'We are always faced with the questions: "what must be destroyed?" and "what must be preserved?"'
 - forgiveness and tolerance - "i can tolerate anything except the outgroup"

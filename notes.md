@@ -339,6 +339,7 @@ steam -> rust and/or ground glass
 - Review author notes and think about how to insert
 - What's the point?
 - Name/demonym
+- Review images
 - WRITE
 - *once done*
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
@@ -480,6 +481,7 @@ TODO go through evil sketch
 - caste systems (LND?)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
+- Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this?
 - "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
@@ -830,215 +832,241 @@ anagram names:
 
 # idle resources to generate
 
-- realm names/demonyms
-    - either
-        - Discarnate (not having a physical body)
-        - Feign
-        - Figment
-        - Numen/Numina
-        - Protean (exceedingly variable)
-    - names (* = add to rando)
-    	- The Absolution*
-        - The Alacrity*
-        - The Aleatory
-        - The Alleviation
-        - The Antechamber
-        - The Apprehension
-        - The Assembly (similar to instrument)
-        - The Ataraxia (unperturbedness)
-        - The Autocephaly (appointing its own head, not subject to external authority)
-        - The Ataxia (lack of muscle control or coordination of voluntary movements)
-        - The Bauble
-        - The Binding
-        - The Blemish*
-        - The Blink
-        - The Blister*
-        - The Blot*
-        - The Bough*
-        - The Braid
-        - ‎The Bright
-        - The Burgeon*
-        - The Cabling
-        - The Canon*
-        - The Carapace*
-        - The Chalice*
-        - The Cherish
-        - The Cicatrix* (the scar of a healed wound e.g. on plant)
-        - The Clamor*
-        - The Clarion (shrill trumpet, or loud and clear)
-        - The Clasp
-        - The Coalescence
-        - The Collision
-        - The Concert
-        - The Concordance (agreement or consistency)
-        - The Consonance (agreement or compatibility)
-        - The Convergence*
-        - ‎The Creak
-        - The Crescendo
-        - The Crenellation
-        - The Crest*
-        - The Crown
-        - The Crux
-        - The Culmination*
-        - The Cumulation* (to gather in a heap, combine, build up)
-        - The Curtain*
-        - The Cusp
-        - The Dilemma
-        - The Discordance
-        - The Disputation
-        - The Divergence*
-        - The Echo
-        - The Encumbrance
-        - The Equivocation
-        - The Fabric*
-        - The Fell
-        - The Figure*
-        - The Formation
-        - The Frame
-        - The Fulmination (vehement protest, violent explosion/flash)
-        - The Gleam
-        - The Gossamer
-        - The Gnarl*
-        - The Grain
-        - The Grasp
-        - The Hidebound/The Hidebind
-        - ‎The Horn
-        - The Hull
-        - The Husk
-        - The Illumination
-        - The Imminence (state or fact of being about to happen)
-        - The Increpation (chiding, rebuking, censure, from making a nosie, creaking)
-        - The Keen*
-        - The Keyhole*
-        - The Kiln
-        - The Kinesis*
-        - The Knell*
-        - The Knuckle
-        - The Kylix (greek: "elegant cup or vase for drinking", latin calix, from whence Chalice)
-        - The Lacuna* (unfilled space or interval, gap)
-        - The Lambent (glowing/gleaming/flickering with soft radiance)
-        - The Lattice
-        - The Ligate (tie up or close off in surgery, or join in biochem)
-        - The Ligature*
-        - The Loom
-        - The Macula* (center of retina, keenest vision)
-        - The Manacle
-        - The Marrow
-        - The Membrane
-        - The Multitude
-        - The Nourish
-        - The Oval
-        - The Pasture*
-        - The Pith*
-        - The Presupposition
-        - The Procedure
-        - The Pulchritude* (beauty)
-        - The Pullulation (to bud, sprout, pread prolifically or rapidly, be teeming with)
-        - The Quell*
-        - The Ramification
-        - The Rampant
-        - The Rectitude
-        - The Recital
-        - The Recurrence*
-        - The Reproach (rebuke, blame, censure)
-        - The Restraint
-        - The Retelling
-        - The Reticulum (fine network or netlike structure)
-        - The Reverie
-        - The Ripple*
-        - The Rue
-        - The Sap
-        - The Shift
-        - ‎The Shimmer
-        - The Sift
-        - The Simmer
-        - The Skein
-        - The Snarl
-        - The Speck*
-        - The Squall
-        - The Substantiation
-        - The Sum
-        - The Surge
-        - The Taxonomy
-        - The Tessellation*
-        - The Tesseract*
-        - The Testimony*
-        - The Trammel (restriction/impediment to one's freedom of action)
-        - The Translation*
-        - The Trunk
-        - The Variance*
-        - The Vertex
-        - The Weaking
-        - The Weave
-        - The Weir* (a low dam across river to change height, regulate flow etc)
-            + The Werian (middle english root: to defend or dam)
-        - The Whet
-        - The Whorl
-        - The Yield
-        - The Zenith
-        - [look up "harvest" synonyms]
-        - used
-            + The Asymmetry
-            + The Bell
-            + The Brink*
-            + ‎The Grip
-            + The Knot
-            + The Swell (a thing in the Bloom)
-    - demonyms
-        - Abounds
-        - Alters
-        - Certorari ("writ from superior to inferior courts seeking the records of a case," legal Latin, "to be certified, to be informed or shown") - Certors?
-        - Clarions
-        - Coalescents
-        - Coilers
-        - Coiners
-        - Couths (well known, cultured, refined)
-        - Eremites (fancy word for hermit)
-        - Enmeshers
-        - Feuds
-        - The Found
-        - Grains
-        - Harrows (distress, ravage, spoil)
-        - Hidebound (unwilling or unable to change because of tradition or convention)
-        - Hierophants (one interprets sacred mysteries or esoteric principles)
-        - Hierarchs (cheif priest, archbishop, or other leader)
-        - Incepts (already have precepts)
-        - Jammers
-        - Keys
-        - Kinetics
-        - Knells (sound of bell)
-        - Ligands (molecule that binds to another, from latin "that can be tied" or bound)
-        - Limns
-        - Looms
-        - Mercies
-        - Meshers
-        - Mixers
-        - Nourishes
-        - Pyreans (fire)
-        - Quivers
-        - Rebukes
-        - Reveries
-        - Riarchs
-        - Rifes
-        - Roots
-        - Rues
-        - Runes
-        - Saraphs
-        - Sifters
-        - Simmers
-        - Sprees
-        - Tessellates
-        - Testates/Testators
-        - Tetrarchs (ruler of one of four divisions of a kingdom or province)
-        - Unfettered
-        - Whiloms (formerly, in the past)
-        - Whorls
-        - used
-            + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
-            + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
-            + Knots
-            + Grips
-- Characters (political leaders, famous rebels, merchants, demigods, invaders, wizards, researchers)
+realm names or demonyms:
+
+- Blister*
+- Discarnate (not having a physical body)
+- Feign
+- Figment
+- Numen/Numina
+- Protean (exceedingly variable)
+- Welt
+
+## realm names
+
+(* = add to rando)
+
+- The Absolution*
+- The Alacrity* (brisk cheerful readiness)
+- The Aleatory
+- The Alleviation
+- The Antechamber
+- The Apprehension
+- The Assembly (similar to instrument)
+- The Ataraxia (unperturbedness)
+- The Autocephaly (appointing its own head, not subject to external authority)
+- The Ataxia (lack of muscle control or coordination of voluntary movements)
+- The Bauble
+- The Binding
+- The Blemish*
+- The Blink
+- The Blot*
+- The Bough*
+- The Braid
+- ‎The Bright
+- The Burgeon*
+- The Cabling
+- The Canon*
+- The Carapace*
+- The Chalice*
+- The Cherish
+- The Cicatrix* (the scar of a healed wound e.g. on plant)
+- The Clamor*
+- The Clarion (shrill trumpet, or loud and clear)
+- The Clasp
+- The Coalescence
+- The Collision
+- The Concert
+- The Concordance (agreement or consistency)
+- The Consonance (agreement or compatibility)
+- The Convergence*
+- ‎The Creak
+- The Crescendo
+- The Crenellation
+- The Crest*
+- The Crown
+- The Crux
+- The Culmination*
+- The Cumulation* (to gather in a heap, combine, build up)
+- The Curtain*
+- The Cusp
+- The Dilemma
+- The Discordance
+- The Disputation
+- The Divergence*
+- The Drift
+- The Echo
+- The Elucidation
+- The Encumbrance
+- The Equivocation
+- The Escutcheon (shield/emblem bearing coat of arms, metal plate for protection)
+- The Fabric*
+- The Fell
+- The Figure*
+- The Formation
+- The Frame
+- The Fulmination (vehement protest, violent explosion/flash)
+- The Gleam
+- The Glimmer
+- The Gossamer
+- The Gnarl*
+- The Grain (tentative NNC demonym)
+- The Grasp
+- The Hidebound/The Hidebind
+- ‎The Horn
+- The Hull
+- The Husk
+- The Illumination
+- The Imminence (state or fact of being about to happen)
+- The Incandescence
+- The Increpation (chiding, rebuking, censure - from making a nosie, creaking)
+- The Keen*
+- The Keyhole*
+- The Kiln
+- The Kinesis*
+- The Knell*
+- The Knuckle
+- The Kylix (greek: "elegant cup or vase for drinking", latin calix, from whence Chalice)
+- The Lacuna* (unfilled space or interval, gap)
+- The Lambent (glowing/gleaming/flickering with soft radiance)
+- The Lapse
+- The Lattice
+- The Ligate (tie up or close off in surgery, or join in biochem)
+- The Ligature*
+- The Loom
+- The Macula* (center of retina, keenest vision)
+- The Manacle
+- The Marrow
+- The Membrane
+- The Morrow
+- The Multitude
+- The Nourish
+- The Oval
+- The Pasture*
+- The Pith*
+- The Presupposition
+- The Procedure
+- The Pulchritude* (beauty)
+- The Pullulation (to bud, sprout, pread prolifically or rapidly, be teeming with)
+- The Quell*
+- The Ramification
+- The Rampant
+- The Rectitude
+- The Recital
+- The Recurrence*
+- The Reproach (rebuke, blame, censure)
+- The Restraint
+- The Retelling
+- The Reticulum (fine network or netlike structure)
+- The Reverie
+- The Ripple*
+- The Rue
+- The Sap
+- The Shift
+- ‎The Shimmer
+- The Sift
+- The Simmer
+- The Skein
+- The Snarl
+- The Speck*
+- The Squall
+- The Substantiation
+- The Sum
+- The Surge
+- The Taxonomy
+- The Tessellation*
+- The Tesseract*
+- The Testimony*
+- The Trammel (restriction/impediment to one's freedom of action)
+- The Translation*
+- The Trunk
+- The Variance*
+- The Vertex
+- The Weaking
+- The Weave
+- The Weir* (a low dam across river to change height, regulate flow etc)
+    + The Werian (middle english root: to defend or dam)
+- The Whet
+- The Whorl
+- The Yield
+- The Zenith
+- [look up "harvest" synonyms]
+- used
+    + The Asymmetry
+    + The Bell
+    + The Brink*
+    + ‎The Grip
+    + The Knot
+    + The Swell (a thing in the Bloom)
+
+## demonyms
+
+don't forget "-er"s like Unravellers
+
+- Abounds
+- Alters
+- Barrens
+- Certorari ("writ from superior to inferior courts seeking the records of a case," legal Latin, "to be certified, to be informed or shown") - Certors?
+- Clarions
+- Coalescents
+- Coilers
+- Coiners
+- Couths (well known, cultured, refined)
+- Eremites (fancy word for hermit)
+- Enmeshers
+- Feuds
+- The Found
+- Grains (tentative NNC)
+- Harrows (distress, ravage, spoil)
+- Hidebound (unwilling or unable to change because of tradition or convention)
+- Hierophants (one interprets sacred mysteries or esoteric principles)
+- Hierarchs (cheif priest, archbishop, or other leader)
+- Incepts (already have precepts)
+- Inks
+- Jammers
+- Keys
+- Kinetics
+- Knells (sound of bell)
+- Ligands (molecule that binds to another, from latin "that can be tied" or bound)
+- Limns
+- Looms
+- Mercies
+- Meshers
+- Mixers
+- Nourishes
+- Oriels (upper-story bay window protruding from wall)
+- Pyreans (fire)
+- Quivers
+- Rebukes
+- Reveries
+- Rhumes (common cold)
+- Riarchs (arch = ruling)
+- Rifes
+- Rifts
+- Roots
+- Rues
+- Runes
+- Saraphs
+- Sifters
+- Simmers
+- Sprees
+- Tessellates
+- Testates/Testators
+- Tetrarchs (ruler of one of four divisions of a kingdom or province)
+- Tides
+- Tinges
+- Unfettered
+- Whiloms (formerly, in the past)
+- Whorls
+- used
+    + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
+    + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
+    + Knots
+    + Grips
+
+## Characters, Places, Etc.
+
+- characters (political leaders, famous rebels, merchants, demigods, invaders, wizards, researchers)
     - names
         - jinsa
         - kagara

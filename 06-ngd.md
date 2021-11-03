@@ -67,6 +67,7 @@ Graveyard?
 		* maybe higher impact: you're in a makeshift room with the pedestal, and aftewards the walls are let down and you see all the other empty pedestals. and then you smash it?
 - somewhat dangerous?
 - tattooed and weird petitioners?
+- kinda punk
 - enviro
 	+ underwater? mm moss
 	+ floating islands (submerged?)

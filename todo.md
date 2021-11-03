@@ -11,7 +11,7 @@
 - A close edit pass across the whole thing
 - Colophon
 - Review every TODO
-- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
+- Other misc bits - go through every single task on here (changelog, more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
 - Bonuses:
     - moodboard images?
     - more shifting elements
@@ -615,6 +615,7 @@ data-facet= (added when processing REFs) and :after content
 - border
 - lightbox?
 - captions? i think maybe not
+- link to artist where possible?
 - float, or only full width?
 - multi-image ones?
 - style matching

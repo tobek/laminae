@@ -36,6 +36,7 @@ Some believe the gods themselves---some of them, all of them, who knows?---were 
     + The Fell
     + The Figure
     + The Hew
+    + The Kinesis
     + The Marrow
     + The Recital
     + The Sum
