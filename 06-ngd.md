@@ -38,17 +38,21 @@ Graveyard?
 
 - name
     + The Asymmetry (used)
-    + The Cicatrix (the scar of a healed wound e.g. on plant)
+    + The Cicatrix (the scar of a healed wound e.g. on plant) <--
     + The Curtain
     + The Divergence
     + The Echo
     + The Ligate
     + The Ligature
+    + The Marrow
 - demonym
+	+ Alters
 	+ Grips
 	+ Knots
+	+ Ligands/Ligates
 	+ Mercies
 	+ Pyreans (maybe CGP apeiron, maybe LGD)
+	+ Tides
 - quotes search NGD
 - they sometimes appear to mortals - in what form?
 	+ the house burned down that relieved a burden, etc.

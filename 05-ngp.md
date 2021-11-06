@@ -1,19 +1,25 @@
-# The ____ SKIP
+# The Braid SKIP
 
 ---
 subtitle: Synthesis Empathy Equilibrium NGP
 intro_only: True
-<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+post_intro_only: MEDIA("Michael Hutter - Carcosa XXIX (edited).jpg")
 
 quote: |
     > If you make rules only you can win by, they will play by other rules.
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 
-summary: TODO
+summary: Rugged and serene badlands inhabited by the complex, inscrutable Limns, who bring quarreling mortals here in reverie to forge empathy in the light of a natural phenomenon known as the Consonance, in which you witness in the actions of others a flash of the entire history of happenstance that leads up to their present.
 
 intro: |
-    this lamina holds the seeds of the resolution of BLAH. the very nature of it has an incredible property known as the Reverb. when observing the actions of an individual on this lamina, you simultaneously observe the trail of actions that led to that individual taking that action. when a frustrated person yells a particular insult, you will also witness their father flinging that same insult, and their father's childhood BLAH and BLAH (spread out), and onwards with receding intensity the whole personal history that led to this moment. It is dumbfounding to newcomers, to be faced with such a quantity of information and emotion.
+
+    This lamina by its nature and culture is a place of contemplation and resolution. It is a stark landscape of steep white mesas and ochre river valleys in which Limns form tightly-knit communities of ritual and fellowship using a wordless language of implements and garments that each Limn has decorated as mnemonic objects of their own personality and experience.
+
+    The Braid holds a baffling property known as the Consonance: when observing the actions of any conscious being on this lamina, you simultaneously observe the entire trail of events that led to that being taking that action. When in frustration one yells a particular insult, you will also witness their father flinging that same insult, and their father's childhood fears that lead to preoccupation with the language used in that insult, and onwards and outwards with receding intensity the entire history that led to the moment. Every interaction is a cascade of memories and history. It is dumbfounding; it is far too much information to take in at once, and yet the nature of what is experienced is immediately obvious.
+
+    With a mixture of curiosity and determination, the Limns bring mortals to this lamina to resolve conflicts and heal wounds. Opposing figures or quarreling groups are brought en masse to behold each other in the light of the Consonance, atop great white starlit plateaus where the effect is strongest, in structured ceremonies organized by silent Limns. Solitary mortals find themselves here too sometimes---as did this visitor---left alone with thoughts and pasts deconstructed by the Braid's Consonance.
+
 ---
 
 <!--
@@ -23,43 +29,33 @@ what's the point?
 - the ability to understand and empathise with others is a fundamental aspect of social creatures like humans, and we need it
 -->
 
-restorative justice and problem solving, past reverb
-
-NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is beter to internalize and understand
-
 - name
-	- The Braid
-	- The Cicatrix
-	- The Consonance (agreement or compatibility) (not if using LGP Concordance)
-	- The Cumulation (to gather in a heap, combine, build up)
+	- The Braid <--
+	- The Consonance (not if using LGP Concordance)
+	- The Cumulation
 	- The Echo
 	- The Marrow
 	- reverb effect:
-		- Bright
-		- Consonance
+		- Braid
+		- Consonance <--
 		- Echo
-		- Sum
 - demonym
-	- Alters
-	- Keys
-	- Ligands
-	- Limns
+	- Ligands/Ligates
+	- Limns <--
 	- Looms
 	- Tides
-- environment
-	- huge mesas, communities on top, some other thing in the crevasses between - or vice versa, arduous trek up to the top
-	- grand canyon badlands, rivers and and some trees, sunlight between the mesas
-	- but white instead of orangered? maybe all the color drained out, white mesas over reddish brownish valleys
-	- hot, bright sun, occasional great rains
-	- landscape should be like a healed scar? in the scars (valleys) things grow
-	- animals? leggy things running
+- author realized here something she was looking for
+	- that this lamina could help?
+	- or that her quest was driven by her own past and she needed to let go?
 - culture
 	- observant, curious, wise, good-natured
-	- indigenous vibe
+	- indigenous vibe, but not caricature
 	- quaker?
-	- it's a little fearsome/confusing for mortals brought here?
+	- it's a little fearsome/confusing for mortals brought here
 	- complex interactions incomprehensible to outsiders, super in tune with each other
-	- sign language using some instrument/tool?
+	- sign language using some instrument/tool
+	- mnemonic objects
+	- authentic relating
 - some kind of messenger deity that helps communicate between groups/facilitate empathy?
 - 'We are always faced with the questions: "what must be destroyed?" and "what must be preserved?"'
 - forgiveness and tolerance - "i can tolerate anything except the outgroup"
@@ -78,7 +74,6 @@ NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is bete
 	+ group journeys to/from the mesas
 	+ all sides being disappointed is good
 	+ some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?)
-- author realized here something she was looking for (that this lamina could help)
 
 restorative justice & larger social restorative practices
 
@@ -111,17 +106,50 @@ conflict resolution
 
 ## Environment
 
-~
+- huge mesas, communities in the crevasses between
+- grand canyon badlands, rivers and and some trees, sunlight between the mesas
+- but white instead of orangered? maybe all the color drained out, white mesas over reddish brownish valleys
+- hot, bright sun, occasional great rains that flood
+- landscape should be like a healed scar? in the scars (valleys) things grow
+- animals? leggy things running
+
+### The Consonance
+
+do you hear yourself? yes.
+
+### Floods
 
 ## Culture & Paradigm
 
-~
+NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is better to internalize and understand
+
+### Symbolic Language
+
+### Mnemonic Artifacts
+
+### Cardinal Resolutions
+
+#### Peacebuilding
+
+#### Dramas
+
+#### Duels
+
+#### Odysseys
 
 ## Visiting
 
-~
+### Bearing the Consonance
 
 ## Locations
+
+### Sky Mirror
+
+flooded land like gilbert williams pic
+
+### The Cleft
+
+### Monument Cloisters
 
 ## Figures & Groups
 

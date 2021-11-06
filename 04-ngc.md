@@ -8,6 +8,7 @@ quote: |
     > All the falling rain is caught.
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
+
 summary: Beautiful, storm-drenched mountains inhabited by the keepers of the "Universal Story," an indescribably transformative experience which they offer to visitors and continually seek to perfect.
 intro: |
 
@@ -31,21 +32,18 @@ intro: |
 -->
 
 - Name
-	+ The Illumination? too easy
-	+ The Epiphany? too easy
 	+ The Asymmetry (used)
 	+ The Bell
 		* weather/light is such that you can't keep track of the days, and you only know it's done when the petitioner rings the bell
-	+ The Braid
+	+ The Braid - pretty good too, maybe better
 	+ The Frame
 	+ The Gossamer
 	+ The Keyhole - this is pretty good, what would it be
-	+ The Tessellation
 - Demonyms
 	+ Alters
 	+ Apeirons (boundless)
-	+ Coilers
 	+ Kalons (beautiful noble good)
+	+ Keepers?
 	+ Keys
 - Self-improvement? yes, and inspiration, change, rebirth
 - Keepers (propagators) of the "universal story"

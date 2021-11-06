@@ -345,7 +345,8 @@ steam -> rust and/or ground glass
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
     + update progress
     + update TOC
-    + comment out from rand
+    + comment out from rand.js
+    + remove from TOC filler
 
 ### Foci (high-ish priority?)
 
