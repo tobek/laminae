@@ -219,15 +219,19 @@
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">III.</div><a href="00-iii-author-preface.html">Author's Preface</a></div>
+  <div class="left"><div class="numeral">III.</div><a href="00-iii-translators-note.html">Translator's Note</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">IV.</div><a href="00-iv-cosmography.html">Cosmography</a></div>
+  <div class="left"><div class="numeral">IV.</div><a href="00-iv-author-preface.html">Author's Preface</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">V.</div><a href="00-v-facets.html">Facets</a></div>
+  <div class="left"><div class="numeral">V.</div><a href="00-v-cosmography.html">Cosmography</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">VI.</div><a href="00-vi-facets.html">Facets</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 
@@ -253,7 +257,7 @@
   <div class="dots"></div><div class="page">NGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">5.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="05-ngp.html"></a><span class="tooltip">This chapter has not yet been translated.</span></div>
+  <div class="left"><div class="numeral">5.</div><a class="lamina-name" href="05-ngp.html">The Braid</a></div>
   <div class="dots"></div><div class="page">NGP</div>
 </div>
 <div class="row">

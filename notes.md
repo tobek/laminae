@@ -44,11 +44,21 @@ can i add tension and mystery? what makes the reader what to keep reading?
     + search textbase for trinym
 - read each paragraph in a section
     + WHAT CAN BE REMOVED
+    + style
+        * KAREDIAN: "unusual density, expressiveness, complexity, and precision"
+        * less fantasy tone
+        * piling on, sentence falling onwards
+        * more analogies like the stuff in intro chapter
+        * invent idioms?
+    + translation stuff
+        * untranslated words and blocks
+        * translator's notes
+            - analogy explanations
+            - word choices or turns of phrase that don't quite make sense
     + word choice
     + active verbs
     + fewer adjectives/adverbs
     + concision
-    + less fantasy tone
     + vary sentence form
     + vary sentence length
     + vary paragraph length (typically 100-200 words, 3-6 sentences, but, anything. avg word is 5 chars)
@@ -99,6 +109,11 @@ see Template
 
 # Writing Style
 
+- karedian: "unusual density, expressiveness, complexity, and precision"
+- Few to no made-up words
+    - instead the original meaning is simply translated
+    - "because every word contains its etymology, many words which others might simply transliterate i have attempted to select a word that captures its meaning. where this is not possible, i have chosen the closest word and added a note"
+- don't forget to include undecipherable terms
 - are they notes or is it a manuscript? i think incomplete manuscript. include this in translators notes, and then i get to leave stuff as notes!
     + in-universe notes should be marked with indic script bullets
 - Switch from florid to very sparse and blunt on occasion.
@@ -113,7 +128,6 @@ see Template
     + CND: eh
     + (maybe bold/italic if that looks cool in font)
 - From Annals: "Therefore we hope to offer a selection of the consolations we have accrued here and there — evidences of absurdity, charm, eccentricity, joy, virtue, friendship, or unlooked-for luck — that make the road worth traveling despite all."
-- abyssal: "unusual expressiveness and complexity"
 - present tense when describing things, but past tense when referring to "this visitor" such and such?
 - footnotes vs. parentheticals vs. em dashes
     + em dashes: surprise, quirky observations and consequences?
@@ -155,10 +169,48 @@ see Template
 - use 2nd person freely, also 1st person plural to mean author and reader/others
     + so, rarely "one"? would it be weird to go back and forth? i guess instead of "one" use "a visitor" etc.
     + have used "you might wonder"
-- "the present work", "this work", to refer to her stuff
+    + yeah default to "you"
 - use "we" only for
     + the most general sense ("we mortals", "gods as we know them")
     + maybe: "we" as in the reader and the writer, as in "as we have discussed..."? haven't used yet i think
+- 3rd person gender neutral used everywhere, that okay?
+- "the present work", "this work", to refer to her stuff
+
+## Idioms
+
+from burmese:
+
+- ဆူးပေါ်ဖက်ကျ ဖက်ပေါက်၊ ဖက်ပေါ်ဆူးကျ ဖက်ပေါက် | When the thorn falls on the leaf (used for wrapping food), leaf is punctured. When the leaf falls on the thorn, the leaf is still punctured. (Reminder of the vulnerability of the weak when faced with the stronger adversary in both defensive and offensive postures.)
+- ငါးစိမ်းမြင် ငါးကင်ပစ် | Fried fish is dropped when a fresh one is seen. (This phrase can be used to insinuate a married man having an extramarital affairs.)
+- ငါးခုံးမတစ်ကောင်ကြောင့် တစ်လှေလုံးပုပ် | One rotten Barbus (fish) fills the whole boat with foul smell. (Reputation of a family, an organization, or a nation can be ruined by the behavior or wrongdoings of a person or a small group of people.)
+- ခေါင်းတစ်ရာသားစား | To eat a dish of hundred heads. (This saying is from the story of an old man giving instructions to his sons in riddles before he died. 'A hundred heads' refers to inexpensive small anchovies with full of proteins. By living modestly, and not spending extravagantly on food, one saves money.)
+- ကျွန်းကိုင်းမှီ ကိုင်းကျွန်းမှီ | Island depends on reeds, reeds depends on island. (Inter-dependent relationship is compared to the formation of alluvial islands in the river and delta by the dense network of reeds.)
+-ကျွဲပါးစောင်းတီး | Like playing a harp to a buffalo. (Uncultured person will not appreciate finer things in life.)
+- ကြာကြာဝါးမှ ခါးမှန်းသိ | Bitter taste is apparent only after chewing for some time. (The true character of a wicked the person is apparent only after knowing the person well.)
+- ကြာကြာဝါးမည့်သွား အရိုးကြည့်ရှောင် | Teeth that must grind into old age must avoid chewing bones. (An advice to look into long-term.)
+- ကိုယ်ထင် ခုတင်ရွှေနန်း | Deluded person thinks his bed is the golden palace. (Some people tend to get lost in the fantasy world with unrealistic expectations.)
+- ကံထမ်းလာတာမမြင်ရ၊ လှံထမ်းလာတာသာမြင်ရ | A spear carried on the shoulder can be seen; "fate" carried on the shoulder is unseen. (A phrase used by some who over-emphasize "fate" carried from the past as opposed to making destiny in the present moment.)
+- ကုသိုလ်လည်းရ ဝမ်းလည်းဝ | Make merit and fill stomach at the same time. (This describes the joy of making a decent living where good deeds can be made, such as saving someone's life as a doctor, or passing on the knowledge to the students as a teacher.)
+- တောမီးလောင် တောကြောင်လက်ခမောင်းခတ် | Jubilation of the wild cat when the forest is on fire. (The term let-kha1-moun3 khut is the act of whacking one's folded arm with the palm to show challenge in Myanmar traditional boxing ring. In times of anarchy, lootings, robberies, and rapes tend to take place.)
+- ထန်းသီးကြွေခိုက် ကျီးနင်းခိုက် | Fruit of the palm tree drops just when the crow steps on it. (Some unrelated events occurring simultaneously is explained as coincidence.)
+- ပြုလျှင်အသစ် ဖြစ်လျှင်အဟောင်း | Actions are new, consequences are old. (The immutable law of "Karma" where new actions in the present will make future consequences, whereas consequences of the old actions bear fruit in the present moment.)
+- ဘုရားမှတ်လို့ ကိုးကွယ်ပါ၊ ဖွတ်ထွက်မှ တောင်ပို့မှန်းသိ | A mound was mistaken to be a pagoda and worshipped, until the lizard came out. (A despicable person was mistaken for a virtuous person until his immoral traits came to surface.)
+- မဆွတ်ခင်က ညွတ်ချင် | The tree lowers its branch before the fruit is plucked. (Offering is made from the willing party before being proposed.)
+- မုသားမပါ လင်္ကာမချော | Poems will be too bland without fabrications. (This refers to the need to be creative in speaking to be eloquent and make lively conversations.)
+- မျက်ကန်း တစ္ဆေမကြောက် | A reckless person is compared to visually(mpaired person who is blind to the danger ahead of him.)
+- လှိုင်းကြီး လှေအောက် | Big wave is still under the boat. (Social status and authority of the person is compared to the boat above the waves.)
+- သဲထဲရေသွန် | To pour water on the sand. (Wasted efforts are compared to pouring water on the sand.)
+- အသားလိုလို့ အရိုးတောင်း | Ask for the bone to get the meat. (Indirectly asking for something smaller or inferior to be given something else. When the guest asks, "Can I have some bones?", the host will surely give him meat instead.)
+- အိပ်ချင်ယောင်ဆောင်သူ အနှိုးရခက် | To awaken a person pretending to be asleep is difficult. (Although pretending to act normal, a deceitful person is not at ease and looks unnatural.)
+
+from https://www.asiapearltravels.com/language/lesson35_script.php
+
+- hiding the elephant carcass under the goat-skin (covering up mistake with excuse, highlighting elaborate and comical nature of cover-up)
+- the spear will always land on the ground
+- beware of watering the poisonous plant (carrying on as normal even when something dangerous might happen)
+
+from https://www.mmtimes.com/news/top-10-myanmar-proverbs.html
+
 
 # Author
 
@@ -199,7 +251,7 @@ i don't think her position should be that "no one is right or wrong"... but then
 
 *sheltered royalty who aided genocide and then self-exiled herself to wander, in her wanderings she met with the "enemy" and they were fine and it destroyed her worldview, receded into delirium. at the Bell (i.e. some entheogen) (maybe this was well into her laminal journey) she realized that ~if we could all just work together and see how we need each other~ it'd be great, and so she decided to try to engineer a foundational myth for her culture that would find a place for all kinds of people, but parable-izing how going hard in one way won't work.*
 
-so she planned to return to her people. did she? how'd it work out? she'd have to like disseminate it. maybe everything had changed by the time she got back and she wasn't welcome, and so her personal quest ended
+so she planned to return to her people. did she? how'd it work out? she'd have to like disseminate it. maybe everything had changed by the time she got back and she wasn't welcome, and so her personal quest ended. she came to terms with it in NGP or NGD or echo plateau.
 
 maybe the genocide split her family, like her younger brother sided with the peasants, and wanted to escape with her, but instead she let him get executed for it.
 
@@ -256,6 +308,8 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + like "but this visitor couldn't think of a more plausible outcome for this lamina"
     + this visitor's imagination couldn't...
     + maybe translator's note calls attention to it, translates it as something more plausible but gives alternate that makes you question
+    + relevant idioms
+        *
 - it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right
 - author having an argument with someone over something, mentioned say in footnote
 - one plane, fairly late on, "it was through this aperture that this visitor first set foot in one of the laminae"
@@ -341,12 +395,14 @@ steam -> rust and/or ground glass
 - Name/demonym
 - Review images
 - WRITE
+- TOC
 - *once done*
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
     + update progress
-    + update TOC
+    + update homepage TOC
     + comment out from rand.js
-    + remove from TOC filler
+    + remove from homepage TOC filler
+- Read again, organize notes
 
 ### Foci (high-ish priority?)
 
@@ -482,13 +538,13 @@ TODO go through evil sketch
 - caste systems (LND?)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
+- "bats can hear shapes. plants can eat light. bees can dance maps. we can hold all these ideas at once and feel both heavy and weightless with the absurd beauty of it all." - https://twitter.com/gnonymus/status/1457089729539842050
 - Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this?
 - "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
-- Mnemonic objects - clothing or jewelry records life events (maybe part of caste system above) NGP?
 - Language/writing
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP
     + maybe some other perception issue
@@ -497,7 +553,7 @@ TODO go through evil sketch
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
 - Some creature that responds to Creation and/or Destruction, to be used to test if exposure is too high. Maybe by those wizards that study the planes of pure C/D.
     - from something: "Canaries are extremely sensitive to ambient magic, and will mutate in the presence of cursed architecture. Grave-looters keep them as pets"
-- some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, could be added to LNC promenade for "Arid yet Verdant"? NGP?
+- some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, stub-used in NGP but maybe better in NGD?
 - psychedelics (CGP)
 - "Somewhere in the ocean hundreds of miles north of the Shirerithian mainland there is a mountainous arctic island upon which thrives an emergent oracular techno-theocracy that calls itself the Shining Garden of Raikoth. Its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too wear the spiral."
 - sexual proclivities replace other tribal markers and are increasingly fractured
@@ -522,6 +578,7 @@ TODO go through evil sketch
     + like lesswrong weirdtopia comment where you work your way through simulation of human civilization learning everything
     + NGC could do this for Universal Story
 - used
+    + Mnemonic objects - clothing or jewelry records life events (could be part of caste system above but it's not) - used in NGP but could maybe be moved elsewhere if perfect
     + Epiphanies (place where you have them)
     + place where you can swap lives
     + https://en.wikipedia.org/wiki/Emotional_flooding
@@ -1040,12 +1097,13 @@ don't forget "-er"s like Unravellers
 - Quivers
 - Rebukes
 - Reveries
+- Rhemes (linguistic term: comment that is being made about topic of sentence)
 - Rhumes (common cold)
 - Riarchs (arch = ruling)
 - Rifes
 - Rifts
 - Roots
-- Rues
+- Ruesh
 - Runes
 - Saraphs
 - Sifters

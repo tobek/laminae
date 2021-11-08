@@ -514,6 +514,11 @@ maybe
 - different/more noticeable styling for :visited links?
     + maybe track in local storage which links user has clicked, so e.g. they might have visited a page but not clicked on a glossary term and unless they read the whole page maybe they didn't see the glossary term
         * maybe like two tiers of :visited
+    + also how to combine untranslated and visited
+        * unreffable have no href and are grayed out
+        * "reffable" ones from stub pages do have hrefs in index and so are not greyed out
+        * untranslated vs. visited should be separate styles, maybe untranslated are italic or something, or color vs opacity
+    + if a page has changed since user visited it, it should be considered unvisited? tough depending on change, maybe only if it went from untranslated to translated
 
 later
 
@@ -528,6 +533,7 @@ later
 - tooltip on mobile
     + images - tap to show (might already work?)
     + references - tap should pop up, with link to view more
+    + untranslated refs that have no href - does tap open tooltip?
 - more mobile and browser compatibility check
     + styles, fonts, what else?
 - mobile nav "Contents" could be on its own line so there's space for the others
@@ -538,7 +544,6 @@ later
 
 ### code tasks
 
-- visited links should be more noticeable
 - "about" in bottom right is crowded on mobile
 - later
     + change mobile nav bar color
@@ -659,6 +664,7 @@ References themselves just `a.ref`
     REF[Equilibrium](facets#equilibrium)
     REF[Equilibrium] # whitelist dict of terms to auto-map to facets
     REF[Ordial](ordial-plane) # whitelist with its own id
+    REF[some made up thing](LNC#untranslated) # mark as gray with untranslated tooltip but lead to #untranslated anchor on page
 
 - parse
     + parse each file

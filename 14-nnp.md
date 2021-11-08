@@ -3,6 +3,7 @@
 ---
 subtitle: Synthesis Utility Equilibrium NNP
 summary: A lifeless and lethally suffocating expanse that contains every moment of every location in the multiverse, frozen and duplicated here in shades of grey.
+untranslated: True
 intro: |
 
     This is possibly the most uncanny of realms, for it contains within it copies of the entire multiverse, including itself, shorn of the concept of time and encumbered by implacable hazards. Somewhere within this realm every separate instant of the entire multiverse is replicated at full scale, animate and inanimate laid out in complete detail with all the lifelessness of a chess set. Should you chance a visit, you must take extraordinary precautions even to survive.

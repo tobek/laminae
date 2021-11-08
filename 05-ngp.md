@@ -1,4 +1,4 @@
-# The Braid SKIP
+# The Braid
 
 ---
 subtitle: Synthesis Empathy Equilibrium NGP
@@ -6,7 +6,7 @@ intro_only: True
 post_intro_only: MEDIA("Michael Hutter - Carcosa XXIX (edited).jpg")
 
 quote: |
-    > If you make rules only you can win by, they will play by other rules.
+    > If you make rules only you can win by, they will play by other rules. TODO(quote maybe)[]
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 
@@ -14,11 +14,11 @@ summary: Rugged and serene badlands inhabited by the complex, inscrutable Limns,
 
 intro: |
 
-    This lamina by its nature and culture is a place of contemplation and resolution. It is a stark landscape of steep white mesas and ochre river valleys in which Limns form tightly-knit communities of ritual and fellowship using a wordless language of implements and garments that each Limn has decorated as mnemonic objects of their own personality and experience.
+    In ochre river valleys afoot steep white mesas the Limns, idiosyncratic inhabitants of the Braid, form tightly-knit communities of ritual, fellowship, contemplation, and resolution. The Limns communicate with a wordless language that varies between individuals and relies on instruments and complex garments that each Limn has decorated as mnemonic objects of their own personality and experience.
 
-    The Braid holds a baffling property known as the Consonance: when observing the actions of any conscious being on this lamina, you simultaneously observe the entire trail of events that led to that being taking that action. When in frustration one yells a particular insult, you will also witness their father flinging that same insult, and their father's childhood fears that lead to preoccupation with the language used in that insult, and onwards and outwards with receding intensity the entire history that led to the moment. Every interaction is a cascade of memories and history. It is dumbfounding; it is far too much information to take in at once, and yet the nature of what is experienced is immediately obvious.
+    Limn communication and temperament is a product of a property of the Braid known as the Consonance: when observing the actions of any conscious being on this lamina, you simultaneously observe the entire trail of events that led to that being taking that action. Seeing someone in frustration yell a particular insult, you will also witness their father flinging that same insult, and the causes of their father's childhood fears that lead to preoccupation with the language used in that insult, and onwards and outwards with receding intensity the entire history that created that moment. Every interaction is a cascade of memories and history. It is dumbfounding; it is far too much information to take in at once, and yet the nature of what is experienced is immediately obvious.
 
-    With a mixture of curiosity and determination, the Limns bring mortals to this lamina to resolve conflicts and heal wounds. Opposing figures or quarreling groups are brought en masse to behold each other in the light of the Consonance, atop great white starlit plateaus where the effect is strongest, in structured ceremonies organized by silent Limns. Solitary mortals find themselves here too sometimes---as did this visitor---left alone with thoughts and pasts deconstructed by the Braid's Consonance.
+    With a mixture of curiosity and determination, the Limns share the Consonance, bringing mortals to this lamina to resolve conflicts and heal wounds. Opposing figures or quarreling groups are carried en masse to behold each other in the light of the Consonance, atop great white starlit plateaus where the effect is strongest, in ceremonies organized by silent Limns. Solitary mortals find themselves here too sometimes---as did this visitor---left alone with thoughts and pasts deconstructed by the Braid's Consonance.
 
 ---
 
@@ -125,11 +125,17 @@ NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is bett
 
 ### Symbolic Language
 
+limns who have never met have a hard time communicating, but over time bond and understand each other better. well no, the consonance makes that unnecessary? what then
+
 ### Mnemonic Artifacts
 
 ### Cardinal Resolutions
 
-#### Peacebuilding
+#### Inter-Narration
+
+authentic relating thing where you say why someone has done something
+
+#### Peacebuilds
 
 #### Dramas
 
@@ -137,9 +143,15 @@ NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is bett
 
 #### Odysseys
 
+#### Amends
+
 ## Visiting
 
 ### Bearing the Consonance
+
+### Truthfulness
+
+### Limn Communication
 
 ## Locations
 
@@ -151,7 +163,11 @@ flooded land like gilbert williams pic
 
 ### Monument Cloisters
 
+### Breath House
+
 ## Figures & Groups
+
+### Emissaries
 
 ## Festivals & Traditions
 
@@ -159,3 +175,10 @@ flooded land like gilbert williams pic
 
 ## Rumors & Mysteries
 
+### Patchwork
+
+something about not fixing structural problems, just patchwork
+
+### Consonance Fallibility
+
+is it ever wrong? can you make it lie? worldbuilding secrets in truth reverberating hall

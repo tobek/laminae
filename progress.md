@@ -159,6 +159,8 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-11-08|1   |45795|1655|54%|45%|23|101|65|36|
+|2021-11-07|3.25|45767|1638|54%|45%|23|101|65|36|
 |2021-11-06|1.75|45151|1629|52%|45%|22|101|65|36|
 |2021-11-03|1   |44791|1629|52%|44%|22|100|64|36|
 |2021-11-02|0.75|44829|1629|52%|44%|22|100|64|36|
@@ -289,7 +291,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 45,151 | 1,629 | 22/42 | 101/224 |
+| 45,795 | 1,655 | 23/42 | 101/224 |
 </div>
 
 <div class="progress-wrap">
@@ -303,7 +305,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 | <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
-| <span class="glyph">ꧪဥဓ</span> | <span class="bloop">◍◍◍○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
+| <span class="glyph">ꧪဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">○○○○○○</span> |
 | <span class="glyph">꧹ဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |

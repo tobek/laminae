@@ -179,10 +179,12 @@
     dfn {
       font-style: normal;
     }
+    a.untranslated,
     a.ref:not([href]) {
       cursor: pointer;
       opacity: 0.5;
     }
+    a.untranslated:hover,
     a.ref:not([href]):hover {
       opacity: 0.75;
     }
@@ -195,6 +197,9 @@
         opacity: 1;
         pointer-events: auto;
       }
+        .tooltip-wrap:hover .untranslated + .tooltip {
+          pointer-events: none;
+        }
       .tooltip {
         pointer-events: none;
         opacity: 0;
@@ -222,6 +227,7 @@
         }
       }
 
+    .karedian,
     .glyph {
       font-family: "NotoSansMyanmar", sans-serif;
     }
@@ -683,33 +689,50 @@ $endif$
     return this[index];
   }
 
-  // total hack to allow a heading tag to affect the TOC
+  function randomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  // total hack to allow a heading tag to exclude its children from the TOC
   document.querySelectorAll('#TOC .no-toc-children').forEach(function(el) {
     el.parentNode.classList.add("no-toc-children");
   });
 
   var guildTitle = document.querySelector(".guild-name");
   var guildTerms = document.querySelectorAll(".guild-term");
-  if (guildTitle || guildTerms.length) {
-    var guildNames = ["Guild", "Guild", "Order", "Order", "Circle"];
-    var adjectives = ["Liminal", "Peripatetic", "Anaphoric"];
-    var topics = ["Efforts", "Affairs", "Circumstance", "Praxis"];
-
-    function cycleGuild() {
+  var guildNames = ["Guild", "Guild", "Order", "Order", "Circle"];
+  var adjectives = ["Liminal", "Peripatetic", "Anaphoric"];
+  var topics = ["Efforts", "Affairs", "Circumstance", "Praxis"];
+  function cycleGuild() {
+    if (guildTitle || guildTerms.length) {
       var term = guildNames.getRandom();
       guildTitle && (guildTitle.innerHTML = "The " + term + " of " + adjectives.getRandom() + " " + topics.getRandom());
       guildTerms.forEach(function(el) {
         el.innerHTML = term;
       });
     }
-    cycleGuild();
-
-    document.addEventListener("visibilitychange", function() {
-      if (document.visibilityState === "hidden") {
-        cycleGuild();
-      }
-    }, false);
   }
+  cycleGuild();
+
+  function cycleChosenChildren() {
+    document.querySelectorAll('.choose-one-child').forEach(function(el) {
+      var numChildren = el.children.length;
+      var showChild = randomInt(0, numChildren - 1);
+      Array.from(el.children).forEach(function(childEl, i) {
+        childEl.style.display = i === showChild ? "revert" : "none";
+      });
+    });
+  }
+  cycleChosenChildren();
+
+  document.addEventListener("visibilitychange", function() {
+    if (document.visibilityState === "hidden") {
+      cycleGuild();
+      cycleChosenChildren();
+    }
+  }, false);
 
   if (document.querySelector('[class="00-0-title"]')) {
     var pages = document.querySelectorAll(".toc .page");
@@ -725,7 +748,7 @@ $endif$
         page.innerHTML = burmese.popRandom();
       });
 
-      var names = ["The Aleatory", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Braid", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "The Hidebound", "The Horn", "‎The Illumination", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
+      var names = ["The Aleatory", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "‎The Bright", "The Cabling", "The Clarion", "‎The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "The Hidebound", "The Horn", "‎The Illumination", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Procedure", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "‎The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
       laminaNames.forEach(function(name) {
         name.innerHTML = names.popRandom();
       });

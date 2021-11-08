@@ -190,6 +190,7 @@ for filename in outer_files:
         continue
     build_file(filename)
 
+# map from anchor ID (`file` or `file#[anchor]`) to information about that anchor
 anchors = {}
 anchor_blacklist = ["environment", "culture-paradigm", "visiting", "locations", "rumors-mysteries", "history", "festivals-traditions", "figures-groups", "overview", "others", "figures", "todo"]
 print("\ngathering anchors...")
@@ -207,7 +208,7 @@ for file_id, data in file_data.items():
         "def": data["metadata"].get("summary") or data["metadata"].get("intro"), # TODO need to ensure there's no REF/etc markup in these or any defs!!
         "no_index": len(file_id) != 3 and file_id != "cosmography" and file_id != "facets"
     }
-    untranslated = data["metadata"].get("intro_only")
+    untranslated = data["metadata"].get("intro_only") or data["metadata"].get("untranslated")
 
     print(data["output"])
 
@@ -280,10 +281,13 @@ for file_id, data in file_data.items():
 
             if anchor.get("def"):
                 tooltip.string = anchor["def"].strip()
+
+            # only need to change anchors that link to another page:
             if href[0] != "#":
                 ref["href"] = anchors[href]["href"]
                 if anchor.get("untranslated"):
-                    ref["href"] = ref["href"][:ref["href"].index("#")] # cut off the anchor, just go to the page
+                    ref["href"] = ref["href"][:ref["href"].index("#")] + "#untranslated" # from index, link to the untranslated note anchor
+                    ref['class'] = ref.get('class', []) + ['untranslated']
                     tooltip.string = "The referenced text has not yet been translated."
 
             if not tooltip.string:
@@ -322,11 +326,10 @@ def print_index():
     print("\n<table>")
     for i in index:
         label = i["file_id"].upper() if len(i["file_id"]) == 3 else i["file_title"]
-        href = i["href"]
-        if i.get("untranslated") and "#" in href:
-            href = href[:href.index("#")] + "#untranslated"
-        print("    <tr><td>%s</td><td><a href='%s'>%s</a></td></tr>" % (i["sort_name"], href, label))
+        ref = i["id"]
+        print("    <tr><td>%s</td><td>REF[%s](%s)</td></tr>" % (i["sort_name"], label, ref))
     print("</table>\n")
 
-# print_glossaries()
-# print_index()
+# for now workflow is just to uncomment these and copy paste them into the files (then build again)
+# print("\nGLOSSARY\n"); print_glossaries()
+# print("\nINDEX\n"); print_index()

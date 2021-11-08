@@ -29,148 +29,168 @@
 </style>
 
 <table>
-    <tr><td>Abandoned Archipelagos</td><td><a href='10-lnc.html#abandoned-archipelagos'>LNC</a></td></tr>
-    <tr><td>Affect Flooding</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Apertures</td><td><a href='00-iv-cosmography.html#apertures'>Cosmography</a></td></tr>
-    <tr><td>Apotheosis</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Architectural Services</td><td><a href='10-lnc.html#architectural-services'>LNC</a></td></tr>
-    <tr><td>Ardence, The</td><td><a href='03-lgd.html'>LGD</a></td></tr>
-    <tr><td>Astrals & Chthonics</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Asymmetry</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Asymmetry, The</td><td><a href='13-nnc.html'>NNC</a></td></tr>
-    <tr><td>Autonomy</td><td><a href='00-v-facets.html#autonomy'>Facets</a></td></tr>
-    <tr><td>Balancers</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Behemoths</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Bell, The</td><td><a href='04-ngc.html'>NGC</a></td></tr>
-    <tr><td>Bleachers</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Bloom, The</td><td><a href='25-cec.html'>CEC</a></td></tr>
-    <tr><td>Body Instrumentation</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Bookkeepers</td><td><a href='03-lgd.html#untranslated'>LGD</a></td></tr>
-    <tr><td>Brink, The</td><td><a href='08-cgp.html'>CGP</a></td></tr>
-    <tr><td>Cardinal Worlds</td><td><a href='00-iv-cosmography.html#cardinal'>Cosmography</a></td></tr>
-    <tr><td>Cartography, The</td><td><a href='14-nnp.html'>NNP</a></td></tr>
-    <tr><td>Choosing a Sanctum</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Chords</td><td><a href='10-lnc.html#chords'>LNC</a></td></tr>
-    <tr><td>Cloudburst</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Coliseum, The</td><td><a href='14-nnp.html#the-coliseum'>NNP</a></td></tr>
-    <tr><td>Combustion</td><td><a href='18-cnd.html#combustion'>CND</a></td></tr>
-    <tr><td>Control Room, The</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Cooking</td><td><a href='18-cnd.html#cooking'>CND</a></td></tr>
-    <tr><td>Cosmography</td><td><a href='00-iv-cosmography.html'>Cosmography</a></td></tr>
-    <tr><td>Creation</td><td><a href='00-v-facets.html#creation'>Facets</a></td></tr>
-    <tr><td>Crystallization</td><td><a href='18-cnd.html#crystallization'>CND</a></td></tr>
-    <tr><td>Decomposing Buried Treasure</td><td><a href='18-cnd.html#decomposing-buried-treasure'>CND</a></td></tr>
-    <tr><td>Demigods</td><td><a href='18-cnd.html#demigods'>CND</a></td></tr>
-    <tr><td>Dissolution</td><td><a href='00-v-facets.html#dissolution'>Facets</a></td></tr>
-    <tr><td>Echo Plateau, The</td><td><a href='10-lnc.html#the-echo-plateau'>LNC</a></td></tr>
-    <tr><td>Empathy</td><td><a href='00-v-facets.html#empathy'>Facets</a></td></tr>
-    <tr><td>Equilibrium</td><td><a href='00-v-facets.html#equilibrium'>Facets</a></td></tr>
-    <tr><td>Extent in Space</td><td><a href='14-nnp.html#extent-in-space'>NNP</a></td></tr>
-    <tr><td>Extent in Time</td><td><a href='14-nnp.html#extent-in-time'>NNP</a></td></tr>
-    <tr><td>Facets</td><td><a href='00-v-facets.html'>Facets</a></td></tr>
-    <tr><td>Fading Divine Powers</td><td><a href='18-cnd.html#fading-divine-powers'>CND</a></td></tr>
-    <tr><td>Failed Enchantments</td><td><a href='18-cnd.html#failed-enchantments'>CND</a></td></tr>
-    <tr><td>First Story, The</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Florescence, The</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Foil, The</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Frames & Shells</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Fruitions</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Fruitless Apostles</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Galabast</td><td><a href='10-lnc.html#galabast'>LNC</a></td></tr>
-    <tr><td>Glass Ocean</td><td><a href='10-lnc.html#glass-ocean'>LNC</a></td></tr>
-    <tr><td>Glintings</td><td><a href='10-lnc.html#glintings'>LNC</a></td></tr>
-    <tr><td>Golden Lake, The</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Golden Sound, The</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Golden Spine, The</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Gorol</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Guilds</td><td><a href='10-lnc.html#guilds'>LNC</a></td></tr>
-    <tr><td>Hero Utterly, The</td><td><a href='03-lgd.html#untranslated'>LGD</a></td></tr>
-    <tr><td>Hierarchy</td><td><a href='00-v-facets.html#hierarchy'>Facets</a></td></tr>
-    <tr><td>Hole in the Sky, The</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Howdahs</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Ichor</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Identity Exchange</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Illusion of Insight, The</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Inevitability, The</td><td><a href='18-cnd.html'>CND</a></td></tr>
-    <tr><td>Instrument, The</td><td><a href='12-lnd.html'>LND</a></td></tr>
-    <tr><td>Islet Conservatory, The</td><td><a href='25-cec.html#the-islet-conservatory'>CEC</a></td></tr>
-    <tr><td>Islet, The</td><td><a href='25-cec.html#the-islet'>CEC</a></td></tr>
-    <tr><td>Kalon Intentions</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Kindling and Wind Shifter sentience, The</td><td><a href='10-lnc.html#the-kindling-and-wind-shifter-sentience'>LNC</a></td></tr>
-    <tr><td>Knot, The</td><td><a href='26-cep.html'>CEP</a></td></tr>
-    <tr><td>Laminae</td><td><a href='00-iv-cosmography.html#laminae'>Cosmography</a></td></tr>
-    <tr><td>Laminal</td><td><a href='00-iv-cosmography.html#laminal'>Cosmography</a></td></tr>
-    <tr><td>Language</td><td><a href='18-cnd.html#language'>CND</a></td></tr>
-    <tr><td>Listeners</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Loss of Knowledge</td><td><a href='18-cnd.html#loss-of-knowledge'>CND</a></td></tr>
-    <tr><td>Means</td><td><a href='00-v-facets.html#means'>Facets</a></td></tr>
-    <tr><td>Mechanisms</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Mentorship</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Method</td><td><a href='00-v-facets.html#method'>Facets</a></td></tr>
-    <tr><td>Mirrors & Clouds</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Monument of Perception, The</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Mortals</td><td><a href='00-iv-cosmography.html#mortals'>Cosmography</a></td></tr>
-    <tr><td>Mother</td><td><a href='25-cec.html#mother'>CEC</a></td></tr>
-    <tr><td>Motive</td><td><a href='00-v-facets.html#motive'>Facets</a></td></tr>
-    <tr><td>Navigation</td><td><a href='00-iv-cosmography.html#navigation'>Cosmography</a></td></tr>
-    <tr><td>Nimble’s Bazaar</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Opposite Day</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Orators</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Ordial Plane</td><td><a href='00-iv-cosmography.html#ordial-plane'>Cosmography</a></td></tr>
-    <tr><td>Organ, The</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Outside the Automaton</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Paradox of Boredom, The</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Passage of Time</td><td><a href='14-nnp.html#passage-of-time'>NNP</a></td></tr>
-    <tr><td>Passage of Time, The</td><td><a href='18-cnd.html#the-passage-of-time'>CND</a></td></tr>
-    <tr><td>Pasture, The</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Patterners</td><td><a href='10-lnc.html#patterners'>LNC</a></td></tr>
-    <tr><td>Pavilions</td><td><a href='03-lgd.html#untranslated'>LGD</a></td></tr>
-    <tr><td>Peregrination</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Perpetual Dawn</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Petitioners</td><td><a href='00-iv-cosmography.html#petitioners'>Cosmography</a></td></tr>
-    <tr><td>Plane of Mirrors, The</td><td><a href='14-nnp.html#the-plane-of-mirrors'>NNP</a></td></tr>
-    <tr><td>Political Dissolution</td><td><a href='18-cnd.html#political-dissolution'>CND</a></td></tr>
-    <tr><td>Power</td><td><a href='00-v-facets.html#power'>Facets</a></td></tr>
-    <tr><td>Procession’s Path, The</td><td><a href='18-cnd.html#the-processions-path'>CND</a></td></tr>
-    <tr><td>Promenade of Congruities</td><td><a href='10-lnc.html#promenade-of-congruities'>LNC</a></td></tr>
-    <tr><td>Rainways</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Recursiveness</td><td><a href='14-nnp.html#recursiveness'>NNP</a></td></tr>
-    <tr><td>Regeneration</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Reservoir, The</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Residents</td><td><a href='00-iv-cosmography.html#residents'>Cosmography</a></td></tr>
-    <tr><td>Restoration</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Retelling the Story</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Retrieval</td><td><a href='18-cnd.html#retrieval'>CND</a></td></tr>
-    <tr><td>Romantic Discord</td><td><a href='18-cnd.html#romantic-discord'>CND</a></td></tr>
-    <tr><td>Rout, The</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Sanctuaries</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Scaffold</td><td><a href='10-lnc.html#scaffold'>LNC</a></td></tr>
-    <tr><td>Scaffold’s Collapse, The</td><td><a href='10-lnc.html#the-scaffolds-collapse'>LNC</a></td></tr>
-    <tr><td>Seekers</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Skyreaches</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Smooth Land</td><td><a href='25-cec.html#smooth-land'>CEC</a></td></tr>
-    <tr><td>Smoothers</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Soblei</td><td><a href='00-iv-cosmography.html#soblei'>Cosmography</a></td></tr>
-    <tr><td>Social Apotheosis</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Spoiled Food</td><td><a href='18-cnd.html#spoiled-food'>CND</a></td></tr>
-    <tr><td>Spurious Insight</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Staircase, The</td><td><a href='26-cep.html#untranslated'>CEP</a></td></tr>
-    <tr><td>Supplication</td><td><a href='03-lgd.html#untranslated'>LGD</a></td></tr>
-    <tr><td>Swells</td><td><a href='25-cec.html#swells'>CEC</a></td></tr>
-    <tr><td>Synthesis</td><td><a href='00-v-facets.html#synthesis'>Facets</a></td></tr>
-    <tr><td>Tillers</td><td><a href='18-cnd.html#tillers'>CND</a></td></tr>
-    <tr><td>Timekeeping</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Tremors</td><td><a href='12-lnd.html#untranslated'>LND</a></td></tr>
-    <tr><td>Tutelary Council</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Undersea Cliffs</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Unfolding, The</td><td><a href='10-lnc.html'>LNC</a></td></tr>
-    <tr><td>Universal Story, The</td><td><a href='04-ngc.html#untranslated'>NGC</a></td></tr>
-    <tr><td>Unnoticed Feud, The</td><td><a href='10-lnc.html#the-unnoticed-feud'>LNC</a></td></tr>
-    <tr><td>Utility</td><td><a href='00-v-facets.html#utility'>Facets</a></td></tr>
-    <tr><td>Visitors</td><td><a href='03-lgd.html#untranslated'>LGD</a></td></tr>
-    <tr><td>Wheels & Knives</td><td><a href='08-cgp.html#untranslated'>CGP</a></td></tr>
-    <tr><td>Wind Shifters</td><td><a href='10-lnc.html#wind-shifters'>LNC</a></td></tr>
-    <tr><td>tableau</td><td><a href='14-nnp.html#tableau'>NNP</a></td></tr>
+    <tr><td>Abandoned Archipelagos</td><td>REF[LNC](lnc#abandoned-archipelagos)</td></tr>
+    <tr><td>Affect Flooding</td><td>REF[CGP](cgp#affect-flooding)</td></tr>
+    <tr><td>Amends</td><td>REF[NGP](ngp#amends)</td></tr>
+    <tr><td>Apertures</td><td>REF[Cosmography](cosmography#apertures)</td></tr>
+    <tr><td>Apotheosis</td><td>REF[CEP](cep#apotheosis)</td></tr>
+    <tr><td>Architectural Services</td><td>REF[LNC](lnc#architectural-services)</td></tr>
+    <tr><td>Ardence, The</td><td>REF[LGD](lgd)</td></tr>
+    <tr><td>Astrals & Chthonics</td><td>REF[CGP](cgp#astrals-chthonics)</td></tr>
+    <tr><td>Asymmetry</td><td>REF[LND](lnd#asymmetry)</td></tr>
+    <tr><td>Asymmetry, The</td><td>REF[NNC](nnc)</td></tr>
+    <tr><td>Autonomy</td><td>REF[Facets](facets#autonomy)</td></tr>
+    <tr><td>Balancers</td><td>REF[LND](lnd#balancers)</td></tr>
+    <tr><td>Bearing the Consonance</td><td>REF[NGP](ngp#bearing-the-consonance)</td></tr>
+    <tr><td>Behemoths</td><td>REF[CEP](cep#behemoths)</td></tr>
+    <tr><td>Bell, The</td><td>REF[NGC](ngc)</td></tr>
+    <tr><td>Bleachers</td><td>REF[LND](lnd#bleachers)</td></tr>
+    <tr><td>Bloom, The</td><td>REF[CEC](cec)</td></tr>
+    <tr><td>Body Instrumentation</td><td>REF[CGP](cgp#body-instrumentation)</td></tr>
+    <tr><td>Bookkeepers</td><td>REF[LGD](lgd#bookkeepers)</td></tr>
+    <tr><td>Braid, The</td><td>REF[NGP](ngp)</td></tr>
+    <tr><td>Breath House</td><td>REF[NGP](ngp#breath-house)</td></tr>
+    <tr><td>Brink, The</td><td>REF[CGP](cgp)</td></tr>
+    <tr><td>Cardinal Resolutions</td><td>REF[NGP](ngp#cardinal-resolutions)</td></tr>
+    <tr><td>Cardinal Worlds</td><td>REF[Cosmography](cosmography#cardinal)</td></tr>
+    <tr><td>Cartography, The</td><td>REF[NNP](nnp)</td></tr>
+    <tr><td>Choosing a Sanctum</td><td>REF[NGC](ngc#choosing-a-sanctum)</td></tr>
+    <tr><td>Chords</td><td>REF[LNC](lnc#chords)</td></tr>
+    <tr><td>Cleft, The</td><td>REF[NGP](ngp#the-cleft)</td></tr>
+    <tr><td>Cloudburst</td><td>REF[NGC](ngc#cloudburst)</td></tr>
+    <tr><td>Coliseum, The</td><td>REF[NNP](nnp#the-coliseum)</td></tr>
+    <tr><td>Combustion</td><td>REF[CND](cnd#combustion)</td></tr>
+    <tr><td>Consonance Fallibility</td><td>REF[NGP](ngp#consonance-fallibility)</td></tr>
+    <tr><td>Consonance, The</td><td>REF[NGP](ngp#the-consonance)</td></tr>
+    <tr><td>Control Room, The</td><td>REF[LND](lnd#the-control-room)</td></tr>
+    <tr><td>Cooking</td><td>REF[CND](cnd#cooking)</td></tr>
+    <tr><td>Cosmography</td><td>REF[Cosmography](cosmography)</td></tr>
+    <tr><td>Creation</td><td>REF[Facets](facets#creation)</td></tr>
+    <tr><td>Crystallization</td><td>REF[CND](cnd#crystallization)</td></tr>
+    <tr><td>Decomposing Buried Treasure</td><td>REF[CND](cnd#decomposing-buried-treasure)</td></tr>
+    <tr><td>Demigods</td><td>REF[CND](cnd#demigods)</td></tr>
+    <tr><td>Dissolution</td><td>REF[Facets](facets#dissolution)</td></tr>
+    <tr><td>Dramas</td><td>REF[NGP](ngp#dramas)</td></tr>
+    <tr><td>Duels</td><td>REF[NGP](ngp#duels)</td></tr>
+    <tr><td>Echo Plateau, The</td><td>REF[LNC](lnc#the-echo-plateau)</td></tr>
+    <tr><td>Emissaries</td><td>REF[NGP](ngp#emissaries)</td></tr>
+    <tr><td>Empathy</td><td>REF[Facets](facets#empathy)</td></tr>
+    <tr><td>Equilibrium</td><td>REF[Facets](facets#equilibrium)</td></tr>
+    <tr><td>Extent in Space</td><td>REF[NNP](nnp#extent-in-space)</td></tr>
+    <tr><td>Extent in Time</td><td>REF[NNP](nnp#extent-in-time)</td></tr>
+    <tr><td>Facets</td><td>REF[Facets](facets)</td></tr>
+    <tr><td>Fading Divine Powers</td><td>REF[CND](cnd#fading-divine-powers)</td></tr>
+    <tr><td>Failed Enchantments</td><td>REF[CND](cnd#failed-enchantments)</td></tr>
+    <tr><td>First Story, The</td><td>REF[NGC](ngc#the-first-story)</td></tr>
+    <tr><td>Floods</td><td>REF[NGP](ngp#floods)</td></tr>
+    <tr><td>Florescence, The</td><td>REF[CGP](cgp#the-florescence)</td></tr>
+    <tr><td>Foil, The</td><td>REF[CGP](cgp#the-foil)</td></tr>
+    <tr><td>Frames & Shells</td><td>REF[CGP](cgp#frames-shells)</td></tr>
+    <tr><td>Fruitions</td><td>REF[CGP](cgp#fruitions)</td></tr>
+    <tr><td>Fruitless Apostles</td><td>REF[NGC](ngc#fruitless-apostles)</td></tr>
+    <tr><td>Galabast</td><td>REF[LNC](lnc#galabast)</td></tr>
+    <tr><td>Glass Ocean</td><td>REF[LNC](lnc#glass-ocean)</td></tr>
+    <tr><td>Glintings</td><td>REF[LNC](lnc#glintings)</td></tr>
+    <tr><td>Golden Lake, The</td><td>REF[NGC](ngc#the-golden-lake)</td></tr>
+    <tr><td>Golden Sound, The</td><td>REF[NGC](ngc#the-golden-sound)</td></tr>
+    <tr><td>Golden Spine, The</td><td>REF[NGC](ngc#the-golden-spine)</td></tr>
+    <tr><td>Gorol</td><td>REF[CEP](cep#gorol)</td></tr>
+    <tr><td>Guilds</td><td>REF[LNC](lnc#guilds)</td></tr>
+    <tr><td>Hero Utterly, The</td><td>REF[LGD](lgd#the-hero-utterly)</td></tr>
+    <tr><td>Hierarchy</td><td>REF[Facets](facets#hierarchy)</td></tr>
+    <tr><td>Hole in the Sky, The</td><td>REF[CGP](cgp#the-hole-in-the-sky)</td></tr>
+    <tr><td>Howdahs</td><td>REF[CEP](cep#howdahs)</td></tr>
+    <tr><td>Ichor</td><td>REF[CGP](cgp#ichor)</td></tr>
+    <tr><td>Identity Exchange</td><td>REF[CGP](cgp#identity-exchange)</td></tr>
+    <tr><td>Illusion of Insight, The</td><td>REF[NGC](ngc#the-illusion-of-insight)</td></tr>
+    <tr><td>Inevitability, The</td><td>REF[CND](cnd)</td></tr>
+    <tr><td>Instrument, The</td><td>REF[LND](lnd)</td></tr>
+    <tr><td>Inter-Narration</td><td>REF[NGP](ngp#inter-narration)</td></tr>
+    <tr><td>Islet Conservatory, The</td><td>REF[CEC](cec#the-islet-conservatory)</td></tr>
+    <tr><td>Islet, The</td><td>REF[CEC](cec#the-islet)</td></tr>
+    <tr><td>Kalon Intentions</td><td>REF[NGC](ngc#kalon-intentions)</td></tr>
+    <tr><td>Kindling and Wind Shifter sentience, The</td><td>REF[LNC](lnc#the-kindling-and-wind-shifter-sentience)</td></tr>
+    <tr><td>Knot, The</td><td>REF[CEP](cep)</td></tr>
+    <tr><td>Laminae</td><td>REF[Cosmography](cosmography#laminae)</td></tr>
+    <tr><td>Laminal</td><td>REF[Cosmography](cosmography#laminal)</td></tr>
+    <tr><td>Language</td><td>REF[CND](cnd#language)</td></tr>
+    <tr><td>Limn Communication</td><td>REF[NGP](ngp#limn-communication)</td></tr>
+    <tr><td>Listeners</td><td>REF[LND](lnd#listeners)</td></tr>
+    <tr><td>Loss of Knowledge</td><td>REF[CND](cnd#loss-of-knowledge)</td></tr>
+    <tr><td>Means</td><td>REF[Facets](facets#means)</td></tr>
+    <tr><td>Mechanisms</td><td>REF[LND](lnd#mechanisms)</td></tr>
+    <tr><td>Mentorship</td><td>REF[CGP](cgp#mentorship)</td></tr>
+    <tr><td>Method</td><td>REF[Facets](facets#method)</td></tr>
+    <tr><td>Mirrors & Clouds</td><td>REF[CGP](cgp#mirrors-clouds)</td></tr>
+    <tr><td>Mnemonic Artifacts</td><td>REF[NGP](ngp#mnemonic-artifacts)</td></tr>
+    <tr><td>Monument Cloisters</td><td>REF[NGP](ngp#monument-cloisters)</td></tr>
+    <tr><td>Monument of Perception, The</td><td>REF[CGP](cgp#the-monument-of-perception)</td></tr>
+    <tr><td>Mortals</td><td>REF[Cosmography](cosmography#mortals)</td></tr>
+    <tr><td>Mother</td><td>REF[CEC](cec#mother)</td></tr>
+    <tr><td>Motive</td><td>REF[Facets](facets#motive)</td></tr>
+    <tr><td>Navigation</td><td>REF[Cosmography](cosmography#navigation)</td></tr>
+    <tr><td>Nimble’s Bazaar</td><td>REF[CGP](cgp#nimbles-bazaar)</td></tr>
+    <tr><td>Odysseys</td><td>REF[NGP](ngp#odysseys)</td></tr>
+    <tr><td>Opposite Day</td><td>REF[CGP](cgp#opposite-day)</td></tr>
+    <tr><td>Orators</td><td>REF[NGC](ngc#orators)</td></tr>
+    <tr><td>Ordial Plane</td><td>REF[Cosmography](cosmography#ordial-plane)</td></tr>
+    <tr><td>Organ, The</td><td>REF[LND](lnd#the-organ)</td></tr>
+    <tr><td>Outside the Automaton</td><td>REF[LND](lnd#outside-the-automaton)</td></tr>
+    <tr><td>Paradox of Boredom, The</td><td>REF[CGP](cgp#the-paradox-of-boredom)</td></tr>
+    <tr><td>Passage of Time</td><td>REF[NNP](nnp#passage-of-time)</td></tr>
+    <tr><td>Passage of Time, The</td><td>REF[CND](cnd#the-passage-of-time)</td></tr>
+    <tr><td>Pasture, The</td><td>REF[CEP](cep#the-pasture)</td></tr>
+    <tr><td>Patchwork</td><td>REF[NGP](ngp#patchwork)</td></tr>
+    <tr><td>Patterners</td><td>REF[LNC](lnc#patterners)</td></tr>
+    <tr><td>Pavilions</td><td>REF[LGD](lgd#pavilions)</td></tr>
+    <tr><td>Peacebuilds</td><td>REF[NGP](ngp#peacebuilds)</td></tr>
+    <tr><td>Peregrination</td><td>REF[NGC](ngc#peregrination)</td></tr>
+    <tr><td>Perpetual Dawn</td><td>REF[NGC](ngc#perpetual-dawn)</td></tr>
+    <tr><td>Petitioners</td><td>REF[Cosmography](cosmography#petitioners)</td></tr>
+    <tr><td>Plane of Mirrors, The</td><td>REF[NNP](nnp#the-plane-of-mirrors)</td></tr>
+    <tr><td>Political Dissolution</td><td>REF[CND](cnd#political-dissolution)</td></tr>
+    <tr><td>Power</td><td>REF[Facets](facets#power)</td></tr>
+    <tr><td>Procession’s Path, The</td><td>REF[CND](cnd#the-processions-path)</td></tr>
+    <tr><td>Promenade of Congruities</td><td>REF[LNC](lnc#promenade-of-congruities)</td></tr>
+    <tr><td>Rainways</td><td>REF[CGP](cgp#rainways)</td></tr>
+    <tr><td>Recursiveness</td><td>REF[NNP](nnp#recursiveness)</td></tr>
+    <tr><td>Regeneration</td><td>REF[CEP](cep#regeneration)</td></tr>
+    <tr><td>Reservoir, The</td><td>REF[LND](lnd#the-reservoir)</td></tr>
+    <tr><td>Residents</td><td>REF[Cosmography](cosmography#residents)</td></tr>
+    <tr><td>Restoration</td><td>REF[CGP](cgp#restoration)</td></tr>
+    <tr><td>Retelling the Story</td><td>REF[NGC](ngc#retelling-the-story)</td></tr>
+    <tr><td>Retrieval</td><td>REF[CND](cnd#retrieval)</td></tr>
+    <tr><td>Romantic Discord</td><td>REF[CND](cnd#romantic-discord)</td></tr>
+    <tr><td>Rout, The</td><td>REF[LND](lnd#the-rout)</td></tr>
+    <tr><td>Sanctuaries</td><td>REF[CGP](cgp#sanctuaries)</td></tr>
+    <tr><td>Scaffold</td><td>REF[LNC](lnc#scaffold)</td></tr>
+    <tr><td>Scaffold’s Collapse, The</td><td>REF[LNC](lnc#the-scaffolds-collapse)</td></tr>
+    <tr><td>Seekers</td><td>REF[LND](lnd#seekers)</td></tr>
+    <tr><td>Sky Mirror</td><td>REF[NGP](ngp#sky-mirror)</td></tr>
+    <tr><td>Skyreaches</td><td>REF[CGP](cgp#skyreaches)</td></tr>
+    <tr><td>Smooth Land</td><td>REF[CEC](cec#smooth-land)</td></tr>
+    <tr><td>Smoothers</td><td>REF[LND](lnd#smoothers)</td></tr>
+    <tr><td>Soblei</td><td>REF[Cosmography](cosmography#soblei)</td></tr>
+    <tr><td>Social Apotheosis</td><td>REF[CGP](cgp#social-apotheosis)</td></tr>
+    <tr><td>Spoiled Food</td><td>REF[CND](cnd#spoiled-food)</td></tr>
+    <tr><td>Spurious Insight</td><td>REF[CGP](cgp#spurious-insight)</td></tr>
+    <tr><td>Staircase, The</td><td>REF[CEP](cep#the-staircase)</td></tr>
+    <tr><td>Supplication</td><td>REF[LGD](lgd#supplication)</td></tr>
+    <tr><td>Swells</td><td>REF[CEC](cec#swells)</td></tr>
+    <tr><td>Symbolic Language</td><td>REF[NGP](ngp#symbolic-language)</td></tr>
+    <tr><td>Synthesis</td><td>REF[Facets](facets#synthesis)</td></tr>
+    <tr><td>Tillers</td><td>REF[CND](cnd#tillers)</td></tr>
+    <tr><td>Timekeeping</td><td>REF[LND](lnd#timekeeping)</td></tr>
+    <tr><td>Tremors</td><td>REF[LND](lnd#tremors)</td></tr>
+    <tr><td>Truthfulness</td><td>REF[NGP](ngp#truthfulness)</td></tr>
+    <tr><td>Tutelary Council</td><td>REF[NGC](ngc#tutelary-council)</td></tr>
+    <tr><td>Undersea Cliffs</td><td>REF[CGP](cgp#undersea-cliffs)</td></tr>
+    <tr><td>Unfolding, The</td><td>REF[LNC](lnc)</td></tr>
+    <tr><td>Universal Story, The</td><td>REF[NGC](ngc#the-universal-story)</td></tr>
+    <tr><td>Unnoticed Feud, The</td><td>REF[LNC](lnc#the-unnoticed-feud)</td></tr>
+    <tr><td>Utility</td><td>REF[Facets](facets#utility)</td></tr>
+    <tr><td>Visitors</td><td>REF[LGD](lgd#visitors)</td></tr>
+    <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>
+    <tr><td>Wind Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>
+    <tr><td>tableau</td><td>REF[NNP](nnp#tableau)</td></tr>
 </table>
-
-
