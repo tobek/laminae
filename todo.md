@@ -1,12 +1,6 @@
-# changelong
-
-- 2021-11-07
-    - Added translators note
-    - Completed stub NGP
-
 # race
 
-- At least stub content (+ TOC?) for all laminae (17 remaining)
+- At least stub content (+ TOC?) for all laminae (16 remaining)
 - Interactive cosmology visualization
 - Site-wide glyph visualization
 - Add GPT-3 content in distinct visual style
@@ -17,7 +11,7 @@
 - A close edit pass across the whole thing
 - Colophon
 - Review every TODO
-- Other misc bits - go through every single task on here (changelog, more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
+- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
 - Bonuses:
     - moodboard images?
     - more shifting elements
@@ -54,7 +48,11 @@ tiny back arrow??
 
 # big questions
 
-- should ordial primer link to laminae and glossary terms?
+- meaning behind effects
+    + guild terms/burmese/unfinished titles changing
+    + image changing (just NGP so far)
+    + AI-generated text
+- how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 - include conduit?
 - language??
     + can petitioners and mortals understand each other? handwave something? how to petitioners from different worlds understand each other??
@@ -66,7 +64,6 @@ tiny back arrow??
         * various mentions in Unfolding feud
         * lgd bookeepers "race"
         * searched "human" and "race" and accounted for all
-- how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 - more/better author stuff
 
 # big ideas
@@ -100,7 +97,9 @@ you should be intrigued on the first read, and if you read it again after readin
 
 ## ●◍◍○ Cosmography
 
-decided = 3, written = 4.
+should ordial primer link to laminae and glossary terms?
+
+one more edit pass = 4
 
 contents:
 

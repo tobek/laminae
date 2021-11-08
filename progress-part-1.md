@@ -151,7 +151,7 @@
 
 It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">Observations on the Twenty-Seven Laminae</a>
 
-Details of major updates can be found in the <a href="https://thereitwas.com/laminae/d-translation-log.html">Translation Log</a>.
+Major updates will go into the <a href="https://thereitwas.com/laminae/d-translation-log.html">Translation Log</a>.
 
 <br />
 

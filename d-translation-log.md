@@ -16,7 +16,7 @@ hide_toc: True
 
 #### The Eighth of the Eleventh
 
-This log, beginning with some relevant past milestones, has been added and will be updated with further progress.
+This log, beginning with notable past milestones, has been added and will be updated with further progress.
 
 A REF[Translator's Note](translators-note) has also been added.
 
@@ -36,7 +36,7 @@ The <span class="guild-term">Order</span> announced our possession of this text 
 
 ## The 217th Year L.C.
 
-#### The Eighteenth of the Ninth
+#### The Sixteenth of the Ninth
 
 Translation work began.
 

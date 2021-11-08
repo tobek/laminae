@@ -292,6 +292,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + some aperture gone wrong, or maybe emergency exit from The Cartography
     + no time stuff, rather she got suspended in some stasis for a long time and the Order unlocked it
     + another copy had been made before this happened, and/or someone (an Inevitability visitor?) made a copy? maybe at the archive (LNP)
+- royalty - some chosen class leading a theocratic state - hence liturgical karedian?
 
 ### moments
 
@@ -403,6 +404,7 @@ steam -> rust and/or ground glass
     + comment out from rand.js
     + remove from homepage TOC filler
     + update glossary and index
+    + update changelog
 - Read again, organize notes
 
 ### Foci (high-ish priority?)
