@@ -84,7 +84,7 @@ after viral tweet about possible solution to supply chain backup caused somethin
 - *maybe* Adeptus Mechanicus vibes?
 	+ or maybe just some effective cabal of leaders is that, and they're happy to let the general population flounder, or maybe set up the organizational floundering themselves, to get some rebellion off their back. or maybe they wanted to stop the machine's mission - they took it over from the previous owners, and crafted something to drive the petitioners crazy, and they're worried about them finding scraps of the ancient text that might lead them to restoring the machine to action
 - discoveries, some kind of TVGlo, maybe author finds something?
-- how do they interact with prime worlds? some of the junk coming in/out must be connected. also maybe some CNP/CND connection
+- how do they interact with cardinal worlds? some of the junk coming in/out must be connected. also maybe some CNP/CND connection
 
 "Smoothers". OCD to its most insane extreme. Different factions OCD about different things, and cities built around these things, e.g. the Bleachers clean things to the bone/disintegration, or sanding/smoothing until nothing remains, or analysis until meaninglessness, or repetition until nonsense
 

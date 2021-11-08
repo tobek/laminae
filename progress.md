@@ -159,8 +159,9 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
-|2021-11-08|1   |45795|1655|54%|45%|23|101|65|36|
-|2021-11-07|3.25|45767|1638|54%|45%|23|101|65|36|
+|2021-11-08|1.5 |45837|1656|54%|45%|23|102|65|37|
+|2021-11-08|1.5 |45837|1656|54%|45%|23|101|65|36|
+|2021-11-07|4.25|45795|1655|54%|45%|23|101|65|36|
 |2021-11-06|1.75|45151|1629|52%|45%|22|101|65|36|
 |2021-11-03|1   |44791|1629|52%|44%|22|100|64|36|
 |2021-11-02|0.75|44829|1629|52%|44%|22|100|64|36|
@@ -291,7 +292,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 45,795 | 1,655 | 23/42 | 101/224 |
+| 45,837 | 1,656 | 23/42 | 102/224 |
 </div>
 
 <div class="progress-wrap">
@@ -322,7 +323,7 @@ It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">
 
 | | |
 | :-- | :-- |
-| Frame | <span class="bloop">●◍◍○</span> |
+| Frame | <span class="bloop">●◍◍◍</span> |
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">●◍◍○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |

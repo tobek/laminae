@@ -3,7 +3,13 @@
 ---
 subtitle: Synthesis Empathy Equilibrium NGP
 intro_only: True
-post_intro_only: MEDIA("Michael Hutter - Carcosa XXIX (edited).jpg")
+post_intro_only: |
+
+    <div class="choose-one-child">
+    MEDIA("Michael Hutter - Carcosa XXIX (edited).jpg")
+    MEDIA("Michael Hutter - Carcosa XXIX (edited).jpg")
+    MEDIA("Waneella - Poosteenja.gif")
+    </div>
 
 quote: |
     > If you make rules only you can win by, they will play by other rules. TODO(quote maybe)[]
@@ -16,7 +22,7 @@ intro: |
 
     In ochre river valleys afoot steep white mesas the Limns, idiosyncratic inhabitants of the Braid, form tightly-knit communities of ritual, fellowship, contemplation, and resolution. The Limns communicate with a wordless language that varies between individuals and relies on instruments and complex garments that each Limn has decorated as mnemonic objects of their own personality and experience.
 
-    Limn communication and temperament is a product of a property of the Braid known as the Consonance: when observing the actions of any conscious being on this lamina, you simultaneously observe the entire trail of events that led to that being taking that action. Seeing someone in frustration yell a particular insult, you will also witness their father flinging that same insult, and the causes of their father's childhood fears that lead to preoccupation with the language used in that insult, and onwards and outwards with receding intensity the entire history that created that moment. Every interaction is a cascade of memories and history. It is dumbfounding; it is far too much information to take in at once, and yet the nature of what is experienced is immediately obvious.
+    Limn communication and temperament follows from a property of the Braid known as the Consonance: when observing the actions of any conscious being on this lamina, you simultaneously observe the entire trail of events that led to that being taking that action. Seeing someone in frustration yell a particular insult, you will also witness their father flinging that same insult, and the causes of their father's childhood fears that lead to preoccupation with the language used in that insult, and onwards and outwards with receding intensity the entire history that created that moment. Every interaction is a cascade of memories and history. It is dumbfounding; it is far too much information to take in at once, and yet the nature of what is experienced is immediately obvious.
 
     With a mixture of curiosity and determination, the Limns share the Consonance, bringing mortals to this lamina to resolve conflicts and heal wounds. Opposing figures or quarreling groups are carried en masse to behold each other in the light of the Consonance, atop great white starlit plateaus where the effect is strongest, in ceremonies organized by silent Limns. Solitary mortals find themselves here too sometimes---as did this visitor---left alone with thoughts and pasts deconstructed by the Braid's Consonance.
 

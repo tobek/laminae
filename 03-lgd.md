@@ -3,7 +3,7 @@
 ---
 subtitle: Hierarchy Empathy Dissolution LGD
 intro_only: True
-post_intro_only: MEDIA("Waneella - Knight.gif")
+post_intro_only: MEDIA("Waneella - Sijanie (Shine).gif")
 summary: Dark, star-slicked highlands of altars and shrines, each dedicated to a single exceptional petitioner who awaits one final and fatal quest worthy of their heroism.
 intro: |
 

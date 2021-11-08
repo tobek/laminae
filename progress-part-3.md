@@ -28,7 +28,7 @@
 
 | | |
 | :-- | :-- |
-| Frame | <span class="bloop">●◍◍○</span> |
+| Frame | <span class="bloop">●◍◍◍</span> |
 | Primer | <span class="bloop">●◍◍○</span> |
 | Preface | <span class="bloop">●◍◍○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |

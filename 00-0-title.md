@@ -376,5 +376,9 @@
   <div class="left"><div class="numeral">C.</div><a href="c-index.html">Index</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
+<div class="row">
+  <div class="left"><div class="numeral">D.</div><a href="d-translation-log.html">Translation Log</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
 
 </div>

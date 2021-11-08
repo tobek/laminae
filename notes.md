@@ -402,6 +402,7 @@ steam -> rust and/or ground glass
     + update homepage TOC
     + comment out from rand.js
     + remove from homepage TOC filler
+    + update glossary and index
 - Read again, organize notes
 
 ### Foci (high-ish priority?)
@@ -900,7 +901,7 @@ realm names or demonyms:
 - Protean (exceedingly variable)
 - Welt
 
-## realm names
+## lamina names
 
 (* = add to rando)
 
@@ -933,6 +934,7 @@ realm names or demonyms:
 - The Clarion (shrill trumpet, or loud and clear)
 - The Clasp
 - The Coalescence
+- The Collation
 - The Collision
 - The Concert
 - The Concordance (agreement or consistency)

@@ -1,3 +1,9 @@
+# changelong
+
+- 2021-11-07
+    - Added translators note
+    - Completed stub NGP
+
 # race
 
 - At least stub content (+ TOC?) for all laminae (17 remaining)
@@ -84,7 +90,7 @@ tiny back arrow??
 
 # Sections
 
-## ●◍◍○ Frame
+## ●◍◍◍ Frame
 
 ## ●◍◍○ Primer
 
@@ -541,6 +547,15 @@ later
 - footnotes/hash fragment links should highlight word (and maybe paragraph)
     + maybe like some scroll curlicue drawn around it or to the side
     + or a glow
+
+### fade/cycle stuff
+
+show another random selection, e.g.:
+
+    <span class="guild-term" style="display: inline-block;">
+        <span class="guild-term" style="position: absolute; opacity: .1;">Order</span>
+        Circle
+    </span>
 
 ### code tasks
 

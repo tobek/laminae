@@ -179,6 +179,7 @@
     <tr><td>Swells</td><td>REF[CEC](cec#swells)</td></tr>
     <tr><td>Symbolic Language</td><td>REF[NGP](ngp#symbolic-language)</td></tr>
     <tr><td>Synthesis</td><td>REF[Facets](facets#synthesis)</td></tr>
+    <tr><td>Tableau</td><td>REF[NNP](nnp#tableau)</td></tr>
     <tr><td>Tillers</td><td>REF[CND](cnd#tillers)</td></tr>
     <tr><td>Timekeeping</td><td>REF[LND](lnd#timekeeping)</td></tr>
     <tr><td>Tremors</td><td>REF[LND](lnd#tremors)</td></tr>
@@ -192,5 +193,4 @@
     <tr><td>Visitors</td><td>REF[LGD](lgd#visitors)</td></tr>
     <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>
     <tr><td>Wind Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>
-    <tr><td>tableau</td><td>REF[NNP](nnp#tableau)</td></tr>
 </table>

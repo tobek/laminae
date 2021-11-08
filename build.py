@@ -19,9 +19,10 @@ default_pandoc_args = [
 def to_kebab_case(value):
     return "-".join(value.lower().split())
 def get_sort_name(name):
+    sort_name = name;
     if "The " in name and name.index("The ") == 0:
-        return name[4:] + ", The"
-    return name
+        sort_name = name[4:] + ", The"
+    return sort_name[0].upper() + sort_name[1:]
 
 file_id_regex = r"[^-]+(-[0iv]+)?-(.+).md"
 
