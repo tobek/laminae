@@ -42,6 +42,7 @@ goals:
 - this place is crazy! and not for everyone
 - not CGC cause it's self-contained and destroys too
 - might need more empathy
+- how to beat the hedonic treadmill - two options, outrun or step off?
 
 elements:
 
@@ -69,11 +70,15 @@ gets weird and sparse out there
 - place where no one experiences boredom (more in notes) - required for creativity?
 	+ no boredom but not because boredom is impossible, but because it can constantly be evaded
 
+### Hedonic Tides
+
+hedonic treadmill but ocean metaphor: each wave is a rush, but you always end up back at the shore
+
+### Restoration
+
 ### Ichor
 
 psychedelics?
-
-### Restoration
 
 ### Fruitions
 

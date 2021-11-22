@@ -16,6 +16,7 @@
     - moodboard images?
     - more shifting elements
     - ask myanmar subreddit about use
+        - could ask the guy that did this https://github.com/vincent-paing/BurmeseProverbDataSet
     - post it places
 
 # requirements before launch
@@ -48,6 +49,8 @@ tiny back arrow??
 
 # big questions
 
+- how can it support scifi? should it? why wouldn't it?
+    + maybe it is totally out of time and some scifi stuff is present, but author doesn't have terminology to describe it (like the instrument)
 - meaning behind effects
     + guild terms/burmese/unfinished titles changing
     + image changing (just NGP so far)
@@ -413,12 +416,16 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
         * Support TODO.
         * Recommended book
         * Also Burmese food is incredible: check out [TODO](link) in San Francisco and [TODO](link) in NYC.
+        * burmese well wishing phrase
     + also mention other indic scripts?
     + easydabus/easydamus
     + d&d for alignments
     + hinduism for trimurti
     + wikis
     + friends
+- faq
+    + how do you pronounce "laminae"?
+        * There are [quite a few](https://en.wiktionary.org/wiki/Category:English_irregular_plurals_ending_in_%22-ae%22) words in English, derived from Latin, where the singular ends in -a and the plural in -ae: nebulae, alumnae, algae, antennae, larvae, vertebrae. With some exceptions (including algae and vertebrae), the final vowel in British English is generally pronounced like the "ee" in "see", and in American English generally pronounced like "eye".
 - stats?
 - about
     + contact

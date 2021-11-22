@@ -303,7 +303,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
 - parrigues: "claimed to recognize one of the authors, but she responded that they were not acquainted" - maybe somewhere where EVERYBODY seems to recognize one of the authors, this was assumed to be a trait of the plane, but didn't happen to anyone else, so... make of it what you will
 - the conduit
 - she helps resolve some laminal dispute
-- on echo plateau or CGD she gives up looking for her brother, and/or where she forgave herself
+- on echo plateau or NGD or CGD she gives up looking for her brother, and/or where she forgave herself
     + "it was here that this visitor formally gave up on the cause that began her journey" eh
 - a slip up where she reveals that it's fictional
     + like "but this visitor couldn't think of a more plausible outcome for this lamina"
@@ -402,7 +402,7 @@ steam -> rust and/or ground glass
     + update progress
     + update homepage TOC
     + comment out from rand.js
-    + remove from homepage TOC filler
+    + remove name from homepage TOC filler
     + update glossary and index
     + update changelog
 - Read again, organize notes
@@ -417,21 +417,30 @@ TODO go through evil sketch
 
 23 of them!
 
-- something where everything is like a play, or all interactions are formulaic
+- at least one XEX should be beautiful and cool and successful
+- something pretty futuristic, but not described as such
+- something where everything is like a play, or all interactions are formulaic - NGD?
     + greek stock characters/jungian archetypes etc
+    + and/or where you are assigned a ritual role in a play, and learning that role is therapeutic - NGC?
+        * Like thinking about how an actor with a very short role might still deeply flesh out history and mindset of char to play it well. It goes deeper
 - "an indigenous Amazonian society that shifted seasonally between two entirely different forms of social organization (small, authoritarian nomadic bands during the dry months; large, consensual horticultural settlements during the rainy season)"
 - looking for the chosen one - in an interesting way
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
+    + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
 - society that glamorizes maintenance instead of creation? LGP
 - death?
+- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. CGD? sounds more like NGD or NND or NED or LED or LND.
 - two planes that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
     - CED
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
-- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED? NGD/CGD you join for ritual
-- magical research outpost, maybe in CNC or CGC
+- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED or NED? NGD you join for ritual. prob LED or at least NED cause it requires a system to sustain itself
+    - if not "hoping to find the end" then would be XXP
+    - interesting stuff about maintaining morale on endless journey, does that work with finding the end? i guess some could give up, maybe there are some scattered communities
+    - generation ship aspect needs inhospitability of space vs spaceship vs finding a planet, so this would need something like that, caravan provides something
+- magical research outpost, maybe in CNC or CGC. this is kind of Bloom islet
 - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC)
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
@@ -441,14 +450,15 @@ TODO go through evil sketch
     + LND or CNP is no?
     + both are in NEC?
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
-    - maybe this is in cosmology, someone went to exactly 2 planes and then said the above, lead the way into there being more
+    - maybe this is in cosmology, someone went to exactly 2 planes and then said the above, lead the way into there being more - CNC vs CNP
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
 - Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
-- All beings part of a single collective intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC
+- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC
     - https://twitter.com/TylerAlterman/status/1453671384186564610
+    - "Something the whole ocean is doing"
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
 - incredible beauty - LEC, LEP, NEP
-- Sex CGD?
+- Sex  - CGD, CED, NED, NEC (dreams), NEP
 - a prison (w research/testing?)
 - non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC?)
 - sleep NEC
@@ -456,7 +466,7 @@ TODO go through evil sketch
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
     + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
-- weirdly insensitive and/or literally stupid, but powerful
+- weirdly insensitive and/or literally stupid, but powerful. XXD
 - bureaucracy? LXX
     + belgium
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
@@ -479,6 +489,7 @@ TODO go through evil sketch
 
 ### Physical, Environmental, Aesthetic
 
+- More extreme weather and how it effects culture - like it always rains, but weirder
 - Sort of like the wall place, one place could be an endless crevasse
     + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - probably XEX
     + "Karaz_ca_01" pic and michael hutter
@@ -538,9 +549,14 @@ TODO go through evil sketch
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND?)
+- Audience independent utterance - the idealization of
+- Emotional etc content of micro actions? (NGP?)
 - caste systems (LND?)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
+- "That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped." - https://mobile.twitter.com/gods_txt/status/1456321077710241792
+- No decisions except gut ones during ceremonies. Very elaborate, no time to scheme. More authentic. They facilitate this method for mortals. Like Dune emperor emissary delivers decree, obey or disobey on the spot, only way to cut through (and assess loyalty, and instinct). the sufis "believe that deep intuition is the only real guide to knowledge". human computer. fluency before understanding (quote?). NGP if nowhere else
+- https://twitter.com/chaosprime/status/1458552157179887621 - grokking, you have to understand your enemy to defeat them, and when you understand them you love them. also you need to love them to hate them. NND?
 - "bats can hear shapes. plants can eat light. bees can dance maps. we can hold all these ideas at once and feel both heavy and weightless with the absurd beauty of it all." - https://twitter.com/gnonymus/status/1457089729539842050
 - Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this?
 - "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
@@ -691,7 +707,7 @@ TODO go through evil sketch
         - 1) prevented from engaging in wanted activity, 2) when we are forced to engage in unwanted activity, or 3) when we are simply unable for some other reason to maintain engagement in an activity
 - "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better
 - "Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168
-- "Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 NGP?
+- "Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 XXP?
 - done
     + physics - entropy and 2nd law of thermodynamics (done - CND)
 
@@ -717,6 +733,9 @@ LOOK THROUGH HEADSOAK QUOTES
 
 LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 
+- "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq
+- "Only children and the stupid seek cause-and-effect in the same story" - Nasrudin, as related by Idries Shah
+- "Fluency before understanding, discipline before imagination"
 - "If you try and go against réalité... Réalité will surely crush you. Réalité will kill you. And réalité will continue to go on az if not'ing ever happened... From yesterday to today, and from today to tomorrow. Réalité marchez on... Leaving your crushed body behind..." - Harle
 - "What is better: to be born good, or to overcome your evil nature through great effort?" - Paarthurnax, Skyrim
 - "Beauty is an unalloyed good, a good until itself. Likewise strength." - Zero HP Lovecraft
@@ -754,8 +773,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
 - "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC maaaybe but not great)
-- "Nothing in life is to be feared, it is only to be understood." - Marie Curie - NGP sentiment, but too played out?
-    - followed by "Now is the time to understand more, so that we may fear less."
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
 - rilke quote about god coming
     + Why don’t you think of him as the one who is coming, who has been approaching from all eternity, the one who will someday arrive, the ultimate fruit of a tree whose leaves we are? What keeps you from projecting his birth into the ages that are coming into existence, and living your life as a painful and lovely day in the history of a great pregnancy? Don’t you see how everything that happens is again and again a beginning, and couldn’t it be His beginning, since, in itself, starting is always so beautiful? If he is the most perfect one, must not what is less perfect precede him, so that he can choose himself out of fullness and superabundance? Must he not be the last one, so that he can include everything in himself, and what meaning would we have if he whom we are longing for has already existed?
@@ -781,7 +798,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 122. Our resolutions for self-control are like our wars for peace. (NGC?)
         - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP?)
         - 140. When you think in words, are you sure it’s your own voice you hear?
-        - 170. Closing a door very gently, you pull with one hand, push with the other. (NGD, CGD, NNC)
+        - 170. Closing a door very gently, you pull with one hand, push with the other. (NGD, NNC)
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
@@ -1127,7 +1144,7 @@ don't forget "-er"s like Unravellers
     + Knots
     + Grips
 
-## Characters, Places, Etc.
+## Characters, Places, Customs, Etc.
 
 - characters (political leaders, famous rebels, merchants, demigods, invaders, wizards, researchers)
     - names
@@ -1174,6 +1191,7 @@ don't forget "-er"s like Unravellers
     - forbidden to wear a certain color for xyz reason (maybe two places forbidden to wear a color for VERY different reasons, or they differ in which colors are forbidden)
     - some custom about people who have killed (from Annals: "Correct behavior forbids taking a seat while those who have at some point taken a life are standing")
     - ideals of beauty/ugliness
+    - it is traditional to give the gift of earth (dirt) for... some reason (nasrudin to mugal emperor indicating emperor is is master of the earth) (mentioned in NGP TOC)
 - Festivals/events
     - a day of mourning that turned into a day of joy, or vice versa (e.g. tish b'av, destruction of temple, rebuilding)
     - naming
@@ -1308,6 +1326,8 @@ BUT DO I WANT THEM?
 - umber hulk
 - yuan-ti
 - Blood War
+
+# Idea credits
 
 # template
 

@@ -139,15 +139,29 @@ add hints about brother and other stuff
 
 ## Autonomy Empathy Dissolution CGD
 
-torture/masochism
+- REF[Autonomy] tends towards freedom, independence, unpredictability, individualism, ad hoc invention, radicalism, dynamism, chaos, and change.
+- REF[Empathy] tends towards kindness, self-effacement, benevolence, righteousness, judgment, stubbornness, idealism, altruism, universalism, equity, compromise, compassion, and tolerance.
+- REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.
 
-missing senses? or other perception issue
+vs NGD: no attempt to be fruitful about it or learn anything from it. autonomy thinks synthesis is pedantic and cowardly (synthesis thinks autonomy is reckless)
 
-glitch: the only way to understand something is by understanding how it breaks, and everything breaks in a way that's unique to the thing
+HOSPICE - more like doula, preparing for it
 
-connoiseurs of pain. maybe this is kinda gone wrong. really good at fucking you up and thinking they're doing you a favor.
+ritual bath that you die in?
 
-generation ship?
+- torture/masochism. sex? should be benevolent? or maybe there's some way for empathy to go wrong here. if you empathise with someone that loves pain... where does it go.
+	- sex could also be CED, NED, NEC (dreams), NEP, CGP (brink), CGC (pure experience soup)
+- connoiseurs of pain. maybe this is kinda gone wrong. really good at fucking you up and thinking they're doing you a favor.
+	- should this go with sex?
+	- maybe sex in two places, this one is masochism that also includes sex
+	- yeah, masochism is about empathy. power is sexy but power that understands you is sexier
+- missing senses? or other perception issue
+- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. sounds more like NGD or NND or NED or LED or LND.
+- death?
+- mirroring/doppelgangering?
+- hive mind?
+- is total absence of habit freedom? or is it its own kind of tyranny? funes el memorioso is relevant. CXX
+- Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
 
 ***
 
@@ -213,6 +227,8 @@ there are conditions to storage. maybe it has to be something they don't current
 
 ## Autonomy Utility Creation CNC
 
+for people that said yes to everything in life
+
 mutatorium
 
 metamorphoses
@@ -235,11 +251,13 @@ What sustains the Mutatorium remains unknown, but the best guess is that the nau
 
 ## Autonomy Utility Equilibrium CNP
 
+for people that said no to everything life?
+
+i guess just a perfect place to be alone, unless this moves to NED. if remains here: the perfect, beautiful place to be alone, everyone's crystalline gossamer bubble shell.
+
 Voiders? The Wilt?
 
 find stuff from dissimulation intro
-
-activity is punished, lazily?
 
 An endless gray plain of enormous geometric holes in the ground, like that exhibit at DIA Beacon, also Chichu. Each void is inhabited by a single individual, residing in indefinite inertia and dissolution.
 
@@ -313,6 +331,8 @@ the opposite of NGP - opposite of restorative justice? training, using trauma to
 
 ritual athletes? use yourself up
 
+sex?
+
 ***
 
 # **Autonomy Power**
@@ -326,6 +346,10 @@ ritual athletes? use yourself up
 [transferred]
 
 ## Autonomy Power Dissolution CED
+
+- REF[Autonomy] tends towards freedom, independence, unpredictability, individualism, ad hoc invention, radicalism, dynamism, chaos, and change.
+- REF[Power] tends towards ambition, achievement, glory, determination, focus, efficiency, beauty, domination, competition, selfishness, cynicism, security, success, and luxury.
+- REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.
 
 maybe this is the forgetting place
 

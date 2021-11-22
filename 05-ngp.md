@@ -123,15 +123,19 @@ conflict resolution
 
 do you hear yourself? yes.
 
-### Floods
+### Flood & Crevasse
+
+floods fill the rivers with water, mudslides too, but the rivers also deepen the crevasses
 
 ## Culture & Paradigm
 
 NGP regard NGD as an unhealthy shortcut, there is no need to discard, it is better to internalize and understand
 
-### Symbolic Language
+### Narrative Language
 
 limns who have never met have a hard time communicating, but over time bond and understand each other better. well no, the consonance makes that unnecessary? what then
+
+symbolic language, narrative language, circumstantial language
 
 ### Mnemonic Artifacts
 
@@ -176,6 +180,10 @@ flooded land like gilbert williams pic
 ### Emissaries
 
 ## Festivals & Traditions
+
+### Plateau Conception
+
+### The Gift of Soil
 
 ## History
 
