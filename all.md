@@ -58,9 +58,13 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ## Synthesis Empathy Creation NGC
 
+**Kalons of the Bell**
+
 [transferred]
 
 ## Synthesis Empathy Equilibrium NGP
+
+**Limns of the Braid**
 
 [transferred]
 
@@ -135,6 +139,8 @@ add hints about brother and other stuff
 
 ## Autonomy Empathy Equilibrium CGP
 
+**Apeirons of the Brink**
+
 [transferred]
 
 ## Autonomy Empathy Dissolution CGD
@@ -151,6 +157,7 @@ ritual bath that you die in?
 
 - torture/masochism. sex? should be benevolent? or maybe there's some way for empathy to go wrong here. if you empathise with someone that loves pain... where does it go.
 	- sex could also be CED, NED, NEC (dreams), NEP, CGP (brink), CGC (pure experience soup)
+	- CGD and LEC are exact opposite, two visions of sex
 - connoiseurs of pain. maybe this is kinda gone wrong. really good at fucking you up and thinking they're doing you a favor.
 	- should this go with sex?
 	- maybe sex in two places, this one is masochism that also includes sex
@@ -285,11 +292,8 @@ Peaceful.
 
 ## Hierarchy Power Creation LEC
 
-Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
+[transferred]
 
-Is the multiverse too big? Is the lamina somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
-
-Could be like Barbarella society, decadent
 
 ## Hierarchy Power Equilibrium LEP
 
@@ -312,6 +316,10 @@ Ben Sack art?
 ## Hierarchy Power Dissolution LED
 
 elaborate weavers of personalized, creative curses (curses could be LEC)
+
+Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
+
+Is the multiverse too big? Is the lamina somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
 
 Beautiful, intricate, ornate.
 

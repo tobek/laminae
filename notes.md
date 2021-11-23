@@ -427,6 +427,7 @@ TODO go through evil sketch
 - looking for the chosen one - in an interesting way
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
     + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
+    + LEX?
 - society that glamorizes maintenance instead of creation? LGP
 - death?
 - glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. CGD? sounds more like NGD or NND or NED or LED or LND.
@@ -436,7 +437,7 @@ TODO go through evil sketch
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
     - CED
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
-- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED or NED? NGD you join for ritual. prob LED or at least NED cause it requires a system to sustain itself
+- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED or NED? NGD you join for ritual. prob LED or at least NED cause it requires a system to sustain itself. all else fails could be on CNP
     - if not "hoping to find the end" then would be XXP
     - interesting stuff about maintaining morale on endless journey, does that work with finding the end? i guess some could give up, maybe there are some scattered communities
     - generation ship aspect needs inhospitability of space vs spaceship vs finding a planet, so this would need something like that, caravan provides something
@@ -457,7 +458,7 @@ TODO go through evil sketch
     - https://twitter.com/TylerAlterman/status/1453671384186564610
     - "Something the whole ocean is doing"
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
-- incredible beauty - LEC, LEP, NEP
+- incredible beauty - LEC, LEP
 - Sex  - CGD, CED, NED, NEC (dreams), NEP
 - a prison (w research/testing?)
 - non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC?)
@@ -466,7 +467,7 @@ TODO go through evil sketch
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
     + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
-- weirdly insensitive and/or literally stupid, but powerful. XXD
+- weirdly insensitive and/or literally stupid, but powerful. XXD - NED, CGD
 - bureaucracy? LXX
     + belgium
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
@@ -884,6 +885,7 @@ anagram names:
 - maybe some craig leon shit for CND
 - great silence soundtrack
 - a casiopea track?!
+- total annihilation soundtrack
 - suicide cliff: https://open.spotify.com/track/5xc89NHPX4oUxikCYu1Mve
 - should be asleep https://www.youtube.com/channel/UC-RVESJTf_zSaFB8qGoxOnA
     + https://www.youtube.com/watch?v=3EUFiMj4leI track 2 beasts and baubles

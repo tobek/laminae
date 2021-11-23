@@ -161,6 +161,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-11-23|1.5 |46535|1661|54%|45%|23|103|66|37|
 |2021-11-22|0.75|46308|1662|54%|45%|23|102|65|37|
 |2021-11-09|0.5 |46142|1662|54%|45%|23|102|65|37|
 |2021-11-08|2   |45900|1656|54%|45%|23|102|65|37|
@@ -295,7 +296,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 46,308 | 1,662 | 23/42 | 102/224 |
+| 46,535 | 1,661 | 23/42 | 103/224 |
 </div>
 
 <div class="progress-wrap">
@@ -309,9 +310,9 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
-| <span class="glyph">ꧪဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
+| <span class="glyph">ꧪဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">○○○○○○</span> |
+| <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">꧹ဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">꧹ဥဗ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">ꩧ၇ꧠ</span> | <span class="bloop">●◍◍◍◍○</span> | <span class="glyph">ꧪဋဗ</span> | <span class="bloop">◍○○○○○</span> |
