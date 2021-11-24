@@ -40,15 +40,15 @@ These absolutes can be seen as a structure with which to measure and observe phe
 
 Each facet can be understood in a positive or negative light, and provides its adherents with a teleology of being. In REF[cardinal] realms of course absolutes are rare, and most balance views of opposing facets. Along each axis opposites are not wholly incompatible, but you will find that one extreme can always be sacrificed in pursuit of the other.
 
-Whether facets exist in a material sense---or are simply mental artifacts that help structure our conceptions---is is far from agreed upon. Many believe that there are raw and tangible realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring. Such forces should pass through the REF[laminae], where they are shaped by the efforts of REF[petitioners], eventually reaching cardinal worlds in recognizable forms.
+Whether facets exist in a material sense, or are simply mental artifacts that help structure our conceptions, is is far from agreed upon. Many believe that there are raw and tangible realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring. Such forces should pass through the REF[laminae], where they are shaped by the efforts of REF[petitioners], eventually reaching cardinal worlds in recognizable forms.
 
 ## Method
 
-The facets of REF[Hierarchy], REF[Synthesis], and REF[Autonomy] concern matters of control and agency: how societies organize their efforts and distribute power, and how individuals fit into and are beholden to the larger whole. Adherents each lay their own claims to concepts such as integrity, discipline, and community, and accuse those whose views differ along this axis of being untrustworthy and selfish, but in fact they simply differ over how these concepts should be manifested.
+The facets of REF[Hierarchy], REF[Synthesis], and REF[Autonomy] concern matters of control and agency: how societies organize their efforts and distribute power, and how individuals fit into and are beholden to the larger whole. Adherents each lay their own claims to concepts such as integrity, discipline, and community, and the more strident accuse those whose views differ along this axis of being untrustworthy and selfish.
 
 ### Hierarchy
 
-In a hierarchical system there is a clear and rigid relationship between every member in the system, and every member understands their position. Well-established hierarchies tend to be extremely effective at accomplishing goals, but they require that either participants accept the rules of the system, or that those less favored by the system are unable to change their lot: hierarchies by definition contain inequalities, and often maintain these via coercion.
+In a hierarchical system there is a clear and rigid relationship between every member in the system, and every member understands their position. Well-established hierarchies tend to be extremely effective at accomplishing goals, but they require that either participants accept the rules of the system, or that those less favored by the system are unable to change their lot: hierarchies by definition contain inequities, and often maintain these via coercion.
 
 Many find great comfort and purpose in the clarity of hierarchy. Devotees point out the universality of hierarchies from family trees to chains of predation among animals, and find essential hierarchy in arrangements of knowledge, language, history, music, and the body. Hierarchy should not be confused with a lack of creativity; rather hierarchy determines the channels through which ideas flow, and, while there may be more experimentation in REF[Autonomy], the constraints of a system can produce targeted and efficient creativity.
 
@@ -74,7 +74,7 @@ REF[Synthesis] is humane and cooperative when paired with REF[Empathy], practica
 
 The capacity to make wholly self-directed decisions, free from coercion, is sacred to REF[Autonomy]. Adherents reject external control and believe the individual can only be whole if self-sufficient and possessed of conscience and dignity.
 
-This paradigm is accused by REF[Hierarchy] of being disorganized and untrustworthy. The rebuttal that an autonomous society requires a higher degree of organization and trust, and that a hierarchical one must use dogma to patch over a chronic lack of trust, where codified laws make up for individuals lacking ethical compasses that would otherwise guide their actions. Likewise REF[Autonomy] does not imply a lack of accountability---rather they require it where hierarchies shield members from accountability via appeals to authority as justification actions. In practice, however, these proclamations can be idealistic, and breakdown in any of these qualities results in chaos, fragmentation, and sometimes antagonism.
+This paradigm is accused by REF[Hierarchy] of being disorganized and untrustworthy. The rebuttal that an autonomous society requires a higher degree of organization and trust, and that a hierarchical one must use dogma to patch over a chronic lack of trust, where codified laws make up for individuals lacking ethical compasses that would otherwise guide their actions. Likewise REF[Autonomy] does not imply a lack of accountability---rather they require it where hierarchies shield members from accountability via appeals to authority to justify actions. In practice, however, these proclamations can be idealistic, and breakdown in any of these qualities results in chaos, fragmentation, and sometimes antagonism.
 
 REF[Autonomy] tends towards freedom, independence, unpredictability, individualism, ad hoc invention, radicalism, dynamism, chaos, and change.
 
@@ -86,7 +86,7 @@ REF[Autonomy] is universalist when paired with REF[Empathy], maverick when paire
 
 The facets of REF[Empathy], REF[Utility], and REF[Power] concern the methods by which we determine whether a goal is worthy, and what drives us towards those goals. These facets dictate how one relates to other beings and nature at large, and each have their own visions of integrity and their own claims to realistic views of the world.
 
-Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe---the exact extent of one considers one's own tribe being formed largely by facets along the Method axis, REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all. These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit it.
+Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe (the exact extent of that which which one considers one's own tribe being formed largely by facets along the Method axis: REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all). These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit.
 
 ### Empathy
 
@@ -100,7 +100,7 @@ REF[Empathy] is righteous and pure when paired with REF[Hierarchy], humane and c
 
 ### Utility
 
-REF[Utility] aims for a nuanced realism in viewing the world, and pragmatic heuristics for acting within it. It acknowledges that individuals vary widely in their goals and moral constructs, and so find that the best one can do is to assess situations in the light of all available information and act for the balanced benefit of oneself and others. Conflicts should be measured, discussed, and resolved to the mutual advantage of all parties.
+REF[Utility] aims for a nuanced realism in viewing the world, and pragmatic heuristics for acting within it. It acknowledges that individuals vary widely in their goals and moral constructs, and so finds that the best one can do is to assess situations in the light of all available information and act for the balanced benefit of oneself and others. Conflicts should be measured, discussed, and resolved to the mutual advantage of all parties.
 
 REF[Utility] tends towards rationality, pragmatism, realism, balance, pedantry, judiciousness, perception, and level-headedness.
 
@@ -120,9 +120,9 @@ REF[Power] is totalitarian when paired with REF[Hierarchy], ambitious when paire
 
 ## Means
 
-The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---a cycle harnessed by every being in support of its goals. These three facets lie in a careful balance, for any disparity would over aeons result respectively in overflow, stagnation, or annihilation. Those who believe that the same matter has been endlessly cycling from an infinite past feel this balance very deeply, but those who believe that there was once nothing which at some point gave rise to something must believe in a delicate imbalance in favor of creation in order to the presence of things.
+The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---a cycle harnessed by every being in support of its goals. These three facets lie in a careful balance, for any disparity would over aeons result in overflow, stagnation, or annihilation. Those who believe that the same matter has been endlessly cycling from an infinite past feel this balance very deeply, but those who believe that there was once nothing which at some point gave rise to something must believe in a delicate imbalance in favor of creation in order to account for the presence of our reality.
 
-Where other facets can be antagonistic towards each other, each seeing their own way as more truly reflecting the nature of things, the facets of Means tend to acknowledge the necessity of balance. Despite the fervor with which adherents pursue their means, the wise know that each facet would eventually stall in the absence of one of the others.
+Where other facets can be antagonistic towards each other, each seeing their own way as more truly reflecting the nature of things, the facets of Means tend to acknowledge the necessity of balance and cycles. Despite the fervor with which adherents pursue their means, the wise know that each facet would eventually stall in the absence of the others.
 
 ### Creation
 
@@ -138,6 +138,6 @@ REF[Equilibrium] tends towards maintenance, harmony, protection, pureness of ess
 
 ### Dissolution
 
-REF[Dissolution] is powerful and frightening to most mortals, and wholly essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation taking hold. On a less cosmic scale, dissolution concerns measuring and understanding what one needs, and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet is an imbalance that can only be sustained by an influx of material from cardinal worlds, breaking down and dispersing energies that distantly originated in facets of REF[Creation].
+REF[Dissolution] is powerful and frightening to most mortals, and wholly essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation taking hold. On a personal level, dissolution concerns measuring and understanding what one needs, and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet holds an imbalance that can only be sustained by an influx of material from cardinal worlds, breaking down and dispersing energies that distantly originated in facets of REF[Creation].
 
 REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.

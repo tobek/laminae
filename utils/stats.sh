@@ -117,7 +117,7 @@ echo "Total words: $(printf "%'.f\n" $WORDS)"
 echo "Total LOC: $(printf "%'.f\n" $LOC)"
 
 cat progress-part-1.md > progress.md
-tac utils/progress.csv | head -n -1 | column -t -s , -o '|' | sed s/$/\|/ | sed s/^/\|/ >> progress.md
-cat progress-part-2.md >> progress.md
 echo "| $(printf "%'.f\n" $WORDS) | $(printf "%'.f\n" $LOC) | $TOTAL_READY/$TOTAL_ITEMS | $TOTAL_COMPLETE/$TOTAL_TOTAL |" >> progress.md
+cat progress-part-2.md >> progress.md
+tac utils/progress.csv | head -n -1 | column -t -s , -o '|' | sed s/$/\|/ | sed s/^/\|/ >> progress.md
 cat progress-part-3.md >> progress.md

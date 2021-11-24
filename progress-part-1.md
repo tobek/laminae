@@ -155,9 +155,6 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 <br />
 
-<div><p><b>Log</b></p></div>
-
-<div class="updates">
-
-|Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
-| :-- | :-- | :-- | :-- | :-: | :-: |
+<div class="summary">
+| Words | <span title="lines of code">LOC</span> | Ready | Done |
+| :-- | :-- | :-- | :-- |

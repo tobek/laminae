@@ -155,6 +155,13 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 <br />
 
+<div class="summary">
+| Words | <span title="lines of code">LOC</span> | Ready | Done |
+| :-- | :-- | :-- | :-- |
+| 46,535 | 1,661 | 23/42 | 103/224 |
+
+</div>
+
 <div><p><b>Log</b></p></div>
 
 <div class="updates">
@@ -290,13 +297,6 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 |2020-08-18|1   |28216|    |   |25%|  |   |43||
 |2020-08-11|0.75|27856|    |   |25%|  |   |43||
 |2020-07-31|1   |27857|    |   |25%|  |   |43||
-
-</div>
-
-<div class="summary">
-| Words | <span title="lines of code">LOC</span> | Ready | Done |
-| :-- | :-- | :-- | :-- |
-| 46,535 | 1,661 | 23/42 | 103/224 |
 </div>
 
 <div class="progress-wrap">
