@@ -14,6 +14,10 @@ hide_toc: True
 
 ## The 221st Year L.C.
 
+#### The Twenty-Sixth of the Eleventh
+
+A stray note describing "REF[verges](verges)" has been found, translated, and inserted into the Cosmography chapter.
+
 #### The Eighth of the Eleventh
 
 This log, beginning with notable past milestones, has been added and will be updated with further progress.

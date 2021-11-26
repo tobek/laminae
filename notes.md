@@ -1,35 +1,4 @@
-# Site Notes
-
-# Macros
-
-## TODO
-
-- remove TODOs and replace with brackets
-    - e.g. `TODO/blah (blah blah) [something]` (spaces optional)
-- format for converting TODOs to fragments (perhaps unclear translations)
-    - simple `TODO/thing (details)` should be like "can't make it out"
-    - how to handle "reword this"?
-        - if passable, make sure TODO is contained and can be removed harmlessly
-        - if not possible, different format to replace with "passage unreadable"
-            - or html comments if it shouldn't be included at all
-    - for big missing pieces, present stubs as incompletely translated ("editors note: this chapter has not yet been translated, but to our understanding it...")
-        - one of them can be like "this is totally incoherent?"
-
-## ____
-
-something that needs filling once figured out
-
-`____(note)[replacement for now]`
-
-`____[replacement for now]`
-
-check others maybe no brackets just cut out
-
-for now, some can be just removed, others...? search and see
-
-## SKIP
-
-skip entire section up to the next equal or higher heading
+Site Notes
 
 # Revision/editing
 
@@ -42,6 +11,9 @@ can i add tension and mystery? what makes the reader what to keep reading?
 - bird's eye
     + review todo ideas for shape and texture and philosophy
     + search textbase for trinym
+- review writing style below, and:
+    + WONDER
+    + repetition - idioms, quirks
 - read each paragraph in a section
     + WHAT CAN BE REMOVED
     + style
@@ -65,47 +37,6 @@ can i add tension and mystery? what makes the reader what to keep reading?
     + vary paragaph initial word
     + more sensory stuff
 - read edited section aloud
-
-# Printing?
-
-- paste into libreoffice doc
-- regex replace `^$` with nothing
-- regex replace `^(\w)+` with `\t$1`
-- regex replace `^(#.*)` with `\n$1\n`
-- page size 6x9" or A5 with 0.75" margin everywhere except 0.875" inside (page layout: mirrored)
-- view - zoom - zoom
-- 65-70 char per line
-- 30-35 lines per page
-- garamond 10pt with 1.15 line spacing
-
-# Format
-
-(look at LNC)
-
-see Template
-
-- quote
-- soundtrack??
-- intro (1-3 paragraphs)
-- environment (including native flora & fauna, few paragraphs unless extremely engaging)
-- culture & paradigm (including inhabitants)
-- guide
-    - visiting (hospitality, hazards, portals?)
-    - locations
-    - figures and/or groups
-    - notable specialties/commerce?
-    - festivals & traditions
-        - agricultural, like a harvest, or other seasonal (https://en.wikipedia.org/wiki/List_of_foods_with_religious_symbolism)
-        - commemorating historical/religious event
-        - art, science, food, music, poetry, storytelling, theater
-        - group cohesiveness, traditions, passing down stories, etc.
-        - cultural norms like in Annals?
-    - historical events (history?)
-    - rumors (& mysteries?)
-- experiment?
-    - like the wind shifter sentience, or experiment to see if chaotic creative hive mind is a hive mind that's insane or actually just different minds
-    - what was this? like some guild has experiments running in each plane?
-- guided visualization? where you seek out some thing? or just experience
 
 # Writing Style
 
@@ -355,6 +286,35 @@ examples:
 
 when decided, update the frame story
 
+# Format
+
+(look at LNC)
+
+see Template
+
+- quote
+- soundtrack??
+- intro (1-3 paragraphs)
+- environment (including native flora & fauna, few paragraphs unless extremely engaging)
+- culture & paradigm (including inhabitants)
+- guide
+    - visiting (hospitality, hazards, portals?)
+    - locations
+    - figures and/or groups
+    - notable specialties/commerce?
+    - festivals & traditions
+        - agricultural, like a harvest, or other seasonal (https://en.wikipedia.org/wiki/List_of_foods_with_religious_symbolism)
+        - commemorating historical/religious event
+        - art, science, food, music, poetry, storytelling, theater
+        - group cohesiveness, traditions, passing down stories, etc.
+        - cultural norms like in Annals?
+    - historical events (history?)
+    - rumors (& mysteries?)
+- experiment?
+    - like the wind shifter sentience, or experiment to see if chaotic creative hive mind is a hive mind that's insane or actually just different minds
+    - what was this? like some guild has experiments running in each plane?
+- guided visualization? where you seek out some thing? or just experience
+
 # Things to use
 
 - weirdtopia <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia?postId=cWjK3SbRcLkb3gN69&view=postCommentsBest>
@@ -387,6 +347,7 @@ steam -> rust and/or ground glass
 - How they interact with prime worlds
     + if destruction, they consume, if creation, they overflow
     + Arcs of laminal culture influence history of cardinal worlds
+    + Any kind of prayer/ritual that can call the lamina's nature in?
 - Nature of petitioners
     + https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
 - Something that changed over time
@@ -424,6 +385,7 @@ TODO go through evil sketch
     + and/or where you are assigned a ritual role in a play, and learning that role is therapeutic - NGC?
         * Like thinking about how an actor with a very short role might still deeply flesh out history and mindset of char to play it well. It goes deeper
 - "an indigenous Amazonian society that shifted seasonally between two entirely different forms of social organization (small, authoritarian nomadic bands during the dry months; large, consensual horticultural settlements during the rainy season)"
+- some valuable resource intruders want to use...
 - looking for the chosen one - in an interesting way
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
     + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
@@ -490,6 +452,7 @@ TODO go through evil sketch
 
 ### Physical, Environmental, Aesthetic
 
+- "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761
 - More extreme weather and how it effects culture - like it always rains, but weirder
 - Sort of like the wall place, one place could be an endless crevasse
     + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - probably XEX
@@ -497,6 +460,7 @@ TODO go through evil sketch
 - No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker than 10 feet wide that protrude wildly sidways into the air without any support underneath it. And entire pathways do occasionally snap, falling upwards as often as downwards. maybe CNC or LEC
     - The capital, known as The Anvil, rests on an unusually solid mass of rock that, viewed in profile, resembles an anvil. On the tip of the long, slender horn rests the palace of TODO/ruler.
 - Underwater
+- https://en.wikipedia.org/wiki/Glossary_of_landforms
 - On water
 - Floating islands
 - Endless river delta - already CGP/Brink?
@@ -552,6 +516,8 @@ TODO go through evil sketch
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND?)
 - Audience independent utterance - the idealization of
 - Emotional etc content of micro actions? (NGP?)
+- "a massive chunk of the things that alarm suburbanites about being in an urban environment are solved in totality by adopting the city dweller's habit of simply declining to perceive things that are none of your fucking business" https://twitter.com/cakesandcourage/status/1462919432330752006 - somewhere where this flows naturally, maybe LEP?
+- some place where you can peer through the looking glass of "what if" moments in your own life
 - caste systems (LND?)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
@@ -885,7 +851,9 @@ anagram names:
 - maybe some craig leon shit for CND
 - great silence soundtrack
 - a casiopea track?!
+- andrew bird echolocations
 - total annihilation soundtrack
+- geoffrey castle - mist on the mountain
 - suicide cliff: https://open.spotify.com/track/5xc89NHPX4oUxikCYu1Mve
 - should be asleep https://www.youtube.com/channel/UC-RVESJTf_zSaFB8qGoxOnA
     + https://www.youtube.com/watch?v=3EUFiMj4leI track 2 beasts and baubles
@@ -1212,7 +1180,50 @@ don't forget "-er"s like Unravellers
         - "cutting the locks off the caged birds at the chapel of chimes [in oakland]"
 - Food? (do petitioners eat?)
 
-# *Reading*
+# Macros
+
+## TODO
+
+- remove TODOs and replace with brackets
+    - e.g. `TODO/blah (blah blah) [something]` (spaces optional)
+- format for converting TODOs to fragments (perhaps unclear translations)
+    - simple `TODO/thing (details)` should be like "can't make it out"
+    - how to handle "reword this"?
+        - if passable, make sure TODO is contained and can be removed harmlessly
+        - if not possible, different format to replace with "passage unreadable"
+            - or html comments if it shouldn't be included at all
+    - for big missing pieces, present stubs as incompletely translated ("editors note: this chapter has not yet been translated, but to our understanding it...")
+        - one of them can be like "this is totally incoherent?"
+
+## ____
+
+something that needs filling once figured out
+
+`____(note)[replacement for now]`
+
+`____[replacement for now]`
+
+check others maybe no brackets just cut out
+
+for now, some can be just removed, others...? search and see
+
+## SKIP
+
+skip entire section up to the next equal or higher heading
+
+# Printing?
+
+- paste into libreoffice doc
+- regex replace `^$` with nothing
+- regex replace `^(\w)+` with `\t$1`
+- regex replace `^(#.*)` with `\n$1\n`
+- page size 6x9" or A5 with 0.75" margin everywhere except 0.875" inside (page layout: mirrored)
+- view - zoom - zoom
+- 65-70 char per line
+- 30-35 lines per page
+- garamond 10pt with 1.15 line spacing
+
+# Readings/resources
 
 for inspiration
 
@@ -1232,6 +1243,8 @@ alignment
     - <http://easydamus.com/alignmentreal.html>
 
 # Wizards of the Coast stuff to rip out? (copyright)
+
+TODO gotta remove stuff like eladrin and yugoloth right
 
 ## A-OK
 

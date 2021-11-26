@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 46,535 | 1,661 | 23/42 | 103/224 |
+| 47,248 | 1,703 | 23/42 | 104/224 |
 
 </div>
 
@@ -168,6 +168,8 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2021-11-26|2.25|47248|1703|54%|46%|23|104|66|38|
+|2021-11-24|2   |46909|1661|54%|46%|23|104|66|38|
 |2021-11-23|1.5 |46535|1661|54%|45%|23|103|66|37|
 |2021-11-22|0.75|46308|1662|54%|45%|23|102|65|37|
 |2021-11-09|0.5 |46142|1662|54%|45%|23|102|65|37|
@@ -332,7 +334,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | Preface | <span class="bloop">●◍◍○</span> |
 | Cosmography&nbsp; | <span class="bloop">●◍◍○</span> |
 | Facets | <span class="bloop">●◍◍○</span> |
-| Close | <span class="bloop">○○○○</span> |
+| Close | <span class="bloop">◍○○○</span> |
 | Glossary | <span class="bloop">●◍◍○</span> |
 | Colophon | <span class="bloop">◍○○○</span> |
 

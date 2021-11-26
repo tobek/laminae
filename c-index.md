@@ -28,6 +28,8 @@
 	    }
 </style>
 
+<!-- START -->
+
 <table>
     <tr><td>Abandoned Archipelagos</td><td>REF[LNC](lnc#abandoned-archipelagos)</td></tr>
     <tr><td>Affect Flooding</td><td>REF[CGP](cgp#affect-flooding)</td></tr>
@@ -36,6 +38,7 @@
     <tr><td>Apotheosis</td><td>REF[CEP](cep#apotheosis)</td></tr>
     <tr><td>Architectural Services</td><td>REF[LNC](lnc#architectural-services)</td></tr>
     <tr><td>Ardence, The</td><td>REF[LGD](lgd)</td></tr>
+    <tr><td>Arrangement & Navigation</td><td>REF[Cosmography](cosmography#arrangement-navigation)</td></tr>
     <tr><td>Astrals & Chthonics</td><td>REF[CGP](cgp#astrals-chthonics)</td></tr>
     <tr><td>Asymmetry</td><td>REF[LND](lnd#asymmetry)</td></tr>
     <tr><td>Asymmetry, The</td><td>REF[NNC](nnc)</td></tr>
@@ -82,13 +85,14 @@
     <tr><td>Fading Divine Powers</td><td>REF[CND](cnd#fading-divine-powers)</td></tr>
     <tr><td>Failed Enchantments</td><td>REF[CND](cnd#failed-enchantments)</td></tr>
     <tr><td>First Story, The</td><td>REF[NGC](ngc#the-first-story)</td></tr>
-    <tr><td>Floods</td><td>REF[NGP](ngp#floods)</td></tr>
+    <tr><td>Flood & Crevasse</td><td>REF[NGP](ngp#flood-crevasse)</td></tr>
     <tr><td>Florescence, The</td><td>REF[CGP](cgp#the-florescence)</td></tr>
     <tr><td>Foil, The</td><td>REF[CGP](cgp#the-foil)</td></tr>
     <tr><td>Frames & Shells</td><td>REF[CGP](cgp#frames-shells)</td></tr>
     <tr><td>Fruitions</td><td>REF[CGP](cgp#fruitions)</td></tr>
     <tr><td>Fruitless Apostles</td><td>REF[NGC](ngc#fruitless-apostles)</td></tr>
     <tr><td>Galabast</td><td>REF[LNC](lnc#galabast)</td></tr>
+    <tr><td>Gift of Soil, The</td><td>REF[NGP](ngp#the-gift-of-soil)</td></tr>
     <tr><td>Glass Ocean</td><td>REF[LNC](lnc#glass-ocean)</td></tr>
     <tr><td>Glintings</td><td>REF[LNC](lnc#glintings)</td></tr>
     <tr><td>Golden Lake, The</td><td>REF[NGC](ngc#the-golden-lake)</td></tr>
@@ -96,6 +100,7 @@
     <tr><td>Golden Spine, The</td><td>REF[NGC](ngc#the-golden-spine)</td></tr>
     <tr><td>Gorol</td><td>REF[CEP](cep#gorol)</td></tr>
     <tr><td>Guilds</td><td>REF[LNC](lnc#guilds)</td></tr>
+    <tr><td>Hedonic Tides</td><td>REF[CGP](cgp#hedonic-tides)</td></tr>
     <tr><td>Hero Utterly, The</td><td>REF[LGD](lgd#the-hero-utterly)</td></tr>
     <tr><td>Hierarchy</td><td>REF[Facets](facets#hierarchy)</td></tr>
     <tr><td>Hole in the Sky, The</td><td>REF[CGP](cgp#the-hole-in-the-sky)</td></tr>
@@ -128,7 +133,7 @@
     <tr><td>Mortals</td><td>REF[Cosmography](cosmography#mortals)</td></tr>
     <tr><td>Mother</td><td>REF[CEC](cec#mother)</td></tr>
     <tr><td>Motive</td><td>REF[Facets](facets#motive)</td></tr>
-    <tr><td>Navigation</td><td>REF[Cosmography](cosmography#navigation)</td></tr>
+    <tr><td>Narrative Language</td><td>REF[NGP](ngp#narrative-language)</td></tr>
     <tr><td>Nimble’s Bazaar</td><td>REF[CGP](cgp#nimbles-bazaar)</td></tr>
     <tr><td>Odysseys</td><td>REF[NGP](ngp#odysseys)</td></tr>
     <tr><td>Opposite Day</td><td>REF[CGP](cgp#opposite-day)</td></tr>
@@ -148,6 +153,7 @@
     <tr><td>Perpetual Dawn</td><td>REF[NGC](ngc#perpetual-dawn)</td></tr>
     <tr><td>Petitioners</td><td>REF[Cosmography](cosmography#petitioners)</td></tr>
     <tr><td>Plane of Mirrors, The</td><td>REF[NNP](nnp#the-plane-of-mirrors)</td></tr>
+    <tr><td>Plateau Conception</td><td>REF[NGP](ngp#plateau-conception)</td></tr>
     <tr><td>Political Dissolution</td><td>REF[CND](cnd#political-dissolution)</td></tr>
     <tr><td>Power</td><td>REF[Facets](facets#power)</td></tr>
     <tr><td>Procession’s Path, The</td><td>REF[CND](cnd#the-processions-path)</td></tr>
@@ -177,7 +183,6 @@
     <tr><td>Staircase, The</td><td>REF[CEP](cep#the-staircase)</td></tr>
     <tr><td>Supplication</td><td>REF[LGD](lgd#supplication)</td></tr>
     <tr><td>Swells</td><td>REF[CEC](cec#swells)</td></tr>
-    <tr><td>Symbolic Language</td><td>REF[NGP](ngp#symbolic-language)</td></tr>
     <tr><td>Synthesis</td><td>REF[Facets](facets#synthesis)</td></tr>
     <tr><td>Tableau</td><td>REF[NNP](nnp#tableau)</td></tr>
     <tr><td>Tillers</td><td>REF[CND](cnd#tillers)</td></tr>
@@ -190,6 +195,7 @@
     <tr><td>Universal Story, The</td><td>REF[NGC](ngc#the-universal-story)</td></tr>
     <tr><td>Unnoticed Feud, The</td><td>REF[LNC](lnc#the-unnoticed-feud)</td></tr>
     <tr><td>Utility</td><td>REF[Facets](facets#utility)</td></tr>
+    <tr><td>Verging</td><td>REF[Cosmography](cosmography#verging)</td></tr>
     <tr><td>Visitors</td><td>REF[LGD](lgd#visitors)</td></tr>
     <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>
     <tr><td>Wind Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>

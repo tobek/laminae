@@ -21,6 +21,8 @@
 
 # requirements before launch
 
+(outdated, review)
+
 tiny back arrow??
 
 - glossary/index `?`
@@ -352,14 +354,39 @@ torment: tides of numenera:
 
 "The Tides are linked to action, not intention."
 
-## ○○○○ Close
+## ◍○○○ Close
 
-- maybe the only first person is in preface and close
-- is this necessary?
-- if not, CEC or absolutes/facets would be last sequential thing, could maybe swing it
+- maybe the only first person is in preface and close (why? intimate, after the fact?)
 - revisit parrigues ending
 - how come the work is basically done? maybe here she lists the things she didn't do
-- or she allows herself
+- or she allows herself (?)
+- more hints about the "real" nature (is it all made up? i forget)
+- imply that some of reader's experiences have actually been on laminae
+- maybe translator note about it being different - weaker handwriting (too easy), different paper and ink, etc.
+- some untranslateable bits
+- emploring reader to some kind of action or change
+- some personal author bits too, now is the time to drive it home
+- kind of an open universe call (some contributions already from readers like you?)
+- oh definitely "if you should see this visitor" (but 1st person?) then xyz - sad cause, yknow
+- analogies again like the preface
+- evoking sense of wonder, that's the purpose of this whole piece, now apply it to your world
+- really punchy beginning and end, chills
+
+I have carried these Observations with me for a long time, hoping to share etc etc
+
+Reader, do you feel as if you, too, are a visitor?
+
+Reader, it is likely that you, too, have been a visitor on the laminae.
+
+Recall a time when nature wobbled, when you entered a place where the air shone.
+
+Our world is full of the fruits of the laminae.
+
+What would you place/root on these laminae? What works of LEC beauty have you sighted through the thin veil of the Ordial, that one piece in the gallery that was unlike all the others? What structures have you entered where, briefly, you found yourself on LNC? What musings have drifted into your mind from NEC? Felt the sudden release of NGD/CGD? Sudden leap of understanding NGC/NGP? What lost belongings have you contributed to CND? What time in solitude have you spent on CNP?
+
+You are not powerless in this arena. your actions etc etc a state of mind can bring a lamina to you
+
+I have perhaps exaggerated the thickness of the Ordial barrier between our world and the laminae. this stuff is everywhere and you will now see it everywhere, and by seeing it everywhere, you will bring it everywhere, and bring yourself there. where would you like to visit?
 
 ## ●◍◍○ Glossary/Index
 
@@ -401,6 +428,10 @@ so far (some need changing, decide/find and replace, and then REF them):
 - races/creatures? (eladrin, balors, etc)
 - alignment/"force"?
     + "the force of destruction"
+
+misc:
+
+- remove tooltips from copy/paste? e.g. copy anything with a link and the tooltip text is copied too. but it should be copy-able when hovering over the tooltip...
 
 ## ◍○○○ Colophon
 
@@ -448,7 +479,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
     + check footnotes come after punctuation
         * search regex `\^.*\][\.,]`
         * or this `\^\[[^\]]+\][^ \n]` but that messes up even more with nested brackets
-        * UNLESS the footnote refers strictly to the portion of the sentence (like an individual word) in which case it can come before punctuation
+        * UNLESS the footnote refers strictly to the portion of the sentence (like an individual word) in which case it can come before some punctuation
 - check for english spelling
 - go through all the macros
 - remove comments
@@ -507,6 +538,8 @@ maybe
     + maybe when you hover glyph in header, it highlights the word in subtitle
 - h's off? (h3's look wrong, h4's like in CND language...)
 - hr's (LNC)
+- inline translators notes
+    + currently have "[untranslateable, unknown glyph]", how is that?
 - drop caps? decorated initials (historiated/illuminated initial)
     + go one heading level deeper?
     + Lombardic/rubricated capitals every paragraph?
@@ -553,6 +586,8 @@ later
 - footnotes/hash fragment links should highlight word (and maybe paragraph)
     + maybe like some scroll curlicue drawn around it or to the side
     + or a glow
+- footnotes should be margin notes like gwern?
+- regular vs translators notes - different footnote numbering?
 
 ### fade/cycle stuff
 

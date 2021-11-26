@@ -40,6 +40,7 @@ you can choose to sleep there forever
 - culture
 	+ yes world
 - you are here somewhere - when you're awake, your version here is asleep and still providing you with stuff. what happens if you find yourself?
+- most mortals' most direct experience with the laminae
 - doppelganger...
 
 Dreams, unfiltered, dangerous, inspiration

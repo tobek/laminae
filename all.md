@@ -151,7 +151,7 @@ add hints about brother and other stuff
 
 vs NGD: no attempt to be fruitful about it or learn anything from it. autonomy thinks synthesis is pedantic and cowardly (synthesis thinks autonomy is reckless)
 
-HOSPICE - more like doula, preparing for it
+HOSPICE - more like end-of-life doula, preparing for it
 
 ritual bath that you die in?
 
@@ -279,6 +279,8 @@ Another pit is what people call "the anointed". It's huge, and appears to be inf
 The arrangement of holes changing/unpredictable somehow? Holes slowly close up sometimes, inevitably trapping and crushing their resident, who invariably accept their fate with apathy.
 
 Peaceful.
+
+hermits who spend time alone wear the ordial thin along this axis
 
 ## Autonomy Utility Dissolution CND
 

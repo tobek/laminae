@@ -56,6 +56,7 @@ environment:
 - not like huge city built-up, but mix of towns and collectives, nomads, empty beautiful areas
 - icelandish?
 - hilly delta
+- estuary! "Partially enclosed coastal body of brackish water" where river meets ocean?
 
 ### Rainways
 

@@ -306,31 +306,62 @@ glossary = [a for a in index if a["def"]]
 # print(); import pprint; pprint.PrettyPrinter(indent=2).pprint(glossary)
 # print(); import pprint; pprint.PrettyPrinter(indent=2).pprint(anchors)
 
-def print_gloss_table(glosses, lams=False):
-    print("\n<table>")
+def get_gloss_table(glosses, lams=False):
+    gloss_table ="\n<table>\n"
     for gloss in glosses:
         glyphs = gloss["id"].upper() if lams else ""
-        print("    <tr><td>REF[%s](%s)%s</td><td>%s</td></tr>" % (gloss["name"], gloss["id"], glyphs, gloss["def"]))
-    print("</table>\n")
+        gloss_table += "    <tr><td>REF[%s](%s)%s</td><td>%s</td></tr>\n" % (gloss["name"], gloss["id"], glyphs, gloss["def"])
+    gloss_table += "</table>\n"
+    return gloss_table
 
 def print_glossaries():
-    print()
-    print("## <dfn no-index>General Terms</dfn>")
-    print_gloss_table([g for g in glossary if "cosmography#" in g["id"]])
-    print("## <dfn no-index>Laminae</dfn>")
-    print_gloss_table([g for g in glossary if len(g["id"]) == 3], True)
+    with open("b-glossary.md", "r") as f:
+        gloss_text = f.read()
+
+    gloss_text = gloss_text[0:gloss_text.index("<!-- START -->") + len("<!-- START -->")]
+
+    gloss_text += "\n\n## <dfn no-index>General Terms</dfn>\n"
+    gloss_text += get_gloss_table([g for g in glossary if "cosmography#" in g["id"]])
+    gloss_text += "\n## <dfn no-index>Laminae</dfn>\n"
+    gloss_text += get_gloss_table([g for g in glossary if len(g["id"]) == 3], True)
     # TODO
     # print("## Others")
-    # print_gloss_table([g for g in glossary if ("#" in g["id"] and "cosmography" not in g["id"])])
+    # get_gloss_table([g for g in glossary if ("#" in g["id"] and "cosmography" not in g["id"])])
+
+    with open("b-glossary.md", "w") as f:
+        f.write(gloss_text)
 
 def print_index():
-    print("\n<table>")
+    with open("c-index.md", "r") as f:
+        index_text = f.read()
+
+    index_text = index_text[0:index_text.index("<!-- START -->") + len("<!-- START -->")]
+
+    index_text += "\n\n<table>\n"
     for i in index:
         label = i["file_id"].upper() if len(i["file_id"]) == 3 else i["file_title"]
         ref = i["id"]
-        print("    <tr><td>%s</td><td>REF[%s](%s)</td></tr>" % (i["sort_name"], label, ref))
-    print("</table>\n")
+        index_text += "    <tr><td>%s</td><td>REF[%s](%s)</td></tr>\n" % (i["sort_name"], label, ref)
+    index_text += "</table>\n"
 
-# for now workflow is just to uncomment these and copy paste them into the files (then build again)
-# print("\nGLOSSARY\n"); print_glossaries()
-# print("\nINDEX\n"); print_index()
+    with open("c-index.md", "w") as f:
+        f.write(index_text)
+
+if not only_file:
+    print("\nprinting glossary...");
+    print_glossaries()
+    print("building glossary...");
+    # this is insane
+    stream = os.popen('python build.py b-glossary.md')
+    stream.read()
+    if stream.close() is not None:
+        raise Exception('Failed to build glossary')
+
+    print("\nprinting index...");
+    print_index()
+    print("building index...");
+    # can't believe i have to do this
+    stream = os.popen('python build.py c-index.md')
+    stream.read()
+    if stream.close() is not None:
+        raise Exception('Failed to build index')
