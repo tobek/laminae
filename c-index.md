@@ -195,7 +195,7 @@
     <tr><td>Universal Story, The</td><td>REF[NGC](ngc#the-universal-story)</td></tr>
     <tr><td>Unnoticed Feud, The</td><td>REF[LNC](lnc#the-unnoticed-feud)</td></tr>
     <tr><td>Utility</td><td>REF[Facets](facets#utility)</td></tr>
-    <tr><td>Verging</td><td>REF[Cosmography](cosmography#verging)</td></tr>
+    <tr><td>Verges</td><td>REF[Cosmography](cosmography#verges)</td></tr>
     <tr><td>Visitors</td><td>REF[LGD](lgd#visitors)</td></tr>
     <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>
     <tr><td>Wind Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>

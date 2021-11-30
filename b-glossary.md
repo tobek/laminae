@@ -44,14 +44,14 @@
 ## <dfn no-index>General Terms</dfn>
 
 <table>
-    <tr><td>REF[Apertures](cosmography#apertures)</td><td>Locations where two realms are close enough to each other that you may easily slip between them. They appear as uncanny distortions through which passage can be disorienting and dangerous.</td></tr>
+    <tr><td>REF[Apertures](cosmography#apertures)</td><td>Locations where two realms are joined in such a way that you may easily slip between them. They appear as uncanny distortions through which passage can be disorienting and dangerous.</td></tr>
     <tr><td>REF[Cardinal Worlds](cosmography#cardinal)</td><td>The cardinal worlds make up our foundational, everyday reality over which the laminae are layered.</td></tr>
     <tr><td>REF[Laminae](cosmography#laminae)</td><td>Afterworlds that are each aligned with a particular set of facets. The twenty-seven laminae are layered on top of our reality and interact with it in myriad ways.</td></tr>
     <tr><td>REF[Laminal](cosmography#laminal)</td><td>Relating to, stemming from, or residing on the laminae. Can also be used to refer to creatures that natively reside on the laminae but which are not manifestations of mortal souls.</td></tr>
     <tr><td>REF[Ordial Plane](cosmography#ordial-plane)</td><td>The membrane that divides laminae from cardinal worlds, a membrane which can be forded by various means.</td></tr>
     <tr><td>REF[Petitioners](cosmography#petitioners)</td><td>Souls of the dead that have re-manifested on the most well-suited lamina, where they perfect and reshape themselves while carrying out pursuits in accordance with that lamina's principles.</td></tr>
     <tr><td>REF[Soblei](cosmography#soblei)</td><td>An ancient city cursed to be frozen in the moment of its apocalypse, Soblei contains thousands of apertures to realms all across the multiverse. Its hurricane winds and blinding light and darkness render it a wildly inhospitable place to pass through even briefly.</td></tr>
-    <tr><td>REF[Verging](cosmography#verging)</td><td>The thinning of the barrier between cardinal and laminal realities such that some aspects of one become accessible---or pass entirely through---to the other.</td></tr>
+    <tr><td>REF[Verges](cosmography#verges)</td><td>The thinning of the barrier between cardinal and laminal realities such that certain aspects of one may influence, be perceived, or be simultaneously present on the other.</td></tr>
 </table>
 
 ## <dfn no-index>Laminae</dfn>

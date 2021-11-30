@@ -22,6 +22,8 @@ intro: |
 
 after viral tweet about possible solution to supply chain backup caused something to get fixed: "Yes exactly - the centralised hierarchies are so amazingly rubbish that there's massive low hanging fruit everywhere. What v v smart outsiders seldom realise is *Insiders dont give a damn & have no incentives to grab this fruit & often have incentives to let it rot*" - https://twitter.com/Dominic2306/status/1451890560395055112
 
+shitty reasons why decisions get made in groups: https://mobile.twitter.com/ozziegooen/status/1456992079326978052
+
 - name
 	+ The Itch
 	+ The Instrument

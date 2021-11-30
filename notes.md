@@ -320,6 +320,10 @@ see Template
 - weirdtopia <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia?postId=cWjK3SbRcLkb3gN69&view=postCommentsBest>
 - Dissimulation
 - Gil Bruvel art?
+- Tridevi - feminine form of Trimurti
+    - Saraswati is the goddess of learning, arts, and cultural fulfillment, as well as the consort of Brahma, the creator. She is cosmic intelligence, cosmic consciousness, and cosmic knowledge. Rides swan or peacock.
+    - Lakshmi is the goddess of wealth, fertility, auspiciousness, light, and material and spiritual fulfillment, as well as the consort of Vishnu, the maintainer or preserver. However, Lakshmi does not signify mere material wealth, but also abstract prosperity, such as glory, magnificence, joy, exaltation, and greatness. Rides owl or elephant or garuda.
+    - Parvati is the goddess of power, war, beauty, love, as well as the consort of Shiva, the destroyer of evil or transformer. Rides lion or tiger or cow or goat.
 
 ### The Glassing
 
@@ -344,6 +348,7 @@ steam -> rust and/or ground glass
     + How do subgroups interact?
     + How are they grouped? No "family", so
     + How do they greet each other? Cultural tics
+    + Language, writing
 - How they interact with prime worlds
     + if destruction, they consume, if creation, they overflow
     + Arcs of laminal culture influence history of cardinal worlds
@@ -378,7 +383,6 @@ TODO go through evil sketch
 
 23 of them!
 
-- at least one XEX should be beautiful and cool and successful
 - something pretty futuristic, but not described as such
 - something where everything is like a play, or all interactions are formulaic - NGD?
     + greek stock characters/jungian archetypes etc
@@ -407,7 +411,7 @@ TODO go through evil sketch
 - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC)
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
-    + maybe weirdly LGC? NGD, CGD, CNP, LEC, LEP, NEC, CEP, CNC, CGC
+    + maybe weirdly LGC? NGD, CGD, LEC, LEP, NEC, CEP, CNC, CGC
     + *definitely NGD if nothing else* - maybe CEP
 - saying yes vs. saying no
     + LND or CNP is no?
@@ -420,7 +424,6 @@ TODO go through evil sketch
     - https://twitter.com/TylerAlterman/status/1453671384186564610
     - "Something the whole ocean is doing"
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
-- incredible beauty - LEC, LEP
 - Sex  - CGD, CED, NED, NEC (dreams), NEP
 - a prison (w research/testing?)
 - non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC?)
@@ -430,7 +433,7 @@ TODO go through evil sketch
 - strange loops
     + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
 - weirdly insensitive and/or literally stupid, but powerful. XXD - NED, CGD
-- bureaucracy? LXX
+- bureaucracy? LEP or LED or LND
     + belgium
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
         * "Belgium offers a lesson in stability through chaos. Even its demise would be serene. It is the world’s most successful failed state."
@@ -438,6 +441,7 @@ TODO go through evil sketch
 - transportation: they'll take you anywhere, ferriers, psychopomps
 - secret society so secret and/or went wrong such that no one could get back into it (LND?)
 - used
+    + incredible beauty
     + https://en.wikipedia.org/wiki/Rotation_method
     + an infinite jest (/burning man/blockchain/lsd)-inspired thing, something where everyone annoyingly loves it, raves, but it's actually good and changes your ife
     + Something ridiculously hazardous
@@ -452,29 +456,31 @@ TODO go through evil sketch
 
 ### Physical, Environmental, Aesthetic
 
-- "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761
+unused ones can just be particular places
+
+- in the clouds of a gas giant
+    - maybe LEC is just floating palaces in endless haze
 - More extreme weather and how it effects culture - like it always rains, but weirder
 - Sort of like the wall place, one place could be an endless crevasse
-    + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - probably XEX
+    + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - LED, NEP, NED
     + "Karaz_ca_01" pic and michael hutter
-- No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker than 10 feet wide that protrude wildly sidways into the air without any support underneath it. And entire pathways do occasionally snap, falling upwards as often as downwards. maybe CNC or LEC
+- No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker than 10 feet wide that protrude wildly sidways into the air without any support underneath it. And entire pathways do occasionally snap, falling upwards as often as downwards. maybe CNC or XEX
     - The capital, known as The Anvil, rests on an unusually solid mass of rock that, viewed in profile, resembles an anvil. On the tip of the long, slender horn rests the palace of TODO/ruler.
 - Underwater
 - https://en.wikipedia.org/wiki/Glossary_of_landforms
 - On water
 - Floating islands
-- Endless river delta - already CGP/Brink?
-- R'lyeh
+- R'lyeh CED
 - Church
 - Valley cathedral, like that photo I took in Molasses (?)
 - Gothic architecture
-- Endless castle/palace (maybe LEP/LEC?)
-- Maze (LEC?)
+- Endless castle/palace LEP
+- Maze LED
 - (Traveling) Carnival (is this CND already) - maybe some in NGD
     - "Other common features of carnival include mock battles such as food fights; expressions of social satire; mockery of authorities; costumes of the grotesque body that display exaggerated features such as large noses, bellies, mouths, phalli, or elements of animal bodies; abusive language and degrading acts; depictions of disease and gleeful death; and a general reversal of everyday rules and norms."
     - in Roman Saturnalia, masters and slaves feasted together, or masters provided table service for slaves, also a time for free speech where slaves could say anything
 - Cemetery/necropolis (same as prison plane?)
-- W40k teeming Terra - maybe LGC but that might not fit yet. LGX would be ideal, but any LXX ok
+- W40k teeming Terra - LGC LGP LEP
 - Japanese garden
 - https://en.wikipedia.org/wiki/List_of_garden_features
     + stumpery (nicely piled dead trees)
@@ -489,7 +495,7 @@ TODO go through evil sketch
     + "mark ferrari - spyro- eternal night - icetemple01b"
 - Cofferdam (enclosure in a body of water - huge)
 - Smoke
-- Black desert (and its oases!) (maybe CNP, or CEC if nothing else)
+- Black desert (and its oases!) (maybe CNP, or CEC if nothing else) LEC
 - Murals
 - endless black/white tiles
 - Literal walled garden that exemplifies issues with metaphorical walled gardens?
@@ -498,7 +504,7 @@ TODO go through evil sketch
     - sour, citrus, bitter, pine, vanilla, ash, resin
 - Everything is black and white - maybe CED? or NNP. or... LGC or LGP?
     - (except visitors and their stuff? what about their stuff left behind?)
-- stelae (carved stone slabs)
+- stelae (carved stone slabs) maybe in CNP
 - *eremia* "a solitude, an uninhabited region, a waste," from *erēmos* "uninhabited, empty, desolate, bereft," from PIE *\*erem-* "to rest, be quiet"
 - Medieval illuminated manuscripts
     - both the overaching style, and them as actual objects in the place
@@ -510,18 +516,20 @@ TODO go through evil sketch
     + a beautiful metropolis whose divine destruction was averted just moments too late, and is now left frozen in a state of apocalypse, massive eldritch beams coming from the sky, geysers of rubble hovering, etc.
     + Storms
     + single infinite wall
+    + Endless river delta
 
 ### Relational, Situational, Happenings
 
-- headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND?)
+- headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
+- "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761
 - Audience independent utterance - the idealization of
 - Emotional etc content of micro actions? (NGP?)
 - "a massive chunk of the things that alarm suburbanites about being in an urban environment are solved in totality by adopting the city dweller's habit of simply declining to perceive things that are none of your fucking business" https://twitter.com/cakesandcourage/status/1462919432330752006 - somewhere where this flows naturally, maybe LEP?
 - some place where you can peer through the looking glass of "what if" moments in your own life
-- caste systems (LND?)
+- caste systems (LND? LEC LEP)
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
-- "That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped." - https://mobile.twitter.com/gods_txt/status/1456321077710241792
+- "That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped." - https://mobile.twitter.com/gods_txt/status/1456321077710241792 LED NED
 - No decisions except gut ones during ceremonies. Very elaborate, no time to scheme. More authentic. They facilitate this method for mortals. Like Dune emperor emissary delivers decree, obey or disobey on the spot, only way to cut through (and assess loyalty, and instinct). the sufis "believe that deep intuition is the only real guide to knowledge". human computer. fluency before understanding (quote?). NGP if nowhere else
 - https://twitter.com/chaosprime/status/1458552157179887621 - grokking, you have to understand your enemy to defeat them, and when you understand them you love them. also you need to love them to hate them. NND?
 - "bats can hear shapes. plants can eat light. bees can dance maps. we can hold all these ideas at once and feel both heavy and weightless with the absurd beauty of it all." - https://twitter.com/gnonymus/status/1457089729539842050
@@ -531,10 +539,9 @@ TODO go through evil sketch
 - the bell ringing hearing contest episode (NGD? dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
-- Language/writing
-- Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP
+- Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP, NED, LED
     + maybe some other perception issue
-- someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND
+- someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND, LEP
 - some 3-headed god represents C/P/D all in one? (a simple farmer, 3 headed, 6 armed, see Dattatreya?) but it's a sham. where?
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
 - Some creature that responds to Creation and/or Destruction, to be used to test if exposure is too high. Maybe by those wizards that study the planes of pure C/D.
@@ -544,7 +551,7 @@ TODO go through evil sketch
 - "Somewhere in the ocean hundreds of miles north of the Shirerithian mainland there is a mountainous arctic island upon which thrives an emergent oracular techno-theocracy that calls itself the Shining Garden of Raikoth. Its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too wear the spiral."
 - sexual proclivities replace other tribal markers and are increasingly fractured
 - many sex partners but only one friend, good form to break up before making another, cheating, etc.
-- someone or a group famous for making works of art that convince the viewer to commit suicide. (you must be interviewed first and it's tailored?) (CGP if nowhere else)
+- someone or a group famous for making works of art that convince the viewer to commit suicide. (you must be interviewed first and it's tailored?) (CGP if nowhere else - LED NED)
 - exaltation of poverty
 - exercise: weirdtopia: pick a topic, imagine a utopia and dystopia on that topic, then think what weirdtopia would be (appealing but orthogonal)
     + requirement that everyone go through some kind of educational gauntlet (like the sexual weirdtopia at <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#nbGkPXNEDm856igNg>)
@@ -568,8 +575,9 @@ TODO go through evil sketch
     + Epiphanies (place where you have them)
     + place where you can swap lives
     + https://en.wikipedia.org/wiki/Emotional_flooding
-    + Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something
-    + Elemental forces
+    + Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something (where - brink?)
+    + Elemental forces (where?)
+    + unusual language element
 
 ### Abstract Concepts
 
@@ -580,7 +588,7 @@ TODO go through evil sketch
 - formlessness vs EXTREMELY existent
 - is total absence of habit freedom? or is it its own kind of tyranny? funes el memorioso is relevant. CXX
 - realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe
-- "water always finds a crack" - LND? or LEC LEP LED
+- "water always finds a crack" - LND or LED
 - GEB, achilles gets one meta wish, asks for wish not to be granted, and then "an event — or is 'event' the word for it? — takes place which cannot be described, and hence no attempt will be made to describe it." the result is that the universe crashes, and the characters wind up somewhere totally different
 - emergence
 - Game theory
@@ -664,8 +672,8 @@ TODO go through evil sketch
     - "It is not a case of choosing those [faces] that, to the best of one's judgment, are really the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees."
 - Pantropy: modifying being to suit its environment (opposite of terraforming)
 - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
-- <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP)
-- A place where no one experiences boredom. LND or LEC LEP LED or CGP
+- <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NEP, NED, LED)
+- A place where no one experiences boredom. LND or LEP LED or CGP
     - boredom is required for creativity
     - "Consider the incredibly important human value of "boredom" - our desire not to do "the same thing" over and over and over again. You can imagine a mind that contained almost the whole specification of human value, almost all the morals and metamorals, but left out just this one thing ... and so it spent until the end of time, and until the farthest reaches of its light cone, replaying a single highly optimized experience, over and over and over again." --- <http://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile>
     - blaise pascal: "we seek rest in a struggle against some obstacles. And when we have overcome these, rest proves unbearable because of the boredom it produces""
@@ -673,7 +681,7 @@ TODO go through evil sketch
         - hm "a pervasive lack of interest and difficulty concentrating on the current activity"
         - 1) prevented from engaging in wanted activity, 2) when we are forced to engage in unwanted activity, or 3) when we are simply unable for some other reason to maintain engagement in an activity
 - "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better
-- "Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168
+- "Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168 LEP?
 - "Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 XXP?
 - done
     + physics - entropy and 2nd law of thermodynamics (done - CND)
@@ -700,6 +708,7 @@ LOOK THROUGH HEADSOAK QUOTES
 
 LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 
+- "What goes too long unchanged destroys itself. The forest is forever because it dies and dies and so lives." — Ursula Le Guin (XXP)
 - "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq
 - "Only children and the stupid seek cause-and-effect in the same story" - Nasrudin, as related by Idries Shah
 - "Fluency before understanding, discipline before imagination"
@@ -1374,6 +1383,14 @@ what's the point?
 - demonym
 - environment
 - culture
+
+info gathering
+
+- questions
+- future research
+- elements
+- notes
+- research notes
 
 ## Environment
 

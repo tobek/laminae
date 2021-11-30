@@ -165,10 +165,15 @@ ritual bath that you die in?
 - missing senses? or other perception issue
 - glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. sounds more like NGD or NND or NED or LED or LND.
 - death?
+	- deathbed phenomena
+	- deathbed confessions - to alleviate guilt/regrets/secrets/sins
+	- deathbed conversions
+	- deathbed declarations - Nemo moriturus praesumitur mentiri — "no-one on the point of death should be presumed to be lying"
 - mirroring/doppelgangering?
 - hive mind?
 - is total absence of habit freedom? or is it its own kind of tyranny? funes el memorioso is relevant. CXX
 - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
+- https://en.wikipedia.org/wiki/Les_Lavandi%C3%A8res
 
 ***
 
@@ -266,7 +271,7 @@ Voiders? The Wilt?
 
 find stuff from dissimulation intro
 
-An endless gray plain of enormous geometric holes in the ground, like that exhibit at DIA Beacon, also Chichu. Each void is inhabited by a single individual, residing in indefinite inertia and dissolution.
+An endless gray rock slab with enormous geometric holes in the ground, like that exhibit at DIA Beacon, also Chichu. Each void is inhabited by a single individual, residing in indefinite inertia and dissolution.
 
 How do they end up there? Punishment, if NED. Apathy, giving up, failing. OR: people who just really really want to be alone.
 
@@ -340,8 +345,6 @@ the opposite of NGP - opposite of restorative justice? training, using trauma to
 ## Synthesis Power Dissolution NED
 
 ritual athletes? use yourself up
-
-sex?
 
 ***
 
