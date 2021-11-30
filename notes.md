@@ -242,7 +242,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + maybe translator's note calls attention to it, translates it as something more plausible but gives alternate that makes you question
     + relevant idioms
         *
-- it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right
+- it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right - LEC or LEP?
 - author having an argument with someone over something, mentioned say in footnote
 - one plane, fairly late on, "it was through this aperture that this visitor first set foot in one of the laminae"
 - also fairly late, a simple note that this is this visitor's favorite spot in the multiverse - maybe it has to do as much with relief from something really difficult. coming out of the cave in spain, a fire.
@@ -250,12 +250,12 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + but then this work would be incomplete and she'd fall prey to the same dogmatism etc etc
     + promises to go back there in the end
 - this visitor was honored to be invited to participate in [such and such ceremony], though of course she was not permitted in the [special place]
-- something omitted for it would not reflect well upon this visitor
+- something omitted for it would not reflect well upon this visitor LEC?
 - close call (maybe somewhere not particularly dangerous). It was here, of all places, that this visitor came closest to mortal harm, when a ____
 - more beauty - some busy activity in a beautiful place, the beauty makes the time stop, maybe LGP
     + And then it turned again, and suddenly we were on a street ablaze with cherry trees in luxuriant, excessive bloom. There they were, a dozen on each side of the street, all of them shaggy with flowers, the air around them swarming with floating petals, as if the petals were affixing themselves to the branches. Beneath and around them were everyday people doing everyday things, the tasks that need to be completed if a great city is to function: A delivery truck was being unloaded, and the sidewalk was being swept, and a repairman was shimmying up a telephone pole, and a woman was dragging a wooden crate of what might have been daikon to the door of a soba-ya. It was comical and also unbelievable, as if above them the skies were busy with flying pigs, and no one had noticed. This was a plain, unremarkable street, but in that moment, it was the most beautiful in Japan. It made me wonder whether it wasn’t good fortune after all that the sakura season was so brief, for, these people aside, how could anyone get anything done in the face of such splendor? Wasn’t it miraculous that life didn’t simply cease in those two weeks in April that the trees were in bloom? How could you concentrate on anything else? How could a human compete?
 - show kindness, show listening, show humility
-    + "as is customary, this visitor left an offering..."
+    + "as is customary, this visitor left an offering..." NGD or CGD
     + did not wish to bother, but made space for her bedroll...
     + apologizing genuinely for breaking some norm, and then speaking to the offended person for a long time about it, understanding
 
@@ -317,6 +317,7 @@ see Template
 
 # Things to use
 
+- some laminae have "embassies" on others or in cardinal worlds?
 - weirdtopia <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia?postId=cWjK3SbRcLkb3gN69&view=postCommentsBest>
 - Dissimulation
 - Gil Bruvel art?
@@ -384,6 +385,7 @@ TODO go through evil sketch
 23 of them!
 
 - something pretty futuristic, but not described as such
+- war? a thousand-mile-wide battlefield populated by warring soldiers from every era throughout history
 - something where everything is like a play, or all interactions are formulaic - NGD?
     + greek stock characters/jungian archetypes etc
     + and/or where you are assigned a ritual role in a play, and learning that role is therapeutic - NGC?
@@ -460,6 +462,8 @@ unused ones can just be particular places
 
 - in the clouds of a gas giant
     - maybe LEC is just floating palaces in endless haze
+- incredibly loud, but quiet eye of the storm in the middle
+- huge building constructed with a single piece of gossamer fabric
 - More extreme weather and how it effects culture - like it always rains, but weirder
 - Sort of like the wall place, one place could be an endless crevasse
     + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - LED, NEP, NED
@@ -521,6 +525,7 @@ unused ones can just be particular places
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
+- <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt>
 - "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761
 - Audience independent utterance - the idealization of
 - Emotional etc content of micro actions? (NGP?)
@@ -1191,6 +1196,11 @@ don't forget "-er"s like Unravellers
 
 # Macros
 
+## <gpt>GPT-3 text</gpt>
+
+how to handle multi-paragraph, especially if it starts in the middle? if not forming a single unit, can simply separately <gpt>mark off</gpt> each paragraph/bit
+
+
 ## TODO
 
 - remove TODOs and replace with brackets
@@ -1218,7 +1228,7 @@ for now, some can be just removed, others...? search and see
 
 ## SKIP
 
-skip entire section up to the next equal or higher heading
+skip entire section up to the next equal or higher heading (is this used??)
 
 # Printing?
 

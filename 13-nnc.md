@@ -15,7 +15,7 @@ summary: An endless cliff face, with no known ground or top or sides, into which
 
 intro: |
 
-    In the workshops of the Asymmetry all the essential forms of reality have been hewn and sculpted and forged, in great open chambers set into a cliff face with no known ground or top or sides. It is simply a wall facing an empty sky, and into the fruitful earth of this wall Grains quarry ever deeper for materials for their creations that will eventually delivered into nature or the minds or hands of mortals.
+    In the workshops of the Asymmetry all the essential forms of reality have been hewn and sculpted and forged, in great open chambers set into a cliff face with no known ground or top or sides. It is simply a wall facing an empty sky, and into the fruitful earth of this wall Grains quarry ever deeper for materials for their creations that will eventually be delivered into nature or the minds or hands of mortals.
 
     Grains believe deeply that nothing is perfectly symmetrical, for even if an object is itself symmetrical, its environment is not, and no object can be considered outside of its environment. And so in any pursuit of symmetry with the environment in total, an object must itself be asymmetrical, further complicating the whole. Despite the impossibility of perfect balance, Grains are forever pursuing the act of balancing: introducing new animals or tools---even new philosophies or deities---to cardinal worlds in order to tweak and understand discrepancies in the shape of things.
 

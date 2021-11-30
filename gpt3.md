@@ -2,7 +2,11 @@
 
 prompts:
 
-- [demonym] have no concept of time as we know it; instead they
+- Intro to lamina, then:
+	- [demonym] have no concept of [concept, e.g. time] as we know it; instead they...
+	- The most surprising feature of this lamina is that...
+
+check out presets
 
 ***
 

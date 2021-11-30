@@ -90,6 +90,8 @@ Could swap with LGD
 - pure inspiration
 - how do you get out?? many have been lost, maybe there's some aperture route you have to like train yourself to go
 
+<gpt>The experience of being on this plane can be so overwhelming that it blots out the senses, driving mortals mad with desire for what they have seen before banishing them forever.</gpt>
+
 summary: A baffling and beautiful realm where ordinary thought is impossible: observations and feelings strike with such speed and force as to crowd out the conscious mind. It is like a manic dream and nothing is processed upon one's return.
 
 *The Something*
@@ -174,6 +176,11 @@ ritual bath that you die in?
 - is total absence of habit freedom? or is it its own kind of tyranny? funes el memorioso is relevant. CXX
 - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
 - https://en.wikipedia.org/wiki/Les_Lavandi%C3%A8res
+- skilled in making poignant bargains? very rare granting of wishings, which sometimes include being returned to life, or having another killed in their place?
+- <gpt>The Cumulative is a place of rest where sentient creatures are stored until their memories have been exhausted. Then the beings are put into deep sleep for further cumulative dreaming until they are eventually released to the fertile fields of the Midsummer to begin life anew.</gpt>
+- a (mist-shrouded) forest?
+- allowed glimpses into possible pasts or futures that they might not otherwise have.
+- some area where whole civilizations are laid to rest, edge of the forest: <gpt>An infinite expanse of pure white, broken by a few distant and tiny islands of solidified and partially-crystallized time. The Spacefarers tend to the dying remains of dead civilizations, frozen in history on those islands.</gpt>
 
 ***
 

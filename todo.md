@@ -53,10 +53,7 @@ tiny back arrow??
 
 - how can it support scifi? should it? why wouldn't it?
     + maybe it is totally out of time and some scifi stuff is present, but author doesn't have terminology to describe it (like the instrument)
-- meaning behind effects
-    + guild terms/burmese/unfinished titles changing
-    + image changing (just NGP so far)
-    + AI-generated text
+- meaning behind effects (shifting & gpt3)
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 - include conduit?
 - language??
@@ -670,6 +667,44 @@ data-facet= (added when processing REFs) and :after content
     + probably not in ordial-primer chapter - do we even want those to link?
 - probably the same REF popup as anything else
 - could expand with facet definitions
+
+### shifting and gpt3
+
+aspects
+
+- guild terms/burmese/unfinished titles changing
+- image changing (just NGP so far)
+- AI-generated text
+
+todo
+
+- figure out what it represents
+    - which are related to each other?
+- figure out what it looks like
+- is it interactive, maybe just a little?
+- rename gpt tag
+
+*brainstorm*
+
+the guild and/or the author can create kind of probabilistic effects that live in the mind of the observer. the guild name is a superposition of multiple names that collapses on observation. the paper/ink somehow has this quality
+
+why? they operate on a more complex level. some things can only be described by a superposition.
+
+GPT3 stuff, easy answer is they came to the author in dreams/possession/hallucination, written in a different hand. "some passages were written in an unusual ink that shifts with irridescence. with some effort we have been able to produce a similar effect [maybe insert some shifting here] for our translation. we are unsure of the significance etc etc"
+
+but why? probably need to nail down the story of why she's writing it and whether it's true or not
+
+maybe they're all margin notes and attached scraps of paper
+
+maybe totally different handwriting or even language - someone added it. afterwards? with or without approval of author? maybe she passed it on to someone else.
+
+ideally hint towards explanation in the text. or it could be totally explicit, that a companion wrote some of it.
+
+all of the above the reason it's different is just to capture that it was written differently, and it happens to be a cool ink. maybe there should be some reason for the interesting effect.
+
+_could_ be similar to the shifting, except it doesn't change does it.
+
+dunno maybe each should be changing, generate a ton of examples with GPT3. but like e.g. unraveller demigods, the good stuff i want to include it all.
 
 ## ■▤□ Plates
 
