@@ -87,6 +87,13 @@ tiny back arrow??
     + thread header: brief description and the alignments
     + backdating some already-completed chapters
 
+# backburner chunks
+
+- do something with all the quote authors?
+    + like place them in the work, maybe put them in index, etc. certainly vectors guy, maybe rilke
+    + explain in frame where they come from? like "i have collected these from..." maybe some are mortals, some petitioners, some are historical, some the author knew, etc.
+- music
+
 # Sections
 
 ## ●◍◍◍ Frame
@@ -674,6 +681,7 @@ aspects
 
 - guild terms/burmese/unfinished titles changing
 - image changing (just NGP so far)
+- quote changing (just CEC so far)
 - AI-generated text
 
 todo
@@ -723,6 +731,30 @@ dunno maybe each should be changing, generate a ton of examples with GPT3. but l
     + CEC nausicaa remove person/look at other frames from movie, animated?
 - mood board with all the images? per-lamina mood boards for some? at the bottom
 
+### management
+
+figure out ideal directory structure/system for everything
+
+export pinterest?
+
+divvying up script (should be idempotent):
+
+- delete all the folders
+- iterate through every trinym and copy each into each
+- used ones have been copied into "used" but later when removed from "possible" this would delete them
+
+current process for using an image:
+
+- copy into used
+
+better:
+
+- remove from "possible"
+- indicate in trinym folder that it's used
+- etc
+
+eventually there will be a bunch of candidates that need divvying up
+
 ### implementation
 
 following discarded:
@@ -745,16 +777,25 @@ References themselves just `a.ref`
 
     REF[text](page#anchor)
     REF[text](#anchor)
+
     REF[The Wilt](CNP)
     REF[____[the Concordance]](LGP)
     REF[TODO(artist plane)[the Bauble]](NEC)
+
+    # on current page
     REF[Galabast](#galabast)
     REF[Galabast] # default id is kebab-cased string
+
+    # on other pages
     REF[Blighted lovers](CNP#the-lovers)
     REF[wind shifters](LNC#wind-shifters)
+
+    # facts & cosmography
     REF[Equilibrium](facets#equilibrium)
     REF[Equilibrium] # whitelist dict of terms to auto-map to facets
-    REF[Ordial](ordial-plane) # whitelist with its own id
+    REF[petitioners] # top level cosmography terms can be linked directly
+    REF[Ordial](ordial-plane) # if need to change the anchor text, can still reference directly by term
+
     REF[some made up thing](LNC#untranslated) # mark as gray with untranslated tooltip but lead to #untranslated anchor on page
 
 - parse

@@ -8,6 +8,7 @@ try harder. lyrical and concise and unexpected, like that GPT-3 example ha. goin
 
 can i add tension and mystery? what makes the reader what to keep reading?
 
+- search trinym and review
 - bird's eye
     + review todo ideas for shape and texture and philosophy
     + search textbase for trinym
@@ -361,12 +362,17 @@ steam -> rust and/or ground glass
 - Review author notes and think about how to insert
 - What's the point?
 - Name/demonym
-- Review images
+- Review images (check pinterest too)
+- Review everything and decide on elements
 - WRITE
+    - lay out the bits of info to include
+    - brainstorm splurge
+    - organize, edit
 - TOC
 - *once done*
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
-    + update progress
+    + update progress (md and index.yml)
+    + update all.md and index.yml
     + update homepage TOC
     + comment out from rand.js
     + remove name from homepage TOC filler
@@ -385,6 +391,7 @@ TODO go through evil sketch
 23 of them!
 
 - something pretty futuristic, but not described as such
+- they worship a god who is crazy but they love it
 - war? a thousand-mile-wide battlefield populated by warring soldiers from every era throughout history
 - something where everything is like a play, or all interactions are formulaic - NGD?
     + greek stock characters/jungian archetypes etc
@@ -395,7 +402,8 @@ TODO go through evil sketch
 - looking for the chosen one - in an interesting way
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
     + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
-    + LEX?
+    + LEX? maybe LEC
+    + rilke quote
 - society that glamorizes maintenance instead of creation? LGP
 - death?
 - glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. CGD? sounds more like NGD or NND or NED or LED or LND.
@@ -460,7 +468,7 @@ TODO go through evil sketch
 
 unused ones can just be particular places
 
-- in the clouds of a gas giant
+- in the clouds of a gas giant - built on trees that take root?
     - maybe LEC is just floating palaces in endless haze
 - incredibly loud, but quiet eye of the storm in the middle
 - huge building constructed with a single piece of gossamer fabric
@@ -526,6 +534,7 @@ unused ones can just be particular places
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
 - <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt>
+- "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239 (maybe LEC)
 - "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761
 - Audience independent utterance - the idealization of
 - Emotional etc content of micro actions? (NGP?)
@@ -564,7 +573,6 @@ unused ones can just be particular places
     + a failed free love and sex world, because "taboo is revealed to be as fundamental aspect of sexual arousal as the unknown is to the intellectual. The people demand a strict morality police after an era of total acceptance drains all the fun out of it. Everyone is fully expected to both seek out sexual thrills and aid in the swift punishment of anyone who seeks out sexual thrills"
     + "Governmental Weirdtopia" <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#ffxHS6LNtBYo5cudN>
         + "Yearly presidents are chosen at random. (couldn't be worse than our current system) The catch is that the person chosen to be the leader has absolutely no idea that they are the leader. They are followed around and monitored, and anything uttered resembling a decree is put into action if it doesn't violate the constitution. The decrees are only put into place after their term expires so they don't catch on. Quick decision-making such as treaties are wars are left up to a streamlined unicameral legislative body."
-    + "Rather than classical "good health," fashionable people sculpt their bodies into interesting shapes with the help of highly specific and commonly-performed exercises prescribed by regimen-planning software." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
     + "Because of the end of scarcity, the economic roles of production and consumption have switched; wealth is now acquired by consuming, and producers pay consumers to use their goods or services. The right to make something is highly coveted and prestigious, and producing without a customer is illegal and severely punished." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#gkAPnw9FmXn8ZHSPo>
     + there is some oracle that knows what's "best" for every action in its domain - you're free to listen to it or not. "Everyone is free to listen to The Computer or not, but you know that your decision would be less efficient for accomplishing your goals. Such rebellions are useless, however, because The Computer's prediction capabilities include whether or not you will take its advice, and it acts accordingly to make sure you get the best results anyway."
 - symbiotic creatures groom and pick things off you, but not physical stuff, something else, emotional/dreams too easy, but they live off of it? there's some efficiency here. don't stay too long or it's too much?
@@ -583,6 +591,7 @@ unused ones can just be particular places
     + Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something (where - brink?)
     + Elemental forces (where?)
     + unusual language element
+    + "Rather than classical "good health," fashionable people sculpt their bodies into interesting shapes with the help of highly specific and commonly-performed exercises prescribed by regimen-planning software." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
 
 ### Abstract Concepts
 
@@ -715,7 +724,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 
 - "What goes too long unchanged destroys itself. The forest is forever because it dies and dies and so lives." — Ursula Le Guin (XXP)
 - "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq
-- "Only children and the stupid seek cause-and-effect in the same story" - Nasrudin, as related by Idries Shah
+- "Only children and the stupid seek both cause and effect in the same story" - Nasrudin, as related by Idries Shah
 - "Fluency before understanding, discipline before imagination"
 - "If you try and go against réalité... Réalité will surely crush you. Réalité will kill you. And réalité will continue to go on az if not'ing ever happened... From yesterday to today, and from today to tomorrow. Réalité marchez on... Leaving your crushed body behind..." - Harle
 - "What is better: to be born good, or to overcome your evil nature through great effort?" - Paarthurnax, Skyrim
@@ -746,18 +755,25 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html
 - "he has grasped the falsity of the hedonistic attitude to life. Nearly all western thought since the last war, certainly all “progressive” thought, has assumed tacitly that human beings desire nothing beyond ease, security and avoidance of pain. In such a view of life there is no room, for instance, for patriotism and the military virtues. The Socialist who finds his children playing with soldiers is usually upset, but he is never able to think of a substitute for the tin soldiers; tin pacifists somehow won’t do. Hitler, because in his own joyless mind he feels it with exceptional strength, knows that human beings don’t only want comfort, safety, short working-hours, hygiene, birth-control and, in general, common sense; they also, at least intermittently, want struggle and self-sacrifice, not to mention drums, flags and loyalty-parades. However they may be as economic theories, Fascism and Nazism are psychologically far sounder than any hedonistic conception of life. The same is probably true of Stalin’s militarized version of Socialism. All three of the great dictators have enhanced their power by imposing intolerable burdens on their peoples. Whereas Socialism, and even capitalism in a more grudging way, have said to people “I offer you a good time,” Hitler has said to them “I offer you struggle, danger and death,” and as a result a whole nation flings itself at his feet." - George Orwell review of Mein Kampf, 1940 - LGC? and/or LGP vs CGP has to deal with this. LEP tho?
 - "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP? LEP?)
-- edward gorey ideally if anything were any good it would be indescribable (NNC)
+- "Ideally, if anything were any good, it would be indescribable." - Edward Gorey (CGC CNC)
 - Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC? NEC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
 - mutantur omnia nos et mutamur in illis - All things change, and we change with them (CNC? CGC? NGD)
 - "Nothing that comes at the right time for you is too early or too late for me. Everything is fruit to me that your seasons bring, Nature." (marcus aurelius stoicism paraphrase) (CEC? NGC)
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
-- "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC maaaybe but not great)
+- "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC or LEC maaaybe but not great)
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
+- "Beautiful and terrible things will happen. Don't be afraid." ― Frederick Buechner CGP? NGC
 - rilke quote about god coming
     + Why don’t you think of him as the one who is coming, who has been approaching from all eternity, the one who will someday arrive, the ultimate fruit of a tree whose leaves we are? What keeps you from projecting his birth into the ages that are coming into existence, and living your life as a painful and lovely day in the history of a great pregnancy? Don’t you see how everything that happens is again and again a beginning, and couldn’t it be His beginning, since, in itself, starting is always so beautiful? If he is the most perfect one, must not what is less perfect precede him, so that he can choose himself out of fullness and superabundance? Must he not be the last one, so that he can include everything in himself, and what meaning would we have if he whom we are longing for has already existed?
     + As bees gather honey, so we collect what is sweetest out of all things and build Him. Even with the trivial, with the insignificant (as long as it is done out of love) we begin, with work and with the repose that comes afterward, with a silence or with a small solitary joy, with everything that we do alone, without anyone to join or help us, we start Him whom we will not live to see, just as our ancestors could not live to see us. And yet they, who passed away long ago, still exist in us, as predisposition, as burden upon our fate, as murmuring blood, and as gesture that rises up from the depths of time.
+- "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke - CGP?
+- "I am circling around God, around the ancient tower, and I have been circling for a thousand years, and I still don't know if I am a falcon, or a storm, or a great song." rilke - CGC
+- "I am the rest between two notes which are somehow always in discord." rilke - CEP?
+- "Shattered people are best represented by bits and pieces." rilke
+- chaucer metal quote from saturn or bloody mars stuff (in quotes.txt)
+- "Should you shield the canyons from the windstorms you would never see the true beauty of their carvings." ― Elisabeth Kübler-Ross NGP NGD CGD
 - James Richardson
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
         - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGD, CGD)
@@ -783,8 +799,9 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
-    + 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. (NNC)
-    + 91. If you make rules only you can win by, they will play by other rules. NGP
+    + 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins
+    + 91. If you make rules only you can win by, they will play by other rules
+    + paradise lost angel sex
 
 Whereto the almighty answered, not displeased.
 A nice and subtle happiness I see
@@ -800,7 +817,7 @@ How have I then with whom to hold converse
 Save with the creatures which I made, and those
 To me inferior, infinite descents
 Beneath what other creatures are to thee?
--God to Adam, Paradise Lost, Book VIII 398-411
+---God to Adam, Paradise Lost, Book VIII 398-411
 CNP? something else solitary
 
 All the unaccomplished works of nature's hand,
@@ -811,16 +828,13 @@ Not in the neighbouring moon, as some have dreamed;
 Those argent fields more likely habitants,
 Translated saints, or middle spirits hold
 Betwixt the angelical and human kind...
--corrupt nature in the void that travesties God's creation, PL Book III 455-62
+---corrupt nature in the void that travesties God's creation, PL Book III 455-62
 
-To love thou blam'st me not, for love thou sayst
-leads up to heaven, is both the way and guide;
-Bear with me then, if lawful what I ask;
-Love not the heavenly spirits, and how their love
-Express they, by looks only, or do they mix
-Irradiance, virtual or immediate touch?
--Adam asking Raphael if angels have sex, PL, Book VIII 611-17
-(Raphael blushes in response: he "glowed / Celestial rosy red, love's proper hue".  Then gracefully admits they do: "Let it suffice thee that thou knowst / Us happy, and without love no happiness."  Goes on to clarify a little more about the purity of it all.)
+Incensed with indignation, Satan stood
+Unterrified, and like a comet burned,
+That fires the length of Ophiuchus huge
+In the arctic sky, and from his horrid hair
+Shakes pestilence and war.
 
 #### quote authors
 
@@ -859,6 +873,8 @@ anagram names:
 - fourth world obvs
     - Robert Musci - The advent of rose + Croix, maybe LND? something ominous and formal, maybe it's not stressful enough for LND
     - Mikael Seifu - How To Save a Life (Vector of Eternity) (stressful, beautiful, intense)
+- igorrr - corpus tristis (LEC?)
+- pure land - tengger
 - mechwarrior (strike on moritz 2)
 - music for programmers
 - https://sixeyedcatabyss.bandcamp.com/album/moss-revelations-landscapes-dreams (good) for CEC maybe and probably others
@@ -915,7 +931,7 @@ realm names or demonyms:
 - The Antechamber
 - The Apprehension
 - The Assembly (similar to instrument)
-- The Ataraxia (unperturbedness)
+- The Ataraxia (unperturbedness, term used by stoics/skeptics)
 - The Autocephaly (appointing its own head, not subject to external authority)
 - The Ataxia (lack of muscle control or coordination of voluntary movements)
 - The Bauble
@@ -924,7 +940,7 @@ realm names or demonyms:
 - The Blink
 - The Blot*
 - The Bough*
-- The Braid
+- The Braid (currently NGP)
 - ‎The Bright
 - The Burgeon*
 - The Cabling
@@ -945,7 +961,7 @@ realm names or demonyms:
 - The Convergence*
 - ‎The Creak
 - The Crescendo
-- The Crenellation
+- The Crenellation (LEP?)
 - The Crest*
 - The Crown
 - The Crux
@@ -968,6 +984,7 @@ realm names or demonyms:
 - The Figure*
 - The Formation
 - The Frame
+- The Fruition
 - The Fulmination (vehement protest, violent explosion/flash)
 - The Gleam
 - The Glimmer
@@ -989,7 +1006,7 @@ realm names or demonyms:
 - The Kinesis*
 - The Knell*
 - The Knuckle
-- The Kylix (greek: "elegant cup or vase for drinking", latin calix, from whence Chalice)
+- The Kylix (broad greek cup, "elegant cup or vase for drinking", latin calix -> chalice)
 - The Lacuna* (unfilled space or interval, gap)
 - The Lambent (glowing/gleaming/flickering with soft radiance)
 - The Lapse
@@ -999,7 +1016,7 @@ realm names or demonyms:
 - The Loom
 - The Macula* (center of retina, keenest vision)
 - The Manacle
-- The Marrow
+- The Marrow (LEC mountain but could rename)
 - The Membrane
 - The Morrow
 - The Multitude
@@ -1014,6 +1031,7 @@ realm names or demonyms:
 - The Quell*
 - The Ramification
 - The Rampant
+- The Rampart
 - The Rectitude
 - The Recital
 - The Recurrence*
@@ -1026,7 +1044,6 @@ realm names or demonyms:
 - The Rue
 - The Sap
 - The Shift
-- ‎The Shimmer
 - The Sift
 - The Simmer
 - The Skein
@@ -1091,7 +1108,7 @@ don't forget "-er"s like Unravellers
 - Kinetics
 - Knells (sound of bell)
 - Ligands (molecule that binds to another, from latin "that can be tied" or bound)
-- Limns
+- Limns (NGP and NEC??)
 - Looms
 - Mercies
 - Meshers
@@ -1108,7 +1125,7 @@ don't forget "-er"s like Unravellers
 - Rifes
 - Rifts
 - Roots
-- Ruesh
+- Rues
 - Runes
 - Saraphs
 - Sifters

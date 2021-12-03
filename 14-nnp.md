@@ -46,7 +46,7 @@ Lastly, you have read that this realm contains even itself. What does that mean?
 
 ## Culture & Paradigm
 
-Unique among all of the laminae TODO(is this true)[], there appear to be no REF[petitioners] who make the Cartography their final residence. Visitors have reported beings sighted from a distance: slender: humanoid creatures with iridescent flesh wrapped in cloaks, carefully inspecting some detail of a tableau. Apparently unencumbered by the oppressive nature of the lamina, they are swifter than any visitor and gently depart when sighted. Whether they are native REF[laminals](cosmography#laminal) or simply frequent guests is unknown.
+Unique among all of the laminae TODO(is this true)[], there appear to be no REF[petitioners] who make the Cartography their final residence. Visitors have reported beings sighted from a distance: slender: humanoid creatures with iridescent flesh wrapped in cloaks, carefully inspecting some detail of a tableau. Apparently unencumbered by the oppressive nature of the lamina, they are swifter than any visitor and gently depart when sighted. Whether they are native REF[laminals](cosmography#laminals) or simply frequent guests is unknown.
 
 Among those few scholars, mercenaries, and obsessives familiar with this lamina, however, a small and wildly dangerous cottage industry has sprung up, accompanied by a certain camaraderie. The Cartography is something of a holy grail that, if tamed, would hold untold promise. It is reminiscent of that fable of the near-infinite library that contains all possible books of a certain size, which are mostly indecipherable but must by necessity have among their member all past and future books, some of great knowledge and power.
 

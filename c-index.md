@@ -117,11 +117,12 @@
     <tr><td>Kindling and Wind Shifter sentience, The</td><td>REF[LNC](lnc#the-kindling-and-wind-shifter-sentience)</td></tr>
     <tr><td>Knot, The</td><td>REF[CEP](cep)</td></tr>
     <tr><td>Laminae</td><td>REF[Cosmography](cosmography#laminae)</td></tr>
-    <tr><td>Laminal</td><td>REF[Cosmography](cosmography#laminal)</td></tr>
+    <tr><td>Laminals</td><td>REF[Cosmography](cosmography#laminals)</td></tr>
     <tr><td>Language</td><td>REF[CND](cnd#language)</td></tr>
     <tr><td>Limn Communication</td><td>REF[NGP](ngp#limn-communication)</td></tr>
     <tr><td>Listeners</td><td>REF[LND](lnd#listeners)</td></tr>
     <tr><td>Loss of Knowledge</td><td>REF[CND](cnd#loss-of-knowledge)</td></tr>
+    <tr><td>Macula, The</td><td>REF[LEC](lec)</td></tr>
     <tr><td>Means</td><td>REF[Facets](facets#means)</td></tr>
     <tr><td>Mechanisms</td><td>REF[LND](lnd#mechanisms)</td></tr>
     <tr><td>Mentorship</td><td>REF[CGP](cgp#mentorship)</td></tr>

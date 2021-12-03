@@ -40,7 +40,7 @@ def ref_replace(match):
     text = match.group(1)
     if text in facet_names:
         link = "facets#" + text.lower()
-        additional = " data-facet=\" %s\"" % name_to_glyph[text]
+        additional = " data-facet=\"%s\"" % name_to_glyph[text]
     else:
         link = match.group(2) or "#" + to_kebab_case(text)
     out = "<span class='tooltip-wrap'><a href='%s' class='ref'%s>%s</a><span class='tooltip'></span></span>" % (link, additional, text)
@@ -283,9 +283,9 @@ for file_id, data in file_data.items():
             if anchor.get("def"):
                 tooltip.string = anchor["def"].strip()
 
-            # only need to change anchors that link to another page:
-            if href[0] != "#":
-                ref["href"] = anchors[href]["href"]
+            # only need to change hrefs for anchors that link to another page:
+            if anchor.get("file_id") != file_id:
+                ref["href"] = anchor.get("href")
                 if anchor.get("untranslated"):
                     ref["href"] = ref["href"][:ref["href"].index("#")] + "#untranslated" # from index, link to the untranslated note anchor
                     ref['class'] = ref.get('class', []) + ['untranslated']

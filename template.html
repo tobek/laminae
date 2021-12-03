@@ -484,13 +484,19 @@
     [data-facet]:after {
       font-family: "NotoSansMyanmar", sans-serif;
       line-height: 1rem;
-      content:  attr(data-facet);
+      content: attr(data-facet);
+      margin-left: 4px;
     }
     /*
     .glyph-group [data-facet] + [data-facet] {
       margin-left: 0.25rem;
     }
     */
+
+    gpt {
+      display: inline;
+      opacity: 0.825;
+    }
 
     .copy-table table {
       margin: auto;
@@ -667,7 +673,7 @@ $if(intro_only)$
   $endif$
 
   $-- Keeping it in HTML output so that we can parse heading IDs for untranslated index items
-  <div style="display: none">$body$</div>
+  <div class="untranslated-wrap" style="display: none">$body$</div>
 $else$
   $body$
 $endif$
@@ -716,6 +722,15 @@ $endif$
   document.querySelectorAll('#TOC .no-toc-children').forEach(function(el) {
     el.parentNode.classList.add("no-toc-children");
   });
+
+  // another total hack to make footnotes visible on untranslated pages
+  var untranslatedWrap = document.querySelector(".untranslated-wrap");
+  if (untranslatedWrap) {
+    var footnotes = untranslatedWrap.querySelector(".footnotes");
+    if (footnotes) {
+      untranslatedWrap.after(footnotes);
+    }
+  }
 
   var guildTitle = document.querySelector(".guild-name");
   var guildTerms = document.querySelectorAll(".guild-term");

@@ -2,6 +2,8 @@
 
 ## Hierarchy Empathy Creation LGC
 
+The Lattice?
+
 Maybe they have some rumored and controversial deal/symbiosis with CED?
 
 crystalline structure
@@ -81,7 +83,7 @@ Could swap with LGD
 ## Autonomy Empathy Creation CGC
 
 - artists, creative madness.?
-- it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point.
+- it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point. (or CNC?)
 - a gorgeous crazy world where *thought* is not possible, only observation and feeling
 - observations are not quite reliable, they constantly flower with related or plausible images and variations - when you observe a boy, you also see a baby, a grown man, a woman, a tiger cub. when you perceive a castle, you also perceive a manor, a fortified wall, a dungeon, a floating island, an army. each observation leads to more observations, it's almost impossible to get one's bearing.
 - a technique is to wear these pinhole goggles (not so pinhole that you get a full image like pinhole camera) so that you perceive as little as possible at once, so there's less branching. a similar technique has not been developed for hearing, since earmuffs equally dim all sound, but what is desired is a narrowing of sound. so total sound blockage is used, along with nose, since smell is a particularly evocative sense and the smells are myriad. touch TODO

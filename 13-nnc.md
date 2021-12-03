@@ -30,6 +30,8 @@ what's the point?
 
 Some believe the gods themselves---some of them, all of them, who knows?---were painstakingly sculpted in these forges. They'll make anything but keep careful ledger so that the output of the plane remains balanced. Every thing created is forecast to have certain effects, and miscalculations are rapidly accounted for. They are famous employers (famously rewarding, famously exacting) of explorers and researchers who report back to them on the results of their more ambitious or uncertain endeavors. It's said that these mercenaries are chosen very, very carefully. Often the act of investigation itself and those chosen to investigate are meant to fix any imbalances, and surprisingly often the investigators themselves find their own nature changed in the process.
 
+many more things are made than are released - why/how? not sure
+
 - name
     + The Asymmetry
     + The Consonance

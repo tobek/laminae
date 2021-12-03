@@ -47,7 +47,7 @@ what's the point?
 		- Echo
 - demonym
 	- Ligands/Ligates
-	- Limns <--
+	- Limns <-- but NEC??
 	- Looms
 	- Tides
 - author realized here something she was looking for

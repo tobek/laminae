@@ -1,19 +1,38 @@
-# The ____ SKIP
+# The Macula
 
 ---
 subtitle: Hierarchy Power Creation LEC
 intro_only: True
+hide_toc: True
 <!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
 
 quote: |
-    > TODO quote
-    >
-    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 
-summary: TODO
+    > To love thou blamest me not; for love thou sayest,<br />
+    > Leads up to heaven, is both the way and guide;<br />
+    > Bear with me then, if lawful what I ask—<br />
+    > Love not the heavenly spirits? and how their love<br />
+    > Express they? by looks only, or do they mix<br />
+    > Irradiance, virtual or immediate touch?
+    >
+    > <span class="attribution">--- Jothol Nimn, "Elisii Forfeit" <!-- John Milton, Paradise Lost --><span>
+
+    > Beauty is nothing but the beginning of terror
+    >
+    > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
+
+summary: The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
 
 intro: |
-    TODO intro
+
+    All the light and color has long since been slicked out of this realm: the ground is a desert of black pebbles and the stars, they say, were plucked from the Macula's now-empty sky to adorn crowns and capes of the Oriels. All that punctuates the blank are curling towers and palaces, gleaming like jewels scattered in ash, and in each of these a microcosm of fantasy blossoms in which the Oriels---alien and fractal and shatteringly striking beings---mould their minds and bodies in the pursuit of visceral beauty.
+
+    Some Oriels seek an objective beauty, constructed according to elegant geometric proofs laid out for all to see, but beauty of course is an experience that unfolds in the beholder, and so Oriels warp and transfigure themselves in order to behold ever more esoteric and intense experiences of beauty, inventing philosophies and bodies and states of mind to inhabit. Others pursue beauty outside their own selves, in the breeding of outlandish creatures, or in sexual pursuits, or in the invention of musical structures, mathematical theories, languages and scripts and social experimentations that rival those of REF[the Brink](CGP). No natural light suffuses the Macula, and so even vision is an act of Oriel agency: the harnessing of light here is a universal art, one that provides another axis along which Oriels distinguish, judge, and focus their efforts.
+
+    No other lamina channels the gales of REF[Creation] to greater effect,^[Perhaps one could make an argument that, in it's own much smaller and focused way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
+
+    Far beyond the ornate clusters of Oriel abodes REF[laminal](laminals) titans are occasionally found wandering slowly in the blackness. Oriels avoid them and could report little to this visitor except to note one distant feature: <gpt>a mighty mountain split evenly down its center. On one side of this mountain reportedly stands a gorgeous and luminescent woman eternally chiseling the stone into perfect statues of the most beautiful figures. The other half is populated by those statuesque giants who end their meanderings here lusting after her, and in doing so their bodies and minds slowly deform and harden.</gpt>
+
 ---
 
 <!--
@@ -26,22 +45,25 @@ what's the point?
 - beauty is complicated - objective/subjective, dependent/disinterested, etc.
 - hyper-sensitivity to relative power/beauty, judgment, shame -> incredible beauty
 - sacrifice in its pursuit
+- beauty is in the whole experience of it
 -->
 
-The Slender is a slick dark gleaming realm of all the aspirations of beauty of the multiverse. All of the light and color has been slicked out of this realm in the service of the creation of beauty---the ground is blank and even the stars, they say, were plucked out of the black sky to adorn the fantastical crowns and capes of the Reals. All that punctuates the landscape are the curling towers and palaces licking the sky, in which Reals endlessly meld their minds and bodies in the pursuit of beauty.
+more quotes:
 
-This is a place of self-made beauty. For those petitioners that arrive not blessed with beauty, they may shape themselves accordingly or bear the honor of being transmuted into materials for those more worthy of the substance.
-
+- "There is no exquisite beauty… without some strangeness in the proportion" Edgar Allen Poe
+- "Nothing is beautiful and true." Jonathan Safran Foer
 
 - name
-	- The Bauble
-	- The Crenellation
+	- The Macula
 - demonym
+	- Oriels
 - environment
 	- pebbly black desert and blank sky since in the past all resources in environment were used? even the stars plucked out of the sky to decorate. so everything stands out even more
 	- no weather or seasons
 	- no light
 - culture
+	- nowhere channels Creation more focusedly - the islet conservatory does it very carefully to great effect, and CGP do in their own cycles, but wow this place
+	- Like Barbarella society, decadent
 	- dark eldar
 	- bottom x% constantly sacrificed/transmuted? LEP too
 		- can choose to be sacrificed OR transmuted into some more beautiful form (grotesque ish)
@@ -54,8 +76,8 @@ This is a place of self-made beauty. For those petitioners that arrive not bless
 	- light bearing is a thing, cause it's pitch dark otherwise
 	- experiment with their lives to change conceptions of beauty
 	- perfection enforced by punishment from judges?
-	- constructed according to elegant mathematical proofs that are visible for all to see
 	- beautiful and warped beings
+      + fashionable to sculpt one's bodies into unusual shapes via highly specific and well known exercises <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
 
 info gathering
 
@@ -71,7 +93,7 @@ info gathering
 	- https://en.wikipedia.org/wiki/Lookism
 	- https://en.wikipedia.org/wiki/Processing_fluency_theory_of_aesthetic_pleasure
 - elements
-	- looking for the chosen one
+	- looking for the chosen one - and then what?
 	- mirroring/doppelgangering
 	- sex
 	    + sex ed: everyone tries everything and then chooses what they're into
@@ -79,16 +101,10 @@ info gathering
 	- caste systems signaled by fashion and mannerisms
 	- sexual proclivities replace other tribal markers and are increasingly fractured
 	- many sex partners but only one friend, good form to break up before making another, cheating, etc. (some kind of power-couple thing)
-    - "Rather than classical "good health," fashionable people sculpt their bodies into interesting shapes with the help of highly specific and commonly-performed exercises prescribed by regimen-planning software." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
 	- Keynesian beauty contest? yeah i mean who is judging
-    - UP NEXT: GO THROUGH ABSTRACT CONCEPTS then carry on with Procedure
-    	- read beauty wiki too
 - notes
-	- Like Barbarella society, decadent
-	- nowhere channels Creation more focusedly - the islet conservatory does it very carefully to great effect, and CGP do in their own cycles, but wow this place
 	- "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239
-	- "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475
-	- <gpt>A mighty mountain is split evenly down its center, and on one side stands a gorgeous woman eternally chiseling the stone into perfect statues of the most beautiful men and women. The other half is populated by statuesque giants who lust after her, and in doing so their bodies and minds slowly deform and harden.</gpt>
+	- interaction with cardinals? "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475
 - research notes
 	- beauty = "pleasurable to perceive"
 	- beauty is transcendental
@@ -130,5 +146,7 @@ everything has been harnessed but these have not yet been used cause they're har
 ## History
 
 ## Rumors & Mysteries
+
+a colorful past
 
 ## GM notes

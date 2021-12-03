@@ -30,7 +30,7 @@ you can choose to sleep there forever
 
 - name
 - demonym
-	+ Limns
+	+ Limns <-- but NGP?
 	+ Reveries
 	+ Whorls
 - environment

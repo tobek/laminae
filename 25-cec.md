@@ -2,8 +2,14 @@
 
 ---
 subtitle: Autonomy Power Creation CEC
-#quote: |
-#    > TODO(find intro quote)
+quote: |
+    > <div class="choose-one-child">
+    > Why do you want to persecute yourself with the question of where all this is coming from and where it is going? Since you know, after all, that you are in the midst of transitions and you wished for nothing so much as to change. If there is anything unhealthy in your reactions, just bear in mind that sickness is the means by which an organism frees itself from what is alien; so one must simply help it to be sick, to have its whole sickness and to break out with it, since that is the way it gets better.
+    >
+    > Everything is blossoming most recklessly; if it were voices instead of colors, there would be an unbelievable shrieking into the heart of the night.
+    > </div>
+    >
+    > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 summary: A dazzling and hideous jungle in which everything blossoms and transforms and regenerates unpredictably. To its children, the Florets, it is a paradise garden for endless play within the forgiving embrace of their Mother.
 intro: |
     The dazzling, hideous garden that is the Bloom shelters and nurtures its children, the Florets, who frolic perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with the pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
@@ -33,6 +39,8 @@ Inanimate objects resist the Bloom, but there are few truly inanimate things her
 Many aspects of this realm are exquisitely beautiful. This visitor stumbled into a dark forest clearing padded with spectacularly iridescent moss varying in large geometric patterns, though the area was suffused with a sweet and metallic odor, the strength of which rendered it powerfully unpleasant. Often after a heavy rain fungi bloom with unbelievable diversity, in tiny clusters and enormous thickets, neon lattice skirts and crystalline parasols tottering on thread-like stalks, curtainous silk gills, intricate honeycombs, opalescent glistening, needle-bristling, singing and bursting from above and below. The efforts of Florets too, while often juvenile or demented or lost in the intricacies of clique humor, can be just as spectacular: petal-crafted battalion banners, vine-woven tree forts, and elaborate self-flagellation contraptions.
 
 MEDIA("Henry Hudson - 16:00 - 18:00.jpg")
+
+TODO(shift between different henry hudson images?)[]
 
 ### Swells
 
