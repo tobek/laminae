@@ -45,6 +45,7 @@
     <tr><td>Autonomy</td><td>REF[Facets](facets#autonomy)</td></tr>
     <tr><td>Balancers</td><td>REF[LND](lnd#balancers)</td></tr>
     <tr><td>Bearing the Consonance</td><td>REF[NGP](ngp#bearing-the-consonance)</td></tr>
+    <tr><td>Before the Blank</td><td>REF[LEC](lec#before-the-blank)</td></tr>
     <tr><td>Behemoths</td><td>REF[CEP](cep#behemoths)</td></tr>
     <tr><td>Bell, The</td><td>REF[NGC](ngc)</td></tr>
     <tr><td>Bleachers</td><td>REF[LND](lnd#bleachers)</td></tr>
@@ -59,6 +60,7 @@
     <tr><td>Cartography, The</td><td>REF[NNP](nnp)</td></tr>
     <tr><td>Choosing a Sanctum</td><td>REF[NGC](ngc#choosing-a-sanctum)</td></tr>
     <tr><td>Chords</td><td>REF[LNC](lnc#chords)</td></tr>
+    <tr><td>Cleave, The</td><td>REF[LEC](lec#the-cleave)</td></tr>
     <tr><td>Cleft, The</td><td>REF[NGP](ngp#the-cleft)</td></tr>
     <tr><td>Cloudburst</td><td>REF[NGC](ngc#cloudburst)</td></tr>
     <tr><td>Coliseum, The</td><td>REF[NNP](nnp#the-coliseum)</td></tr>
@@ -69,6 +71,7 @@
     <tr><td>Cooking</td><td>REF[CND](cnd#cooking)</td></tr>
     <tr><td>Cosmography</td><td>REF[Cosmography](cosmography)</td></tr>
     <tr><td>Creation</td><td>REF[Facets](facets#creation)</td></tr>
+    <tr><td>Creation Eddies</td><td>REF[LEC](lec#creation-eddies)</td></tr>
     <tr><td>Crystallization</td><td>REF[CND](cnd#crystallization)</td></tr>
     <tr><td>Decomposing Buried Treasure</td><td>REF[CND](cnd#decomposing-buried-treasure)</td></tr>
     <tr><td>Demigods</td><td>REF[CND](cnd#demigods)</td></tr>
@@ -78,6 +81,7 @@
     <tr><td>Echo Plateau, The</td><td>REF[LNC](lnc#the-echo-plateau)</td></tr>
     <tr><td>Emissaries</td><td>REF[NGP](ngp#emissaries)</td></tr>
     <tr><td>Empathy</td><td>REF[Facets](facets#empathy)</td></tr>
+    <tr><td>Ensnarement</td><td>REF[LEC](lec#ensnarement)</td></tr>
     <tr><td>Equilibrium</td><td>REF[Facets](facets#equilibrium)</td></tr>
     <tr><td>Extent in Space</td><td>REF[NNP](nnp#extent-in-space)</td></tr>
     <tr><td>Extent in Time</td><td>REF[NNP](nnp#extent-in-time)</td></tr>
@@ -99,6 +103,7 @@
     <tr><td>Golden Sound, The</td><td>REF[NGC](ngc#the-golden-sound)</td></tr>
     <tr><td>Golden Spine, The</td><td>REF[NGC](ngc#the-golden-spine)</td></tr>
     <tr><td>Gorol</td><td>REF[CEP](cep#gorol)</td></tr>
+    <tr><td>Growing Numb</td><td>REF[LEC](lec#growing-numb)</td></tr>
     <tr><td>Guilds</td><td>REF[LNC](lnc#guilds)</td></tr>
     <tr><td>Hedonic Tides</td><td>REF[CGP](cgp#hedonic-tides)</td></tr>
     <tr><td>Hero Utterly, The</td><td>REF[LGD](lgd#the-hero-utterly)</td></tr>
@@ -110,15 +115,19 @@
     <tr><td>Illusion of Insight, The</td><td>REF[NGC](ngc#the-illusion-of-insight)</td></tr>
     <tr><td>Inevitability, The</td><td>REF[CND](cnd)</td></tr>
     <tr><td>Instrument, The</td><td>REF[LND](lnd)</td></tr>
+    <tr><td>Instrumentalists</td><td>REF[LEC](lec#instrumentalists)</td></tr>
     <tr><td>Inter-Narration</td><td>REF[NGP](ngp#inter-narration)</td></tr>
     <tr><td>Islet Conservatory, The</td><td>REF[CEC](cec#the-islet-conservatory)</td></tr>
     <tr><td>Islet, The</td><td>REF[CEC](cec#the-islet)</td></tr>
+    <tr><td>Judgment</td><td>REF[LEC](lec#judgment)</td></tr>
     <tr><td>Kalon Intentions</td><td>REF[NGC](ngc#kalon-intentions)</td></tr>
     <tr><td>Kindling and Wind Shifter sentience, The</td><td>REF[LNC](lnc#the-kindling-and-wind-shifter-sentience)</td></tr>
     <tr><td>Knot, The</td><td>REF[CEP](cep)</td></tr>
     <tr><td>Laminae</td><td>REF[Cosmography](cosmography#laminae)</td></tr>
     <tr><td>Laminals</td><td>REF[Cosmography](cosmography#laminals)</td></tr>
     <tr><td>Language</td><td>REF[CND](cnd#language)</td></tr>
+    <tr><td>Libertines</td><td>REF[LEC](lec#libertines)</td></tr>
+    <tr><td>Light-Bearing</td><td>REF[LEC](lec#light-bearing)</td></tr>
     <tr><td>Limn Communication</td><td>REF[NGP](ngp#limn-communication)</td></tr>
     <tr><td>Listeners</td><td>REF[LND](lnd#listeners)</td></tr>
     <tr><td>Loss of Knowledge</td><td>REF[CND](cnd#loss-of-knowledge)</td></tr>
@@ -136,6 +145,7 @@
     <tr><td>Motive</td><td>REF[Facets](facets#motive)</td></tr>
     <tr><td>Narrative Language</td><td>REF[NGP](ngp#narrative-language)</td></tr>
     <tr><td>Nimble’s Bazaar</td><td>REF[CGP](cgp#nimbles-bazaar)</td></tr>
+    <tr><td>Observatories</td><td>REF[LEC](lec#observatories)</td></tr>
     <tr><td>Odysseys</td><td>REF[NGP](ngp#odysseys)</td></tr>
     <tr><td>Opposite Day</td><td>REF[CGP](cgp#opposite-day)</td></tr>
     <tr><td>Orators</td><td>REF[NGC](ngc#orators)</td></tr>
@@ -158,6 +168,7 @@
     <tr><td>Political Dissolution</td><td>REF[CND](cnd#political-dissolution)</td></tr>
     <tr><td>Power</td><td>REF[Facets](facets#power)</td></tr>
     <tr><td>Procession’s Path, The</td><td>REF[CND](cnd#the-processions-path)</td></tr>
+    <tr><td>Progenitors</td><td>REF[LEC](lec#progenitors)</td></tr>
     <tr><td>Promenade of Congruities</td><td>REF[LNC](lnc#promenade-of-congruities)</td></tr>
     <tr><td>Rainways</td><td>REF[CGP](cgp#rainways)</td></tr>
     <tr><td>Recursiveness</td><td>REF[NNP](nnp#recursiveness)</td></tr>
@@ -172,6 +183,7 @@
     <tr><td>Sanctuaries</td><td>REF[CGP](cgp#sanctuaries)</td></tr>
     <tr><td>Scaffold</td><td>REF[LNC](lnc#scaffold)</td></tr>
     <tr><td>Scaffold’s Collapse, The</td><td>REF[LNC](lnc#the-scaffolds-collapse)</td></tr>
+    <tr><td>Sculpting</td><td>REF[LEC](lec#sculpting)</td></tr>
     <tr><td>Seekers</td><td>REF[LND](lnd#seekers)</td></tr>
     <tr><td>Sky Mirror</td><td>REF[NGP](ngp#sky-mirror)</td></tr>
     <tr><td>Skyreaches</td><td>REF[CGP](cgp#skyreaches)</td></tr>
@@ -182,12 +194,16 @@
     <tr><td>Spoiled Food</td><td>REF[CND](cnd#spoiled-food)</td></tr>
     <tr><td>Spurious Insight</td><td>REF[CGP](cgp#spurious-insight)</td></tr>
     <tr><td>Staircase, The</td><td>REF[CEP](cep#the-staircase)</td></tr>
+    <tr><td>Stratification</td><td>REF[LEC](lec#stratification)</td></tr>
+    <tr><td>Subservience to Beauty</td><td>REF[LEC](lec#subservience-to-beauty)</td></tr>
     <tr><td>Supplication</td><td>REF[LGD](lgd#supplication)</td></tr>
     <tr><td>Swells</td><td>REF[CEC](cec#swells)</td></tr>
     <tr><td>Synthesis</td><td>REF[Facets](facets#synthesis)</td></tr>
     <tr><td>Tableau</td><td>REF[NNP](nnp#tableau)</td></tr>
+    <tr><td>Theorists</td><td>REF[LEC](lec#theorists)</td></tr>
     <tr><td>Tillers</td><td>REF[CND](cnd#tillers)</td></tr>
     <tr><td>Timekeeping</td><td>REF[LND](lnd#timekeeping)</td></tr>
+    <tr><td>Transmutation of the Ill-Favored</td><td>REF[LEC](lec#transmutation-of-the-ill-favored)</td></tr>
     <tr><td>Tremors</td><td>REF[LND](lnd#tremors)</td></tr>
     <tr><td>Truthfulness</td><td>REF[NGP](ngp#truthfulness)</td></tr>
     <tr><td>Tutelary Council</td><td>REF[NGC](ngc#tutelary-council)</td></tr>
@@ -196,6 +212,7 @@
     <tr><td>Universal Story, The</td><td>REF[NGC](ngc#the-universal-story)</td></tr>
     <tr><td>Unnoticed Feud, The</td><td>REF[LNC](lnc#the-unnoticed-feud)</td></tr>
     <tr><td>Utility</td><td>REF[Facets](facets#utility)</td></tr>
+    <tr><td>Veiled Oases</td><td>REF[LEC](lec#veiled-oases)</td></tr>
     <tr><td>Verges</td><td>REF[Cosmography](cosmography#verges)</td></tr>
     <tr><td>Visitors</td><td>REF[LGD](lgd#visitors)</td></tr>
     <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>

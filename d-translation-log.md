@@ -14,9 +14,13 @@ hide_toc: True
 
 ## The 221st Year L.C.
 
+#### The Third of the Twelth
+
+The introduction and outline of REF[the Macula](LEC) have been translated. A note on one of these pages marked a quotation as intended to preface the chapter on REF[the Bloom](CEC).
+
 #### The Twenty-Sixth of the Eleventh
 
-A stray note describing "REF[verges](verges)" has been found, translated, and inserted into the Cosmography chapter.
+A stray note describing "REF[verges]" has been found, translated, and inserted into the Cosmography chapter.
 
 #### The Eighth of the Eleventh
 
@@ -24,7 +28,7 @@ This log, beginning with notable past milestones, has been added and will be upd
 
 A REF[Translator's Note](translators-note) has also been added.
 
-The introduction and outline of REF[The Braid](NGP) has been translated.
+The introduction and outline of REF[the Braid](NGP) have been translated.
 
 #### The Twenty-Third of the Tenth
 

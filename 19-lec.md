@@ -3,8 +3,26 @@
 ---
 subtitle: Hierarchy Power Creation LEC
 intro_only: True
-hide_toc: True
-<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+post_intro_only: |
+
+    <div class="choose-one-child">
+    <div class="choose-one-child">
+    MEDIA("Alberto del Pozo - Deities of Afro-Cuban Santería - 1.png")
+    MEDIA("Alberto del Pozo - Deities of Afro-Cuban Santería - 8.png")
+    </div>
+    <div class="choose-one-child">
+    MEDIA("Aubrey Beardsley - A Suggested Reform in Ballet Costume.jpg")
+    MEDIA("Aubrey Beardsley - Salome - The Black Cape.jpg")
+    </div>
+    <div class="choose-one-child">
+    MEDIA("Yoshitaka Amano - Biten - Lunar Ark.jpg")
+    MEDIA("Yoshitaka Amano - Biten - Ranpo.jpg")
+    MEDIA("Yoshitaka Amano - Hiten - Riding the Snake.jpg")
+    </div>
+    <div class="choose-one-child">
+    MEDIA("Yoshitaka Amano - Hiten - Riding the Snake.jpg")
+    </div>
+    </div>
 
 quote: |
 
@@ -21,7 +39,7 @@ quote: |
     >
     > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 
-summary: The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
+summary: The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling, spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
 
 intro: |
 
@@ -31,7 +49,7 @@ intro: |
 
     No other lamina channels the gales of REF[Creation] to greater effect,^[Perhaps one could make an argument that, in it's own much smaller and focused way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
 
-    Far beyond the ornate clusters of Oriel abodes REF[laminal](laminals) titans are occasionally found wandering slowly in the blackness. Oriels avoid them and could report little to this visitor except to note one distant feature: <gpt>a mighty mountain split evenly down its center. On one side of this mountain reportedly stands a gorgeous and luminescent woman eternally chiseling the stone into perfect statues of the most beautiful figures. The other half is populated by those statuesque giants who end their meanderings here lusting after her, and in doing so their bodies and minds slowly deform and harden.</gpt>
+    Far beyond the ornate clusters of Oriel abodes REF[laminal](laminals) titans are occasionally found wandering slowly in the blackness. Oriels avoid them and could report little to this visitor except to note a distant feature known as the Cleave: <gpt>a mighty mountain split evenly down its center. On one side of this mountain reportedly stands a gorgeous and luminescent woman eternally chiseling the stone into perfect statues of the most beautiful figures. The other half is populated by those statuesque giants who end their meanderings here lusting after her, and in doing so their bodies and minds slowly deform and harden.</gpt>
 
 ---
 
@@ -62,22 +80,17 @@ more quotes:
 	- no weather or seasons
 	- no light
 - culture
-	- nowhere channels Creation more focusedly - the islet conservatory does it very carefully to great effect, and CGP do in their own cycles, but wow this place
-	- Like Barbarella society, decadent
+	- Barbarella decadence
 	- dark eldar
 	- bottom x% constantly sacrificed/transmuted? LEP too
 		- can choose to be sacrificed OR transmuted into some more beautiful form (grotesque ish)
 	- led by the most beautiful
 	- varying standards of beauty, some impenetrable to outsiders
 	- celebrating masculine vs feminine vs other - various categorizations?
-	- different forms of beauty
-		- pursuit of mathematical beauty?
-		- writing scripts
-	- light bearing is a thing, cause it's pitch dark otherwise
+	- different forms of beauty (math, music, etc)
+	- light bearing
 	- experiment with their lives to change conceptions of beauty
 	- perfection enforced by punishment from judges?
-	- beautiful and warped beings
-      + fashionable to sculpt one's bodies into unusual shapes via highly specific and well known exercises <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
 
 info gathering
 
@@ -102,6 +115,8 @@ info gathering
 	- sexual proclivities replace other tribal markers and are increasingly fractured
 	- many sex partners but only one friend, good form to break up before making another, cheating, etc. (some kind of power-couple thing)
 	- Keynesian beauty contest? yeah i mean who is judging
+        - https://en.wikipedia.org/wiki/Keynesian_beauty_contest
+        - "It is not a case of choosing those [faces] that, to the best of one's judgment, are really the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees."
 - notes
 	- "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239
 	- interaction with cardinals? "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475
@@ -118,18 +133,43 @@ info gathering
 	- narcissus - character and flower, "i grow numb" interesting
 		- "there is no clarity on whether a flower is named for the myth or the myth for the flower, or if there is any true connection at all"
 		- "Pliny the Elder wrote that the plant was named for its fragrance (ναρκάω narkao, 'I grow numb'), not the youth."
+    - "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters
 
 ## Environment
 
-~
+### Creation Eddies
 
 ## Culture & Paradigm
 
-~
+### Sculpting
+
+via highly specific exercises
+
+### Stratification
+
+#### Judgment
+
+#### Subservience to Beauty
+
+#### Transmutation of the Ill-Favored
+
+### Light-Bearing
+
+### Observatories
+
+they scan the multiverse for beauty
 
 ## Visiting
 
-~
+probably not actually that safe... if you don't match them (which basically no visitors do) then they won't care for your safety at all.
+
+and some visitors get sucked in siren style
+
+something omitted for it would not reflect well upon this visitor?
+
+### <dfn no-index>Protection</dfn>
+
+### Ensnarement
 
 ## Locations
 
@@ -139,14 +179,28 @@ untapped, latent oases?
 
 everything has been harnessed but these have not yet been used cause they're hard to find. they're really cool
 
+### The Cleave
+
 ## Figures & Groups
 
-## Festivals & Traditions
+### Libertines
 
-## History
+opposite from CGD - two visions of sex
+
+### Instrumentalists
+
+### Theorists
+
+### Progenitors
+
+those that breed creatures
+
+<!-- ## Festivals & Traditions -->
 
 ## Rumors & Mysteries
 
+### Before the Blank
+
 a colorful past
 
-## GM notes
+### Growing Numb

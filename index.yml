@@ -143,10 +143,12 @@ Autonomy Utility:
 
 Hierarchy Power:
 
-    '◍◍○○○○ Hierarchy Power Creation (LEC)':
-        name:
-        demonym:
+    '●◍◍○○○ Hierarchy Power Creation (LEC)':
+        link: true
+        name: The Macula
+        demonym: Oriels
         summary: |
+            The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
 
     '◍○○○○○ Hierarchy Power Equilibrium (LEP)':
         name:

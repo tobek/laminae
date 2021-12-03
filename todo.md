@@ -89,10 +89,14 @@ tiny back arrow??
 
 # backburner chunks
 
-- do something with all the quote authors?
-    + like place them in the work, maybe put them in index, etc. certainly vectors guy, maybe rilke
+- quotation stuff
+    + do something with all the quote authors?
+        * like place them in the work, maybe put them in index, etc. certainly vectors guy, maybe rilke
     + explain in frame where they come from? like "i have collected these from..." maybe some are mortals, some petitioners, some are historical, some the author knew, etc.
+    + what connects quotes to laminae, just inspiration?
 - music
+- neighborly relations, e.g. LEC and LNC might get along
+    + any time they differ by one facet (or more really), the "what each facet thinks of the other" comes into play
 
 # Sections
 
@@ -220,7 +224,7 @@ might not need elemental planes - no prob not
     + LNC glass ocean i guess flows from NNC into some huge plateau or else it must travel maybe a river through LNP and maybe LND
     + LGD pavilions could be cliff-edge
     + CND could drop through
-    + LEC could have panopticons from their peaks (could do this anyway but magically)
+    + LEC could have panopticons from their peaks (could do this anyway but magically) scouring for beauty
 
 **contiguous geography cons**
 
@@ -234,8 +238,8 @@ might not need elemental planes - no prob not
     + LNC surrounded by ocean
         * architects transit across?
         * flat platuea?
-    + some (only LNP so far? maybe CNC, maybe LEC) don't have ground sky - it's all ground
-        * CNC and LEC could both be underground
+    + some (only LNP so far? maybe CNC) don't have sky - it's all ground
+        * CNC and/or others could both be underground
     + the crevasse - could just be a wall or mountain range around the whole thing, OR there is actually a top
         * the wall could be a D plane, no "other side" stuff
     + CEC is flat too? guess it could be a gentle slope
@@ -677,6 +681,8 @@ data-facet= (added when processing REFs) and :after content
 
 ### shifting and gpt3
 
+should they change whenever they go out of viewport view too?? yes! but only if enough time has passed, so you can't game it by just scrolling up and down. also, if no movement for a long long time (no scroll, no change in visibility) then change once. maybe timer for visibility change too so you can't game that. you have to leave it open and come back. and maybe a (50%?) chance that it simply doesn't
+
 aspects
 
 - guild terms/burmese/unfinished titles changing
@@ -724,6 +730,8 @@ dunno maybe each should be changing, generate a ton of examples with GPT3. but l
 - multi-image ones?
 - style matching
     + .9 opacity on all? maybe makes them too pale. transparency vignette? filter?
+    + like LEC... something is lost =(
+    + confirm mobile tap is okay
 - photoshop
     + "Michael Hutter - Carcosa XXXIV" remove buildings
     + "Floto+Warner - Colourant - orange" eh
@@ -733,14 +741,20 @@ dunno maybe each should be changing, generate a ton of examples with GPT3. but l
 
 ### management
 
-figure out ideal directory structure/system for everything
+*before i figure this out need to figure out trinyms, filenames, ordering laminae, etc*
+
+there are currently images in "used" with names different from the ones in "possible", and edited too. "used" supercedes. also currently there are some tagged ones in "possible" which aren't in their folders, but just copying naively would duplicate
+
+ideal directory structure/system for everything
+
+-
 
 export pinterest?
 
 divvying up script (should be idempotent):
 
 - delete all the folders
-- iterate through every trinym and copy each into each
+- iterate through every trinym and copy (nested but not into trinym folders?) each into each
 - used ones have been copied into "used" but later when removed from "possible" this would delete them
 
 current process for using an image:

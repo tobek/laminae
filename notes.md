@@ -74,9 +74,14 @@ can i add tension and mystery? what makes the reader what to keep reading?
     + capitalize alignments
     + capitalize in-plane groups and places like Scaffold, Procession, Patterners, Tillers
     + capitalize "The" article in plane names? have been NOT, e.g. "the Netherlands" or "the Levant" (although "The Hague" why?)
-        * doing so is a little pretentious?
-        * note that wiki doesn't link the "the" in "the Netherlands"
-        * the gambia, the bahamas, other examples: https://www.businessinsider.com/why-ukraine-isnt-the-ukraine-and-why-that-matters-now-2013-12
+        * definitely don't capitalize "the". research:
+            * offically you capitalize "the" if it's part of the name of the thing, e.g. The New York Times, the move The Untouchables, etc. but for others e.g. the Rockies, the Beatles, the Thames, the Orkneys, the United Kingdom, the Strand, the Bronx, the Hamptons - you don't
+            * doing so is a little pretentious?
+        * linking
+            - wiki doesn't link the "the" in "the Netherlands" - nor does the guardian. that's cause the name of the country is "netherlands". same with the Philippines, not linked, not part of the name. doesn't link in the thames bit it does include "the" in its topic page
+            - but does in "the Bronx"
+            - so far have been, will continue for now - it's in the title of each page, so
+            - if so, should nbsp them or else the tooltip is dumb, or TODO make the tooltip handle this somehow
     + prime? so far yes for both Prime planes and Primes as being, Prime-wards, etc.
 
 ## Grammatical person
@@ -369,16 +374,19 @@ steam -> rust and/or ground glass
     - brainstorm splurge
     - organize, edit
 - TOC
+- Finalize quotes
+- Add images
 - *once done*
+    + release any ideas that no longer fit (remove trinym from notes)
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
     + update progress (md and index.yml)
     + update all.md and index.yml
     + update homepage TOC
     + comment out from rand.js
     + remove name from homepage TOC filler
-    + update glossary and index
-    + update changelog
+    + update translation log
 - Read again, organize notes
+- Publish
 
 ### Foci (high-ish priority?)
 
@@ -469,7 +477,6 @@ TODO go through evil sketch
 unused ones can just be particular places
 
 - in the clouds of a gas giant - built on trees that take root?
-    - maybe LEC is just floating palaces in endless haze
 - incredibly loud, but quiet eye of the storm in the middle
 - huge building constructed with a single piece of gossamer fabric
 - More extreme weather and how it effects culture - like it always rains, but weirder
@@ -507,7 +514,6 @@ unused ones can just be particular places
     + "mark ferrari - spyro- eternal night - icetemple01b"
 - Cofferdam (enclosure in a body of water - huge)
 - Smoke
-- Black desert (and its oases!) (maybe CNP, or CEC if nothing else) LEC
 - Murals
 - endless black/white tiles
 - Literal walled garden that exemplifies issues with metaphorical walled gardens?
@@ -529,18 +535,20 @@ unused ones can just be particular places
     + Storms
     + single infinite wall
     + Endless river delta
+    + Black desert (and its oases!)
 
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
 - <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt>
 - "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239 (maybe LEC)
+- interaction with cardinals? "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475 LEC?
 - "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761
 - Audience independent utterance - the idealization of
 - Emotional etc content of micro actions? (NGP?)
 - "a massive chunk of the things that alarm suburbanites about being in an urban environment are solved in totality by adopting the city dweller's habit of simply declining to perceive things that are none of your fucking business" https://twitter.com/cakesandcourage/status/1462919432330752006 - somewhere where this flows naturally, maybe LEP?
 - some place where you can peer through the looking glass of "what if" moments in your own life
-- caste systems (LND? LEC LEP)
+- caste systems (LND? LEC LEP) mentioned in LEC and in TOC but doesn't have to be major there
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
 - "That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped." - https://mobile.twitter.com/gods_txt/status/1456321077710241792 LED NED
@@ -592,6 +600,7 @@ unused ones can just be particular places
     + Elemental forces (where?)
     + unusual language element
     + "Rather than classical "good health," fashionable people sculpt their bodies into interesting shapes with the help of highly specific and commonly-performed exercises prescribed by regimen-planning software." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
+    + Keynesian beauty contest
 
 ### Abstract Concepts
 
@@ -682,8 +691,6 @@ unused ones can just be particular places
     - Black hole (maybe in CNP or CEP)
     - https://en.wikipedia.org/wiki/Chirality_(physics)
     - https://en.wikipedia.org/wiki/Bekenstein_bound (limit on amount of info in finite region)
-- https://en.wikipedia.org/wiki/Keynesian_beauty_contest
-    - "It is not a case of choosing those [faces] that, to the best of one's judgment, are really the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees."
 - Pantropy: modifying being to suit its environment (opposite of terraforming)
 - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
 - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NEP, NED, LED)
@@ -762,7 +769,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "Nothing that comes at the right time for you is too early or too late for me. Everything is fruit to me that your seasons bring, Nature." (marcus aurelius stoicism paraphrase) (CEC? NGC)
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
-- "Any material object which can give us pleasure in the simple contemplation of its outward qualities without any direct and definite exertion of the intellect, I call in some ways, or in some degree, beautiful." - Ruskin, Modern Painters vol i, chapter 6 (LNC or LEC maaaybe but not great)
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
 - "Beautiful and terrible things will happen. Don't be afraid." ― Frederick Buechner CGP? NGC
 - rilke quote about god coming
@@ -1379,6 +1385,8 @@ BUT DO I WANT THEM?
 - Blood War
 
 # Idea credits
+
+- Sculpting one's body via unusual exercises https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z
 
 # template
 

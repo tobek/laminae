@@ -331,7 +331,7 @@ Ben Sack art?
 
 ## Hierarchy Power Dissolution LED
 
-elaborate weavers of personalized, creative curses (curses could be LEC)
+elaborate weavers of personalized, creative curses
 
 Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
 

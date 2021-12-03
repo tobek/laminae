@@ -113,7 +113,7 @@ Various troupes focus on plans gone awry, but political dissolution in particula
 
 Unravellers here specialize in individual cultures and kingdoms^[As is so often the case here, that expertise is sought out by visitors and gladly shared.] and enact targeted political traumas against them: framed assassinations and thefts, provoked ceasefire violations, sabotaged negotiations, tweaked documents and maps, betrayals small and large triggering everything from internal conflict in a familial dynasty to the collapse of entire civilizations.
 
-TODO(connect with LEC?)[]
+TODO(connect with LED?)[]
 
 ### Failed Enchantments
 
