@@ -180,7 +180,7 @@ from https://www.mmtimes.com/news/top-10-myanmar-proverbs.html
     + bell duh
     + maybe NGD cathartic ritual
 
-    descriptive moral relativism holds only that people do, in fact, disagree fundamentally about what is moral, with no judgment being expressed on the desirability of this. Meta-ethical moral relativism holds that in such disagreements, nobody is objectively right or wrong. Normative moral relativism holds that because nobody is right or wrong, everyone ought to tolerate the behavior of others
+> descriptive moral relativism holds only that people do, in fact, disagree fundamentally about what is moral, with no judgment being expressed on the desirability of this. Meta-ethical moral relativism holds that in such disagreements, nobody is objectively right or wrong. Normative moral relativism holds that because nobody is right or wrong, everyone ought to tolerate the behavior of others
 
 i don't think her position should be that "no one is right or wrong"... but then what?
 
@@ -342,10 +342,13 @@ steam -> rust and/or ground glass
 
 ### Think about for each/Procedure
 
+GET WEIRD
+
 - What's the point?
 - Research
-- Search trinym, as well as YXX, XYX, and XXY
+- Search trinym (globally), as well as YXX, XYX, and XXY
 - Read through foci and everything, list candidates
+- Look up quotes on relevant topics
 - Environment
     + Landscape
     + Seasonality
@@ -398,10 +401,11 @@ TODO go through evil sketch
 
 23 of them!
 
+- terrapin (is it an archive/library/museum or more sensorium? could be both)
 - something pretty futuristic, but not described as such
 - they worship a god who is crazy but they love it
-- war? a thousand-mile-wide battlefield populated by warring soldiers from every era throughout history
-- something where everything is like a play, or all interactions are formulaic - NGD?
+- war? a thousand-mile-wide battlefield populated by warring soldiers from every era throughout history XEX
+- something where everything is like a play, or all interactions are formulaic - NGP or NGD?
     + greek stock characters/jungian archetypes etc
     + and/or where you are assigned a ritual role in a play, and learning that role is therapeutic - NGC?
         * Like thinking about how an actor with a very short role might still deeply flesh out history and mindset of char to play it well. It goes deeper
@@ -411,17 +415,17 @@ TODO go through evil sketch
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
     + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
     + LEX? maybe LEC
-    + rilke quote
+    + rilke quote (?)
 - society that glamorizes maintenance instead of creation? LGP
-- death?
-- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. CGD? sounds more like NGD or NND or NED or LED or LND.
+- death? CGD
+- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. CGD? sounds more like NGD or NND or NED or LED or LND. - and then how it heals
 - two planes that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
     - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
     - CED
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
-- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED or NED? NGD you join for ritual. prob LED or at least NED cause it requires a system to sustain itself. all else fails could be on CNP
+- Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED or NED? NGD you join for ritual. prob LED or at least NED cause it requires a system to sustain itself. all else fails could be on CNP. what about CGD? brackish swamp
     - if not "hoping to find the end" then would be XXP
     - interesting stuff about maintaining morale on endless journey, does that work with finding the end? i guess some could give up, maybe there are some scattered communities
     - generation ship aspect needs inhospitability of space vs spaceship vs finding a planet, so this would need something like that, caravan provides something
@@ -431,13 +435,14 @@ TODO go through evil sketch
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
     + maybe weirdly LGC? NGD, CGD, LEC, LEP, NEC, CEP, CNC, CGC
     + *definitely NGD if nothing else* - maybe CEP
+    + do you learn from it? does it scare you?
 - saying yes vs. saying no
     + LND or CNP is no?
-    + both are in NEC?
+    + CNC and CNP make a good yes/no pair
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
-    - maybe this is in cosmology, someone went to exactly 2 planes and then said the above, lead the way into there being more - CNC vs CNP
+    - maybe this is in cosmography, someone went to exactly 2 planes and then said the above, lead the way into figuring out about there being more - CNC vs CNP
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
-- Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
+- Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in) could be NGD or CGD too
 - All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC
     - https://twitter.com/TylerAlterman/status/1453671384186564610
     - "Something the whole ocean is doing"
@@ -456,8 +461,9 @@ TODO go through evil sketch
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
         * "Belgium offers a lesson in stability through chaos. Even its demise would be serene. It is the world’s most successful failed state."
         * https://www.economist.com/europe/2021/06/24/belgitude-the-art-of-belgian-zen
-- transportation: they'll take you anywhere, ferriers, psychopomps
+- transportation: they'll take you anywhere, ferriers, psychopomps (could go with generation ship, "come aboard, we're going where you're going")
 - secret society so secret and/or went wrong such that no one could get back into it (LND?)
+- two (or more) totally separate societies (NED war + ritual athletes?)
 - used
     + incredible beauty
     + https://en.wikipedia.org/wiki/Rotation_method
@@ -495,7 +501,7 @@ unused ones can just be particular places
 - Gothic architecture
 - Endless castle/palace LEP
 - Maze LED
-- (Traveling) Carnival (is this CND already) - maybe some in NGD
+- (Traveling) Carnival (is this CND already) - maybe some in NGD or CGD
     - "Other common features of carnival include mock battles such as food fights; expressions of social satire; mockery of authorities; costumes of the grotesque body that display exaggerated features such as large noses, bellies, mouths, phalli, or elements of animal bodies; abusive language and degrading acts; depictions of disease and gleeful death; and a general reversal of everyday rules and norms."
     - in Roman Saturnalia, masters and slaves feasted together, or masters provided table service for slaves, also a time for free speech where slaves could say anything
 - Cemetery/necropolis (same as prison plane?)
@@ -509,7 +515,7 @@ unused ones can just be particular places
     + moon gate
     + moss lawn
 - Orchard
-- Something like a space habitat
+- Something like a space habitat (LND?)
 - Like a temple space station with galaxy backdrop, see one of the Philippe Druillet pics
     + "mark ferrari - spyro- eternal night - icetemple01b"
 - Cofferdam (enclosure in a body of water - huge)
@@ -522,7 +528,7 @@ unused ones can just be particular places
     - sour, citrus, bitter, pine, vanilla, ash, resin
 - Everything is black and white - maybe CED? or NNP. or... LGC or LGP?
     - (except visitors and their stuff? what about their stuff left behind?)
-- stelae (carved stone slabs) maybe in CNP
+- stelae (carved stone slabs) maybe in CNP or NGD
 - *eremia* "a solitude, an uninhabited region, a waste," from *erēmos* "uninhabited, empty, desolate, bereft," from PIE *\*erem-* "to rest, be quiet"
 - Medieval illuminated manuscripts
     - both the overaching style, and them as actual objects in the place
@@ -540,6 +546,8 @@ unused ones can just be particular places
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
+- the conception of perfection. (look up quotes?)
+    + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
 - <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt>
 - "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239 (maybe LEC)
 - interaction with cardinals? "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475 LEC?
@@ -547,12 +555,12 @@ unused ones can just be particular places
 - Audience independent utterance - the idealization of
 - Emotional etc content of micro actions? (NGP?)
 - "a massive chunk of the things that alarm suburbanites about being in an urban environment are solved in totality by adopting the city dweller's habit of simply declining to perceive things that are none of your fucking business" https://twitter.com/cakesandcourage/status/1462919432330752006 - somewhere where this flows naturally, maybe LEP?
-- some place where you can peer through the looking glass of "what if" moments in your own life
+- some place where you can peer through the looking glass of "what if" moments in your own life. CNC? CGC? eh
 - caste systems (LND? LEC LEP) mentioned in LEC and in TOC but doesn't have to be major there
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
-- "That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped." - https://mobile.twitter.com/gods_txt/status/1456321077710241792 LED NED
-- No decisions except gut ones during ceremonies. Very elaborate, no time to scheme. More authentic. They facilitate this method for mortals. Like Dune emperor emissary delivers decree, obey or disobey on the spot, only way to cut through (and assess loyalty, and instinct). the sufis "believe that deep intuition is the only real guide to knowledge". human computer. fluency before understanding (quote?). NGP if nowhere else
+- "That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped." - https://mobile.twitter.com/gods_txt/status/1456321077710241792 LED NED or even CNP
+- No decisions except gut ones during ceremonies. Very elaborate, no time to scheme. More authentic. They facilitate this method for mortals. Like Dune emperor emissary delivers decree, obey or disobey on the spot, only way to cut through (and assess loyalty, and instinct). the sufis "believe that deep intuition is the only real guide to knowledge". human computer. fluency before understanding (quote?). NGP if nowhere else, but could be LXX
 - https://twitter.com/chaosprime/status/1458552157179887621 - grokking, you have to understand your enemy to defeat them, and when you understand them you love them. also you need to love them to hate them. NND?
 - "bats can hear shapes. plants can eat light. bees can dance maps. we can hold all these ideas at once and feel both heavy and weightless with the absurd beauty of it all." - https://twitter.com/gnonymus/status/1457089729539842050
 - Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this?
@@ -563,6 +571,7 @@ unused ones can just be particular places
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP, NED, LED
     + maybe some other perception issue
+    + the "three perfections" - a poet, a calligrapher, and a painter, for chinese artwork. multiple sense-missing people get together to create something
 - someone who has one squad each of blind, deaf, numb, untasting/unsmelling guards. (maybe the deaf ones close by, so the villain can converse privately. maybe the blind ones near all the entrances). or rather guilds, each petitioner must relinquish one sense. maybe NND, LEP
 - some 3-headed god represents C/P/D all in one? (a simple farmer, 3 headed, 6 armed, see Dattatreya?) but it's a sham. where?
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
@@ -573,7 +582,7 @@ unused ones can just be particular places
 - "Somewhere in the ocean hundreds of miles north of the Shirerithian mainland there is a mountainous arctic island upon which thrives an emergent oracular techno-theocracy that calls itself the Shining Garden of Raikoth. Its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too wear the spiral."
 - sexual proclivities replace other tribal markers and are increasingly fractured
 - many sex partners but only one friend, good form to break up before making another, cheating, etc.
-- someone or a group famous for making works of art that convince the viewer to commit suicide. (you must be interviewed first and it's tailored?) (CGP if nowhere else - LED NED)
+- someone or a group famous for making works of art that convince the viewer to commit suicide. (you must be interviewed first and it's tailored?) (CGP if nowhere else - CGD LED NED)
 - exaltation of poverty
 - exercise: weirdtopia: pick a topic, imagine a utopia and dystopia on that topic, then think what weirdtopia would be (appealing but orthogonal)
     + requirement that everyone go through some kind of educational gauntlet (like the sexual weirdtopia at <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#nbGkPXNEDm856igNg>)
@@ -583,7 +592,7 @@ unused ones can just be particular places
         + "Yearly presidents are chosen at random. (couldn't be worse than our current system) The catch is that the person chosen to be the leader has absolutely no idea that they are the leader. They are followed around and monitored, and anything uttered resembling a decree is put into action if it doesn't violate the constitution. The decrees are only put into place after their term expires so they don't catch on. Quick decision-making such as treaties are wars are left up to a streamlined unicameral legislative body."
     + "Because of the end of scarcity, the economic roles of production and consumption have switched; wealth is now acquired by consuming, and producers pay consumers to use their goods or services. The right to make something is highly coveted and prestigious, and producing without a customer is illegal and severely punished." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#gkAPnw9FmXn8ZHSPo>
     + there is some oracle that knows what's "best" for every action in its domain - you're free to listen to it or not. "Everyone is free to listen to The Computer or not, but you know that your decision would be less efficient for accomplishing your goals. Such rebellions are useless, however, because The Computer's prediction capabilities include whether or not you will take its advice, and it acts accordingly to make sure you get the best results anyway."
-- symbiotic creatures groom and pick things off you, but not physical stuff, something else, emotional/dreams too easy, but they live off of it? there's some efficiency here. don't stay too long or it's too much?
+- symbiotic creatures groom and pick things off you, but not physical stuff, something else, emotional/dreams too easy, but they live off of it? there's some efficiency here. don't stay too long or it's too much? CGD and it's sexual? very intimate. inside a flower
 - seeking out a state of "unknowing"
     + 'all thoughts and desires under a "cloud of forgetting," and thereby piercing God's cloud of unknowing with a "dart of longing love" from the heart... "For He can well be loved, but he cannot be thought." ... "And so I urge you, go after experience rather than knowledge"'
     + https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing
@@ -635,8 +644,8 @@ unused ones can just be particular places
     - progenitor (saturn, gaia)
     - king/queen of the gods
     - cosmic man (adam)
-    - "liminal deity" (presiding over transitions, thresholds, crossers of boundaries) CNC?
-    - psychopomps (creatures, spirits, angels, or deities in many religions whose responsibility is to escort newly deceased souls from Earth to the afterlife)
+    - "liminal deity" (presiding over transitions, thresholds, crossers of boundaries) CNC? CGD?
+    - psychopomps (creatures, spirits, angels, or deities in many religions whose responsibility is to escort newly deceased souls from Earth to the afterlife) CGD
     - dying-and-rising, resurrection
     - divine twins
     - triple deity
@@ -644,7 +653,7 @@ unused ones can just be particular places
     - world tree
     - death or departure of (all the) gods
     - multiple gods being combined into one in order to merge disparate faiths
-- https://en.wikipedia.org/wiki/Four_causes - material, formal, moving, purpose - NNC and/or LND
+- https://en.wikipedia.org/wiki/Four_causes - material, formal, moving, purpose - NNC and/or LND or LNP
 - Jungian archetypes - universal organizing themes or patterns that appear regardless of space, time, or person. Limitless, but notable ones:
     - archetypal events: birth, death, separation from parents, initiation, marriage, the union of opposites, etc.
     - archetypal figures: great mother, father, child, devil, god, the shadow (one's darker side), wise old man, wise old woman, the maiden, the trickster, the hero, etc.
@@ -703,7 +712,7 @@ unused ones can just be particular places
         - 1) prevented from engaging in wanted activity, 2) when we are forced to engage in unwanted activity, or 3) when we are simply unable for some other reason to maintain engagement in an activity
 - "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better
 - "Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168 LEP?
-- "Liberalism means chaos; Conservatism means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 XXP?
+- "Liberalism [forwards] means chaos; Conservatism [backwards] means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not [there are no] philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 XXP? CXX? NXX. NEP?
 - done
     + physics - entropy and 2nd law of thermodynamics (done - CND)
 
@@ -729,44 +738,38 @@ LOOK THROUGH HEADSOAK QUOTES
 
 LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 
-- "What goes too long unchanged destroys itself. The forest is forever because it dies and dies and so lives." — Ursula Le Guin (XXP)
 - "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq
 - "Only children and the stupid seek both cause and effect in the same story" - Nasrudin, as related by Idries Shah
 - "Fluency before understanding, discipline before imagination"
 - "If you try and go against réalité... Réalité will surely crush you. Réalité will kill you. And réalité will continue to go on az if not'ing ever happened... From yesterday to today, and from today to tomorrow. Réalité marchez on... Leaving your crushed body behind..." - Harle
 - "What is better: to be born good, or to overcome your evil nature through great effort?" - Paarthurnax, Skyrim
-- "Beauty is an unalloyed good, a good until itself. Likewise strength." - Zero HP Lovecraft
 - "The first principle is that you must not fool yourself, and you are the easiest person to fool"
 - "We are our choices"
-- "The first draft is just you telling yourself the story." - Terry Pratchett
+- "The first draft is just you telling yourself the story." - Terry Pratchett (NGD)
 - 'That mountain you've been carrying, you were only suppose to climb'
 - “I understand there's a guy inside me who wants to lay in bed, smoke weed all day, and watch cartoons and old movies. My whole life is a series of stratagems to avoid and outwit that guy.” - Anthony Bourdain
-- 'Today is the oldest you've ever been in your life and the youngest you'll ever be again'
-- As Robert Louis Stevenson wrote, “There are no foreign lands. It is the traveler only who is foreign.”
 - "Look, the minute everybody in the room agrees with you, you’re in a bad place, so I’m a big believer in change just for its own sake, just to show that you *can* change, to move forward incrementally, but ain’t [no one person] gonna make everything better." Anthony Bourdain
 - Maori chants?
 - hakim bey TAZ
     + "chaos is the sum of all orders" hakim bey, p41
     + ‎"the architecture of suffocation and paralysis will be *blown up* only by our total celebration of everything---even darkness" hakim bey p42
     + “Chaos comes before all principles of order & entropy, it's neither a god nor a maggot, its idiotic desires encompass & define every possible choreography, all meaningless aethers & phlogistons: its masks are crystallizations of its own facelessness, like clouds. ”
-- “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum (NND, NGD, CGD)
+- “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum (NND, CGD, *NEP*, NED)
 - “Mamá sabía ser alegre. Mamá sabía ser temerosa. Mamá sabía olvidar fácilmente. Y, sin embargo tenía buena memoria. Mamá me daba con la puerta en la narices, y sin embargo, me admitía en su baño. A veces mamá se me perdía, pero su instinto me encontraba. Cuando yo rompía vidrios, mamá ponía la masilla. A veces se instalaba en el error, aunque a su alrededor hubiera sillas suficientes. Aun cuando se encerraba en sí misma, para mí siempre estaba abierta. Temía las corrientes de aire y sin embargo no paraba de levantar el viento. Gastaba, y no le gustaba pagar impuestos. Yo era el revés de su medalla. Cuando mamá jugaba corazones ganaba siempre. ” ― Günter Grass, El Tambor De Hojalata (CEC?)
 - Just had a dream where I was a protagonist named Jim. Jim knew that after death, part of Jim's patron god would become a copy of Jim, remember being Jim. But Jim figured that had nothing to do with him. Dead was dead. / Woke up, realized Jim was right and I was Jim's patron god. - https://twitter.com/St_Rev/status/1085079881627643904
 - "A taker likewise is an order taker. These are different than market makers and market takers, which make and take markets, but may take or make orders. On the AirSwap Network, you may take the role of maker or taker." LNP if there is some market element? LND somehow?
 - "It no more is than it is not or it both is and is not or it neither is nor is not." -- Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views <https://en.wikipedia.org/wiki/Pyrrho>
 - "You'd have to stand a very long time at the top of a mountain before a cooked goose flies into your mouth."
 - "A transition from an author’s book to his conversation, is too often like an entrance into a large city, after a distant prospect. Remotely, we see nothing but spires of temples and turrets of palaces, and imagine it the residence of splendour, grandeur and magnificence; but when we have passed the gates, we find it perplexed with narrow passages, disgraced with despicable cottages, embarrassed with obstructions, and clouded with smoke." -- Dr. Samuel Johnson; The Rambler, No. 14 (5 May 1750)
-- "An amazing creative solution has to obey at least one law, the criterion that makes it a "solution".  It's the one box you can't step outside: No optimization without goals." -- <http://www.lesswrong.com/posts/KKLQp934n77cfZpPn/lawful-creativity> then "The pleasant shock of witnessing Art arises from the constraints of Art - from watching a skillful archer send an arrow into an exceedingly narrow target."
+- "An amazing creative solution has to obey at least one law, the criterion that makes it a "solution".  It's the one box you can't step outside: No optimization without goals." -- <http://www.lesswrong.com/posts/KKLQp934n77cfZpPn/lawful-creativity> then "The pleasant shock of witnessing Art arises from the constraints of Art - from watching a skillful archer send an arrow into an exceedingly narrow target." LNC?
 - "And from billions of these bubbles within bubbles are all the beasts and baubles of the world composed." GEB (NNC)
 - "modest expectations, remorselessly fulfilled" https://www.theguardian.com/news/2017/nov/24/how-the-sandwich-consumed-britain
 - "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html
 - "he has grasped the falsity of the hedonistic attitude to life. Nearly all western thought since the last war, certainly all “progressive” thought, has assumed tacitly that human beings desire nothing beyond ease, security and avoidance of pain. In such a view of life there is no room, for instance, for patriotism and the military virtues. The Socialist who finds his children playing with soldiers is usually upset, but he is never able to think of a substitute for the tin soldiers; tin pacifists somehow won’t do. Hitler, because in his own joyless mind he feels it with exceptional strength, knows that human beings don’t only want comfort, safety, short working-hours, hygiene, birth-control and, in general, common sense; they also, at least intermittently, want struggle and self-sacrifice, not to mention drums, flags and loyalty-parades. However they may be as economic theories, Fascism and Nazism are psychologically far sounder than any hedonistic conception of life. The same is probably true of Stalin’s militarized version of Socialism. All three of the great dictators have enhanced their power by imposing intolerable burdens on their peoples. Whereas Socialism, and even capitalism in a more grudging way, have said to people “I offer you a good time,” Hitler has said to them “I offer you struggle, danger and death,” and as a result a whole nation flings itself at his feet." - George Orwell review of Mein Kampf, 1940 - LGC? and/or LGP vs CGP has to deal with this. LEP tho?
-- "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP? LEP?)
+- "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP? LEP?) [a society that perfects the art of making people feel unnecessary will crumble]
 - "Ideally, if anything were any good, it would be indescribable." - Edward Gorey (CGC CNC)
 - Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC? NEC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
-- mutantur omnia nos et mutamur in illis - All things change, and we change with them (CNC? CGC? NGD)
-- "Nothing that comes at the right time for you is too early or too late for me. Everything is fruit to me that your seasons bring, Nature." (marcus aurelius stoicism paraphrase) (CEC? NGC)
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
@@ -774,16 +777,16 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - rilke quote about god coming
     + Why don’t you think of him as the one who is coming, who has been approaching from all eternity, the one who will someday arrive, the ultimate fruit of a tree whose leaves we are? What keeps you from projecting his birth into the ages that are coming into existence, and living your life as a painful and lovely day in the history of a great pregnancy? Don’t you see how everything that happens is again and again a beginning, and couldn’t it be His beginning, since, in itself, starting is always so beautiful? If he is the most perfect one, must not what is less perfect precede him, so that he can choose himself out of fullness and superabundance? Must he not be the last one, so that he can include everything in himself, and what meaning would we have if he whom we are longing for has already existed?
     + As bees gather honey, so we collect what is sweetest out of all things and build Him. Even with the trivial, with the insignificant (as long as it is done out of love) we begin, with work and with the repose that comes afterward, with a silence or with a small solitary joy, with everything that we do alone, without anyone to join or help us, we start Him whom we will not live to see, just as our ancestors could not live to see us. And yet they, who passed away long ago, still exist in us, as predisposition, as burden upon our fate, as murmuring blood, and as gesture that rises up from the depths of time.
-- "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke - CGP?
+- "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke - CGP? NGD
 - "I am circling around God, around the ancient tower, and I have been circling for a thousand years, and I still don't know if I am a falcon, or a storm, or a great song." rilke - CGC
 - "I am the rest between two notes which are somehow always in discord." rilke - CEP?
 - "Shattered people are best represented by bits and pieces." rilke
 - chaucer metal quote from saturn or bloody mars stuff (in quotes.txt)
-- "Should you shield the canyons from the windstorms you would never see the true beauty of their carvings." ― Elisabeth Kübler-Ross NGP NGD CGD
+- "Should you shield the canyons from the windstorms you would never see the beauty of their carvings." ― Elisabeth Kübler-Ross NGP NGD CGD
 - James Richardson
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
-        - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGD, CGD)
-        - 273. You who have proved how much like me you are: how could I trust you? (NGD, CGD)
+        - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGP, CGD)
+        - 273. You who have proved how much like me you are: how could I trust you? (CGD)
     - James Richardson, Vectors 2.0: More Aphorisms and Ten-Second Essays
         - 17. When all agree, so does the Devil.
         - 148. Billions of years, the dust hasn't settled. Water's still seeking its own level.
@@ -791,7 +794,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 8. When it gets ahead of itself, the wave breaks.
         - 25. The knife likes to think of itself as a mirror.
         - 21. Nothing important comes with instructions. (NGC?)
-        - 42. For those who tread lightly enough the air is a stair.
         - 62. The fire doesn’t know where all that smoke came from.
         - 70. For Sisyphus the trouble of pushing the rock uphill was worth it for the thrill of watching it smash everything on the way down.
         - 84. Of course I’m an escapist. I’m trying to get somewhere real.
@@ -799,15 +801,16 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 108. Those so thorough you cannot in mercy ask them to do anything. Those so empathetic it is cruel to tell them a trouble.
         - 111. Don’t touch, don’t stare. But no one minds how hard you listen.
         - 122. Our resolutions for self-control are like our wars for peace. (NGC?)
-        - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP?)
+        - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP? CGD?)
         - 140. When you think in words, are you sure it’s your own voice you hear?
-        - 170. Closing a door very gently, you pull with one hand, push with the other. (NGD, NNC)
+        - 170. Closing a door very gently, you pull with one hand, push with the other. (NGP, CGD, NNC)
 - used
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
     + 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins
     + 91. If you make rules only you can win by, they will play by other rules
     + paradise lost angel sex
+    + "Beauty is an unalloyed good, a good until itself. Likewise strength." - Zero HP Lovecraft
 
 Whereto the almighty answered, not displeased.
 A nice and subtle happiness I see
@@ -830,10 +833,6 @@ All the unaccomplished works of nature's hand,
 Abortive, monstrous, or unkindly mixed,
 Dissolved on earth, fleet hither, and in vain,
 Till final dissolution, wander here,
-Not in the neighbouring moon, as some have dreamed;
-Those argent fields more likely habitants,
-Translated saints, or middle spirits hold
-Betwixt the angelical and human kind...
 ---corrupt nature in the void that travesties God's creation, PL Book III 455-62
 
 Incensed with indignation, Satan stood
@@ -1418,6 +1417,7 @@ what's the point?
 - demonym
 - environment
 - culture
+- cardinal interaction
 
 info gathering
 

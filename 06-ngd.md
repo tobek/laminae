@@ -17,10 +17,12 @@ summary: TODO
 <!--
 the point:
 
-- how to know what to move on from
+- how to know what to move on from and when
 - how to move on
 - the joy of letting go
 -->
+
+vs CGD and vs NGP
 
 HUMOR: just laughing at it. ayy lmao
 
@@ -31,8 +33,6 @@ Sacrificers: bring something you are done with or want to get rid of (or celebra
 Blissful letting go. But the thing you are forced to let go of is rarely the thing you came to let go of.
 
 Land of peaceful mystic nomads, who every X amount of time ritualistically destroy everything they have built up and move on to another place?
-
-could be generation ship, they hope to find "the end"
 
 Graveyard?
 
@@ -47,43 +47,68 @@ Graveyard?
     + The Marrow
 - demonym
 	+ Alters
-	+ Grips
-	+ Knots
+	+ Grips (CEP)
+	+ Knots (CEP name)
 	+ Ligands/Ligates
 	+ Mercies
 	+ Pyreans (maybe CGP apeiron, maybe LGD)
 	+ Tides
-- quotes search NGD
-- they sometimes appear to mortals - in what form?
-	+ the house burned down that relieved a burden, etc.
-- doppelganger - you see yourself and are compelled to...
-- TODO example ceremonies
-	+ petitioner listens, you walk, it's beautiful
-	+ solo time, dark night of the soul, it's beautiful
-	+ bring something
-		* burn it
-		* sink it
-		* eulogize it?
-		* memorialize it
-	+ bloodletting, scarification
-	+ like the Midsommar screaming one
-	+ you put a construct on a pedestal and sing its praises and then smash it - graveyard of empty pedestals
-		* maybe higher impact: you're in a makeshift room with the pedestal, and aftewards the walls are let down and you see all the other empty pedestals. and then you smash it?
-- somewhat dangerous?
-- tattooed and weird petitioners?
-- kinda punk
-- enviro
+- quotes
+	- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
+	- "Should you shield the canyons from the windstorms you would never see the beauty of their carvings." ― Elisabeth Kübler-Ross NGP NGD CGD
+	- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
+	- "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke - CGP? NGD
+- environment
 	+ underwater? mm moss
 	+ floating islands (submerged?)
 	+ surface of water (no, NEC dreams has claim to that)
 	+ graveyard
 	+ very windy?
 	+ space habitat, temple w galaxy backdrop
-- everyone missing a sense - why?
-- bloodletting ceremony, maybe summoning, transformation, intense experience
-- darkly absurdist?
-- apophatic, describing by what it's not
-- author surely discovered something here
+	+ trees in clouds of gas giant
+	+ flower kings no ground is known, sunset
+	+ murals?
+	+ stelae?
+- culture
+	- fuck your burn?
+	- somewhat dangerous?
+	- tattooed and weird petitioners?
+	- kinda punk
+	- laughter
+	- TODO example ceremonies
+		+ petitioner listens, you walk, it's beautiful
+		+ solo time, dark night of the soul, it's beautiful
+		+ bring something
+			* burn it
+			* sink it
+			* eulogize it?
+			* memorialize it
+		+ bloodletting, scarification
+		+ like the Midsommar screaming one
+		+ you put a construct on a pedestal and sing its praises and then smash it - graveyard of empty pedestals
+			* maybe higher impact: you're in a makeshift room with the pedestal, and aftewards the walls are let down and you see all the other empty pedestals. and then you smash it?
+- cardinal interaction
+	- they sometimes appear to mortals - in what form?
+		+ the house burned down that relieved a burden, etc.
+	- darkly absurdist?
+
+info gathering
+
+- questions
+- future research
+- elements
+	- doppelganger - you see yourself and are compelled to...
+	- everyone missing a sense - why?
+	- bloodletting ceremony, maybe summoning, transformation, intense experience
+	- apophatic, describing by what it's not
+	- something where everything is like a play, or all interactions are formulaic - NGD?
+	- glitch? understanding how it breaks
+	- generation ship, they hope to find "the end" - or LED or NED
+	- travelling carnival?
+- notes
+	- author surely discovered something here
+- research notes
+
 
 ## Environment
 

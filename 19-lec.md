@@ -43,11 +43,11 @@ summary: The Macula is a pitch-dark blank realm where every shred of light and s
 
 intro: |
 
-    All the light and color has long since been slicked out of this realm: the ground is a desert of black pebbles and the stars, they say, were plucked from the Macula's now-empty sky to adorn crowns and capes of the Oriels. All that punctuates the blank are curling towers and palaces, gleaming like jewels scattered in ash, and in each of these a microcosm of fantasy blossoms in which the Oriels---alien and fractal and shatteringly striking beings---mould their minds and bodies in the pursuit of visceral beauty.
+    All the light and color has long since been slicked out of this realm: the ground is a desert of black pebbles and the stars, they say, were plucked from the Macula's now-empty sky to adorn crowns and capes of the Oriels. Curling towers and palaces punctuate the blankness, gleaming like jewels scattered in ash, and in each of these a microcosm of fantasy blossoms in which the Oriels---alien and fractal and shatteringly striking beings---mould their minds and bodies in the pursuit of visceral beauty.
 
     Some Oriels seek an objective beauty, constructed according to elegant geometric proofs laid out for all to see, but beauty of course is an experience that unfolds in the beholder, and so Oriels warp and transfigure themselves in order to behold ever more esoteric and intense experiences of beauty, inventing philosophies and bodies and states of mind to inhabit. Others pursue beauty outside their own selves, in the breeding of outlandish creatures, or in sexual pursuits, or in the invention of musical structures, mathematical theories, languages and scripts and social experimentations that rival those of REF[the Brink](CGP). No natural light suffuses the Macula, and so even vision is an act of Oriel agency: the harnessing of light here is a universal art, one that provides another axis along which Oriels distinguish, judge, and focus their efforts.
 
-    No other lamina channels the gales of REF[Creation] to greater effect,^[Perhaps one could make an argument that, in it's own much smaller and focused way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
+    No other lamina TODO(what about CNC?)[] channels the gales of REF[Creation] to greater effect,^[Perhaps one could make an argument that, in it's own much smaller and focused way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
 
     Far beyond the ornate clusters of Oriel abodes REF[laminal](laminals) titans are occasionally found wandering slowly in the blackness. Oriels avoid them and could report little to this visitor except to note a distant feature known as the Cleave: <gpt>a mighty mountain split evenly down its center. On one side of this mountain reportedly stands a gorgeous and luminescent woman eternally chiseling the stone into perfect statues of the most beautiful figures. The other half is populated by those statuesque giants who end their meanderings here lusting after her, and in doing so their bodies and minds slowly deform and harden.</gpt>
 
@@ -80,6 +80,7 @@ more quotes:
 	- no weather or seasons
 	- no light
 - culture
+    - "Beauty is an unalloyed good, a good until itself. Likewise strength." - Zero HP Lovecraft
 	- Barbarella decadence
 	- dark eldar
 	- bottom x% constantly sacrificed/transmuted? LEP too
@@ -91,6 +92,7 @@ more quotes:
 	- light bearing
 	- experiment with their lives to change conceptions of beauty
 	- perfection enforced by punishment from judges?
+	- some ageplay thing?
 
 info gathering
 

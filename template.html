@@ -759,10 +759,18 @@ $endif$
   }
   cycleChosenChildren();
 
+  var shiftTimeout;
   document.addEventListener("visibilitychange", function() {
+    if (shiftTimeout) {
+      clearTimeout(shiftTimeout);
+      shiftTimeout = undefined;
+    }
     if (document.visibilityState === "hidden") {
-      cycleGuild();
-      cycleChosenChildren();
+      shiftTimeout = setTimeout(function() {
+        cycleGuild();
+        cycleChosenChildren();
+        shiftTimeout = undefined;
+      }, 5000);
     }
   }, false);
 

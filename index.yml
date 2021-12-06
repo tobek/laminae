@@ -32,16 +32,17 @@ Synthesis Empathy:
 
     '●◍◍○○○ Synthesis Empathy Creation (NGC)':
         link: true
-        name: The Epiphany?
-        demonym:
+        name: The Bell
+        demonym: Kalons
         summary: |
-            Self-improvement? Keepers of the "universal story". Is the insight real, or is it the feeling of insight. They're insufferable, but you can't blame them. Pilgrimages and crowds. How can so many experience it without infinite queues? Everyone should experience it but it's so cringe some people never will. They try to optimize this but can't? Or no, do they evangelize or no? maybe they don't but others do. Some struggle here, in the way that IJ is a struggle against addictiveness. goal is to motivate one to do better. this place should be beautiful, like the mechanical monk image
+            Beautiful, storm-drenched mountains inhabited by the keepers of the "Universal Story," an indescribably transformative experience which they offer to visitors and continually seek to perfect.
 
     '●◍◍○○○ Synthesis Empathy Equilibrium (NGP)':
+        link: true
         name: The Braid
         demonym: Limns
         summary: |
-            Empathy, restorative justice and problem solving, past reverb (the Consonance)
+            Rugged and serene badlands inhabited by the complex, inscrutable Limns, who bring quarreling mortals here in reverie to forge empathy in the light of a natural phenomenon known as the Consonance, in which you witness in the actions of others a flash of the entire history of happenstance that leads up to their present.
 
     '◍◍○○○○ Synthesis Empathy Dissolution (NGD)':
         name:
@@ -59,10 +60,11 @@ Autonomy Empathy:
             Pure experience/observation is all that's possible
 
     '●◍◍○○○ Autonomy Empathy Equilibrium (CGP)':
+        link: true
         name: The Brink
         demonym: Apeirons
         summary: |
-            Rivalry with LGP, believe suffering and risk of failure is required for happiness. Burnt out minds and exultant savants, psychedelic natural disasters tearing and regenerating the landscape. Burning manish
+            Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
 
     '◍○○○○○ Autonomy Empathy Dissolution (CGD)':
         name:
@@ -78,7 +80,7 @@ Hierarchy Utility:
         name: The Unfolding
         demonym: Architects
         summary: |
-            Artists and engineers that freely architect all the most famous constructions in existence. Will work with anyone on any project - all things, irrespective of emotional or moral content, are opportunities for commemoration, challenge, creation, and beauty. Islands tended to by Patterners split and join to create archipelagos and continents spread across the Glass Ocean, where the enormous automaton Wind Shifters interlock and glide across empty waters.
+            Artists and engineers that have architected all of the most famous constructions in existence, original copies of which fill archipelagos that spread across the Glass Ocean, where the enormous automaton wind shifters interlock and glide across empty waters.
 
     '◍◍○○○○ Hierarchy Utility Equilibrium (LNP)':
         name: The Essentialism
@@ -91,26 +93,26 @@ Hierarchy Utility:
         name: The Instrument
         demonym: Moilers
         summary: |
-            OCD to its most extreme. Different factions OCD about different things, and cities built around them, e.g. cleaning things to the bone/disintegration, or smoothing until nothing remains, or analysis until meaninglessness, or repetition until nonsense
+            The labyrinthine interior of a colossal automaton, the outside of which never been seen. The Instrument is tended to by the Moilers, whose culture has lost its knowledge of the automaton's purpose and operation, and as a result have devolved into industrious paranoia and neurosis.
 
 
 Synthesis Utility:
 
     '●◍◍○○○ Synthesis Utility Creation (NNC)':
+        link: true
         name: The Asymmetry
         demonym: Grains
         summary: |
-            Sculptors + research/exploration in order to predict how their sculptures/creations can nudge everything towards some kind of balance, keeping endless ledgers of outcomes and future adjustments needed. Everything ever made was made here in its prototypical form?
+            An endless cliff face, with no known ground or top or sides, into which the Grains have quarried for aeons as they craft and sculpt and adjust essential creations for introduction into cardinal worlds.
 
     '●◍◍○○○ Synthesis Utility Equilibrium (NNP)':
         link: true
         name: The Cartography, The Exhibition, The Testimony
         demonym:
         summary: |
-            Entire multiverse laid out like endless chess set, everything recreated in 1-to-1 scale in grayscale, nothing ever moving. For every instant in time, this plane contains one complete copy reality of occupying the full space it requires. This makes it really really hard to find anything, because every physical location is represented by an infinite number of snapshots of it over time, but if you can find anything, you can study a specific moment with limitless time and attention, even the future.
+            A lifeless and lethally suffocating expanse that contains every moment of every location in the multiverse, frozen and duplicated here in shades of grey.
 
     '◍◍◍○○○ Synthesis Utility Dissolution (NND)':
-        link: true
         name: The Lucidity
         demonym: Precepts
         summary: |
@@ -138,7 +140,7 @@ Autonomy Utility:
         name: The Inevitability
         demonym: Unravellers
         summary: |
-            Basically an embodiment of the second law of thermodynamics. They are the mechanism by which the multiverse ensures that entropy always increases. They organize into collectives around particular domains of entropy - rotting food, aging, combustion, political dissolution, broken furniture, romantic miscommunication, decomposing buried treasure, etc.
+            An otherwise-empty wasteland graced by the exuberant and chaotic Procession in which Unravellers joyously manifest the forces of entropy, that universal and implacable slide from order into disorder. Troupes each pursue their own flavors of entropy: rotting food, aging, combustion, romantic miscommunication, broken furniture, political dissolution, and myriad others.
 
 
 Hierarchy Power:
@@ -192,13 +194,14 @@ Autonomy Power:
         name: The Bloom
         demonym: Florets
         summary: |
-            Pestilence garden full of children "playing". Anything brought here, even (especially) living things, will eventually blossom and transform hideously.
+            A dazzling and hideous jungle in which everything blossoms and transforms and regenerates unpredictably. To its children, the Florets, it is a paradise garden for endless play within the forgiving embrace of their Mother.
 
     '●◍◍○○○ Autonomy Power Equilibrium (CEP)':
+        link: true
         name: The Knot
         demonym: Grips
         summary: |
-            Ouroboros - filled with giant ouroboros crashing through landscape eating everything and themselves. Inhabitants routinely eat themselves, but some force suffuses the place that makes everything regenerate?
+            Possibly the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
 
     '◍○○○○○ Autonomy Power Dissolution (CED)':
         name:

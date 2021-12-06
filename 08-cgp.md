@@ -5,11 +5,21 @@ subtitle: Autonomy Empathy Equilibrium CGP
 intro_only: True
 post_intro_only: MEDIA("Leonora Carrington - The Juggler.jpg")
 quote: |
+    > <div class="choose-one-child">
+    > <div>
     > Nothing is lost<br>
     > Nothing is created<br>
     > Everything is transformed
     >
     > <span class="attribution">--- Etianon Relovisia TODO(too conservation-of-mass-ish? is that what they're about)[] <!-- Antoine Lavoisier --></span>
+    > </div>
+    >
+    > <div>
+    > What goes too long unchanged destroys itself. The forest is forever because it dies and dies and so lives.
+    >
+    > <span class="attribution">--- Saluru El Ugin <!-- Ursula Le Guin --></span>
+    > </div>
+    > </div>
 summary: Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
 intro: |
 

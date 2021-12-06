@@ -10,11 +10,12 @@ quote: |
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 
 summary: Beautiful, storm-drenched mountains inhabited by the keepers of the "Universal Story," an indescribably transformative experience which they offer to visitors and continually seek to perfect.
+
 intro: |
 
     The Bell is frustrating to describe, for all that try resort to superlatives that ring true only for those who have also witnessed it, but which fall embarrassingly flat on the ears of those who have not. It is a startlingly beautiful place. Storm-brushed cliffs and forests roll in the golden half-light of an unpredictable sun spilling through dark clouds, washing the landscape and its many shrines in the sharp glow of déjà vu. The Kalons who reside here are keepers of the "Universal Story," and each creates a sanctuary devoted to elaborating and retelling this story. The Universal Story is the Kalons' gift of empathy, insight, and equanimity to the multiverse, which they offer with a quiet humility totally unlike the rapturous praise of those who experience it.
 
-    Visitors are invited to spend a month sealed ritually alone in a sanctum of their choice, reading and experiencing the Universal Story as manifested by one Kalon. The story may take the form of a tremendous illuminated tome in an empty hall, or a gallery of hundreds of sculptures covered in fine inscriptions, or a huge temple whose every surface holds intricate mosaics, or all of these at once. A visitor must remain alone with the work until the sound of a bell welcomes them back to the world.
+    Visitors are invited to spend a month sealed ritually alone in a sanctum of their choice, reading and experiencing the Universal Story as manifested by one Kalon. The story may take the form of a tremendous illuminated tome in an empty hall, or a gallery of hundreds of sculptures covered in fine inscriptions, or a huge temple whose every surface holds intricate mosaics, or all of these at once. A visitor must remain alone with the work until the sound of a bell welcomes them back to the golden rain of the world outside.
 
     The Universal Story is a kaleidoscopic mirror: from one angle you see the story of your childhood, from another the great foundational myth of your culture, and from another your dreams and fears, all woven into a coherent whole with overwhelming fidelity and insight. In every vicissitude of joy and despair and beauty the story seems written personally for each reader, placating impossible questions and imparting a framework for approaching one's life and its challenges with serenity and purpose. It is tiresome but wholly warranted to describe this with such confidence. It is no exaggeration to say, despite having approached it with reluctance and all the cynicism of one who had heard its virtues extolled ad nauseam by every past traveller, that undergoing this experience has been the most significant event of this visitor's life, and is in many ways responsible for the creation of the work which you now read.
 ---
@@ -30,6 +31,8 @@ intro: |
 	+ attracts posers, who make far more noise than the source
 
 -->
+
+old notes from index: They're insufferable, but you can't blame them. Pilgrimages and crowds. How can so many experience it without infinite queues? Everyone should experience it but it's so cringe some people never will. They try to optimize this but can't? Or no, do they evangelize or no? maybe they don't but others do. Some struggle here, in the way that IJ is a struggle against addictiveness. goal is to motivate one to do better
 
 - Name
 	+ The Asymmetry (used)

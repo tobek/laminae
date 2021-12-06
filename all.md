@@ -153,7 +153,7 @@ add hints about brother and other stuff
 - REF[Empathy] tends towards kindness, self-effacement, benevolence, righteousness, judgment, stubbornness, idealism, altruism, universalism, equity, compromise, compassion, and tolerance.
 - REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.
 
-vs NGD: no attempt to be fruitful about it or learn anything from it. autonomy thinks synthesis is pedantic and cowardly (synthesis thinks autonomy is reckless)
+vs NGD: no attempt to be fruitful about it or learn anything from it, homage to it, anything. specifically death, also pain? autonomy thinks synthesis is pedantic and cowardly (synthesis thinks autonomy is reckless)
 
 HOSPICE - more like end-of-life doula, preparing for it
 
@@ -308,8 +308,9 @@ hermits who spend time alone wear the ordial thin along this axis
 
 ## Hierarchy Power Creation LEC
 
-[transferred]
+**The Oriels of the Macula**
 
+[transferred]
 
 ## Hierarchy Power Equilibrium LEP
 

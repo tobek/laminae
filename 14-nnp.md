@@ -75,7 +75,7 @@ The case of the Cartography, however, is more tantalizing, since some methods ho
 
 ### Extent in Time
 
-### Passage of Time
+### The Passage of Time
 
 <style>
 	.editor-note + h1,
