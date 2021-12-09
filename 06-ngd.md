@@ -32,8 +32,6 @@ Sacrificers: bring something you are done with or want to get rid of (or celebra
 
 Blissful letting go. But the thing you are forced to let go of is rarely the thing you came to let go of.
 
-Land of peaceful mystic nomads, who every X amount of time ritualistically destroy everything they have built up and move on to another place?
-
 Graveyard?
 
 - name
@@ -59,22 +57,19 @@ Graveyard?
 	- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
 	- "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke - CGP? NGD
 - environment
-	+ underwater? mm moss
-	+ floating islands (submerged?)
-	+ surface of water (no, NEC dreams has claim to that)
-	+ graveyard
-	+ very windy?
-	+ space habitat, temple w galaxy backdrop
-	+ trees in clouds of gas giant
+	+ very very windy
 	+ flower kings no ground is known, sunset
-	+ murals?
-	+ stelae?
+	+ graveyards
+	+ every surface scarred with carvings and stelae
+	+ the structure is very slowly rotating unpredictably, perceptible on the order of many years, graveyards fall off, full-grown trees hold on for dear life, leaving carvings and well-adhered artifacts and, challengingly, apertures in unusually hard-to-reach places
+	+ gravity is directly towards the nearly-unmoving sun, so apart from ledges and underhanging caves you don't get direct sunlight, but daylight floods the air and reflects from other land so yeah. but it rotates slowly
 - culture
 	- fuck your burn?
 	- somewhat dangerous?
 	- tattooed and weird petitioners?
 	- kinda punk
 	- laughter
+	- some petitioners seem more scar than being, but with good will, they are themselves, twisted in directions they chose or at least willingly leant into
 	- TODO example ceremonies
 		+ petitioner listens, you walk, it's beautiful
 		+ solo time, dark night of the soul, it's beautiful

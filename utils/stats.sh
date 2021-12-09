@@ -55,6 +55,7 @@ AT_3=$(grep -c "'◍◍◍○○○\|'●◍◍○○○" "$LAMINAE_FILE") || tr
 AT_4=$(grep -c "'◍◍◍◍○○\|'●◍◍◍○○" "$LAMINAE_FILE") || true
 AT_5=$(grep -c "'◍◍◍◍◍○\|'●◍◍◍◍○" "$LAMINAE_FILE") || true
 AT_6=$(grep -c "'●◍◍◍◍◍" "$LAMINAE_FILE") || true
+AT_R=$(grep -c "'●◍" "$LAMINAE_FILE") || true
 
 WORDS=$(cat ./[0-9]*.md | wc -w)
 TITLE_WORDS=$(wc -w < 00-0-title.md) # mostly HTML
@@ -84,6 +85,7 @@ echo "◍◍◍○○○ $AT_3"
 echo "◍◍○○○○ $AT_2"
 echo "◍○○○○○ $AT_1"
 echo "○○○○○○ $AT_0"
+echo "●◌◌◌◌◌ $AT_R"
 
 echo
 echo "BLOOPS"

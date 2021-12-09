@@ -353,7 +353,7 @@ GET WEIRD
     + Landscape
     + Seasonality
     + Weather
-- Culture
+- Culture <--
     + How do they organize themselves?
     + How do subgroups interact?
     + How are they grouped? No "family", so
@@ -443,7 +443,7 @@ TODO go through evil sketch
     - maybe this is in cosmography, someone went to exactly 2 planes and then said the above, lead the way into figuring out about there being more - CNC vs CNP
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
 - Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in) could be NGD or CGD too
-- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC
+- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC. gosh could be NGD if nothing else
     - https://twitter.com/TylerAlterman/status/1453671384186564610
     - "Something the whole ocean is doing"
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
@@ -546,8 +546,10 @@ unused ones can just be particular places
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
+- some kind of transportation system? mechanical or biological. LNP?
 - the conception of perfection. (look up quotes?)
     + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
+- nomads, who every X amount of time ritualistically destroy everything they have built up and move on to another place - XXP or XXD
 - <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt>
 - "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239 (maybe LEC)
 - interaction with cardinals? "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475 LEC?
@@ -1122,6 +1124,7 @@ don't forget "-er"s like Unravellers
 - Oriels (upper-story bay window protruding from wall)
 - Pyreans (fire)
 - Quivers
+- Reators
 - Rebukes
 - Reveries
 - Rhemes (linguistic term: comment that is being made about topic of sentence)

@@ -16,7 +16,7 @@ hide_toc: True
 
 #### The Third of the Twelth
 
-The introduction and outline of REF[the Macula](LEC) have been translated. A note on one of these pages marked a quotation as intended to preface the chapter on REF[the Bloom](CEC).
+The introduction and outline of REF[the Macula](LEC) have been translated. A note on one of these pages marked a quotation as intended to preface REF[the Bloom](CEC).
 
 #### The Twenty-Sixth of the Eleventh
 

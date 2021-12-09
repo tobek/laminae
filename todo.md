@@ -11,7 +11,7 @@
 - A close edit pass across the whole thing
 - Colophon
 - Review every TODO
-- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc)
+- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc), add/update/shift images for LNC, CGP, NNC, CEP
 - Bonuses:
     - moodboard images?
     - more shifting elements
@@ -586,6 +586,7 @@ later
 - tooltip on mobile
     + images - tap to show (might already work?)
     + references - tap should pop up, with link to view more
+        * link to view more on desktop too?
     + untranslated refs that have no href - does tap open tooltip?
 - more mobile and browser compatibility check
     + styles, fonts, what else?
@@ -667,7 +668,8 @@ code:
 
 data-facet= (added when processing REFs) and :after content
 
-- (labeled) glyph square on trinym hover?
+- how much of the description?
+- (labeled or hover?) glyph square on trinym hover?
     + like above and below are the other facets from that axis, dimmed, with text and glyph
     + to the sides are the other axes
 - CSS/JS attached to data-facet for hover
@@ -678,6 +680,15 @@ data-facet= (added when processing REFs) and :after content
     + probably not in ordial-primer chapter - do we even want those to link?
 - probably the same REF popup as anything else
 - could expand with facet definitions
+
+lamina links should be e.g. "The Braid ꧪဥဓ" and on hover the tooltip can have the heading and the facets highlighted in the 9 square (which themselves hover tooltip)
+
+    The Braid                ꩧ *ဥ* ꧠ
+    description...          *ꧪ* ၇ *ဓ*
+    etc...                      ꧹   ဋ   ဗ
+    read more ->
+
+consider mobile
 
 ### shifting and gpt3
 
@@ -698,7 +709,7 @@ todo
 - is it interactive, maybe just a little?
 - rename gpt tag
 
-*brainstorm*
+#### shift brainstorm
 
 the guild and/or the author can create kind of probabilistic effects that live in the mind of the observer. the guild name is a superposition of multiple names that collapses on observation. the paper/ink somehow has this quality
 
@@ -720,6 +731,21 @@ _could_ be similar to the shifting, except it doesn't change does it.
 
 dunno maybe each should be changing, generate a ton of examples with GPT3. but like e.g. unraveller demigods, the good stuff i want to include it all.
 
+#### random shift
+
+goal: you can't "catch" it
+
+short delay: 5 minute
+long delay: 1 hour
+
+- if tab is visibility hidden for short delay, shift
+- if tab is idle for long delay, shift
+- before each shift, random seed is saved to local storage so a refresh won't change latest shift
+    - random seed is saved with expiration of long delay, so new page load will be different if that time has passed
+- if no local storage, seed is `Date.now() / long delay`, so refreshing within a long delay window won't change
+    - (does mean that if no local storage, "initial page load > visibility hidden shift > refresh" will return to initial state)implementation
+- guild name shifting has its own separate seed indexed to "guild" instead of the pathname so should be consistent from page to page
+
 ## ■▤□ Plates
 
 - border
@@ -729,6 +755,8 @@ dunno maybe each should be changing, generate a ton of examples with GPT3. but l
 - float, or only full width?
 - multi-image ones?
 - style matching
+    + maybe an overlay of some parchment texture
+        * which maybe should be on background anyway? with a random offset (using seeded random)
     + .9 opacity on all? maybe makes them too pale. transparency vignette? filter?
     + like LEC... something is lost =(
     + confirm mobile tap is okay

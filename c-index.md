@@ -153,7 +153,7 @@
     <tr><td>Organ, The</td><td>REF[LND](lnd#the-organ)</td></tr>
     <tr><td>Outside the Automaton</td><td>REF[LND](lnd#outside-the-automaton)</td></tr>
     <tr><td>Paradox of Boredom, The</td><td>REF[CGP](cgp#the-paradox-of-boredom)</td></tr>
-    <tr><td>Passage of Time</td><td>REF[NNP](nnp#passage-of-time)</td></tr>
+    <tr><td>Passage of Time, The</td><td>REF[NNP](nnp#the-passage-of-time)</td></tr>
     <tr><td>Passage of Time, The</td><td>REF[CND](cnd#the-passage-of-time)</td></tr>
     <tr><td>Pasture, The</td><td>REF[CEP](cep#the-pasture)</td></tr>
     <tr><td>Patchwork</td><td>REF[NGP](ngp#patchwork)</td></tr>

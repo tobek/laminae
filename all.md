@@ -210,6 +210,8 @@ the Mathematicians of Mechanus "hold that everything that you can imagine can be
 
 some connection to [Timaresh](http://www.rilmani.org/timaresh/Timaresh) where every written work in the multiverse is reflected, reproduced, and stored.
 
+include storing like styles/motifs, e.g. "Hamonshu - A Japanese Book of Wave and Ripple Designs" and the tibetan book
+
 ### storage
 
 All or part of this plane is based around temporary and free, but regulated and often indefinite, storage.
@@ -375,6 +377,8 @@ ritual athletes? use yourself up
 - REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.
 
 maybe this is the forgetting place
+
+The Procedure? interesting associate, sounds a bit LXX, maybe a synonym
 
 Murder as art
 
