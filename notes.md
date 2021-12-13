@@ -353,7 +353,7 @@ GET WEIRD
     + Landscape
     + Seasonality
     + Weather
-- Culture <--
+- Culture
     + How do they organize themselves?
     + How do subgroups interact?
     + How are they grouped? No "family", so
@@ -372,7 +372,7 @@ GET WEIRD
 - Name/demonym
 - Review images (check pinterest too)
 - Review everything and decide on elements
-- WRITE
+- WRITE <--
     - lay out the bits of info to include
     - brainstorm splurge
     - organize, edit
@@ -418,7 +418,7 @@ TODO go through evil sketch
     + rilke quote (?)
 - society that glamorizes maintenance instead of creation? LGP
 - death? CGD
-- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. CGD? sounds more like NGD or NND or NED or LED or LND. - and then how it heals
+- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. NND or NED or LED or LND. - and then how it heals
 - two planes that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
@@ -489,8 +489,6 @@ unused ones can just be particular places
 - Sort of like the wall place, one place could be an endless crevasse
     + maybe 100 feet across (need to conceptualize it - tennis court?) so daylight is limited (very, it would converge to block out all light unless plane's geometry is differnt, or it slopes outwards? maybe slopes out and never seems to increase in distance), especially if the people above you have many bridged buildings..infinitely tall and deep. maybe there's one area only where the distance varies - like an amphitheater. a city used to be there but now there is only a lone demon - LED, NEP, NED
     + "Karaz_ca_01" pic and michael hutter
-- No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker than 10 feet wide that protrude wildly sidways into the air without any support underneath it. And entire pathways do occasionally snap, falling upwards as often as downwards. maybe CNC or XEX
-    - The capital, known as The Anvil, rests on an unusually solid mass of rock that, viewed in profile, resembles an anvil. On the tip of the long, slender horn rests the palace of TODO/ruler.
 - Underwater
 - https://en.wikipedia.org/wiki/Glossary_of_landforms
 - On water
@@ -542,6 +540,7 @@ unused ones can just be particular places
     + single infinite wall
     + Endless river delta
     + Black desert (and its oases!)
+    - No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker . maybe CNC or XEX
 
 ### Relational, Situational, Happenings
 
@@ -595,6 +594,7 @@ unused ones can just be particular places
     + "Because of the end of scarcity, the economic roles of production and consumption have switched; wealth is now acquired by consuming, and producers pay consumers to use their goods or services. The right to make something is highly coveted and prestigious, and producing without a customer is illegal and severely punished." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#gkAPnw9FmXn8ZHSPo>
     + there is some oracle that knows what's "best" for every action in its domain - you're free to listen to it or not. "Everyone is free to listen to The Computer or not, but you know that your decision would be less efficient for accomplishing your goals. Such rebellions are useless, however, because The Computer's prediction capabilities include whether or not you will take its advice, and it acts accordingly to make sure you get the best results anyway."
 - symbiotic creatures groom and pick things off you, but not physical stuff, something else, emotional/dreams too easy, but they live off of it? there's some efficiency here. don't stay too long or it's too much? CGD and it's sexual? very intimate. inside a flower
+- Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something - tentative NGD but without summoning bit
 - seeking out a state of "unknowing"
     + 'all thoughts and desires under a "cloud of forgetting," and thereby piercing God's cloud of unknowing with a "dart of longing love" from the heart... "For He can well be loved, but he cannot be thought." ... "And so I urge you, go after experience rather than knowledge"'
     + https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing
@@ -607,7 +607,6 @@ unused ones can just be particular places
     + Epiphanies (place where you have them)
     + place where you can swap lives
     + https://en.wikipedia.org/wiki/Emotional_flooding
-    + Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something (where - brink?)
     + Elemental forces (where?)
     + unusual language element
     + "Rather than classical "good health," fashionable people sculpt their bodies into interesting shapes with the help of highly specific and commonly-performed exercises prescribed by regimen-planning software." <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z>
@@ -615,6 +614,8 @@ unused ones can just be particular places
 
 ### Abstract Concepts
 
+- "retinal" art, intended only to please the eye. Instead, Duchamp wanted to use art to serve the mind.
+- "you: human creativity is an glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316
 - "Some sophists marvel at the dual nature of reality, that for every thing it either *is* or it *isn't*. Marvelous. Well then there are the real thinkers. They say that sometimes a thing *is* **and** it *isn't*. Or that all qualities have a spectrum, ranging from *isn't* all the way to *is*. Or there's a field, some strange topography, multi-dimensional spectra which don't start and end at *isn't* and *is* but go all sorts of other places instead. But they're all backwards. I'll tell you the nature of things. It's very simple. Are you listening? **It neither *is* nor *isn't*.**"
     - did i get this from "It no more is than it is not or it both is and is not or it neither is nor is not." (Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views, https://en.wikipedia.org/wiki/Pyrrho)
     - full passage: https://en.wikipedia.org/wiki/Pyrrhonism#Buddhism
@@ -779,7 +780,6 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - rilke quote about god coming
     + Why don’t you think of him as the one who is coming, who has been approaching from all eternity, the one who will someday arrive, the ultimate fruit of a tree whose leaves we are? What keeps you from projecting his birth into the ages that are coming into existence, and living your life as a painful and lovely day in the history of a great pregnancy? Don’t you see how everything that happens is again and again a beginning, and couldn’t it be His beginning, since, in itself, starting is always so beautiful? If he is the most perfect one, must not what is less perfect precede him, so that he can choose himself out of fullness and superabundance? Must he not be the last one, so that he can include everything in himself, and what meaning would we have if he whom we are longing for has already existed?
     + As bees gather honey, so we collect what is sweetest out of all things and build Him. Even with the trivial, with the insignificant (as long as it is done out of love) we begin, with work and with the repose that comes afterward, with a silence or with a small solitary joy, with everything that we do alone, without anyone to join or help us, we start Him whom we will not live to see, just as our ancestors could not live to see us. And yet they, who passed away long ago, still exist in us, as predisposition, as burden upon our fate, as murmuring blood, and as gesture that rises up from the depths of time.
-- "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke - CGP? NGD
 - "I am circling around God, around the ancient tower, and I have been circling for a thousand years, and I still don't know if I am a falcon, or a storm, or a great song." rilke - CGC
 - "I am the rest between two notes which are somehow always in discord." rilke - CEP?
 - "Shattered people are best represented by bits and pieces." rilke
@@ -807,6 +807,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
         - 140. When you think in words, are you sure it’s your own voice you hear?
         - 170. Closing a door very gently, you pull with one hand, push with the other. (NGP, CGD, NNC)
 - used
+    + "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
     + 217. All the falling rain is caught.
     + 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins
@@ -1286,6 +1287,11 @@ alignment
 - <http://easydamus.com/alignment.html>
     - <http://easydamus.com/alignmentreal.html>
 
+# Connections to other worlds
+
+- Pablo Bronstein's "Hell in its Heyday" maybe some remote LEC, or LEP or NEP. maybe past LEP before they used it all up
+- Annals of the Parrigues
+
 # Wizards of the Coast stuff to rip out? (copyright)
 
 TODO gotta remove stuff like eladrin and yugoloth right
@@ -1388,7 +1394,8 @@ BUT DO I WANT THEM?
 
 # Idea credits
 
-- Sculpting one's body via unusual exercises https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z
+- LEC sculpting one's body via unusual exercises https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z
+- NGD culture https://twitter.com/visakanv/status/1443196315970670598
 
 # template
 

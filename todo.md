@@ -692,6 +692,10 @@ consider mobile
 
 ### shifting and gpt3
 
+some way to always show a certain one the first time, e.g. NGP landscape. just need to keep track of if seen or not. not perfect cause could be off screen but that's okay. probably don't do idle timeout for that page load
+
+shiftwrights?
+
 should they change whenever they go out of viewport view too?? yes! but only if enough time has passed, so you can't game it by just scrolling up and down. also, if no movement for a long long time (no scroll, no change in visibility) then change once. maybe timer for visibility change too so you can't game that. you have to leave it open and come back. and maybe a (50%?) chance that it simply doesn't
 
 aspects
@@ -771,7 +775,7 @@ long delay: 1 hour
 
 *before i figure this out need to figure out trinyms, filenames, ordering laminae, etc*
 
-there are currently images in "used" with names different from the ones in "possible", and edited too. "used" supercedes. also currently there are some tagged ones in "possible" which aren't in their folders, but just copying naively would duplicate
+there are currently images in "used" and in laminae with names different from the ones in "possible", and edited too. "used" supercedes. also currently there are some tagged ones in "possible" which aren't in their folders, but just copying naively would duplicate
 
 ideal directory structure/system for everything
 
@@ -806,6 +810,25 @@ following discarded:
 this gets used (no double quotes allowed):
 
     MEDIA("pic-name.jpg")
+
+### copyright
+
+hide all unless "logged in"?
+
+in colophon assert fair use for non-commercial work and for (in-universe haha!) educational purposes.
+
+considered under fair use because blah blah blah. hope that i drive eyeballs your way and if i can cite you better let me know. if you'd like anything removed blah blah please let me know.
+
+four factors
+
+1. "advances knowledge or the progress of the arts through the addition of something new". "when the purpose of the use is transformative, this makes the first factor more likely to favor fair use"
+2. non-commercial fictional work
+3. amount eh
+4. my use does not "serve as a market replacement for it, making it likely that cognizable market harm to the original will occur"
+
+if necessary, VQGAN+CLIP'ing them would probably make them derivative works and then i'd have the copyright: "it must display some originality of its own. It cannot be a rote, uncreative variation on the earlier, underlying work. The latter work must contain sufficient new expression, over and above that embodied in the earlier work for the latter work to satisfy copyright law's requirement of originality", although this bit makes it less clear: https://en.wikipedia.org/wiki/Derivative_work#Lawful_works_requirement
+
+see also https://en.wikipedia.org/wiki/Transformative_use
 
 ## ■▤▤ References
 

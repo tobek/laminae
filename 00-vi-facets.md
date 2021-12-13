@@ -132,12 +132,12 @@ REF[Creation] tends towards activity, energy, passion, agitation, change, mutati
 
 ### Equilibrium
 
-REF[Equilibrium] is the balance and cycle of creative and destructive energies. In some cases this manifests as an active vacillation between the two, and in others there is instead a careful tiptoe of balance. REF[Laminae](cosmography#laminae) reflecting this facet are often transit points that mediate alternating forces, and many also reach to cardinal worlds to tweak or support processes already in place.
+REF[Equilibrium] is the balance and cycle of creative and destructive energies. In some cases this manifests as an active vacillation between the two, and in others there is instead a careful tiptoe of balance. REF[Laminae](cosmography#laminae) reflecting this facet are often transit points that mediate alternating forces, and many also reach to cardinal worlds to adjust or support processes already in place.
 
 REF[Equilibrium] tends towards maintenance, harmony, protection, pureness of essence, persistence, stagnation, indifference, serenity, observation, renewal, inertia, and preservation.
 
 ### Dissolution
 
-REF[Dissolution] is powerful and frightening to most mortals, and wholly essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation taking hold. On a personal level, dissolution concerns measuring and understanding what one needs, and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet holds an imbalance that can only be sustained by an influx of material from cardinal worlds, breaking down and dispersing energies that distantly originated in facets of REF[Creation].
+REF[Dissolution] is powerful and frightening to most mortals, and wholly essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation taking hold. On a personal level, dissolution concerns measuring and understanding what one needs, and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet holds an imbalance that can only be sustained by an influx of material from cardinal worlds, breaking down and dispersing energies that originated in distant facets of REF[Creation].
 
 REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.

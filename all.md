@@ -52,6 +52,8 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ## Hierarchy Empathy Dissolution LGD
 
+**?? of the Ardence (?)**
+
 [transferred]
 
 ***
@@ -66,13 +68,11 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ## Synthesis Empathy Equilibrium NGP
 
-**Limns of the Braid**
+**Limns of the Braid (?)**
 
 [transferred]
 
 ## Synthesis Empathy Dissolution NGD
-
-Could swap with LGD
 
 [transferred]
 
@@ -222,6 +222,8 @@ there are conditions to storage. maybe it has to be something they don't current
 
 ## Hierarchy Utility Dissolution LND
 
+**Moilers of the Instrument**
+
 [transferred]
 
 ***
@@ -229,6 +231,8 @@ there are conditions to storage. maybe it has to be something they don't current
 # **Synthesis Utility**
 
 ## Synthesis Utility Creation NNC
+
+**Grains of the Asymmetry (?)**
 
 [transferred]
 
@@ -240,7 +244,7 @@ there are conditions to storage. maybe it has to be something they don't current
 
 ## Synthesis Utility Dissolution NND
 
-**The Precepts of the Lucidity (?)**
+**Precepts of the Lucidity (?)**
 
 [transferred]
 
@@ -300,7 +304,7 @@ hermits who spend time alone wear the ordial thin along this axis
 
 ## Autonomy Utility Dissolution CND
 
-**The Unravellers of the Inevitability**
+**Unravellers of the Inevitability**
 
 [transferred]
 
@@ -310,7 +314,7 @@ hermits who spend time alone wear the ordial thin along this axis
 
 ## Hierarchy Power Creation LEC
 
-**The Oriels of the Macula**
+**Oriels of the Macula**
 
 [transferred]
 
@@ -364,9 +368,13 @@ ritual athletes? use yourself up
 
 ## Autonomy Power Creation CEC
 
+**Florets of the Bloom**
+
 [transferred]
 
 ## Autonomy Power Equilibrium CEP
+
+**Grips of the Knot**
 
 [transferred]
 

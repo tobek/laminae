@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 49,831 | 1,810 | 24/42 | 106/224 |
+| 50,126 | 1,810 | 24/42 | 107/224 |
 
 </div>
 
@@ -168,7 +168,8 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
-|2021-12-09|2   |49831|1808|57%|47%|24|106|68|38|
+|2021-12-13|1.5 |50126|1810|57%|47%|24|107|69|38|
+|2021-12-09|2.5 |49851|1810|57%|47%|24|106|68|38|
 |2021-12-08|0.5 |49831|1731|57%|47%|24|106|68|38|
 |2021-12-07|1   |49768|1731|57%|47%|24|106|68|38|
 |2021-12-06|1.25|49733|1731|57%|47%|24|106|68|38|
@@ -324,7 +325,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
 | <span class="glyph">ꧪဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">●◍◍○○○</span> |
-| <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
+| <span class="glyph">ꧪဥဗ</span> | <span class="bloop">◍◍◍○○○</span> | <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">꧹ဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">꧹ဥဗ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">◍○○○○○</span> |
