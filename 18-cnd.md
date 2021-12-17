@@ -123,6 +123,8 @@ Lost magic is the focus of a troupe that consist of a single building, perhaps t
 
 Ancient caches leave behind no recognizable spoils to return to the Inevitability, decaying as they do in place, but long after any trace of the subject remains the quiet, shrewish, sentimental Unravellers of this troupe revisit the sites of their worked entropy and gather the dust or soil or undersea muck left behind to deposit here into yet another enormous barrow containing the rotted dreams of the multiverse.
 
+<dfn id="immeasurable-banquet" name="The Immeasurable Banquet" />
+
 ### Cooking
 
 Buffalo tow a series of wheeled long tables with attached benches, interleaved with metal carts holding cavernous ovens, spits and griddles over bonfires, and heaps of kitchenware. It is a constant, roaring feast. This troupe, known as the Immeasurable Banquet, is spectacularly and rightfully renowned. No other place celebrates and enjoys the culinary arts with such skill and gusto as this one, and cooking is more at home here than anywhere, representing as it does a classic, irreversible thermodynamic transformation.

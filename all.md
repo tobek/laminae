@@ -74,6 +74,8 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ## Synthesis Empathy Dissolution NGD
 
+**Alters of the Cicatrix**
+
 [transferred]
 
 ***
@@ -167,7 +169,7 @@ ritual bath that you die in?
 	- maybe sex in two places, this one is masochism that also includes sex
 	- yeah, masochism is about empathy. power is sexy but power that understands you is sexier
 - missing senses? or other perception issue
-- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. sounds more like NGD or NND or NED or LED or LND.
+- glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. sounds more like NND or NED or LED or LND.
 - death?
 	- deathbed phenomena
 	- deathbed confessions - to alleviate guilt/regrets/secrets/sins

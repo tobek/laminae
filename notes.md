@@ -372,7 +372,7 @@ GET WEIRD
 - Name/demonym
 - Review images (check pinterest too)
 - Review everything and decide on elements
-- WRITE <--
+- WRITE
     - lay out the bits of info to include
     - brainstorm splurge
     - organize, edit
@@ -388,6 +388,7 @@ GET WEIRD
     + comment out from rand.js
     + remove name from homepage TOC filler
     + update translation log
+- Summary
 - Read again, organize notes
 - Publish
 
@@ -405,7 +406,8 @@ TODO go through evil sketch
 - something pretty futuristic, but not described as such
 - they worship a god who is crazy but they love it
 - war? a thousand-mile-wide battlefield populated by warring soldiers from every era throughout history XEX
-- something where everything is like a play, or all interactions are formulaic - NGP or NGD?
+- something where everything is like a play, or all interactions are formulaic - NGP probably
+    + like a drama?
     + greek stock characters/jungian archetypes etc
     + and/or where you are assigned a ritual role in a play, and learning that role is therapeutic - NGC?
         * Like thinking about how an actor with a very short role might still deeply flesh out history and mindset of char to play it well. It goes deeper
@@ -442,7 +444,7 @@ TODO go through evil sketch
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
     - maybe this is in cosmography, someone went to exactly 2 planes and then said the above, lead the way into figuring out about there being more - CNC vs CNP
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
-- Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in) could be NGD or CGD too
+- Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
 - All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC. gosh could be NGD if nothing else
     - https://twitter.com/TylerAlterman/status/1453671384186564610
     - "Something the whole ocean is doing"
@@ -526,7 +528,6 @@ unused ones can just be particular places
     - sour, citrus, bitter, pine, vanilla, ash, resin
 - Everything is black and white - maybe CED? or NNP. or... LGC or LGP?
     - (except visitors and their stuff? what about their stuff left behind?)
-- stelae (carved stone slabs) maybe in CNP or NGD
 - *eremia* "a solitude, an uninhabited region, a waste," from *erēmos* "uninhabited, empty, desolate, bereft," from PIE *\*erem-* "to rest, be quiet"
 - Medieval illuminated manuscripts
     - both the overaching style, and them as actual objects in the place
@@ -540,7 +541,8 @@ unused ones can just be particular places
     + single infinite wall
     + Endless river delta
     + Black desert (and its oases!)
-    - No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker . maybe CNC or XEX
+    + stelae (carved stone slabs)
+    + No "ground" is known, but this realm is laid out as a lattice of gnarled and winding mostly-horizontal projections of rock. Crags and massive plateaus give way to tendrils of stone sometimes no thicker
 
 ### Relational, Situational, Happenings
 
@@ -567,7 +569,7 @@ unused ones can just be particular places
 - Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this?
 - "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
 - Giant books multiple people to turn page
-- the bell ringing hearing contest episode (NGD? dissimulation NND)
+- the bell ringing hearing contest episode (dissimulation NND)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP, NED, LED
@@ -578,7 +580,7 @@ unused ones can just be particular places
 - Resurrection (necromantic or otherwise) - CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how
 - Some creature that responds to Creation and/or Destruction, to be used to test if exposure is too high. Maybe by those wizards that study the planes of pure C/D.
     - from something: "Canaries are extremely sensitive to ambient magic, and will mutate in the presence of cursed architecture. Grave-looters keep them as pets"
-- some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, stub-used in NGP but maybe better in NGD?
+- some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?) if never used, stub-used in NGP
 - psychedelics (CGP)
 - "Somewhere in the ocean hundreds of miles north of the Shirerithian mainland there is a mountainous arctic island upon which thrives an emergent oracular techno-theocracy that calls itself the Shining Garden of Raikoth. Its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too wear the spiral."
 - sexual proclivities replace other tribal markers and are increasingly fractured
@@ -748,7 +750,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "What is better: to be born good, or to overcome your evil nature through great effort?" - Paarthurnax, Skyrim
 - "The first principle is that you must not fool yourself, and you are the easiest person to fool"
 - "We are our choices"
-- "The first draft is just you telling yourself the story." - Terry Pratchett (NGD)
+- "The first draft is just you telling yourself the story." - Terry Pratchett
 - 'That mountain you've been carrying, you were only suppose to climb'
 - “I understand there's a guy inside me who wants to lay in bed, smoke weed all day, and watch cartoons and old movies. My whole life is a series of stratagems to avoid and outwit that guy.” - Anthony Bourdain
 - "Look, the minute everybody in the room agrees with you, you’re in a bad place, so I’m a big believer in change just for its own sake, just to show that you *can* change, to move forward incrementally, but ain’t [no one person] gonna make everything better." Anthony Bourdain
@@ -773,7 +775,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "Ideally, if anything were any good, it would be indescribable." - Edward Gorey (CGC CNC)
 - Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC? NEC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
-- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (NGD, CGD)
+- "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (used on NGD but could be elsewhere - CGD?)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
 - "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
 - "Beautiful and terrible things will happen. Don't be afraid." ― Frederick Buechner CGP? NGC
@@ -784,7 +786,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "I am the rest between two notes which are somehow always in discord." rilke - CEP?
 - "Shattered people are best represented by bits and pieces." rilke
 - chaucer metal quote from saturn or bloody mars stuff (in quotes.txt)
-- "Should you shield the canyons from the windstorms you would never see the beauty of their carvings." ― Elisabeth Kübler-Ross NGP NGD CGD
+- "Should you shield the canyons from the windstorms you would never see the beauty of their carvings." ― Elisabeth Kübler-Ross (used on NGD but could be elsewhere)
 - James Richardson
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
         - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGP, CGD)
@@ -875,6 +877,8 @@ anagram names:
     }
 
     shuffleArray("richardson".split("")).join("")
+
+actual words: https://wordsmith.org/anagram/advanced.html
 
 ### music, soundtracks?!
 
@@ -1009,6 +1013,7 @@ realm names or demonyms:
 - The Incandescence
 - The Increpation (chiding, rebuking, censure - from making a nosie, creaking)
 - The Keen*
+- The Kenosis ("the act of emptying" christian theology, emptying to become receptive to god's will)
 - The Keyhole*
 - The Kiln
 - The Kinesis*
@@ -1269,6 +1274,11 @@ skip entire section up to the next equal or higher heading (is this used??)
 - garamond 10pt with 1.15 line spacing
 
 # Readings/resources
+
+to encode
+
+- LEP: The 48 Laws of Power
+- LEC: nietzsche, who argued that the Will to Power was the Will to Beauty
 
 for inspiration
 

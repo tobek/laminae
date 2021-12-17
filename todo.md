@@ -1,15 +1,17 @@
 # race
 
-- At least stub content (+ TOC?) for all laminae (16 remaining)
-- Interactive cosmology visualization
-- Site-wide glyph visualization
-- Add GPT-3 content in distinct visual style
-- Fleshed out glossary/index stuff
-- Style pass and improvements across the site
-- More content about the author
-- Closing Notes chapter
-- A close edit pass across the whole thing
-- Colophon
+7-8x 8h days of estimated stuff + 14 laminae x 2h = another 4 full days
+
+- At least stub content (+ TOC?) for all laminae (14 remaining)
+- Interactive cosmology visualization `8h`
+- Site-wide glyph visualization `4h`
+- Add GPT-3 content in distinct visual style `4h`
+- Fleshed out glossary/index stuff `4h`
+- Style pass and improvements across the site `16h`
+- More content about the author `4h`
+- Closing Notes chapter `8h`
+- A close edit pass across the whole thing `8h`
+- Colophon `4h`
 - Review every TODO
 - Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc), add/update/shift images for LNC, CGP, NNC, CEP
 - Bonuses:
@@ -551,6 +553,10 @@ maybe
 - drop caps? decorated initials (historiated/illuminated initial)
     + go one heading level deeper?
     + Lombardic/rubricated capitals every paragraph?
+    + another common thing is for first word (of which drop cap is a letter) is in small caps
+        * and the first non drop cap letter is capitalized
+        * also potentially increase letter spacing for that first word
+        * could do small caps/letter spacing first word for new sections that don't deserve drop cap
 - capitalization (demonyms, The Laminaname)
     + i've been capitalizing Ordial, but not cardinal or laminae
         * i guess Ordial Plane or the Ordial should be capitalized, and Ordial" adjective too?
@@ -575,6 +581,11 @@ maybe
 
 later
 
+- could decorate facets/cosmography with various flourishes
+    - like the cloud burst stuff here https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
+- could have the last paragraph of a chapter narrow to a triangle centered
+    - like hypnorotomachia or
+    - or some here too https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
 - FOUT for bold quotes
 - floating TOC?
 - update indic fonts to only include needed characters
@@ -655,6 +666,8 @@ formats:
     + compass rose in corner
     + list of facets too?
     + hovering over glyph/facet highlights all its laminae and mentions elsewhere
+- could do circle instead of cube - 3 concentric circles, slightly offset so there's room for NNX's
+- shit could do just branching 3x, have seen manuscripts in that style
 
 so maybe 2 formats, can switch between, and the pretty one shown by default on TOC and grokkier one on cosmography
 
@@ -755,6 +768,7 @@ long delay: 1 hour
 - border
 - lightbox?
 - captions? i think maybe not
+- probably a middot instead of a dash between artist/title
 - link to artist where possible?
 - float, or only full width?
 - multi-image ones?
@@ -826,7 +840,7 @@ four factors
 3. amount eh
 4. my use does not "serve as a market replacement for it, making it likely that cognizable market harm to the original will occur"
 
-if necessary, VQGAN+CLIP'ing them would probably make them derivative works and then i'd have the copyright: "it must display some originality of its own. It cannot be a rote, uncreative variation on the earlier, underlying work. The latter work must contain sufficient new expression, over and above that embodied in the earlier work for the latter work to satisfy copyright law's requirement of originality", although this bit makes it less clear: https://en.wikipedia.org/wiki/Derivative_work#Lawful_works_requirement
+if necessary, VQGAN+CLIP'ing/Looking Glass AI'ing them would probably make them derivative works and then i'd have the copyright: "it must display some originality of its own. It cannot be a rote, uncreative variation on the earlier, underlying work. The latter work must contain sufficient new expression, over and above that embodied in the earlier work for the latter work to satisfy copyright law's requirement of originality", although this bit makes it less clear: https://en.wikipedia.org/wiki/Derivative_work#Lawful_works_requirement
 
 see also https://en.wikipedia.org/wiki/Transformative_use
 
@@ -858,7 +872,7 @@ References themselves just `a.ref`
     # facts & cosmography
     REF[Equilibrium](facets#equilibrium)
     REF[Equilibrium] # whitelist dict of terms to auto-map to facets
-    REF[petitioners] # top level cosmography terms can be linked directly
+    REF[petitioners] # top level cosmography terms can be linked directly - case insenstive
     REF[Ordial](ordial-plane) # if need to change the anchor text, can still reference directly by term
 
     REF[some made up thing](LNC#untranslated) # mark as gray with untranslated tooltip but lead to #untranslated anchor on page

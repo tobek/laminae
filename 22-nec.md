@@ -28,6 +28,8 @@ you can choose to sleep there forever
 
 *need more about limns, and one more unique component*
 
+“One awakens refreshed from every nightmare.” ― Marty Rubin
+
 - name
 - demonym
 	+ Limns <-- but NGP?

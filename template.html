@@ -171,6 +171,10 @@
       margin-top: 2rem;
     }
 
+    #untranslated {
+      margin: 1.5rem 0 2rem;
+    }
+
     a[href] {
       text-decoration: none;
       color: #b00000;
@@ -497,7 +501,7 @@
       display: none;
     }
       .choose-one-child.chosen {
-        display: initial;
+        display: revert;
       }
 
     gpt {
@@ -788,6 +792,7 @@ $endif$
   }
 
   function shiftChildren() {
+    // TODO "show-first-first" class - hash set `localStorage.shiftFirstSeen`
     document.querySelectorAll('.choose-one-child').forEach(function(el) {
       el.classList.add("chosen");
       var numChildren = el.children.length;

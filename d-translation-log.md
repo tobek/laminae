@@ -14,7 +14,11 @@ hide_toc: True
 
 ## The 221st Year L.C.
 
-#### The Third of the Twelth
+#### The Seventeenth of the Twelfth
+
+The introduction and outline of REF[the Cicatrix](NGD) have been translated.
+
+#### The Third of the Twelfth
 
 The introduction and outline of REF[the Macula](LEC) have been translated. A note on one of these pages marked a quotation as intended to preface REF[the Bloom](CEC).
 

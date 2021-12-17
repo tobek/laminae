@@ -261,7 +261,7 @@
   <div class="dots"></div><div class="page">NGP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">6.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="06-ngd.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">6.</div><span class="tooltip-wrap"><a class="lamina-name" href="06-ngd.html">The Cicatrix</a></span></div>
   <div class="dots"></div><div class="page">NGD</div>
 </div>
 
