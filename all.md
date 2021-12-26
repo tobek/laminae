@@ -338,6 +338,16 @@ maybe it's actually not bad, if you're into it?
 
 Ben Sack art?
 
+Milton Controversy:
+
+> why Milton, a fervent (if unconventional) Protestant, would ultimately give the devil all the poem’s best lines? Why make Lucifer the most attractive character in Paradise Lost if you’re supposedly trying to “justify the ways of God to man?” Many in the Romantic tradition thus argued that Lucifer should be read as a revolutionary, a Promethean figure who tears at unfair strictures.
+>
+> [...] Fish interpreted Milton’s epic as “a poem about how its readers came to be the way they are … to provoke in its readers wayward fallen responses.” In other words, Lucifer is supposed to be intriguing, because in forcing the reader of Paradise Lost to be drawn to evil, Milton demonstrates the original sin that he believed marked everyone’s soul. That Lucifer gets the best lines isn’t incidental to his evil, but central to it.
+>
+> [...] these [Luciferian] characters share a rage generated from feeling that they are owed something
+
+LEP'ers feel this?
+
 ## Hierarchy Power Dissolution LED
 
 elaborate weavers of personalized, creative curses

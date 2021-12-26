@@ -58,10 +58,17 @@ facet_regex = r"([^'])[LNC][GNE][CPD]" # make sure first char is not ' from bein
 def facet_replace(match):
     tri = match.group(0)[1:]
     return match.group(1) + '<span class="glyph">' + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]] + '</span>'
+def facet_description_replace(match):
+    tri = match.group(0)[1:]
+    return match.group(1) + "| " + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]]
 
 os.makedirs("build", exist_ok=True)
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
     print(input_file)
+
+    file_id = re.match(file_id_regex, input_file)[2]
+    # import pprint; pprint.PrettyPrinter(indent=2).pprint(file_data[file_id])
+
     if output_file is None:
         output_file = input_file.replace(".md", ".html")
 
@@ -92,10 +99,16 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
         pandoc_args += [
             "--variable=pagetitle:Observations on the Twenty-Seven Laminae",
             "--variable=summary:Regarding their various Environs & Cultures / gathered upon decades of journey past the Ordial Plane / by an Unknown Traveller / edited & translated by the Order of Peripatetic Affairs",
+            # "--variable=include_viz:True",
         ]
     else:
         pandoc_args += [
             "--variable=title_suffix:Observations on the Twenty-Seven Laminae",
+        ]
+
+    if file_data[file_id]["metadata"] and file_data[file_id]["metadata"].get("subtitle"):
+        pandoc_args += [
+            "--variable=description_subtitle:" + re.sub(facet_regex, facet_description_replace, file_data[file_id]["metadata"].get("subtitle")),
         ]
 
     # if not re.match(r"^00|[abcd]", input_file) or "cosmography" in input_file:

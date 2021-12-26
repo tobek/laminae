@@ -13,7 +13,7 @@
 - A close edit pass across the whole thing `8h`
 - Colophon `4h`
 - Review every TODO
-- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, etc), add/update/shift images for LNC, CGP, NNC, CEP
+- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, OG tags, etc), add/update/shift images for LNC, CGP, NNC, CEP
 - Bonuses:
     - moodboard images?
     - more shifting elements
@@ -479,6 +479,12 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 
 - remove # from file name?? maybe not
 
+### OG tags
+
+- put trinym in title?
+- confirm trinym placement in lamina description
+- check/add descriptions and titles for all non-lamina pages
+
 ### clean
 
 - change spell check to english (make sure to preserve added words)
@@ -586,6 +592,7 @@ later
 - could have the last paragraph of a chapter narrow to a triangle centered
     - like hypnorotomachia or
     - or some here too https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
+    - can use CSS shapes for this https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes
 - FOUT for bold quotes
 - floating TOC?
 - update indic fonts to only include needed characters
@@ -644,22 +651,23 @@ ALSO: more translator's notes!
 
 ## ▤□□ Visualization
 
+"teaser" fields for laminae instead of summary?
+
+### cosmography viz
+
 places where viz would make sense:
 
 - TOC
     + between heading and items
     + hover over in one highlights in the other
-- overview
-    + can remove if TOC nails it
 - cosmography
 
-same in all? remove one or two of these?
+same in both? remove one?
 
 formats:
 
 - 3 squares of 9 cards each
     + each card shows glyphs, english facets, name, and brief description?
-    + this could be Overview page
 - could be 3 wheels? though the square grid is easier to grok
 - exploding 3d cube
     + card view as above on hover
@@ -667,15 +675,33 @@ formats:
     + list of facets too?
     + hovering over glyph/facet highlights all its laminae and mentions elsewhere
 - could do circle instead of cube - 3 concentric circles, slightly offset so there's room for NNX's
-- shit could do just branching 3x, have seen manuscripts in that style
+- shit could do just branching 3x, have seen manuscripts in that style, but then have a list of 27 at end. could be offset
 
 so maybe 2 formats, can switch between, and the pretty one shown by default on TOC and grokkier one on cosmography
+
+contents:
+
+- nodes with lines between them
+- name and triglyph at each node
+- some laminae hover state popup
+- compass rose
+    - drag to rotate would either move the rose around or would have to update the rose
+- list of facets
+    + hovering facet highlights laminae with that facet + lines
+    + hovering facet has facet info popup (maybe same as in rest of text)
+- hovering in TOC highlights node and vice versa
+- maybe hovering lamina lightly highlights each of its facet planes
 
 code:
 
 - https://threejs.org/examples/#webgl_interactive_points
 - https://threejs.org/examples/#webgl_lines_fat_wireframe
 - https://threejs.org/examples/#webgl_postprocessing_unreal_bloom
+- https://developer.mozilla.org/en-US/docs/Web/CSS/perspective
+- bits
+    + tooltip that always faces camera http://stemkoski.github.io/Three.js/Mouse-Tooltip.html
+    + CSS2Renderer
+    + CSS3Renderer
 
 ### facet hover
 

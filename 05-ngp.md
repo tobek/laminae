@@ -12,7 +12,7 @@ post_intro_only: |
     </div>
 
 quote: |
-    > If you make rules only you can win by, they will play by other rules. TODO(quote maybe)[]
+    > 38 &middot; The world is not what anyone wished for, but it's what everyone wished for.
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 

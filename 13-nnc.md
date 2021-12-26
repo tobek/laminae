@@ -7,7 +7,7 @@ hide_toc: True
 <!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
 
 quote: |
-    > By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. TODO(quote maybe)[]
+    > 204 &middot; By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. TODO(quote maybe)[]
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 

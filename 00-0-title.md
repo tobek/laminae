@@ -204,6 +204,8 @@
   }
 </style>
 
+<div class="viz"></div>
+
 <div class="toc">
 
 ## Contents

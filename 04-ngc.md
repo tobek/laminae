@@ -5,7 +5,7 @@ subtitle: Synthesis Empathy Creation NGC
 intro_only: True
 post_intro_only: MEDIA("David Hellman - Braid background.jpg")
 quote: |
-    > All the falling rain is caught.
+    > 217 &middot; All the falling rain is caught.
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
 
@@ -139,7 +139,7 @@ maybe this is what catches all the falling rain? Beautiful underground cave rive
 
 is this a sound as in an inlet, or a place where a certain sound manifests?
 
-<!-- ### The Golden Landing -->
+### The Golden Landing
 
 maybe - some kind of resting/meeting place where people meet and debrief? beautiful tavern overlooking....
 

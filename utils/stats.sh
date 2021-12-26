@@ -63,7 +63,7 @@ WORDS=$((WORDS - TITLE_WORDS))
 WIP_WORDS=$(wc -w < all.md) # non-numbered but actual content
 WORDS=$((WORDS + WIP_WORDS))
 
-LOC=$(cat ./*.sh build.py template.html index.yml utils/*.sh firebase/functions/src/index.ts | wc -l)
+LOC=$(cat ./*.sh ./*.js ./*.css build.py template.html index.yml utils/*.sh firebase/functions/src/index.ts | wc -l)
 LOC=$((LOC + 137)) # eh add the css in title.md
 
 if [ -n "$1" ]

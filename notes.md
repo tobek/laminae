@@ -788,6 +788,14 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - chaucer metal quote from saturn or bloody mars stuff (in quotes.txt)
 - "Should you shield the canyons from the windstorms you would never see the beauty of their carvings." ― Elisabeth Kübler-Ross (used on NGD but could be elsewhere)
 - James Richardson
+    - TODO add numbers to the quotes
+    - 6. Wind cannot blow the wind away, nor water wash away the water.
+    - 15. Stand watch over your peace and you will be peaceless. LEP, LGP
+    - 40. A faith is dead when no one can think of a heresy.
+    - The mercy of a stone is in asking no mercy.
+    - 23. All stones are broken stones.
+    - 28. *Throw it away*. But there is no *away*. CND
+    - 91. If you make rules only you can win by, they will play by other rules
     - Vectors: Aphorisms & Ten-Second Essays_, Richardson 2001
         - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGP, CGD)
         - 273. You who have proved how much like me you are: how could I trust you? (CGD)
@@ -811,11 +819,12 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - used
     + "So you must not be frightened if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloudshadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any uneasiness, any miseries, or any depressions? For after all, you do not know what work these conditions are doing inside you." - rilke
     + "Nothing is created / Nothing is destroyed / Everything transforms" - milan trash can maybe but also Antoine Lavoisier
-    + 217. All the falling rain is caught.
-    + 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins
-    + 91. If you make rules only you can win by, they will play by other rules
     + paradise lost angel sex
     + "Beauty is an unalloyed good, a good until itself. Likewise strength." - Zero HP Lovecraft
+    + vectors
+        * 217. All the falling rain is caught.
+        * 204. By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins
+        * 38. The world is not what anyone wished for, but it's what everyone wished for
 
 Whereto the almighty answered, not displeased.
 A nice and subtle happiness I see
@@ -893,7 +902,7 @@ actual words: https://wordsmith.org/anagram/advanced.html
 - maybe some craig leon shit for CND
 - great silence soundtrack
 - a casiopea track?!
-- andrew bird echolocations
+- andrew bird echolocations/instrumental
 - total annihilation soundtrack
 - geoffrey castle - mist on the mountain
 - suicide cliff: https://open.spotify.com/track/5xc89NHPX4oUxikCYu1Mve
