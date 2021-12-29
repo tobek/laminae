@@ -108,6 +108,7 @@
     <tr><td>Glass Ocean</td><td>REF[LNC](lnc#glass-ocean)</td></tr>
     <tr><td>Glintings</td><td>REF[LNC](lnc#glintings)</td></tr>
     <tr><td>Golden Lake, The</td><td>REF[NGC](ngc#the-golden-lake)</td></tr>
+    <tr><td>Golden Landing, The</td><td>REF[NGC](ngc#the-golden-landing)</td></tr>
     <tr><td>Golden Sound, The</td><td>REF[NGC](ngc#the-golden-sound)</td></tr>
     <tr><td>Golden Spine, The</td><td>REF[NGC](ngc#the-golden-spine)</td></tr>
     <tr><td>Gorol</td><td>REF[CEP](cep#gorol)</td></tr>

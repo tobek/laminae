@@ -150,6 +150,9 @@
         padding-right: 8px;
       }
     }
+    .toc .row.hover {
+      color: #b00000;
+    }
   .toc .left {
     white-space: nowrap;
   }
@@ -202,9 +205,29 @@
   .shortcuts {
     font-size: 1rem;
   }
-</style>
 
-<div class="viz"></div>
+  .viz {
+    position:  relative;
+    margin-bottom: -50px;
+  }
+    .compass-wrap {
+      position: absolute;
+      pointer-events: none;
+      left: -50px;
+      bottom: -50px;
+      width: 250px;
+      height: 250px;
+      overflow: hidden;
+      /*background: #ff7f5024;*/
+    }
+      .compass {
+        position: relative;
+        width: 300px;
+        height: 300px;
+        left: -50px;
+        /*background: #ff7f5024;*/
+      }
+</style>
 
 <div class="toc">
 
@@ -237,127 +260,131 @@
   <div class="dots"></div><div class="page"></div>
 </div>
 
+<div class="viz">
+  <div class="compass-wrap"><div class="compass"></div></div>
+</div>
+
 ##### The Laminae
 
 <div class="lamina">
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="01-lgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="lgc" hreff="01-lgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="02-lgp.html">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="lamina-name undone" data-facets="lgp" hreff="02-lgp.html">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LGP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">3.</div><a class="lamina-name" href="03-lgd.html">The Ardence</a></div>
+  <div class="left"><div class="numeral">3.</div><a class="lamina-name" data-facets="lgd" href="03-lgd.html">The Ardence</a></div>
   <div class="dots"></div><div class="page">LGD</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">4.</div><a class="lamina-name" href="04-ngc.html">The Bell</a></div>
+  <div class="left"><div class="numeral">4.</div><a class="lamina-name" data-facets="ngc" href="04-ngc.html">The Bell</a></div>
   <div class="dots"></div><div class="page">NGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">5.</div><a class="lamina-name" href="05-ngp.html">The Braid</a></div>
+  <div class="left"><div class="numeral">5.</div><a class="lamina-name" data-facets="ngp" href="05-ngp.html">The Braid</a></div>
   <div class="dots"></div><div class="page">NGP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">6.</div><span class="tooltip-wrap"><a class="lamina-name" href="06-ngd.html">The Cicatrix</a></span></div>
+  <div class="left"><div class="numeral">6.</div><span class="tooltip-wrap"><a class="lamina-name" data-facets="ngd" href="06-ngd.html">The Cicatrix</a></span></div>
   <div class="dots"></div><div class="page">NGD</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">7.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="07-cgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">7.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="cgc" hreff="07-cgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">8.</div><a class="lamina-name" href="08-cgp.html">The Brink</a></div>
+  <div class="left"><div class="numeral">8.</div><a class="lamina-name" data-facets="cgp" href="08-cgp.html">The Brink</a></div>
   <div class="dots"></div><div class="page">CGP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">9.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="09-cgd.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">9.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="cgd" hreff="09-cgd.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CGD</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">10.</div><a class="lamina-name" href="10-lnc.html">The Unfolding</a></div>
+  <div class="left"><div class="numeral">10.</div><a class="lamina-name" data-facets="lnc" href="10-lnc.html">The Unfolding</a></div>
   <div class="dots"></div><div class="page">LNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">11.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="11-lnp.html">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">11.</div><span class="tooltip-wrap"><a class="lamina-name undone" data-facets="lnp" hreff="11-lnp.html">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LNP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">12.</div><a class="lamina-name" href="12-lnd.html">The Instrument</a></div>
+  <div class="left"><div class="numeral">12.</div><a class="lamina-name" data-facets="lnd" href="12-lnd.html">The Instrument</a></div>
   <div class="dots"></div><div class="page">LND</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">13.</div><a class="lamina-name" href="13-nnc.html">The Asymmetry</a></div>
+  <div class="left"><div class="numeral">13.</div><a class="lamina-name" data-facets="nnc" href="13-nnc.html">The Asymmetry</a></div>
   <div class="dots"></div><div class="page">NNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">14.</div><a class="lamina-name" href="14-nnp.html">The Cartography</a></div>
+  <div class="left"><div class="numeral">14.</div><a class="lamina-name" data-facets="nnp" href="14-nnp.html">The Cartography</a></div>
   <div class="dots"></div><div class="page">NNP</div>
 </div>
 </div>
 
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="15-nnd.html">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="lamina-name undone" data-facets="nnd" hreff="15-nnd.html">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NND</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="16-cnc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="cnc" hreff="16-cnc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="17-cnp.html">The Wilt</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="lamina-name undone" data-facets="cnp" hreff="17-cnp.html">The Wilt</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CNP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">18.</div><a class="lamina-name" href="18-cnd.html">The Inevitability</a></div>
+  <div class="left"><div class="numeral">18.</div><a class="lamina-name" data-facets="cnd" href="18-cnd.html">The Inevitability</a></div>
   <div class="dots"></div><div class="page">CND</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">19.</div><a class="lamina-name" href="19-lec.html">The Macula</a></div>
+  <div class="left"><div class="numeral">19.</div><a class="lamina-name" data-facets="lec" href="19-lec.html">The Macula</a></div>
   <div class="dots"></div><div class="page">LEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">20.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="20-lep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">20.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="lep" hreff="20-lep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="21-led.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="led" hreff="21-led.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LED</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">22.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="22-nec.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">22.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="nec" hreff="22-nec.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">23.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="23-nep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">23.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="nep" hreff="23-nep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">24.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="24-ned.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">24.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="ned" hreff="24-ned.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NED</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">25.</div><a class="lamina-name" href="25-cec.html">The Bloom</a></div>
+  <div class="left"><div class="numeral">25.</div><a class="lamina-name" data-facets="cec" href="25-cec.html">The Bloom</a></div>
   <div class="dots"></div><div class="page">CEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">26.</div><a class="lamina-name" href="26-cep.html">The Knot</a></div>
+  <div class="left"><div class="numeral">26.</div><a class="lamina-name" data-facets="cep" href="26-cep.html">The Knot</a></div>
   <div class="dots"></div><div class="page">CEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="27-ced.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" data-facets="ced" hreff="27-ced.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CED</div>
 </div>
 

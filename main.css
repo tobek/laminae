@@ -1,0 +1,517 @@
+@font-face {
+  font-family: "Poliphilus";
+  src: url("./fonts/PoliphilusStd.otf") format("opentype"),
+    url("./fonts/PoliphilusStd.ttf") format("truetype"),
+    url("./fonts/PoliphilusStd.woff") format("woff"),
+    url("./fonts/PoliphilusStd.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSansMyanmar";
+  src: url("./fonts/NotoSansMyanmar-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+$if(toc)$
+  @font-face {
+    font-family: "SegoeUI";
+    src: url("./fonts/segoeui-stripped.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "DejaVuSans";
+    src: url("./fonts/DejaVuSans-stripped.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+  }
+$endif$
+
+body.bask {
+  font-size: 18px;
+  font-family: 'Libre Baskerville' !important;
+}
+.bask p {
+  line-height:  1.25rem;
+}
+
+h1, h2, h3, h4, h5, h6, blockquote {
+  font-family:  'Cormorant Garamond', serif;
+}
+
+html {
+  background: #f9e6cd;
+  font-size: 24px;
+  position: relative;
+}
+  html[class="00-0-title"] {
+    font-size: 20px;
+  }
+  @media only screen and (max-width: 767px) {
+    html {
+      font-size: 20px;
+    }
+  }
+
+html, body {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poliphilus", "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  box-sizing: border-box;
+  max-width: 900px;
+  min-height: 100vh;
+  width: calc(100% - 32px);
+  padding: 32px 64px 64px;
+  margin: auto;
+  background: antiquewhite;
+  color: #311500;
+}
+  @media only screen and (max-width: 767px) {
+    body {
+      padding: 16px 16px 48px 16px;
+      width: calc(100% - 16px);
+    }
+  }
+
+::selection {
+  background-color: #a90000;
+  color: lightgoldenrodyellow;
+}
+
+h1, h2 {
+  font-weight: normal;
+}
+h1.title {
+  font-size: 2.5rem;
+  margin-bottom:  1rem;
+}
+  @media only screen and (max-width: 767px) {
+    h1.title {
+      font-size: 2rem;
+    }
+  }
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.17rem;
+}
+h4 {
+  font-size: 1rem;
+}
+h5 {
+  font-size: 0.83rem;
+}
+h6 {
+  font-size: 0.67rem;
+}
+
+header {
+  text-align: center;
+  margin: 4rem 0 3rem;
+}
+  @media only screen and (max-width: 767px) {
+    header {
+      margin-top: 3rem;
+    }
+  }
+.subtitle {
+  font-weight: normal;
+  margin-top: -0.375rem;
+  margin-bottom: 1rem;
+  font-variant: all-small-caps;
+  font-weight: 700;
+  letter-spacing: 0.25px;
+}
+.b-glossary .glyph,
+.subtitle .glyph {
+  color: #113a6b;
+}
+.subtitle .glyph {
+  font-variant: normal;
+  display:  block;
+  font-size: 110%;
+  font-weight:  500;
+  line-height: 2;
+  letter-spacing: 5px;
+}
+.intro {
+  margin-top: 2rem;
+}
+
+#untranslated {
+  margin: 1.5rem 0 2rem;
+}
+
+a[href] {
+  text-decoration: none;
+  color: #b00000;
+}
+a[href]:visited {
+  color: #900000;
+}
+a[href]:active, a[href]:hover, a[href]:focus {
+  color: #700000;
+}
+
+dfn {
+  font-style: normal;
+}
+a.untranslated,
+a.ref:not([href]) {
+  cursor: pointer;
+  opacity: 0.5;
+}
+a.untranslated:hover,
+a.ref:not([href]):hover {
+  opacity: 0.75;
+}
+
+.tooltip-wrap {
+  position: relative;
+}
+  .tooltip-wrap:hover .tooltip {
+    display: block;
+    opacity: 1;
+    pointer-events: auto;
+  }
+    .tooltip-wrap:hover .untranslated + .tooltip {
+      pointer-events: none;
+    }
+  .tooltip {
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    font-size: 0.875rem;
+    background: #F8E8D4;
+    color: #311500;
+    border:  1px solid #31150030;
+    padding: 15px 15px 10px;
+    position: absolute;
+    z-index: 999;
+    bottom: 10px;
+    left: 50%;
+    width:  350px;
+    transform: translate(-50%, calc(100% + 10px));
+  }
+    .img-wrap .tooltip {
+      width: 75%;
+    }
+
+  @media only screen and (max-width: 767px) {
+    /*TODO(otherwise extending page off to sides e.g. on cosmography)*/
+    p .tooltip {
+      display: none !important;
+    }
+  }
+
+.karedian,
+.glyph {
+  font-family: "NotoSansMyanmar", sans-serif;
+}
+
+p .em-dash {
+  font-weight: bold;
+  margin-right: 2px;
+  margin-left: 1px;
+  /*
+  width: 22px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+  */
+}
+
+hr {
+  outline: none;
+  border: none;
+  text-align: center;
+}
+hr:before {
+  content: "ၹ\0000a0\0000a0\0000a0ဓ\0000a0\0000a0\0000a0ၻ";
+  color: #a90000;
+  font-size: 0.87rem;
+  font-family: "NotoSansMyanmar", sans-serif;
+}
+
+.img-wrap {
+  text-align: center;
+  opacity: 0.9;
+  transition: opacity 0.5s ease-out;
+}
+.img-wrap:hover {
+  opacity: 1;
+}
+img {
+  max-width: 100%;
+  max-height: 80vh;
+}
+
+.intro p:first-child:first-letter,
+header + p:first-letter,
+header + blockquote + p:first-letter,
+header + blockquote + blockquote + p:first-letter,
+h1 + p:first-letter {
+  float: left;
+  font-size: 500%;
+  margin: 1px 0 -17px 0;
+  padding: 0 .08em 0 0;
+  height: .7em;
+  line-height: .85em;
+}
+
+blockquote {
+  font-weight: 600;
+  font-style: italic;
+  margin: -2rem 10px 1.5rem;
+  padding: .155rem 1.5rem;
+}
+  /*.img-wrap img:before,*/
+  blockquote:only-child:before,
+  blockquote:first-child:before {
+    content: '';
+    display: block;
+    border-bottom: 1.5px solid #31150018;
+    margin: 0 auto 35px;
+    width: calc(100% + 3rem);
+    margin-left: -1.5rem;
+  }
+  /*.img-wrap img:after,*/
+  blockquote:only-child:after,
+  blockquote:last-child:after {
+    content: '';
+    display: block;
+    border-top: 1.5px solid #31150018;
+    margin: 35px auto 0;
+    width: calc(100% + 3rem);
+    margin-left: -1.5rem;
+  }
+  /*.img-wrap img,*/
+  blockquote:only-child,
+  blockquote:first-child {
+    border-top: 3px solid #31150018;
+  }
+  /*.img-wrap,*/
+  blockquote:only-child,
+  blockquote:last-child {
+    border-bottom: 3px solid #31150018;
+  }
+
+  @media only screen and (max-width: 767px) {
+    blockquote {
+      padding-left:  0;
+      padding-right:  0;
+    }
+    blockquote:before,
+    blockquote:after {
+      width: 100% !important;
+      margin-left: 0 !important;
+    }
+  }
+
+  blockquote .attribution {
+    display: block;
+    font-size:  90%;
+    font-style: normal;
+    margin-top: -.5rem;
+  }
+  blockquote .em-dash {
+    font-weight: 700;
+  }
+
+em,
+.editor-note {
+  font-family:  'Cormorant Garamond', serif;
+  font-size: 98%;
+  font-weight: 600;
+  font-style: italic;
+}
+p em,
+p .editor-note {
+  line-height:  1;
+}
+
+.shortcuts {
+  font-size: smaller;
+  display: flex;
+  justify-content: space-between;
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+  .shortcuts.top{
+    margin-bottom: 2rem;
+  }
+  .shortcuts.bottom {
+    margin-top: 4rem;
+  }
+    @media only screen and (max-width: 767px) {
+      .shortcuts.bottom {
+        margin-bottom: 1rem;
+      }
+    }
+  .shortcuts a {
+    width: 40%;
+  }
+  .shortcuts a:nth-child(2) {
+    text-align: center;
+  }
+  .shortcuts a:last-child {
+    text-align: right;
+  }
+  .shortcuts .contents {
+    font-weight: 700;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 110%;
+    margin-top: -3.5px;
+    width: auto;
+    min-width: 100px;
+  }
+
+#TOC .no-toc-children + ul {
+  display: none;
+}
+#TOC ul {
+  list-style-type: none;
+  counter-reset: toc;
+}
+  #TOC ul:first-child {
+    padding-left: 1.5rem;
+  }
+    #TOC ul > li {
+      counter-increment: toc;
+      line-height: 1.5rem;
+    }
+      #TOC ul > li:before {
+        content: counter(toc, kannada) " ";
+        margin-right: 0.2rem;
+        font-family: "SegoeUI";
+        line-height: 1;
+      }
+        #TOC ul ul > li:before {
+          content: counter(toc, lao) " ";
+          font-family: "DejaVuSans";
+        }
+          #TOC ul ul ul > li:before {
+            content: counter(toc, tibetan) " ";
+            font-family: "SegoeUI";
+          }
+            #TOC ul ul ul ul > li:before {
+                content: counter(inscrutable, myanmar) " ";
+                font-family: "NotoSansMyanmar", sans-serif;
+                /* Burmese is kinda vertically offset, so (may not be necssary after switching font to noto): */
+                position: relative;
+                top: -3px;
+            }
+
+.footnote-ref sup {
+  vertical-align: unset;
+  position: relative;
+  top: -0.3rem;
+}
+  /*TODO(check these styles when sizes finalized)*/
+  h2 .footnote-ref sup,
+  h3 .footnote-ref sup {
+    top: -0.6rem;
+    left: 0.1rem;
+    font-size: 70%;
+  }
+  h3 .footnote-ref sup {
+    top: -0.5rem;
+  }
+
+.footnotes {
+  margin-top: 2rem;
+}
+  .footnote-back {
+    position: absolute;
+    margin-left: .33rem;
+    margin-top: -1px;
+    font-size: 0;
+  }
+  .footnote-back:after {
+    font-family: "NotoSansMyanmar", sans-serif;
+    /*content: 'ရ';*/
+    content: 'န';
+    position: absolute;
+    left: 8px;
+    top: -8px;
+    font-size: 0.9rem;
+    transform: rotate(90deg);
+    height: 1.9rem;
+  }
+
+.corner {
+  position: absolute;
+  opacity: 0.5;
+  bottom: 4px;
+  right: 8px;
+}
+  .corner a {
+    width: 100%;
+  }
+
+[data-facet] {
+  display: inline-block;
+}
+[data-facet]:after {
+  font-family: "NotoSansMyanmar", sans-serif;
+  line-height: 1rem;
+  content: attr(data-facet);
+  margin-left: 4px;
+}
+/*
+.glyph-group [data-facet] + [data-facet] {
+  margin-left: 0.25rem;
+}
+*/
+
+.choose-one-child {
+  display: none;
+}
+  .choose-one-child.chosen {
+    display: revert;
+  }
+
+gpt {
+  display: inline;
+  opacity: 0.825;
+}
+
+.copy-table table {
+  margin: auto;
+}
+  .copy-table td {
+    padding: 0.25rem 1rem;
+  }
+  .facet-table td:first-child {
+    padding: 0 1rem 0 0;
+  }
+  .lamina-table td {
+    padding: 0.15rem 0.5rem;
+  }
+  .lamina-table tr:first-child td {
+    padding-bottom: 0.25rem;
+  }
+  @media only screen and (max-width: 767px) {
+    .copy-table table {
+      font-size:  90%;
+    }
+    .facet-table td {
+      padding: 0.25rem 0.05rem;
+    }
+    .facet-table td:first-child {
+      padding: 0 0.5rem 1rem 0;
+    }
+    .lamina-table td {
+      padding: 0 0.25rem;
+    }
+    .copy-table [data-facet]:after {
+      display: block;
+      margin-bottom: 17px;
+    }
+  }

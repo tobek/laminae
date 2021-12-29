@@ -66,7 +66,8 @@ os.makedirs("build", exist_ok=True)
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
     print(input_file)
 
-    file_id = re.match(file_id_regex, input_file)[2]
+    file_id_match = re.match(file_id_regex, input_file)
+    file_id = file_id_match and file_id_match[2]
     # import pprint; pprint.PrettyPrinter(indent=2).pprint(file_data[file_id])
 
     if output_file is None:
@@ -106,7 +107,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
             "--variable=title_suffix:Observations on the Twenty-Seven Laminae",
         ]
 
-    if file_data[file_id]["metadata"] and file_data[file_id]["metadata"].get("subtitle"):
+    if file_id and file_data[file_id]["metadata"] and file_data[file_id]["metadata"].get("subtitle"):
         pandoc_args += [
             "--variable=description_subtitle:" + re.sub(facet_regex, facet_description_replace, file_data[file_id]["metadata"].get("subtitle")),
         ]

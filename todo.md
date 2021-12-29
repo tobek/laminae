@@ -477,6 +477,8 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 
 ## ■▤▤ Build
 
+    nodemon -ext "js,md" --exec "python build.py 00-0-title.md" # md isn't working
+
 - remove # from file name?? maybe not
 
 ### OG tags
@@ -676,6 +678,7 @@ formats:
     + hovering over glyph/facet highlights all its laminae and mentions elsewhere
 - could do circle instead of cube - 3 concentric circles, slightly offset so there's room for NNX's
 - shit could do just branching 3x, have seen manuscripts in that style, but then have a list of 27 at end. could be offset
+- gosh could it be some torus knot? https://threejs.org/docs/#api/en/geometries/TorusKnotGeometry
 
 so maybe 2 formats, can switch between, and the pretty one shown by default on TOC and grokkier one on cosmography
 
@@ -687,10 +690,37 @@ contents:
 - compass rose
     - drag to rotate would either move the rose around or would have to update the rose
 - list of facets
-    + hovering facet highlights laminae with that facet + lines
+    + hovering facet highlights laminae with that facet (and lines/faces?)
     + hovering facet has facet info popup (maybe same as in rest of text)
+    + hover on a facet category colors each facet one of 3 colors, and colors each face with corresponding one?
 - hovering in TOC highlights node and vice versa
 - maybe hovering lamina lightly highlights each of its facet planes
+
+on mobile, tap = hover
+
+nodes or cubes?
+
+- node:
+    + node options
+        * circle with trinym in it that faces camera
+            * or a shield instead of circle, or an arc above
+        * node with trinym above/over and name below (or maybe name only visible if close to camera)
+        * no node/point, just trinym (possible name below)
+        * dunno maybe text crossing lines would look okay
+    + highlighting facet highlights a face + nodes
+    + maybe lines that stop short of nodes (dashed if obscured or posterior)
+        * even if stopping short, line will still overlap with node in some cases
+        * instead node could have color-of-background circle background
+- cubes:
+    + prob a wireframe cube
+    + text (trinym and name) floating in center of cube (facing camera), or
+    + text on faces (duplicated?)
+        * sometimes will be upside down unless they face camera
+        * cluttered with even more than 27 items, unless obscured (totally or partially)
+    + NNP can't be seen clearly (that's ok)
+    + highlighting facet highlights 9 cubes (maybe fades others)
+
+different colors to make it less confusing
 
 code:
 
@@ -700,8 +730,55 @@ code:
 - https://developer.mozilla.org/en-US/docs/Web/CSS/perspective
 - bits
     + tooltip that always faces camera http://stemkoski.github.io/Three.js/Mouse-Tooltip.html
+    + HTML elements tracking three.js stuff: https://threejs.org/manual/?q=canvas#en/align-html-elements-to-3d
     + CSS2Renderer
     + CSS3Renderer
+    + sprites or billboards
+
+#### viz design q's
+
+- where on the page?
+- laminae hover states
+    + should whole TOC row be hoverable/clickable?
+    + glyph blue?
+- colors in general
+- show midpoint facets in compass?
+
+#### up next
+
+- compass rose
+    + light up when hovering over facet
+- hover
+    + abstract out highlight stuff so that it's all in one place and hovering in viz or TOC
+    + fade out lines and highlight appropriate facet lines on hover? (mid lines too?)
+        * there are other mid lines...
+        * some seem faded, try negative offset?
+    + highlight facets in TOC too?
+    + maybe facet lines are less transparent but fade on hover
+    + maybe make the one selected lamina bigger, especially with TOC hover, you might not see which in viz has been highlighted
+- facet legend
+- tooltip
+    + tooltip in fixed location like legend?
+- click to go to lamina page? but what about tap - handle tooltip tap situation in general i guess
+- stylize
+    + means lines from origin point to infinity??
+        * change CD_MULT to be an angle
+    + bezier curve?
+- fix camera/zoom, mobile responsiveness, etc.
+    + check compass view too
+- put in cosmography?
+    + add "lamina" column to the big list and repeat with all the glyphs there?
+    + update "Arrangement" section etc, move it, where to put viz, etc
+
+#### viz backlog
+
+- doesn't work in firefox, some issue with the laminae canvas labels
+- what to do about stuff that goes off edge as rotating?
+    + could auto move stuff to fit in viewport but would be a pain
+    + best effort clamping values (prob no zoom) and maybe have gradient fade at edges so it doesn't clip
+- later
+    - hover over compass facets?
+    - could make obscured lines dashed: https://discourse.threejs.org/t/making-invisible-edges-dashed/29824/1
 
 ### facet hover
 
