@@ -1,0 +1,66 @@
+.viz-wrap {
+  position:  relative;
+  opacity: 0;
+  pointer-events: none;
+}
+  .viz-wrap.loaded {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .viz-wrap, .viz-wrap div {
+    /*background: #ff7f5012;*/
+  }
+  .viz {
+    position: relative;
+    top: -16px;
+    right: -84px;
+  }
+    .viz .tooltip.show {
+      display: block;
+      position: absolute;
+      opacity: 1;
+      top: 0;
+      left: 0;
+      bottom: auto;
+      width: auto;
+      user-select: none;
+    }
+  .viz-wrap .facet-legend {
+    position: absolute;
+    font-size: 90%;
+    top: 8px;
+    left: 8px;
+  }
+    .viz-wrap .facet-legend .tooltip {
+      pointer-events: none;
+    }
+    .viz-wrap .facet-legend td {
+      padding: 0;
+    }
+    .viz-wrap .facet-legend .axis-name {
+      display: block;
+      font-style: italic;
+      padding-top: 8px;
+    }
+    .viz-wrap .facet-legend a {
+      margin: 0;
+      color: #113a6b;
+    }
+      .viz-wrap .facet-legend a:hover, .viz-wrap .facet-legend a.hover {
+        color: #b00000;
+      }
+  .compass-wrap {
+    position: absolute;
+    pointer-events: none;
+    left: -48px;
+    bottom: -48px;
+    width: 275px;
+    height: 275px;
+    overflow: hidden;
+  }
+    .compass {
+      position: relative;
+      width: 300px;
+      height: 300px;
+      left: -36px;
+    }

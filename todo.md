@@ -13,7 +13,7 @@
 - A close edit pass across the whole thing `8h`
 - Colophon `4h`
 - Review every TODO
-- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, OG tags, etc), add/update/shift images for LNC, CGP, NNC, CEP
+- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, OG tags, OG images for non-lamina pages, etc), add/update/shift images for LNC, CGP, NNC, CEP, consider ꩣ ဘ for autonomy
 - Bonuses:
     - moodboard images?
     - more shifting elements
@@ -604,10 +604,12 @@ later
         * `pyftsubset segoeui.ttf --output-file=segoeui-stripped.ttf --unicodes-file=kannada-tibetan-unicodes.txt`
         * `pyftsubset DejaVuSans.ttf --output-file=DejaVuSans-stripped.ttf --unicodes-file=lao-unicodes.txt`
 - tooltip on mobile
+    + handle clipping off side... gotta use library
+    + can use hover + fine pointer as in viz
     + images - tap to show (might already work?)
     + references - tap should pop up, with link to view more
         * link to view more on desktop too?
-    + untranslated refs that have no href - does tap open tooltip?
+    + untranslated refs that have no href - does tap open tooltip? yes
 - more mobile and browser compatibility check
     + styles, fonts, what else?
 - mobile nav "Contents" could be on its own line so there's space for the others
@@ -738,25 +740,18 @@ code:
 #### viz design q's
 
 - where on the page?
-- laminae hover states
-    + should whole TOC row be hoverable/clickable?
-    + glyph blue?
+- circle or little arc around/over each lamina?
+- could try making each facet edge line stop short of each lamina (and then moving them back in)
+- hover states everywhere
 - colors in general
 - show midpoint facets in compass?
+- camera damping?
+- facet legend centered?
+- enlarging of lamina glyphs in viz on hover?
+- highlighting glyphs in TOC is too much? maybe darker color for non main one
 
-#### up next
+#### viz up next
 
-- compass rose
-    + light up when hovering over facet
-- hover
-    + abstract out highlight stuff so that it's all in one place and hovering in viz or TOC
-    + fade out lines and highlight appropriate facet lines on hover? (mid lines too?)
-        * there are other mid lines...
-        * some seem faded, try negative offset?
-    + highlight facets in TOC too?
-    + maybe facet lines are less transparent but fade on hover
-    + maybe make the one selected lamina bigger, especially with TOC hover, you might not see which in viz has been highlighted
-- facet legend
 - tooltip
     + tooltip in fixed location like legend?
 - click to go to lamina page? but what about tap - handle tooltip tap situation in general i guess
@@ -764,7 +759,12 @@ code:
     + means lines from origin point to infinity??
         * change CD_MULT to be an angle
     + bezier curve?
-- fix camera/zoom, mobile responsiveness, etc.
+- hover
+    + fade out lines and highlight appropriate facet lines on hover? (mid lines too?)
+        * there are other mid lines on all faces... maybe just highlight face a bit instead?
+        * some seem faded, try negative offset?
+    + maybe facet lines are less transparent but fade on hover
+- mobile responsiveness
     + check compass view too
 - put in cosmography?
     + add "lamina" column to the big list and repeat with all the glyphs there?
@@ -772,6 +772,7 @@ code:
 
 #### viz backlog
 
+- hover over axis name highlights each facet? `highlightLaminaeGlyphs("ꩧxx", true)` 3x
 - doesn't work in firefox, some issue with the laminae canvas labels
 - what to do about stuff that goes off edge as rotating?
     + could auto move stuff to fit in viewport but would be a pain
@@ -782,18 +783,23 @@ code:
 
 ### facet hover
 
+NOT THAT NECESSARY
+
 data-facet= (added when processing REFs) and :after content
 
-- how much of the description?
-- (labeled or hover?) glyph square on trinym hover?
-    + like above and below are the other facets from that axis, dimmed, with text and glyph
-    + to the sides are the other axes
+- additional description for non-viz, like "Creation is a facet of Means"
 - CSS/JS attached to data-facet for hover
+- could fade in the adjacent facets on top, with the axis label, and the current one highlighted
 
 ### lamina hover
 
+PROB ALSO NOT THAT NECESSARY i mean how many of these are there even
+
 - show three glyphs in :after?
     + probably not in ordial-primer chapter - do we even want those to link?
+- (labeled or hover?) glyph square on trinym hover?
+    + like above and below are the other facets from that axis, dimmed, with text and glyph
+    + to the sides are the other axes
 - probably the same REF popup as anything else
 - could expand with facet definitions
 
@@ -803,6 +809,8 @@ lamina links should be e.g. "The Braid ꧪဥဓ" and on hover the tooltip can h
     description...          *ꧪ* ၇ *ဓ*
     etc...                      ꧹   ဋ   ဗ
     read more ->
+
+could maybe do glyph square on every lamina page
 
 consider mobile
 
@@ -977,6 +985,9 @@ References themselves just `a.ref`
     REF[Equilibrium] # whitelist dict of terms to auto-map to facets
     REF[petitioners] # top level cosmography terms can be linked directly - case insenstive
     REF[Ordial](ordial-plane) # if need to change the anchor text, can still reference directly by term
+
+    # bare laminae too:
+    REF[LGD]
 
     REF[some made up thing](LNC#untranslated) # mark as gray with untranslated tooltip but lead to #untranslated anchor on page
 

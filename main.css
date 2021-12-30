@@ -45,7 +45,7 @@ html {
   font-size: 24px;
   position: relative;
 }
-  html[class="00-0-title"] {
+  html[class*="00-0-title"] {
     font-size: 20px;
   }
   @media only screen and (max-width: 767px) {
@@ -188,6 +188,7 @@ a.ref:not([href]):hover {
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
     font-size: 0.875rem;
+    text-align: left;
     background: #F8E8D4;
     color: #311500;
     border:  1px solid #31150030;
@@ -198,6 +199,7 @@ a.ref:not([href]):hover {
     left: 50%;
     width:  350px;
     transform: translate(-50%, calc(100% + 10px));
+    white-space: normal;
   }
     .img-wrap .tooltip {
       width: 75%;
@@ -256,6 +258,7 @@ img {
 header + p:first-letter,
 header + blockquote + p:first-letter,
 header + blockquote + blockquote + p:first-letter,
+.follow-with-dropcap + p:first-letter,
 h1 + p:first-letter {
   float: left;
   font-size: 500%;
@@ -455,12 +458,18 @@ p .editor-note {
     width: 100%;
   }
 
-[data-facet] {
+[data-facet], [data-facets] {
   display: inline-block;
 }
-[data-facet]:after {
+[data-facet]:after, [data-facets]:after {
   font-family: "NotoSansMyanmar", sans-serif;
   line-height: 1rem;
+}
+[data-facets]:after {
+  content: attr(data-facets);
+  margin-left: 5px;
+}
+[data-facet]:after {
   content: attr(data-facet);
   margin-left: 4px;
 }

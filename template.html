@@ -28,6 +28,10 @@
 
   <style>
     $^$${ main.css() }
+
+    $if(include_viz)$
+      $^$${ viz.css() }
+    $endif$
   </style>
 $for(css)$
   <link rel="stylesheet" href="$css$" />

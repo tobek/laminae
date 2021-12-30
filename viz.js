@@ -1,5 +1,9 @@
-import * as THREE from 'https://cdn.skypack.dev/three@0.136.0/build/three.module.js';
-import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
+if (location.origin.includes("thereitwas.com") && !document.location.search.includes("viz")) {
+  throw "nope";
+}
+
+import * as THREE from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx1INqCFBN0tXUQc/mode=imports,min/optimized/three.js';
+import { OrbitControls } from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx1INqCFBN0tXUQc/mode=imports,min/unoptimized/examples/jsm/controls/OrbitControls.js';
 
 const SCRIBE_BLACK = "#311500";
 const SCRIBE_RED = "#b00000";
@@ -7,7 +11,7 @@ const GLYPH_BLUE = "#113a6b";
 
 const OFFSET = 0.5; // offset from origin out to shape edge
 // const CD_MULT = 9/16; // multiplier down/up for creation/destruction
-const CD_MULT = 0; // multiplier down/up for creation/destruction
+const CD_MULT = 0.25; // multiplier down/up for creation/destruction
 const C_OFFSET = OFFSET * (1 - CD_MULT);
 const D_OFFSET = OFFSET * (1 + CD_MULT);
 
@@ -34,18 +38,33 @@ const facetData = [
 const facetIndex = {};
 facetData.forEach(axis => axis.forEach(facet => {
   facetIndex[facet.glyph] = facet;
+
+  const tocGlyphs = document.querySelectorAll("[data-toc-glyph='" + facet.glyph + "']");
+  facet.highlightTocGlyphs = function(doHighlight) {
+    for (let i = 0; i < tocGlyphs.length; i++) {
+      tocGlyphs[i].classList[doHighlight ? "add" : "remove"]("hover");
+    }
+  }
 }));
 
-const laminaeData = Array.from(document.querySelectorAll("[data-facets]")).map(function(el) {
-  const rowEl = el.parentNode.classList.contains("tooltip-wrap")
-    ? el.parentNode.parentNode.parentNode
-    : el.parentNode.parentNode;
-  return {
-    trinym: el.getAttribute("data-facets"),
-    glyphs: rowEl.querySelector(".glyph").textContent,
-    name: rowEl.querySelector("a").textContent,
-  };
-});
+let laminaeData;
+if (document.querySelectorAll("[data-toc-facets]").length) {
+  laminaeData = Array.from(document.querySelectorAll("[data-toc-facets]")).map(function(el) {
+    const rowEl = el.closest(".row");
+    return {
+      glyphs: el.getAttribute("data-toc-facets"),
+      name: rowEl.querySelector("a").textContent,
+      href: rowEl.querySelector("a").href,
+    };
+  });
+  try { localStorage.laminaeData = JSON.stringify(laminaeData); } catch {}
+} else {
+  try { laminaeData = JSON.parse(localStorage.laminaeData); } catch {}
+}
+if (!laminaeData) {
+  // shitty backup plan:
+  laminaeData = [{"glyphs":"ꩧဥꧠ","name":"The Equivocation","href":""},{"glyphs":"ꩧဥဓ","name":"The Concordance","href":""},{"glyphs":"ꩧဥဗ","name":"The Ardence","href":"http://localhost/yhfd/planescape%20trimurti/build/03-lgd.html"},{"glyphs":"ꧪဥꧠ","name":"The Bell","href":"http://localhost/yhfd/planescape%20trimurti/build/04-ngc.html"},{"glyphs":"ꧪဥဓ","name":"The Braid","href":"http://localhost/yhfd/planescape%20trimurti/build/05-ngp.html"},{"glyphs":"ꧪဥဗ","name":"The Cicatrix","href":"http://localhost/yhfd/planescape%20trimurti/build/06-ngd.html"},{"glyphs":"꧹ဥꧠ","name":"The Bauble","href":""},{"glyphs":"꧹ဥဓ","name":"The Brink","href":"http://localhost/yhfd/planescape%20trimurti/build/08-cgp.html"},{"glyphs":"꧹ဥဗ","name":"The Reticulum","href":""},{"glyphs":"ꩧ၇ꧠ","name":"The Unfolding","href":"http://localhost/yhfd/planescape%20trimurti/build/10-lnc.html"},{"glyphs":"ꩧ၇ဓ","name":"The Essentialism","href":""},{"glyphs":"ꩧ၇ဗ","name":"The Instrument","href":"http://localhost/yhfd/planescape%20trimurti/build/12-lnd.html"},{"glyphs":"ꧪ၇ꧠ","name":"The Asymmetry","href":"http://localhost/yhfd/planescape%20trimurti/build/13-nnc.html"},{"glyphs":"ꧪ၇ဓ","name":"The Cartography","href":"http://localhost/yhfd/planescape%20trimurti/build/14-nnp.html"},{"glyphs":"ꧪ၇ဗ","name":"The Lucidity","href":""},{"glyphs":"꧹၇ꧠ","name":"The Hidebound","href":""},{"glyphs":"꧹၇ဓ","name":"The Wilt","href":""},{"glyphs":"꧹၇ဗ","name":"The Inevitability","href":"http://localhost/yhfd/planescape%20trimurti/build/18-cnd.html"},{"glyphs":"ꩧဋꧠ","name":"The Macula","href":"http://localhost/yhfd/planescape%20trimurti/build/19-lec.html"},{"glyphs":"ꩧဋဓ","name":"The Aleatory","href":""},{"glyphs":"ꩧဋဗ","name":"The Weaking","href":""},{"glyphs":"ꧪဋꧠ","name":"The Simmer","href":""},{"glyphs":"ꧪဋဓ","name":"The Encumbrance","href":""},{"glyphs":"ꧪဋဗ","name":"The Ataxia","href":""},{"glyphs":"꧹ဋꧠ","name":"The Bloom","href":"http://localhost/yhfd/planescape%20trimurti/build/25-cec.html"},{"glyphs":"꧹ဋဓ","name":"The Knot","href":"http://localhost/yhfd/planescape%20trimurti/build/26-cep.html"},{"glyphs":"꧹ဋဗ","name":"The Snarl","href":""}];
+}
 
 /** `args` is array of { text: string; color?: string } */
 function getLabelCanvas(args, size) {
@@ -92,10 +111,14 @@ function getLabelMaterial(args, size) {
   });
 }
 
-function getLabel(args, size) {
-  const sprite = new THREE.Sprite(getLabelMaterial(args, size));
+function setLabelScale(sprite) {
   sprite.scale.x = sprite.material.map.image.width  * 0.001;
   sprite.scale.y = sprite.material.map.image.height * 0.001;
+}
+
+function getLabel(args, size) {
+  const sprite = new THREE.Sprite(getLabelMaterial(args, size));
+  setLabelScale(sprite);
   return sprite;
 }
 
@@ -106,13 +129,13 @@ function generateLabels(scene) {
     l.sprite.scale.x = l.sprite.material.map.image.width  * 0.001;
     l.sprite.scale.y = l.sprite.material.map.image.height * 0.001;
 
-    l.sprite.position.y = l.trinym[0] === "l" ? OFFSET : l.trinym[0] === "n" ? 0 : -1*OFFSET
-    l.sprite.position.x = l.trinym[1] === "g" ? -1*OFFSET : l.trinym[1] === "n" ? 0 : OFFSET
-    l.sprite.position.z = l.trinym[2] === "c" ? OFFSET : l.trinym[2] === "p" ? 0 : -1*OFFSET
-    if (l.trinym[2] === "c") {
+    l.sprite.position.y = l.glyphs[0] === "ꩧ" ? OFFSET : l.glyphs[0] === "ꧪ" ? 0 : -1*OFFSET
+    l.sprite.position.x = l.glyphs[1] === "ဥ" ? -1*OFFSET : l.glyphs[1] === "၇" ? 0 : OFFSET
+    l.sprite.position.z = l.glyphs[2] === "ꧠ" ? OFFSET : l.glyphs[2] === "ဓ" ? 0 : -1*OFFSET
+    if (l.glyphs[2] === "ꧠ") {
       l.sprite.position.x *= 1 - CD_MULT;
       l.sprite.position.y *= 1 - CD_MULT;
-    } else if (l.trinym[2] === "d") {
+    } else if (l.glyphs[2] === "ဗ") {
       l.sprite.position.x *= 1 + CD_MULT;
       l.sprite.position.y *= 1 + CD_MULT;
     }
@@ -129,30 +152,36 @@ function generateLabels(scene) {
   });
 }
 
-function highlightLaminae(glyphs, doHighlight) {
+function highlightLaminaeGlyphs(glyphs, doHighlight, _changeSize) {
   for (let i = 0; i < laminaeData.length; i++) {
     if (laminaeData[i].glyphs[0] === glyphs[0] ||
       laminaeData[i].glyphs[1] === glyphs[1] ||
       laminaeData[i].glyphs[2] === glyphs[2]
     ) {
+      const changeSize = _changeSize && laminaeData[i].glyphs === glyphs;
+
       if (!doHighlight) {
         laminaeData[i].sprite.material = getLabelMaterial([{ text: laminaeData[i].glyphs }]);
-        continue;
+      } else {
+        laminaeData[i].sprite.material = getLabelMaterial([
+          {
+            text: laminaeData[i].glyphs[0],
+            color: laminaeData[i].glyphs[0] === glyphs[0] ? SCRIBE_RED : undefined,
+          },
+          {
+            text: laminaeData[i].glyphs[1],
+            color: laminaeData[i].glyphs[1] === glyphs[1] ? SCRIBE_RED : undefined,
+          },
+          {
+            text: laminaeData[i].glyphs[2],
+            color: laminaeData[i].glyphs[2] === glyphs[2] ? SCRIBE_RED : undefined,
+          },
+        ], changeSize ? 72 : undefined);
       }
-      laminaeData[i].sprite.material = getLabelMaterial([
-        {
-          text: laminaeData[i].glyphs[0],
-          color: laminaeData[i].glyphs[0] === glyphs[0] ? SCRIBE_RED : undefined,
-        },
-        {
-          text: laminaeData[i].glyphs[1],
-          color: laminaeData[i].glyphs[1] === glyphs[1] ? SCRIBE_RED : undefined,
-        },
-        {
-          text: laminaeData[i].glyphs[2],
-          color: laminaeData[i].glyphs[2] === glyphs[2] ? SCRIBE_RED : undefined,
-        },
-      ]);
+
+      if (changeSize) {
+        setLabelScale(laminaeData[i].sprite);
+      }
     }
   }
 
@@ -166,7 +195,61 @@ function highlightLaminae(glyphs, doHighlight) {
     // @TODO not working, still gets covered by facetBaseMaterialOptions
     // facet.lines.renderOrder = doHighlight ? 1 : 0;
     // facet.lines.material.depthTest = !doHighlight;
+
+    facet.highlightTocGlyphs(doHighlight);
+    if (facet.compassSprite) {
+      facet.compassSprite.material = getLabelMaterial([{ text: glyphs[i], color: doHighlight && SCRIBE_RED }], 128)
+    }
+    if (facet.compassCone) {
+      facet.compassCone.material = doHighlight
+        ? new THREE.MeshLambertMaterial({color: SCRIBE_RED})
+        : new THREE.MeshBasicMaterial({color: GLYPH_BLUE});
+    }
+    if (facet.compassGem) {
+      facet.compassGem.material = new THREE.MeshLambertMaterial({color: doHighlight ? SCRIBE_RED : GLYPH_BLUE});
+    }
+
+    document.querySelector(".facet-legend [data-facet='" + glyphs[i] + "']").classList[doHighlight ? "add" : "remove"]("hover");
   }
+}
+
+function onLaminaHover(laminaData, hovered, changeSpriteSize) {
+  laminaData.sprite.material = getLabelMaterial([{ text: laminaData.glyphs, color: hovered ? SCRIBE_RED : undefined }]);
+  highlightLaminaeGlyphs(laminaData.glyphs, hovered, changeSpriteSize);
+
+  const tocFacets = document.querySelector("[data-toc-facets=" + laminaData.glyphs + "]");
+  if (tocFacets) {
+    tocFacets.closest(".row").classList[hovered ? "add" : "remove"]("hover");
+  }
+
+  laminaSpriteTooltip(laminaData, hovered);
+}
+
+let activeLamina;
+const spritePosition = new THREE.Vector3();
+const vizTooltip = document.querySelector(".viz .tooltip");
+function laminaSpriteTooltip(laminaData, show) {
+  if (!show) {
+    vizTooltip.classList.remove("show");
+    activeLamina = undefined;
+    return;
+  }
+
+  activeLamina = laminaData;
+  updateLaminaTooltipPosition();
+  vizTooltip.classList.add("show");
+}
+function updateLaminaTooltipPosition() {
+  if (!activeLamina) {
+    return;
+  }
+  activeLamina.sprite.getWorldPosition(spritePosition);
+  spritePosition.project(camera);
+  const x = (spritePosition.x *  .5 + .5) * renderer.domElement.clientWidth;
+  const y = (spritePosition.y * -.5 + .5) * renderer.domElement.clientHeight + 36;
+
+  vizTooltip.innerHTML = activeLamina.name;
+  vizTooltip.style.transform = "translate(-50%, -50%) translate(" + x + "px," + y + "px)";
 }
 
 const facetBaseMaterialOptions = {
@@ -299,38 +382,60 @@ function getCompassArrow(direction, length) {
 function generateCompass() {
   const compass = new THREE.Group();
 
-  compass.add(getCompassArrow(new THREE.Vector3(1, 0, 0), OFFSET));
-  compass.add(getCompassArrow(new THREE.Vector3(0, 1, 0), OFFSET));
-  compass.add(getCompassArrow(new THREE.Vector3(0, 0, -1), OFFSET));
-  compass.add(getCompassArrow(new THREE.Vector3(-1, 0, 0), OFFSET / 2));
-  compass.add(getCompassArrow(new THREE.Vector3(0, -1, 0), OFFSET / 2));
-  compass.add(getCompassArrow(new THREE.Vector3(0, 0, 1), OFFSET / 2));
-
-  for (let i = 0; i < compass.children.length; i++) {
-    compass.children[i].children[0].material.linewidth = 2;
-    for (let j = 0; j < compass.children[i].children.length; j++) {
-      compass.children[i].children[j].renderOrder = 1;
-    }
-  }
-
-  const glyphOffsets = {
-    "ꩧ": [0, OFFSET + 0.05, 0],
-    // "ꧪ": [0, 0, 0],
-    "꧹": [0, -0.5*OFFSET - 0.05, 0],
-    "ဥ": [-0.5*OFFSET - 0.05, 0, 0],
-    // "၇": [0, 0, 0],
-    "ဋ": [OFFSET + 0.05, 0, 0],
-    "ꧠ": [0, 0, 0.5*OFFSET + 0.05],
-    // "ဓ": [0, 0, 0],
-    "ဗ": [0, 0, -1*OFFSET - 0.05],
+  const compassData = {
+    "ꩧ": {
+      direction: new THREE.Vector3(0, 1, 0),
+      length: OFFSET,
+      glyphOffset: [0, OFFSET + 0.05, 0],
+    },
+    "꧹": {
+      direction: new THREE.Vector3(0, -1, 0),
+      length: OFFSET / 2,
+      glyphOffset: [0, -0.5*OFFSET - 0.05, 0],
+    },
+    "ဥ": {
+      direction: new THREE.Vector3(-1, 0, 0),
+      length: OFFSET / 2,
+      glyphOffset: [-0.5*OFFSET - 0.05, 0, 0],
+    },
+    "ဋ": {
+      direction: new THREE.Vector3(1, 0, 0),
+      length: OFFSET,
+      glyphOffset: [OFFSET + 0.05, 0, 0],
+    },
+    "ꧠ": {
+      direction: new THREE.Vector3(0, 0, 1),
+      length: OFFSET / 2,
+      glyphOffset: [0, 0, 0.5*OFFSET + 0.05],
+    },
+    "ဗ": {
+      direction: new THREE.Vector3(0, 0, -1),
+      length: OFFSET,
+      glyphOffset: [0, 0, -1*OFFSET - 0.05],
+    },
   };
-  for (let glyph in glyphOffsets) {
+
+  for (let glyph in compassData) {
+    const compassArrow = getCompassArrow(compassData[glyph].direction, compassData[glyph].length);
+    compassArrow.children[0].material.linewidth = 2;
+    facetIndex[glyph].compassCone = compassArrow.children[1];
+    compass.add(compassArrow);
+
     const sprite = getLabel([{ text: glyph }], 128);
-    glyphOffsets[glyph][1] = glyphOffsets[glyph][1] - 0.025; // burmese script baseline kinda offset, hacky fix here
-    sprite.position.set.apply(sprite.position, glyphOffsets[glyph]);
-    facetIndex["ꩧ"].compassSprite = sprite;
+    compassData[glyph].glyphOffset[1] = compassData[glyph].glyphOffset[1] - 0.025; // burmese script baseline kinda offset, hacky fix here
+    sprite.position.set.apply(sprite.position, compassData[glyph].glyphOffset);
+    facetIndex[glyph].compassSprite = sprite;
     compass.add(sprite);
   }
+
+  const compassGem = new THREE.Mesh(
+    new THREE.IcosahedronGeometry(OFFSET / 10),
+    new THREE.MeshLambertMaterial({color: GLYPH_BLUE}),
+  );
+  facetData[0][1].compassGem = compassGem
+  facetData[1][1].compassGem = compassGem
+  facetData[2][1].compassGem = compassGem
+  compass.add(compassGem);
 
   return compass;
 }
@@ -359,29 +464,33 @@ function setCompassCameraPosition() {
 
 let lastIntersectedObj;
 function checkIntersections() {
+  if (isDragging) {
+    return;
+  }
   if (mouse.x > -1 && mouse.x < 1 && mouse.y > -1 && mouse.y < 1) {
     raycaster.setFromCamera(mouse, camera);
     const intersects = raycaster.intersectObjects(hoverables);
     const intersectedObj = intersects[0] && intersects[0].object;
     if (lastIntersectedObj !== intersectedObj) {
       if (lastIntersectedObj) {
-        highlightLaminae(lastIntersectedObj.name, false);
-        let row = document.querySelector("[data-facets=" + lastIntersectedObj.userData.trinym + "]").parentNode.parentNode;
-        row = row.classList.contains("row") ? row : row.parentNode;
-        row.classList.remove("hover");
+        onLaminaHover(lastIntersectedObj.userData, false);
         lastIntersectedObj = undefined;
       }
+
       if (intersectedObj) {
-        highlightLaminae(intersectedObj.name, true);
+        onLaminaHover(intersectedObj.userData, true);
         container.style.cursor = "pointer";
+        controls.autoRotate = false;
         lastIntersectedObj = intersectedObj;
-        let row = document.querySelector("[data-facets=" + intersectedObj.userData.trinym + "]").parentNode.parentNode;
-        row = row.classList.contains("row") ? row : row.parentNode;
-        row.classList.add("hover");
       } else {
         container.style.cursor = "default";
+        controls.autoRotate = true;
       }
     }
+  } else if (lastIntersectedObj) {
+    onLaminaHover(lastIntersectedObj.userData, false);
+    lastIntersectedObj = undefined;
+    controls.autoRotate = true;
   }
 }
 
@@ -396,11 +505,15 @@ renderer.setSize( sceneWidth, sceneHeight );
 container.appendChild(renderer.domElement);
 
 const camera = new THREE.PerspectiveCamera( 40, sceneWidth / sceneHeight, 0.01, 10 );
-camera.position.set(1, 1, 2);
+camera.position.set(1.1, 1.1, 2.2);
 
 const controls = new OrbitControls( camera, renderer.domElement );
-controls.minDistance = 1;
-controls.maxDistance = 5;
+controls.enablePan = false;
+controls.enableZoom = false;
+controls.enableDamping = true;
+controls.autoRotateSpeed = 0.4; // we set autoRotate true once user scrolls down
+
+scene.add(new THREE.HemisphereLight( 0xffffbb, 0x080820, 1 ));
 
 generateLabels(scene);
 generateFacets(scene);
@@ -420,25 +533,88 @@ const raycaster = new THREE.Raycaster();
 const mouse = new THREE.Vector2(-2, -2); // start "offscreen" so it doesn't immediately highlight stuff
 window.addEventListener('mousemove', function onMouseMove(event) {
   // normalize to -1 to +1 within the container
-  mouse.x = ((event.pageX - container.offsetLeft) / sceneWidth) * 2 - 1;
-  mouse.y = -((event.pageY - container.offsetTop) / sceneHeight) * 2 + 1;
+  mouse.x = ((event.pageX - container.offsetLeft - container.offsetParent.offsetLeft) / sceneWidth) * 2 - 1;
+  mouse.y = -((event.pageY - container.offsetTop - container.offsetParent.offsetTop) / sceneHeight) * 2 + 1;
 }, false);
 
+Array.from(document.querySelectorAll("[data-toc-facets]")).forEach(function(el, i) {
+  const rowEl = el.closest(".row");
+  rowEl.addEventListener("mouseover", function() {
+    onLaminaHover(laminaeData[i], true, true);
+  });
+  rowEl.addEventListener("mouseout", function() {
+    onLaminaHover(laminaeData[i], false, true);
+  });
 
-Array.from(document.querySelectorAll("[data-facets]")).forEach(function(el, i) {
-  el.addEventListener("mouseover", function() {
-    laminaeData[i].sprite.material = getLabelMaterial([{ text: laminaeData[i].glyphs, color: SCRIBE_RED }]);
-  });
-  el.addEventListener("mouseout", function() {
-    laminaeData[i].sprite.material = getLabelMaterial([{ text: laminaeData[i].glyphs }]);
-  });
+  // too lazy to refactor HTML - let the whole thing be clickable
+  const href = rowEl.querySelector("a").href;
+  if (href) {
+    rowEl.addEventListener("click", function() {
+      document.location = href;
+    });
+  }
 });
 
+const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+Array.from(document.querySelectorAll("[data-facet]")).forEach(function(el, i) {
+  // make a string e.g. "xဋx" to pass in to highlightLaminaeGlyphs
+  const axis = Math.floor(i / 3);
+  const highlight = ["x", "x", "x"];
+  highlight[axis] = el.getAttribute("data-facet");
+  const highlightString = highlight.join("");
+  el.addEventListener("mouseover", function() {
+    highlightLaminaeGlyphs(highlightString, true);
+  });
+  el.addEventListener("mouseout", function() {
+    highlightLaminaeGlyphs(highlightString, false);
+  });
+
+  if (!canHover) {
+    el.addEventListener("click", e => e.preventDefault());
+  }
+});
+
+let isDragging = false;
+let clickStart;
+renderer.domElement.addEventListener("mousedown", () => {
+  clickStart = Date.now();
+  isDragging = true;
+});
+renderer.domElement.addEventListener("mouseup", () => {
+  isDragging = false;
+});
+renderer.domElement.addEventListener("touchstart", () => {
+  clickStart = Date.now();
+  isDragging = true;
+});
+renderer.domElement.addEventListener("touchend", () => {
+  isDragging = false;
+});
+
+renderer.domElement.addEventListener("click", () => {
+  if (canHover && activeLamina && activeLamina.href && Date.now() - clickStart < 500) {
+    document.location.href = activeLamina.href;
+  }
+});
+
+let loaded = false;
+let scrolledIntoView = false;
 function render() {
+  if (!loaded) {
+    loaded = true;
+    document.querySelector(".viz-wrap").classList.add("loaded");
+  }
+  if (!scrolledIntoView && (window.pageYOffset + window.innerHeight > container.offsetTop - container.offsetParent.offsetTop)) {
+    controls.autoRotate = true;
+    scrolledIntoView = true;
+  }
+
   checkIntersections();
   requestAnimationFrame(render);
+  controls.update();
   renderer.render(scene, camera);
   compassRenderer.render(scene, compassCamera);
+  updateLaminaTooltipPosition();
 }
 render();
 
@@ -449,9 +625,10 @@ window.laminaeData = laminaeData;
 window.facetHoverMaterial = facetHoverMaterial;
 window.getLabelMaterial = getLabelMaterial;
 window.getLabel = getLabel;
-window.highlightLaminae = highlightLaminae;
+window.highlightLaminaeGlyphs = highlightLaminaeGlyphs;
 window.camera = camera;
 window.compass = compass;
 window.compassCamera = compassCamera;
 window.scene = scene;
 window.controls = controls;
+window.renderer = renderer;

@@ -34,6 +34,9 @@ facet_glyphs = [facet["glyph"] for axis in facets for facet in axis]
 name_to_glyph = dict([(facet["name"], facet["glyph"]) for axis in facets for facet in axis])
 id_to_glyph = [{ a[0]["id"]: a[0]["glyph"], a[1]["id"]: a[1]["glyph"], a[2]["id"]: a[2]["glyph"] } for a in facets]
 
+def trinym_to_glyphs(tri):
+	return id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]]
+
 # print(name_to_glyph)
 # quit()
 

@@ -2,6 +2,7 @@
 
 ---
 summary: A broad, metaphysical cartography of the worlds described in this work.
+include_viz: True
 intro: |
     A meticulous mind may wish to start with a broad, metaphysical cartography of the worlds described in this work, but the intrepid may prefer to forge ahead TODO(link to the map?)[] to a more visceral experience of the laminae and only later return here to understand how the pieces fit together. The intrepid reader may rely on the REF[glossary](glossary) where TODO(the going gets tough)[necessary].
 ---
@@ -12,20 +13,45 @@ TODO(revise)[]
 	p + ul li {
 		line-height: 1.5;
 	}
+  .viz-wrap.loaded {
+  	margin: -16px 0 36px;
+  }
 </style>
 
 ## Overview
 
-The nine REF[facets](facets) and twenty-seven REF[laminae] are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of REF[cardinal] worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[the Inevitability](CND) ensures the physical laws of entropy, REF[the Asymmetry](NNC) crafts the intrinsic shape of every physical object---our environments depend on these sources. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
+<div class="viz-wrap follow-with-dropcap">
+  <div class="facet-legend">
+| |
+| :-- |
+| <span class="axis-name">Method</span> |
+| REF[Hierarchy] |
+| REF[Synthesis] |
+| REF[Autonomy] |
+| <span class="axis-name">Motive</span> |
+| REF[Empathy] |
+| REF[Utility] |
+| REF[Power] |
+| <span class="axis-name">Means</span> |
+| REF[Creation] |
+| REF[Equilibrium] |
+| REF[Dissolution] |
+  </div>
+  <div class="viz"><div class="tooltip"></div></div>
+  <div class="compass-wrap"><div class="compass"></div></div>
+</div>
+
+The nine REF[facets](facets) and twenty-seven REF[laminae] are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of REF[cardinal] worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[CND] ensures the physical laws of entropy, REF[NNC] crafts the intrinsic shape of every physical object---our environments depend on these sources. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
 
 Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each. TODO(when lamina glyphs are done: I have likewise, as in the original text, suffixed each lamina with the glyphs representing each of its three facets.)[]*]
 
 <div class="copy-table facet-table">
-| | | | |
-| :-- | :-: | :-: | :-: |
-| *Method* | REF[Hierarchy] | REF[Synthesis] | REF[Autonomy] |
-| *Motive* | REF[Empathy] | REF[Utility] | REF[Power] |
-| *Means* | REF[Creation] | REF[Equilibrium] | REF[Dissolution] |
+| | | |
+| :-: | :-: | :-: |
+| *Method* | *Motive* | *Means* |
+| REF[Hierarchy] | REF[Empathy] | REF[Creation] |
+| REF[Synthesis] | REF[Utility] | REF[Equilibrium] |
+| REF[Autonomy] | REF[Power] | REF[Dissolution] |
 </div>
 
 These are forces that vary in strength and nature in any given place or mind, and in combination form a unique and coherent philosophy. Imagine a region that varies from hot to cold, from wet to arid, and from mountainous to coastal plain. Each grouping forms a climate and ecosystem, and you might expect inhabitants of the cold misty hills to present distinct in character from inhabitants of the hot arid lowlands: they each face unique challenges and develop forms and techniques with which to face them. The twenty-seven laminae are every such grouping:

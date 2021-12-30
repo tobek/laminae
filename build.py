@@ -8,7 +8,7 @@ import glob
 import frontmatter
 from bs4 import BeautifulSoup
 
-from facets import facet_names, name_to_glyph, id_to_glyph
+from facets import facet_names, name_to_glyph, id_to_glyph, trinym_to_glyphs
 
 default_pandoc_args = [
     "--standalone",
@@ -38,13 +38,15 @@ ref_regex = r"REF\[([^\]]+)\](?:\(([^\)]+)\))?"
 def ref_replace(match):
     additional = ""
     text = match.group(1)
+    link = match.group(2) or "#" + to_kebab_case(text)
     if text in facet_names:
-        link = "facets#" + text.lower()
         additional = " data-facet=\"%s\"" % name_to_glyph[text]
-    else:
-        link = match.group(2) or "#" + to_kebab_case(text)
+    if re.match(strict_facet_regex, match.group(2) or match.group(1)):
+        glyphs = trinym_to_glyphs(match.group(2) or match.group(1))
+        additional = " data-facets=\"%s\"" % glyphs
+        text = "\\" + text # escape to not get clobbered by facet_replace
     out = "<span class='tooltip-wrap'><a href='%s' class='ref'%s>%s</a><span class='tooltip'></span></span>" % (link, additional, text)
-    # print(out)
+    # print("ref_replace", out)
     return out
 
 media_regex = r"MEDIA\(\"(([^\"]+)\.\w\w\w\w?)\"\)"
@@ -54,13 +56,35 @@ media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses
 ed_note_replace = r"\1<span class='editor-note'>\2</span>"
 
-facet_regex = r"([^'])[LNC][GNE][CPD]" # make sure first char is not ' from being in HTML attribute
+strict_facet_regex = r"^[LNC][GNE][CPD]$"
+facet_regex = r"([^'])[LNC][GNE][CPD]" # make sure first char is not ' from being in HTML attribute, also not \ for escaping
 def facet_replace(match):
-    tri = match.group(0)[1:]
-    return match.group(1) + '<span class="glyph">' + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]] + '</span>'
-def facet_description_replace(match):
-    tri = match.group(0)[1:]
-    return match.group(1) + "| " + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]]
+    if match.group(1) == "\\":
+        return match.group(0)[1:] # abort, just return match (excluding slash)
+
+    triGlyph = trinym_to_glyphs(match.group(0)[1:])
+    return match.group(1) + '<span class="glyph">' + triGlyph[0] + triGlyph[1] + triGlyph[2] + '</span>'
+def facet_extra_detail_replace(match):
+    if match.group(1) == "\\":
+        return match.group(0)[1:] # abort, just return match (excluding slash)
+
+    triGlyph = trinym_to_glyphs(match.group(0)[1:])
+    return (match.group(1)
+        + '<span class="glyph" data-toc-facets="' + triGlyph + '">'
+            + '<span data-toc-glyph="' + triGlyph[0] + '">'
+                + triGlyph[0]
+            + '</span>'
+            + '<span data-toc-glyph="' + triGlyph[1] + '">'
+                + triGlyph[1]
+            + '</span>'
+            + '<span data-toc-glyph="' + triGlyph[2] + '">'
+                + triGlyph[2]
+            + '</span>'
+        + '</span>')
+    # return match.group(1) + '<span class="glyph">' + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]] + '</span>'
+def facet_plain_text_replace(match):
+    triGlyph = trinym_to_glyphs(match.group(0)[1:])
+    return match.group(1) + "| " + triGlyph
 
 os.makedirs("build", exist_ok=True)
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
@@ -83,8 +107,12 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
     input_string = re.sub(ref_regex, ref_replace, input_string)
     input_string = re.sub(media_regex, media_replace, input_string)
     input_string = re.sub(media_wip_regex, media_wip_replace, input_string)
-    input_string = re.sub(ed_note_regex, ed_note_replace, input_string)
-    input_string = re.sub(facet_regex, facet_replace, input_string)
+
+    if re.match(r"^00-0", input_file):
+        input_string = re.sub(facet_regex, facet_extra_detail_replace, input_string)
+    else:
+        input_string = re.sub(ed_note_regex, ed_note_replace, input_string)
+        input_string = re.sub(facet_regex, facet_replace, input_string)
 
     pandoc_args = default_pandoc_args + [
         "--variable=filename:" + input_file.replace(".md", ""),
@@ -99,8 +127,6 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
     if re.match(r"^00-0", input_file):
         pandoc_args += [
             "--variable=pagetitle:Observations on the Twenty-Seven Laminae",
-            "--variable=summary:Regarding their various Environs & Cultures / gathered upon decades of journey past the Ordial Plane / by an Unknown Traveller / edited & translated by the Order of Peripatetic Affairs",
-            # "--variable=include_viz:True",
         ]
     else:
         pandoc_args += [
@@ -109,7 +135,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
 
     if file_id and file_data[file_id]["metadata"] and file_data[file_id]["metadata"].get("subtitle"):
         pandoc_args += [
-            "--variable=description_subtitle:" + re.sub(facet_regex, facet_description_replace, file_data[file_id]["metadata"].get("subtitle")),
+            "--variable=description_subtitle:" + re.sub(facet_regex, facet_plain_text_replace, file_data[file_id]["metadata"].get("subtitle")),
         ]
 
     # if not re.match(r"^00|[abcd]", input_file) or "cosmography" in input_file:
@@ -259,11 +285,14 @@ for file_id, data in file_data.items():
             }
             # print(anchor_info)
 
+            if anchor_info["id"] in anchors:
+                raise Exception("Duplicate anchor ID " + anchor_info["id"])
+
             anchors[anchor_info["id"]] = anchor_info
 
             # make these top level - just ensure they don't conflict (they shouldn't)
-            # so can do e.g. `REF[Ordial](ordial-plane)`
-            if file_id == "cosmography":
+            # so can do e.g. `REF[Ordial](ordial-plane)` and `REF[Creation]`
+            if file_id == "cosmography" or file_id == "facets":
                 dupe_anchor_info = dict(anchor_info)
                 dupe_anchor_info["no_index"] = True
                 anchors[anchor_id] = dupe_anchor_info
@@ -271,8 +300,6 @@ for file_id, data in file_data.items():
 print("\ninserting references...")
 for file_id, data in file_data.items():
     if only_file and data["input"] != only_file:
-        continue
-    if file_id == "title":
         continue
 
     print(data["output"])
@@ -282,9 +309,12 @@ for file_id, data in file_data.items():
             tooltip = ref.parent.select(".tooltip")[0]
             href = ref["href"].lower()
 
-            # hack to make it easier to refer to top-level cosmography terms:
+            # hack to make it easier to refer to top-level cosmography/facet terms:
             if href.replace("#", "") in anchors:
                 anchor = anchors[href.replace("#", "")]
+                if len(ref.string) == 3 and ref.string.lower() == anchor.get("file_id"):
+                    # this is e.g. just `REF[LGD]` - need to replace string with name of lamina
+                    ref.string = anchor.get("name")
             else:
                 href_lookup = href if href[0] != "#" else (file_id + href)
                 if href_lookup not in anchors:
@@ -312,6 +342,10 @@ for file_id, data in file_data.items():
 
     with open("build/" + data["output"], "w") as f:
         f.write(str(soup))
+
+    if file_id == "title":
+        with open("build/index.html", "w") as f:
+            f.write(str(soup))
 
 
 sorted_anchors = sorted(anchors.values(), key = lambda a: a["sort_name"])

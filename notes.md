@@ -82,6 +82,8 @@ can i add tension and mystery? what makes the reader what to keep reading?
             - but does in "the Bronx"
             - so far have been, will continue for now - it's in the title of each page, so
             - if so, should nbsp them or else the tooltip is dumb, or TODO make the tooltip handle this somehow
+            - one advantage of not linking is less inline-block/nbsp issues and giant empty spaces
+            - don't link in untranslated note, otherwise it'd be straight links
     + prime? so far yes for both Prime planes and Primes as being, Prime-wards, etc.
 
 ## Grammatical person

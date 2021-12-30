@@ -27,11 +27,12 @@ Facets describe ethical, moral, and philosophical outlooks on reality from which
 The nine facets are, accordingly:
 
 <div class="copy-table facet-table">
-| | | | |
-| :-- | :-: | :-: | :-: |
-| *Method* | REF[Hierarchy] | REF[Synthesis] | REF[Autonomy] |
-| *Motive* | REF[Empathy] | REF[Utility] | REF[Power] |
-| *Means* | REF[Creation] | REF[Equilibrium] | REF[Dissolution] |
+| | | |
+| :-: | :-: | :-: |
+| *Method* | *Motive* | *Means* |
+| REF[Hierarchy] | REF[Empathy] | REF[Creation] |
+| REF[Synthesis] | REF[Utility] | REF[Equilibrium] |
+| REF[Autonomy] | REF[Power] | REF[Dissolution] |
 </div>
 
 Upon reading this, several of these facets are likely to strike you as more essential than others. Readers will vary in such assessments. All readers, however, will find that regardless of personal resonance, each of these facets *exists*, and individuals tend to align themselves with these facets with more or less rigidity.
@@ -46,7 +47,7 @@ Whether facets exist in a material sense, or are simply mental artifacts that he
 
 The facets of REF[Hierarchy], REF[Synthesis], and REF[Autonomy] concern matters of control and agency: how societies organize their efforts and distribute power, and how individuals fit into and are beholden to the larger whole. Adherents each lay their own claims to concepts such as integrity, discipline, and community, and the more strident accuse those whose views differ along this axis of being untrustworthy and selfish.
 
-### Hierarchy
+### <dfn def="Hierarchy tends towards order, deference to authority, systematic analysis, honor, conformity, tradition, inflexibility, control, judgment, structure, law, discipline, and stability.">Hierarchy</dfn>
 
 In a hierarchical system there is a clear and rigid relationship between every member in the system, and every member understands their position. Well-established hierarchies tend to be extremely effective at accomplishing goals, but they require that either participants accept the rules of the system, or that those less favored by the system are unable to change their lot: hierarchies by definition contain inequities, and often maintain these via coercion.
 
@@ -60,7 +61,7 @@ REF[Hierarchy] judges REF[Synthesis] to be unreliable and overly complicated, bu
 
 REF[Hierarchy] is righteous and pure when paired with REF[Empathy], orthodox when paired with REF[Utility], and totalitarian when paired with REF[Power].
 
-### Synthesis
+### <dfn def="Synthesis tends towards practicality, pragmatism, balance, harmony, focus, realism, observation, and syncretism.">Synthesis</dfn>
 
 REF[Synthesis] believes that established dictums are valuable and should be neither ignored nor abused. No hierarchy is perfect, for no one system can account for the range and details of individual challenges that are best understood by the individuals closest to those challenges, but nor can large and complex tasks be surmounted without structure and objective accountability. Disciples often take into account multiple and contradictory hierarchies in which responsibilities and status depend on context and rules should not be followed blindly.
 
@@ -70,7 +71,7 @@ REF[Synthesis] regards REF[Hierarchy] as reflexively rigid and incapable of nuan
 
 REF[Synthesis] is humane and cooperative when paired with REF[Empathy], practical and diligent when paired with REF[Utility], and ambitious when paired with REF[Power].
 
-### Autonomy
+### <dfn def="Autonomy tends towards freedom, independence, unpredictability, individualism, ad hoc invention, radicalism, dynamism, chaos, and change.">Autonomy</dfn>
 
 The capacity to make wholly self-directed decisions, free from coercion, is sacred to REF[Autonomy]. Adherents reject external control and believe the individual can only be whole if self-sufficient and possessed of conscience and dignity.
 
@@ -88,7 +89,7 @@ The facets of REF[Empathy], REF[Utility], and REF[Power] concern the methods by 
 
 Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe (the exact extent of that which which one considers one's own tribe being formed largely by facets along the Method axis: REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all). These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit.
 
-### Empathy
+### <dfn def="Empathy tends towards kindness, self-effacement, benevolence, righteousness, judgment, stubbornness, idealism, altruism, universalism, equity, compromise, compassion, and tolerance.">Empathy</dfn>
 
 REF[Empathy] believes that lack of compassion is at the root of all struggles and evils---compassion for oneself and one's community, but also for all beings and the environment. Compromise is essential in this worldview, and all perspectives must be considered before embarking on a task. Acolytes are concerned with understanding and being understood, and strive to never offend or hurt others. When this inevitably happens, conflicts are resolved with conversation and compassion in the best case, but in the worst case shame and ostracism become potent reprisals.
 
@@ -98,7 +99,7 @@ REF[Empathy] accuses REF[Utility] of being complicit---arguing that without the 
 
 REF[Empathy] is righteous and pure when paired with REF[Hierarchy], humane and cooperative when paired with REF[Synthesis], and universalist when paired with REF[Autonomy].
 
-### Utility
+### <dfn def="Utility tends towards rationality, pragmatism, realism, balance, pedantry, judiciousness, perception, and level-headedness.">Utility</dfn>
 
 REF[Utility] aims for a nuanced realism in viewing the world, and pragmatic heuristics for acting within it. It acknowledges that individuals vary widely in their goals and moral constructs, and so finds that the best one can do is to assess situations in the light of all available information and act for the balanced benefit of oneself and others. Conflicts should be measured, discussed, and resolved to the mutual advantage of all parties.
 
@@ -108,7 +109,7 @@ REF[Utility] finds REF[Empathy] to be naive, and REF[Power] to be rash and monom
 
 REF[Utility] is orthodox when paired with REF[Hierarchy], practical and diligent when paired with REF[Synthesis], and maverick when paired with REF[Autonomy].
 
-### Power
+### <dfn def="Power tends towards ambition, achievement, glory, determination, focus, efficiency, beauty, domination, competition, selfishness, cynicism, security, success, and luxury.">Power</dfn>
 
 REF[Power] believes that nature has distributed its merits unevenly, and that efforts to accommodate this fact will backfire. Progress on all levels occurs when individuals work as hard as possible to advance their and their communities' interests, and the tension that arises when those advancements come at the expense of others only pushes others to work harder, resulting in a greater overall advancement. This is a worldview that prizes competence and beauty, but sees strength and security as essential to survival, resorting to dominance and fear to manage threats.
 
@@ -124,19 +125,19 @@ The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces t
 
 Where other facets can be antagonistic towards each other, each seeing their own way as more truly reflecting the nature of things, the facets of Means tend to acknowledge the necessity of balance and cycles. Despite the fervor with which adherents pursue their means, the wise know that each facet would eventually stall in the absence of the others.
 
-### Creation
+### <dfn def="Creation tends towards activity, energy, passion, agitation, change, mutation, excitation, creativity, egoism, instability, uncertainty, and dynamism.">Creation</dfn>
 
 REF[Creation] is the construction of new ideas, new energy, and new matter. Combining forms in novel ways is a manner of creation, and even creative destruction is constructive for it adds shape to what remains. As the artist will tell you, creative forces can be as maddening as they are inspiring, and take tremendous effort to harness with purpose. On REF[laminae](cosmography#laminae) this facet results in an overflow of material into cardinal worlds, and it may be that all the stuff of our existence originates from these laminae of creation.
 
 REF[Creation] tends towards activity, energy, passion, agitation, change, mutation, excitation, creativity, egoism, instability, uncertainty, and dynamism.
 
-### Equilibrium
+### <dfn def="Equilibrium tends towards maintenance, harmony, protection, pureness of essence, persistence, stagnation, indifference, serenity, observation, renewal, inertia, and preservation.">Equilibrium</dfn>
 
 REF[Equilibrium] is the balance and cycle of creative and destructive energies. In some cases this manifests as an active vacillation between the two, and in others there is instead a careful tiptoe of balance. REF[Laminae](cosmography#laminae) reflecting this facet are often transit points that mediate alternating forces, and many also reach to cardinal worlds to adjust or support processes already in place.
 
 REF[Equilibrium] tends towards maintenance, harmony, protection, pureness of essence, persistence, stagnation, indifference, serenity, observation, renewal, inertia, and preservation.
 
-### Dissolution
+### <dfn def="Dissolution tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.">Dissolution</dfn>
 
 REF[Dissolution] is powerful and frightening to most mortals, and wholly essential. It takes many paths. Some pursue glee in the act of destruction itself, while others patiently shepherd---or simply observe---natural forces of dissipation taking hold. On a personal level, dissolution concerns measuring and understanding what one needs, and letting go of past burdens. On REF[laminae](cosmography#laminae) this facet holds an imbalance that can only be sustained by an influx of material from cardinal worlds, breaking down and dispersing energies that originated in distant facets of REF[Creation].
 
