@@ -133,6 +133,9 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   .toc .lamina {
     display: flex;
   }
+    .toc .lamina a {
+      text-transform: capitalize;
+    }
     .toc .lamina-section:first-child {
       margin-right: 24px;
     }

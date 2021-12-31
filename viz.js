@@ -556,7 +556,7 @@ Array.from(document.querySelectorAll("[data-toc-facets]")).forEach(function(el, 
 });
 
 const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-Array.from(document.querySelectorAll("[data-facet]")).forEach(function(el, i) {
+Array.from(document.querySelectorAll(".facet-legend [data-facet]")).forEach(function(el, i) {
   // make a string e.g. "xဋx" to pass in to highlightLaminaeGlyphs
   const axis = Math.floor(i / 3);
   const highlight = ["x", "x", "x"];

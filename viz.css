@@ -31,6 +31,9 @@
     top: 8px;
     left: 8px;
   }
+    .viz-wrap .facet-legend [data-facet]:before {
+      margin-right: 6px;
+    }
     .viz-wrap .facet-legend .tooltip {
       pointer-events: none;
     }

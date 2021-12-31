@@ -13,7 +13,7 @@
 - A close edit pass across the whole thing `8h`
 - Colophon `4h`
 - Review every TODO
-- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, OG tags, OG images for non-lamina pages, etc), add/update/shift images for LNC, CGP, NNC, CEP, consider ꩣ ဘ for autonomy
+- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, OG tags, OG images for non-lamina pages, etc), add/update/shift images for LNC, CGP, NNC, CEP, consider ꩣ ဘ for autonomy, decide on non-laminae TOC glyphs
 - Bonuses:
     - moodboard images?
     - more shifting elements
@@ -549,6 +549,9 @@ viz:
 
 maybe
 
+- glyphs before/after facets/laminae?
+    + related to decision of whether to link and/or capitalize "the", cause "[glyph] the Lamina" is weird
+    + currently have before for facets, after for laminae, doesn't make the most sense. check intro, facets, cosmography, and some lamina. before is definitely good for viz facet legend
 - glyph tooltips
     + facets
     + laminae
@@ -772,6 +775,7 @@ code:
 
 #### viz backlog
 
+- unhovering lamina sprite makes tooltip jump to corner - should stay in place and fade out
 - hover over axis name highlights each facet? `highlightLaminaeGlyphs("ꩧxx", true)` 3x
 - doesn't work in firefox, some issue with the laminae canvas labels
 - what to do about stuff that goes off edge as rotating?

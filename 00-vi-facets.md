@@ -19,9 +19,9 @@ Facets describe ethical, moral, and philosophical outlooks on reality from which
 <div class="lamina-table" style="padding-left: 1rem">
 | |
 | :-- |
-|By what method should resources and efforts be organized?|
-|In service of what motive should resources and efforts be marshalled?|
-|Through what means should this be achieved?|
+|By what *method* should resources and efforts be organized?|
+|In service of what *motive* should resources and efforts be marshalled?|
+|Through what *means* should this be achieved?|
 </div>
 
 The nine facets are, accordingly:

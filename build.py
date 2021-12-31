@@ -44,7 +44,9 @@ def ref_replace(match):
     if re.match(strict_facet_regex, match.group(2) or match.group(1)):
         glyphs = trinym_to_glyphs(match.group(2) or match.group(1))
         additional = " data-facets=\"%s\"" % glyphs
-        text = "\\" + text # escape to not get clobbered by facet_replace
+        if not match.group(2):
+            # this is just e.g. `REF[CGD]` so text is trinym, so, escape it so that it's not clobbered by facet_replace
+            text = "\\" + text
     out = "<span class='tooltip-wrap'><a href='%s' class='ref'%s>%s</a><span class='tooltip'></span></span>" % (link, additional, text)
     # print("ref_replace", out)
     return out
@@ -312,9 +314,9 @@ for file_id, data in file_data.items():
             # hack to make it easier to refer to top-level cosmography/facet terms:
             if href.replace("#", "") in anchors:
                 anchor = anchors[href.replace("#", "")]
-                if len(ref.string) == 3 and ref.string.lower() == anchor.get("file_id"):
-                    # this is e.g. just `REF[LGD]` - need to replace string with name of lamina
-                    ref.string = anchor.get("name")
+                if ref.string and len(ref.string) == 3 and ref.string.lower() == anchor.get("file_id"):
+                    # this is e.g. just `REF[LGD]` - need to replace string with name of lamina. lowercase the since that's the most common usage, exceptions can add string manually
+                    ref.string = anchor.get("name").replace("The ", "the ")
             else:
                 href_lookup = href if href[0] != "#" else (file_id + href)
                 if href_lookup not in anchors:

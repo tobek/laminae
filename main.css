@@ -461,17 +461,17 @@ p .editor-note {
 [data-facet], [data-facets] {
   display: inline-block;
 }
-[data-facet]:after, [data-facets]:after {
+[data-facet]:before, [data-facets]:after {
   font-family: "NotoSansMyanmar", sans-serif;
   line-height: 1rem;
+}
+[data-facet]:before {
+  content: attr(data-facet);
+  margin-right: 4px;
 }
 [data-facets]:after {
   content: attr(data-facets);
   margin-left: 5px;
-}
-[data-facet]:after {
-  content: attr(data-facet);
-  margin-left: 4px;
 }
 /*
 .glyph-group [data-facet] + [data-facet] {
@@ -494,11 +494,11 @@ gpt {
 .copy-table table {
   margin: auto;
 }
+  .copy-table .tooltip {
+    display: none !important;
+  }
   .copy-table td {
     padding: 0.25rem 1rem;
-  }
-  .facet-table td:first-child {
-    padding: 0 1rem 0 0;
   }
   .lamina-table td {
     padding: 0.15rem 0.5rem;
@@ -508,19 +508,23 @@ gpt {
   }
   @media only screen and (max-width: 767px) {
     .copy-table table {
-      font-size:  90%;
+      font-size: 90%;
+    }
+    .facet-table {
+      font-size: 100%;
     }
     .facet-table td {
       padding: 0.25rem 0.05rem;
+      min-width: 75px;
     }
-    .facet-table td:first-child {
-      padding: 0 0.5rem 1rem 0;
+    .facet-table tr:first-child td {
+      padding-bottom: 0.5rem;
     }
     .lamina-table td {
       padding: 0 0.25rem;
     }
-    .copy-table [data-facet]:after {
+    .copy-table [data-facet]:before {
       display: block;
-      margin-bottom: 17px;
+      margin: 4px 0;
     }
   }
