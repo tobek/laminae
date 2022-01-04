@@ -47,12 +47,12 @@ def ref_replace(match):
         if not match.group(2):
             # this is just e.g. `REF[CGD]` so text is trinym, so, escape it so that it's not clobbered by facet_replace
             text = "\\" + text
-    out = "<span class='tooltip-wrap'><a href='%s' class='ref'%s>%s</a><span class='tooltip'></span></span>" % (link, additional, text)
+    out = "<span class='tooltip-wrap'><a href='%s' class='ref tooltip-anchor'%s>%s</a><span class='tooltip'></span></span>" % (link, additional, text)
     # print("ref_replace", out)
     return out
 
 media_regex = r"MEDIA\(\"(([^\"]+)\.\w\w\w\w?)\"\)"
-media_replace = r"<div class='img-wrap tooltip-wrap'><img src='images/\1' alt='\2' /><span class='tooltip'>\2</span></div>"
+media_replace = r"<div class='img-wrap tooltip-wrap'><img src='images/\1' alt='\2' class='tooltip-anchor' /><span class='tooltip'>\2</span></div>"
 media_wip_regex = r"\s?MEDIA(\([^\)]*\))?"
 media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses

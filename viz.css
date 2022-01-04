@@ -10,32 +10,82 @@
   .viz-wrap, .viz-wrap div {
     /*background: #ff7f5012;*/
   }
+  .viz-wrap canvas {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0;
+    left: 0;
+  }
+  .viz-wrap .viz,
+  .viz-wrap canvas {
+    -webkit-tap-highlight-color: transparent;
+  }
+  @media only screen and (max-width: 767px) {
+    .viz-wrap {
+      width: calc(100% + 32px);
+      margin-left: -16px;
+    }
+  }
   .viz {
     position: relative;
+    height: 75vh;
+    max-height: 600px;
     top: -16px;
-    right: -84px;
+    right: -96px;
   }
-    .viz .tooltip.show {
-      display: block;
+    .viz .tooltip {
       position: absolute;
-      opacity: 1;
       top: 0;
       left: 0;
-      bottom: auto;
-      width: auto;
+      width: auto !important;
       user-select: none;
+      text-transform: capitalize;
     }
+      .viz .tooltip.show {
+        opacity: 1;
+        visibility: visible;
+      }
+    @media only screen and (max-width: 900px) {
+      .viz {
+        right: -36px;
+      }
+    }
+    @media only screen and (max-width: 560px) {
+      .viz {
+        right: 0;
+        top: -36px;
+      }
+    }
+
+  /* so that touch user can find something to grab to scroll! */
+  @media only screen and (max-width: 900px) {
+    .viz .scroll-handle {
+      position: absolute;
+      z-index: 1;
+      width: 100%;
+      height: 20%;
+      left: 0;
+    }
+      .viz .scroll-handle.top {
+        top: 0;
+      }
+      .viz .scroll-handle.bottom {
+        bottom: 0;
+      }
+  }
+
   .viz-wrap .facet-legend {
     position: absolute;
     font-size: 90%;
     top: 8px;
     left: 8px;
   }
+    .viz-wrap .facet-legend [data-facet]:after {
+      display: none;
+    }
     .viz-wrap .facet-legend [data-facet]:before {
       margin-right: 6px;
-    }
-    .viz-wrap .facet-legend .tooltip {
-      pointer-events: none;
+      content: attr(data-facet);
     }
     .viz-wrap .facet-legend td {
       padding: 0;
@@ -52,6 +102,27 @@
       .viz-wrap .facet-legend a:hover, .viz-wrap .facet-legend a.hover {
         color: #b00000;
       }
+    @media only screen and (max-width: 900px) {
+      .viz-wrap .facet-legend {
+        position: static;
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 8px;
+      }
+    }
+    @media only screen and (max-width: 767px) {
+      .viz-wrap .facet-legend {
+        padding: 0 16px;
+      }
+    }
+    @media only screen and (max-width: 400px) {
+      .viz-wrap .facet-legend {
+        margin-left: 0;
+        margin-right: 0;
+        justify-content: center;
+        font-size: 80%;
+      }
+    }
   .compass-wrap {
     position: absolute;
     pointer-events: none;
@@ -67,3 +138,32 @@
       height: 300px;
       left: -36px;
     }
+      @media only screen and (max-width: 900px) {
+        .compass {
+          top: 36px;
+          width: 250px;
+          height: 250px;
+        }
+      }
+      @media only screen and (max-width: 767px) {
+        .compass-wrap {
+          left: 0;
+        }
+        .compass {
+          left: -24px;
+        }
+      }
+      @media only screen and (max-width: 480px) {
+        .compass {
+          top: 72px;
+          left: -32px;
+          width: 200px;
+          height: 200px;
+        }
+      }
+
+@media only screen and (max-width: 900px) {
+  body {
+    overflow-x: hidden;
+  }
+}

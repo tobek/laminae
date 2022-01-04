@@ -213,17 +213,13 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
     display: none !important;
   }
 
-  .toc .tooltip {
-    width: 250px;
-    pointer-events: none !important;
-  }
-
   .shortcuts {
     font-size: 1rem;
   }
 
   .viz-wrap.loaded {
-    margin: 24px 0 -48px;
+    margin-top: 24px;
+    margin-bottom: -48px;
   }
 </style>
 
@@ -259,24 +255,42 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 </div>
 
 <div class="viz-wrap follow-with-dropcap">
+  <div class="facet-legend-wrap">
   <div class="facet-legend">
-| |
-| :-- |
-| <span class="axis-name">Method</span> |
-| REF[Hierarchy] |
-| REF[Synthesis] |
-| REF[Autonomy] |
-| <span class="axis-name">Motive</span> |
-| REF[Empathy] |
-| REF[Utility] |
-| REF[Power] |
-| <span class="axis-name">Means</span> |
-| REF[Creation] |
-| REF[Equilibrium] |
-| REF[Dissolution] |
+  <div class="table-wrap">
+  | |
+  | :-- |
+  | <span class="axis-name">Method</span> |
+  | REF[Hierarchy] |
+  | REF[Synthesis] |
+  | REF[Autonomy] |
   </div>
-  <div class="viz"><div class="tooltip"></div></div>
-  <div class="compass-wrap"><div class="compass"></div></div>
+  <div class="table-wrap">
+  | |
+  | :-- |
+  | <span class="axis-name">Motive</span> |
+  | REF[Empathy] |
+  | REF[Utility] |
+  | REF[Power] |
+  </div>
+  <div class="table-wrap">
+  | |
+  | :-- |
+  | <span class="axis-name">Means</span> |
+  | REF[Creation] |
+  | REF[Equilibrium] |
+  | REF[Dissolution] |
+  </div>
+  </div>
+  </div>
+
+  <div class="viz">
+  <div class="scroll-handle top"></div>
+  <canvas></canvas>
+  <div class="tooltip"></div>
+  <div class="scroll-handle bottom"></div>
+  </div>
+  <div class="compass-wrap"><div class="compass"><canvas></canvas></div></div>
 </div>
 
 ##### The Laminae
@@ -284,11 +298,11 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 <div class="lamina">
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="01-lgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="01-lgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="02-lgp.html">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="02-lgp.html">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LGP</div>
 </div>
 <div class="row">
@@ -310,7 +324,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">7.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="07-cgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">7.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="07-cgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CGC</div>
 </div>
 <div class="row">
@@ -318,7 +332,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="dots"></div><div class="page">CGP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">9.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="09-cgd.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">9.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="09-cgd.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CGD</div>
 </div>
 
@@ -327,7 +341,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="dots"></div><div class="page">LNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">11.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="11-lnp.html">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">11.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="11-lnp.html">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LNP</div>
 </div>
 <div class="row">
@@ -347,16 +361,16 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="15-nnd.html">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="15-nnd.html">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NND</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="16-cnc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="16-cnc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="lamina-name undone" hreff="17-cnp.html">The Wilt</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="17-cnp.html">The Wilt</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CNP</div>
 </div>
 <div class="row">
@@ -369,24 +383,24 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="dots"></div><div class="page">LEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">20.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="20-lep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">20.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="20-lep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="21-led.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="21-led.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LED</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">22.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="22-nec.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">22.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="22-nec.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">23.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="23-nep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">23.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="23-nep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">24.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="24-ned.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">24.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="24-ned.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NED</div>
 </div>
 
@@ -399,7 +413,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="dots"></div><div class="page">CEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="lamina-name undone unnamed" hreff="27-ced.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="27-ced.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CED</div>
 </div>
 
@@ -409,7 +423,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 ##### Back Matter
 
 <div class="row">
-  <div class="left"><div class="numeral">A.</div><span class="tooltip-wrap"><a class="undone" hreff="#">Closing Notes</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">A.</div><span class="tooltip-wrap"><a class="tooltip-target undone" hreff="#">Closing Notes</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">

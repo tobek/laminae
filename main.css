@@ -172,44 +172,35 @@ a.ref:not([href]):hover {
   opacity: 0.75;
 }
 
-.tooltip-wrap {
-  position: relative;
+.tooltip {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out;
+  z-index: 999;
+  background: #F8E8D4;
+  color: #311500;
+  border:  1px solid #31150030;
+  font-size: 0.875rem;
+  text-align: left;
+  padding: 15px 15px 10px;
+  width: 350px;
+  white-space: normal;
 }
-  .tooltip-wrap:hover .tooltip {
-    display: block;
+  .tooltip[data-show] {
     opacity: 1;
-    pointer-events: auto;
+    visibility: visible;
   }
-    .tooltip-wrap:hover .untranslated + .tooltip {
-      pointer-events: none;
-    }
-  .tooltip {
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-    font-size: 0.875rem;
-    text-align: left;
-    background: #F8E8D4;
-    color: #311500;
-    border:  1px solid #31150030;
-    padding: 15px 15px 10px;
-    position: absolute;
-    z-index: 999;
-    bottom: 10px;
-    left: 50%;
-    width:  350px;
-    transform: translate(-50%, calc(100% + 10px));
-    white-space: normal;
+  .tooltip.short {
+    width: auto;
   }
-    .img-wrap .tooltip {
-      width: 75%;
-    }
-
-  @media only screen and (max-width: 767px) {
-    /*TODO(otherwise extending page off to sides e.g. on cosmography)*/
-    p .tooltip {
-      display: none !important;
-    }
+  .img-wrap {
+    position: relative;
+  }
+  .img-wrap .tooltip {
+    text-align: center;
+    width: 75%;
   }
 
 .karedian,
@@ -461,13 +452,13 @@ p .editor-note {
 [data-facet], [data-facets] {
   display: inline-block;
 }
-[data-facet]:before, [data-facets]:after {
+[data-facet]:before, [data-facet]:after, [data-facets]:after {
   font-family: "NotoSansMyanmar", sans-serif;
   line-height: 1rem;
 }
-[data-facet]:before {
+[data-facet]:after {
   content: attr(data-facet);
-  margin-right: 4px;
+  margin-left: 4px;
 }
 [data-facets]:after {
   content: attr(data-facets);

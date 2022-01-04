@@ -169,3 +169,60 @@ document.addEventListener("visibilitychange", function() {
     }, SHIFT_DELAY_SHORT);
   }
 }, false);
+
+function initTooltips() {
+  Array.from(document.querySelectorAll(".tooltip-wrap")).forEach(wrapEl => {
+    const tooltip = wrapEl.querySelector(".tooltip");
+    const anchor = wrapEl.querySelector(".tooltip-anchor");
+    if (!tooltip) {
+      return;
+    }
+    if (!anchor) {
+      return;
+    }
+    const popperInstance = Popper.createPopper(anchor, tooltip);
+
+    if (tooltip.textContent.length < 50) {
+      tooltip.classList.add("short");
+    }
+
+    function show() {
+      tooltip.setAttribute('data-show', '');
+
+      popperInstance.setOptions((options) => ({
+        ...options,
+        modifiers: [
+          ...options.modifiers,
+          { name: 'eventListeners', enabled: true },
+        ],
+      }));
+
+      popperInstance.update();
+    }
+
+    function hide() {
+      tooltip.removeAttribute('data-show');
+
+      popperInstance.setOptions((options) => ({
+        ...options,
+        modifiers: [
+          ...options.modifiers,
+          { name: 'eventListeners', enabled: false },
+        ],
+      }));
+    }
+
+    ['mouseenter', 'focus'].forEach((event) => {
+      anchor.addEventListener(event, show);
+    });
+    ['mouseleave', 'blur'].forEach((event) => {
+      anchor.addEventListener(event, hide);
+    });
+  });
+}
+
+if (document.readState === "complete") {
+  initTooltips();
+} else {
+  window.addEventListener('DOMContentLoaded', initTooltips);
+}

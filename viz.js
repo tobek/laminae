@@ -4,6 +4,8 @@ if (location.origin.includes("thereitwas.com") && !document.location.search.incl
 
 import * as THREE from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx1INqCFBN0tXUQc/mode=imports,min/optimized/three.js';
 import { OrbitControls } from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx1INqCFBN0tXUQc/mode=imports,min/unoptimized/examples/jsm/controls/OrbitControls.js';
+// import * as THREE from 'https://cdn.skypack.dev/three@0.136.0/build/three.module.js';
+// import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
 
 const SCRIBE_BLACK = "#311500";
 const SCRIBE_RED = "#b00000";
@@ -62,14 +64,15 @@ if (document.querySelectorAll("[data-toc-facets]").length) {
   try { laminaeData = JSON.parse(localStorage.laminaeData); } catch {}
 }
 if (!laminaeData) {
-  // shitty backup plan:
+  // shitty backup plan for cosmogrpahy page:
   laminaeData = [{"glyphs":"ꩧဥꧠ","name":"The Equivocation","href":""},{"glyphs":"ꩧဥဓ","name":"The Concordance","href":""},{"glyphs":"ꩧဥဗ","name":"The Ardence","href":"http://localhost/yhfd/planescape%20trimurti/build/03-lgd.html"},{"glyphs":"ꧪဥꧠ","name":"The Bell","href":"http://localhost/yhfd/planescape%20trimurti/build/04-ngc.html"},{"glyphs":"ꧪဥဓ","name":"The Braid","href":"http://localhost/yhfd/planescape%20trimurti/build/05-ngp.html"},{"glyphs":"ꧪဥဗ","name":"The Cicatrix","href":"http://localhost/yhfd/planescape%20trimurti/build/06-ngd.html"},{"glyphs":"꧹ဥꧠ","name":"The Bauble","href":""},{"glyphs":"꧹ဥဓ","name":"The Brink","href":"http://localhost/yhfd/planescape%20trimurti/build/08-cgp.html"},{"glyphs":"꧹ဥဗ","name":"The Reticulum","href":""},{"glyphs":"ꩧ၇ꧠ","name":"The Unfolding","href":"http://localhost/yhfd/planescape%20trimurti/build/10-lnc.html"},{"glyphs":"ꩧ၇ဓ","name":"The Essentialism","href":""},{"glyphs":"ꩧ၇ဗ","name":"The Instrument","href":"http://localhost/yhfd/planescape%20trimurti/build/12-lnd.html"},{"glyphs":"ꧪ၇ꧠ","name":"The Asymmetry","href":"http://localhost/yhfd/planescape%20trimurti/build/13-nnc.html"},{"glyphs":"ꧪ၇ဓ","name":"The Cartography","href":"http://localhost/yhfd/planescape%20trimurti/build/14-nnp.html"},{"glyphs":"ꧪ၇ဗ","name":"The Lucidity","href":""},{"glyphs":"꧹၇ꧠ","name":"The Hidebound","href":""},{"glyphs":"꧹၇ဓ","name":"The Wilt","href":""},{"glyphs":"꧹၇ဗ","name":"The Inevitability","href":"http://localhost/yhfd/planescape%20trimurti/build/18-cnd.html"},{"glyphs":"ꩧဋꧠ","name":"The Macula","href":"http://localhost/yhfd/planescape%20trimurti/build/19-lec.html"},{"glyphs":"ꩧဋဓ","name":"The Aleatory","href":""},{"glyphs":"ꩧဋဗ","name":"The Weaking","href":""},{"glyphs":"ꧪဋꧠ","name":"The Simmer","href":""},{"glyphs":"ꧪဋဓ","name":"The Encumbrance","href":""},{"glyphs":"ꧪဋဗ","name":"The Ataxia","href":""},{"glyphs":"꧹ဋꧠ","name":"The Bloom","href":"http://localhost/yhfd/planescape%20trimurti/build/25-cec.html"},{"glyphs":"꧹ဋဓ","name":"The Knot","href":"http://localhost/yhfd/planescape%20trimurti/build/26-cep.html"},{"glyphs":"꧹ဋဗ","name":"The Snarl","href":""}];
 }
 
 /** `args` is array of { text: string; color?: string } */
 function getLabelCanvas(args, size) {
   const ctx = document.createElement('canvas').getContext('2d');
-  const font = (size || 64) + "px NotoSansMyanmar, sans-serif";
+  size = size || 64;
+  const font = size + "px NotoSansMyanmar, sans-serif";
   ctx.font = font;
 
   let fullText = "";
@@ -78,8 +81,10 @@ function getLabelCanvas(args, size) {
   }
 
   // measure text dimensions so we can size canvas appropriately
-  const width = ctx.measureText(fullText).width + 2;
-  const height = ctx.measureText(fullText).fontBoundingBoxAscent + 2;
+  const textMetrics = ctx.measureText(fullText);
+  const width = textMetrics.width + 2;
+  // firefox doesn't have fontBoundingBoxAscent. the `size*49/64` here is a magic formula that makes up the difference between these two values as tested in chrome and firefox for the 9 glyphs in this font at a couple sizes
+  const height = (textMetrics.fontBoundingBoxAscent || (textMetrics.actualBoundingBoxAscent + size*49/64)) + 2;
   ctx.canvas.width = width;
   ctx.canvas.height = height;
 
@@ -98,9 +103,8 @@ function getLabelCanvas(args, size) {
 }
 
 function getLabelMaterial(args, size) {
-  const canvas = getLabelCanvas(args, size);
-  const texture = new THREE.CanvasTexture(canvas);
-  // because our canvas is likely not a power of 2 in both dimensions, set the filtering appropriately:
+  const texture = new THREE.CanvasTexture(getLabelCanvas(args, size));
+  // because our canvas is likely not a power of 2 in both dimensions, set the filtering appropriately (apparently)
   texture.minFilter = THREE.LinearFilter;
   texture.wrapS = THREE.ClampToEdgeWrapping;
   texture.wrapT = THREE.ClampToEdgeWrapping;
@@ -108,6 +112,7 @@ function getLabelMaterial(args, size) {
   return new THREE.SpriteMaterial({
     map: texture,
     transparent: true,
+    depthWrite: false,
   });
 }
 
@@ -152,7 +157,7 @@ function generateLabels(scene) {
   });
 }
 
-function highlightLaminaeGlyphs(glyphs, doHighlight, _changeSize) {
+function highlightLaminaeSprites(glyphs, doHighlight, _changeSize) {
   for (let i = 0; i < laminaeData.length; i++) {
     if (laminaeData[i].glyphs[0] === glyphs[0] ||
       laminaeData[i].glyphs[1] === glyphs[1] ||
@@ -184,17 +189,18 @@ function highlightLaminaeGlyphs(glyphs, doHighlight, _changeSize) {
       }
     }
   }
+}
+
+function highlightFacets(glyphs, doHighlight, _changeSize) {
+  highlightLaminaeSprites(glyphs, doHighlight, _changeSize);
 
   for (let i = 0; i < glyphs.length; i++) {
     const facet = facetData[i].find(f => f.glyph === glyphs[i]);
     if (!facet) {
       continue;
     }
-    // facet.mesh.material = doHighlight ? facetHoverMaterial : facetBaseMaterial;
+    facet.mesh.material = doHighlight ? facetHoverMaterial : facetBaseMaterial;
     facet.lines.material = doHighlight ? facetLinesHoverMaterial : facetLinesBaseMaterial;
-    // @TODO not working, still gets covered by facetBaseMaterialOptions
-    // facet.lines.renderOrder = doHighlight ? 1 : 0;
-    // facet.lines.material.depthTest = !doHighlight;
 
     facet.highlightTocGlyphs(doHighlight);
     if (facet.compassSprite) {
@@ -215,7 +221,7 @@ function highlightLaminaeGlyphs(glyphs, doHighlight, _changeSize) {
 
 function onLaminaHover(laminaData, hovered, changeSpriteSize) {
   laminaData.sprite.material = getLabelMaterial([{ text: laminaData.glyphs, color: hovered ? SCRIBE_RED : undefined }]);
-  highlightLaminaeGlyphs(laminaData.glyphs, hovered, changeSpriteSize);
+  highlightFacets(laminaData.glyphs, hovered, changeSpriteSize);
 
   const tocFacets = document.querySelector("[data-toc-facets=" + laminaData.glyphs + "]");
   if (tocFacets) {
@@ -268,42 +274,45 @@ const facetBaseMaterial = new THREE.MeshBasicMaterial(facetBaseMaterialOptions);
 const facetHoverMaterial = new THREE.MeshBasicMaterial({
   ...facetBaseMaterialOptions,
   color: SCRIBE_RED,
-  opacity: 0.1,
+  opacity: 0.075,
 });
 
 const facetLinesBaseMaterial = new THREE.LineBasicMaterial({
   color: SCRIBE_RED,
+  depthTest: false,
   transparent: true,
   opacity: 0.1,
 });
 const facetLinesHoverMaterial = new THREE.LineBasicMaterial({
   depthTest: false,
+  transparent: true,
+  opacity: 0.75,
   linewidth: 2,
   color: SCRIBE_RED,
-  // @TODO not working, still covered by facetBaseMaterialOptions
-  // polygonOffset: true,
-  // polygonOffsetFactor: -1,
-  // polygonOffsetUnits: 1,
 });
 
-function getFacetMesh(shape, name, facet) {
+function getFacetGroup(shape, name, facet) {
+  const group = new THREE.Group();
+
   const geometry = new THREE.ShapeGeometry( shape );
   const mesh = new THREE.Mesh(geometry, facetBaseMaterial);
+  mesh.name = name;
+  facet.mesh = mesh;
+  group.add(mesh);
 
   const edges = new THREE.EdgesGeometry(geometry);
   const lines = new THREE.LineSegments(edges, facetLinesBaseMaterial);
   lines.name = name + " lines";
   facet.lines = lines;
-  mesh.add(lines);
+  group.add(lines);
 
-  mesh.name = name;
-  return mesh;
+  return group;
 }
 
 function generateFacets(scene) {
   facetData.forEach((axis, i) => {
     axis.forEach((f, j) => {
-      let shape;
+      let shape, group;
       if (i === 2) {
         const offset = f.id === "C" ? C_OFFSET : f.id === "P" ? OFFSET : D_OFFSET;
         shape = new THREE.Shape()
@@ -315,9 +324,9 @@ function generateFacets(scene) {
           // .bezierCurveTo(offset, offset)
           // .bezierCurveTo(offset, -1*offset);
 
-        f.mesh = getFacetMesh(shape, f.name, f);
+        group = getFacetGroup(shape, f.name, f);
 
-        f.mesh.position.z = f.id === "C" ? OFFSET : f.id === "P" ? 0 : -1*OFFSET;
+        group.position.z = f.id === "C" ? OFFSET : f.id === "P" ? 0 : -1*OFFSET;
       } else {
         if (j === 1) {
           shape = new THREE.Shape()
@@ -332,24 +341,24 @@ function generateFacets(scene) {
             .lineTo(D_OFFSET, -1 * OBLIQUE_DEPTH/2)
             .lineTo(C_OFFSET, OBLIQUE_DEPTH/2);
         }
-        f.mesh = getFacetMesh(shape, f.name, f);
+        group = getFacetGroup(shape, f.name, f);
 
         if (i === 0) {
-          f.mesh.rotation.x = Math.PI / 2;
+          group.rotation.x = Math.PI / 2;
           if (j !== 1) {
-            f.mesh.rotation.x += OBLIQUE_ANGLE * (j === 0 ? 1 : -1)
-            f.mesh.position.y = OFFSET * (j === 0 ? 1 : -1);
+            group.rotation.x += OBLIQUE_ANGLE * (j === 0 ? 1 : -1)
+            group.position.y = OFFSET * (j === 0 ? 1 : -1);
           }
         } else {
-          f.mesh.rotation.z = Math.PI / 2;
-          f.mesh.rotation.y = Math.PI / 2;
+          group.rotation.z = Math.PI / 2;
+          group.rotation.y = Math.PI / 2;
           if (j !== 1) {
-            f.mesh.rotation.y += OBLIQUE_ANGLE * (j === 0 ? 1 : -1)
-            f.mesh.position.x = OFFSET * (j === 0 ? -1 : 1);
+            group.rotation.y += OBLIQUE_ANGLE * (j === 0 ? 1 : -1)
+            group.position.x = OFFSET * (j === 0 ? -1 : 1);
           }
         }
       }
-      scene.add(f.mesh);
+      scene.add(group);
     });
   });
 
@@ -443,14 +452,12 @@ function generateCompass() {
 let compassCamera;
 let compassRenderer;
 function compassViewInit() {
-  const container = document.querySelector(".compass");
-  const sceneWidth = container.offsetWidth;
-  const sceneHeight = container.offsetHeight;
+  const canvas = document.querySelector(".compass canvas");
+  const sceneWidth = canvas.offsetWidth * pixelRatio;
+  const sceneHeight = canvas.offsetHeight * pixelRatio;
 
-  compassRenderer = new THREE.WebGLRenderer( { antialias: true, alpha: true } );
-  window.devicePixelRatio && compassRenderer.setPixelRatio(Math.min(2, window.devicePixelRatio));
-  compassRenderer.setSize( sceneWidth, sceneHeight );
-  container.appendChild(compassRenderer.domElement);
+  compassRenderer = new THREE.WebGLRenderer( { canvas, antialias: true, alpha: true } );
+  compassRenderer.setSize(sceneWidth, sceneHeight);
   compassCamera = new THREE.PerspectiveCamera( 30, sceneWidth / sceneHeight, 0.01, 10 );
 }
 
@@ -479,11 +486,11 @@ function checkIntersections() {
 
       if (intersectedObj) {
         onLaminaHover(intersectedObj.userData, true);
-        container.style.cursor = "pointer";
+        canvas.style.cursor = "pointer";
         controls.autoRotate = false;
         lastIntersectedObj = intersectedObj;
       } else {
-        container.style.cursor = "default";
+        canvas.style.cursor = "default";
         controls.autoRotate = true;
       }
     }
@@ -495,23 +502,29 @@ function checkIntersections() {
 }
 
 const scene = new THREE.Scene();
-const container = document.querySelector(".viz")
-const sceneWidth = container.offsetWidth;
-const sceneHeight = Math.min(window.innerHeight * 0.75, 600);
+const canvas = document.querySelector(".viz canvas");
+const pixelRatio = window.devicePixelRatio ? Math.min(2, window.devicePixelRatio) : 1;
+let sceneWidth = canvas.offsetWidth * pixelRatio;
+let sceneHeight = canvas.offsetHeight * pixelRatio;
 
-const renderer = new THREE.WebGLRenderer( { antialias: true, alpha: true } );
-window.devicePixelRatio && renderer.setPixelRatio(Math.min(2, window.devicePixelRatio));
-renderer.setSize( sceneWidth, sceneHeight );
-container.appendChild(renderer.domElement);
+const renderer = new THREE.WebGLRenderer( { canvas, antialias: true, alpha: true } );
+renderer.setSize(sceneWidth, sceneHeight);
 
 const camera = new THREE.PerspectiveCamera( 40, sceneWidth / sceneHeight, 0.01, 10 );
-camera.position.set(1.1, 1.1, 2.2);
+const cameraDistance = window.innerWidth < 380 ? 3.75 : window.innerWidth < 560 ? 3.25 : 2.65
+camera.position.set(1, 0.5, 2).normalize().multiplyScalar(cameraDistance);
 
 const controls = new OrbitControls( camera, renderer.domElement );
 controls.enablePan = false;
-controls.enableZoom = false;
 controls.enableDamping = true;
 controls.autoRotateSpeed = 0.4; // we set autoRotate true once user scrolls down
+if (window.matchMedia('(pointer: coarse)').matches) {
+  controls.enableZoom = true;
+  controls.minDistance = cameraDistance / 2;
+  controls.maxDistance = cameraDistance * 2;
+} else {
+  controls.enableZoom = false;
+}
 
 scene.add(new THREE.HemisphereLight( 0xffffbb, 0x080820, 1 ));
 
@@ -529,12 +542,22 @@ controls.addEventListener("change", setCompassCameraPosition);
 
 // scene.add( new THREE.AxesHelper( 2 ) );
 
+window.addEventListener("resize", () => {
+  sceneWidth = canvas.offsetWidth * pixelRatio;
+  sceneHeight = canvas.offsetHeight * pixelRatio;
+  if (canvas.width !== sceneWidth || canvas.height !== sceneHeight) {
+    renderer.setSize(sceneWidth, sceneHeight, false);
+    camera.aspect = sceneWidth / sceneHeight;
+    camera.updateProjectionMatrix();
+  }
+});
+
 const raycaster = new THREE.Raycaster();
 const mouse = new THREE.Vector2(-2, -2); // start "offscreen" so it doesn't immediately highlight stuff
 window.addEventListener('mousemove', function onMouseMove(event) {
-  // normalize to -1 to +1 within the container
-  mouse.x = ((event.pageX - container.offsetLeft - container.offsetParent.offsetLeft) / sceneWidth) * 2 - 1;
-  mouse.y = -((event.pageY - container.offsetTop - container.offsetParent.offsetTop) / sceneHeight) * 2 + 1;
+  // normalize to -1 to +1 within the canvas
+  mouse.x = ((event.pageX - canvas.offsetParent.offsetLeft - canvas.offsetParent.offsetParent.offsetLeft) / (sceneWidth / pixelRatio)) * 2 - 1;
+  mouse.y = -((event.pageY - canvas.offsetParent.offsetTop - canvas.offsetParent.offsetParent.offsetTop) / (sceneHeight / pixelRatio)) * 2 + 1;
 }, false);
 
 Array.from(document.querySelectorAll("[data-toc-facets]")).forEach(function(el, i) {
@@ -557,21 +580,39 @@ Array.from(document.querySelectorAll("[data-toc-facets]")).forEach(function(el, 
 
 const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 Array.from(document.querySelectorAll(".facet-legend [data-facet]")).forEach(function(el, i) {
-  // make a string e.g. "xဋx" to pass in to highlightLaminaeGlyphs
+  // make a string e.g. "xဋx" to pass in to highlightFacets
   const axis = Math.floor(i / 3);
   const highlight = ["x", "x", "x"];
   highlight[axis] = el.getAttribute("data-facet");
   const highlightString = highlight.join("");
   el.addEventListener("mouseover", function() {
-    highlightLaminaeGlyphs(highlightString, true);
+    highlightFacets(highlightString, true);
   });
   el.addEventListener("mouseout", function() {
-    highlightLaminaeGlyphs(highlightString, false);
+    highlightFacets(highlightString, false);
   });
 
   if (!canHover) {
     el.addEventListener("click", e => e.preventDefault());
   }
+});
+
+Array.from(document.querySelectorAll(".facet-legend .axis-name")).forEach(function(el, i) {
+  const strings = [
+    ["ꩧxx", "ꧪxx", "꧹xx"],
+    ["xဥx", "x၇x", "xဋx"],
+    ["xxꧠ", "xxဓ", "xxဗ"],
+  ][i];
+  el.addEventListener("mouseover", function() {
+    for (let i = 0; i < 3; i++) {
+      highlightFacets(strings[i], true);
+    }
+  });
+  el.addEventListener("mouseout", function() {
+    for (let i = 0; i < 3; i++) {
+      highlightFacets(strings[i], false);
+    }
+  });
 });
 
 let isDragging = false;
@@ -596,6 +637,11 @@ renderer.domElement.addEventListener("click", () => {
     document.location.href = activeLamina.href;
   }
 });
+document.querySelector(".viz .tooltip").addEventListener("click", () => {
+  if (activeLamina && activeLamina.href) {
+    document.location.href = activeLamina.href;
+  }
+});
 
 let loaded = false;
 let scrolledIntoView = false;
@@ -604,7 +650,7 @@ function render() {
     loaded = true;
     document.querySelector(".viz-wrap").classList.add("loaded");
   }
-  if (!scrolledIntoView && (window.pageYOffset + window.innerHeight > container.offsetTop - container.offsetParent.offsetTop)) {
+  if (!scrolledIntoView && (window.pageYOffset + window.innerHeight > canvas.offsetTop - canvas.offsetParent.offsetTop)) {
     controls.autoRotate = true;
     scrolledIntoView = true;
   }
@@ -625,7 +671,7 @@ window.laminaeData = laminaeData;
 window.facetHoverMaterial = facetHoverMaterial;
 window.getLabelMaterial = getLabelMaterial;
 window.getLabel = getLabel;
-window.highlightLaminaeGlyphs = highlightLaminaeGlyphs;
+window.highlightFacets = highlightFacets;
 window.camera = camera;
 window.compass = compass;
 window.compassCamera = compassCamera;

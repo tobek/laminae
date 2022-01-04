@@ -3,10 +3,10 @@
 7-8x 8h days of estimated stuff + 14 laminae x 2h = another 4 full days
 
 - At least stub content (+ TOC?) for all laminae (14 remaining)
-- Interactive cosmology visualization `8h`
-- Site-wide glyph visualization `4h`
-- Add GPT-3 content in distinct visual style `4h`
-- Fleshed out glossary/index stuff `4h`
+<!-- - Interactive cosmology visualization `8h` -->
+<!-- - Site-wide glyph visualization `4h` -->
+<!-- - Add GPT-3 content in distinct visual style `4h` -->
+<!-- - Fleshed out glossary/index stuff `4h` -->
 - Style pass and improvements across the site `16h`
 - More content about the author `4h`
 - Closing Notes chapter `8h`
@@ -477,7 +477,7 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
 
 ## ■▤▤ Build
 
-    nodemon -ext "js,md" --exec "python build.py 00-0-title.md" # md isn't working
+    nodemon - "js,css,md" --exec "python build.py 00-0-title.md"
 
 - remove # from file name?? maybe not
 
@@ -744,46 +744,37 @@ code:
 
 - where on the page?
 - circle or little arc around/over each lamina?
-- could try making each facet edge line stop short of each lamina (and then moving them back in)
-- hover states everywhere
 - colors in general
 - show midpoint facets in compass?
 - camera damping?
-- facet legend centered?
-- enlarging of lamina glyphs in viz on hover?
-- highlighting glyphs in TOC is too much? maybe darker color for non main one
+- go over hover states everywhere
+    + enlarging of lamina glyphs in viz on TOC hover?
+    + highlighting glyphs in TOC is too much? maybe darker color for non main one
+- facet legend
+    + are the tooltips too much?
+    + axis name hovers - indicate hove state? could do tooltips too
+    + label the whole legend ("Facets")?
 
 #### viz up next
 
-- tooltip
-    + tooltip in fixed location like legend?
-- click to go to lamina page? but what about tap - handle tooltip tap situation in general i guess
-- stylize
-    + means lines from origin point to infinity??
-        * change CD_MULT to be an angle
-    + bezier curve?
-- hover
-    + fade out lines and highlight appropriate facet lines on hover? (mid lines too?)
-        * there are other mid lines on all faces... maybe just highlight face a bit instead?
-        * some seem faded, try negative offset?
-    + maybe facet lines are less transparent but fade on hover
 - mobile responsiveness
-    + check compass view too
-- put in cosmography?
-    + add "lamina" column to the big list and repeat with all the glyphs there?
+    + width overflow from tooltip business
+- stylize
+    - bloom, etc
+    - look at inspo, maybe some other touches
+- put in cosmography
     + update "Arrangement" section etc, move it, where to put viz, etc
 
 #### viz backlog
 
-- unhovering lamina sprite makes tooltip jump to corner - should stay in place and fade out
-- hover over axis name highlights each facet? `highlightLaminaeGlyphs("ꩧxx", true)` 3x
-- doesn't work in firefox, some issue with the laminae canvas labels
-- what to do about stuff that goes off edge as rotating?
-    + could auto move stuff to fit in viewport but would be a pain
-    + best effort clamping values (prob no zoom) and maybe have gradient fade at edges so it doesn't clip
-- later
-    - hover over compass facets?
-    - could make obscured lines dashed: https://discourse.threejs.org/t/making-invisible-edges-dashed/29824/1
+- ensure notosansmyanmar font is loaded before rendering sprites? https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/font#loading_fonts_with_the_css_font_loading_api
+- stylize ideas
+    + means lines from origin point to infinity??
+        * change CD_MULT to be an angle
+    + bezier curve?
+    + could try making each facet edge line stop short of each lamina (and then moving them back in)
+- hover over compass facets?
+- could make obscured lines dashed: https://discourse.threejs.org/t/making-invisible-edges-dashed/29824/1
 
 ### facet hover
 

@@ -14,31 +14,50 @@ TODO(revise)[]
 		line-height: 1.5;
 	}
   .viz-wrap.loaded {
-  	margin: -16px 0 36px;
+  	margin-top: -16px;
+  	margin-bottom: 36px;
   }
 </style>
 
 ## Overview
 
 <div class="viz-wrap follow-with-dropcap">
+  <div class="facet-legend-wrap">
   <div class="facet-legend">
-| |
-| :-- |
-| <span class="axis-name">Method</span> |
-| REF[Hierarchy] |
-| REF[Synthesis] |
-| REF[Autonomy] |
-| <span class="axis-name">Motive</span> |
-| REF[Empathy] |
-| REF[Utility] |
-| REF[Power] |
-| <span class="axis-name">Means</span> |
-| REF[Creation] |
-| REF[Equilibrium] |
-| REF[Dissolution] |
+  <div class="table-wrap">
+  | |
+  | :-- |
+  | <span class="axis-name">Method</span> |
+  | REF[Hierarchy] |
+  | REF[Synthesis] |
+  | REF[Autonomy] |
   </div>
-  <div class="viz"><div class="tooltip"></div></div>
-  <div class="compass-wrap"><div class="compass"></div></div>
+  <div class="table-wrap">
+  | |
+  | :-- |
+  | <span class="axis-name">Motive</span> |
+  | REF[Empathy] |
+  | REF[Utility] |
+  | REF[Power] |
+  </div>
+  <div class="table-wrap">
+  | |
+  | :-- |
+  | <span class="axis-name">Means</span> |
+  | REF[Creation] |
+  | REF[Equilibrium] |
+  | REF[Dissolution] |
+  </div>
+  </div>
+  </div>
+
+  <div class="viz">
+  <div class="scroll-handle top"></div>
+  <canvas></canvas>
+  <div class="tooltip"></div>
+  <div class="scroll-handle bottom"></div>
+  </div>
+  <div class="compass-wrap"><div class="compass"><canvas></canvas></div></div>
 </div>
 
 The nine REF[facets](facets) and twenty-seven REF[laminae] are familiar to all thoughtful beings, though you may not know their names or the extent of their forms. Facets are the philosophical undercurrents that gird our actions, and laminae provide essential conceptual substance to mortal minds, their residents carrying out work that sustains the nature of REF[cardinal] worlds. REF[TODO(artist plane)[The Bauble]](TODO) fuels the imagination of every artist, REF[CND] ensures the physical laws of entropy, REF[NNC] crafts the intrinsic shape of every physical object---our environments depend on these sources. On each lamina, manifestations of its facets are carried out to their logical extents in marvelous and terrifying ways, and each is a lens through which to understand the strategies that guide and organize existence.
