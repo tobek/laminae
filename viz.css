@@ -2,6 +2,9 @@
   position:  relative;
   opacity: 0;
   pointer-events: none;
+  width: calc(100% + 128px);
+  margin-left: -64px;
+  overflow: hidden;
 }
   .viz-wrap.loaded {
     opacity: 1;
@@ -35,6 +38,7 @@
   }
     .viz .tooltip {
       position: absolute;
+      display: block;
       top: 0;
       left: 0;
       width: auto !important;
@@ -53,7 +57,12 @@
     @media only screen and (max-width: 560px) {
       .viz {
         right: 0;
-        top: -36px;
+        top: -48px;
+      }
+    }
+    @media only screen and (max-width: 480px) {
+      .viz {
+        top: -64px;
       }
     }
 
@@ -74,6 +83,11 @@
       }
   }
 
+  .viz-wrap .facet-legend-wrap {
+    z-index: 2;
+    position: absolute;
+    margin: 0 64px;
+  }
   .viz-wrap .facet-legend {
     position: absolute;
     font-size: 90%;
@@ -103,14 +117,22 @@
         color: #b00000;
       }
     @media only screen and (max-width: 900px) {
+      .viz-wrap .facet-legend-wrap {
+        position: relative;
+      }
       .viz-wrap .facet-legend {
         position: static;
         display: flex;
         justify-content: space-evenly;
+        background: antiquewhite;
         margin-bottom: 8px;
       }
     }
     @media only screen and (max-width: 767px) {
+      .viz-wrap .facet-legend-wrap {
+        margin: 0 16px;
+        width: calc(100% - 32px);
+      }
       .viz-wrap .facet-legend {
         padding: 0 16px;
       }
@@ -123,20 +145,19 @@
         font-size: 80%;
       }
     }
+  /* TODO now that viz-wrap has overflow hidden, compass-wrap is no longer needed, can refactor positioning without it */
   .compass-wrap {
     position: absolute;
     pointer-events: none;
-    left: -48px;
     bottom: -48px;
     width: 275px;
     height: 275px;
-    overflow: hidden;
   }
     .compass {
       position: relative;
       width: 300px;
       height: 300px;
-      left: -36px;
+      left: -24px;
     }
       @media only screen and (max-width: 900px) {
         .compass {
@@ -146,24 +167,18 @@
         }
       }
       @media only screen and (max-width: 767px) {
-        .compass-wrap {
-          left: 0;
-        }
         .compass {
-          left: -24px;
+          left: -16px;
+        }
+      }
+      @media only screen and (max-width: 560px) {
+        .compass {
+          top: 36px;
         }
       }
       @media only screen and (max-width: 480px) {
         .compass {
-          top: 72px;
-          left: -32px;
           width: 200px;
           height: 200px;
         }
       }
-
-@media only screen and (max-width: 900px) {
-  body {
-    overflow-x: hidden;
-  }
-}

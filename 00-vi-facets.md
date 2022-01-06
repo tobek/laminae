@@ -8,6 +8,8 @@ summary: "Abstract forces that drive beings and cultures, divided into three spe
 "9200397_BibliographicResource_3000126262077.jpeg" something like that
 -->
 
+TODO(revise)[]
+
 <style>
     p + ul li {
         line-height: 1.5;

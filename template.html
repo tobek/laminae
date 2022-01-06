@@ -47,15 +47,11 @@ $endfor$
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-$for(header-includes)$
-  $header-includes$
-$endfor$
 </head>
 
 <body>
-$for(include-before)$
-  $include-before$
-$endfor$
+  <div class="page-bg"></div>
+  <div class="container">
 
 $if(prev_href)$
   <div class="shortcuts top">
@@ -150,6 +146,8 @@ $endif$
 
 <div id="about" class="corner shortcuts">
   <a href="about.html">about</a>
+</div>
+
 </div>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>

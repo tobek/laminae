@@ -550,6 +550,7 @@ unused ones can just be particular places
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
+- place where 2nd law of thermodynamics is reversed? what does time mean? opposite of CND is LNC but that hmm maybe actually
 - some kind of transportation system? mechanical or biological. LNP?
 - the conception of perfection. (look up quotes?)
     + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
@@ -748,6 +749,9 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 
 - "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq
 - "Only children and the stupid seek both cause and effect in the same story" - Nasrudin, as related by Idries Shah
+- "Nothing that is evil is necessary." - Tertullian, Adversus Marcionem IV.29:4
+    - but i like the reverse!! "Nothing that is necessary is evil."
+- "All things will be in danger of being taken in a sense different from their own proper sense, and, whilst taken in that different sense, of losing their proper one, if they are called by a name which differs from their natural designation. Fidelity in names secures the safe appreciation of properties." Tertullian, De Carne Christi 13:2 (LNP?)
 - "Fluency before understanding, discipline before imagination"
 - "If you try and go against réalité... Réalité will surely crush you. Réalité will kill you. And réalité will continue to go on az if not'ing ever happened... From yesterday to today, and from today to tomorrow. Réalité marchez on... Leaving your crushed body behind..." - Harle
 - "What is better: to be born good, or to overcome your evil nature through great effort?" - Paarthurnax, Skyrim

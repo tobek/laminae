@@ -12,6 +12,12 @@ hide_toc: True
     }
 </style>
 
+## The 222nd Year L.C.
+
+#### The Fifth of the First
+
+Our shiftwrights have completed an adaptation of the author's diagram laying out a cartography of the twenty-seven laminae. We have placed it on the <a href="./">title page</a> of this collection.
+
 ## The 221st Year L.C.
 
 #### The Seventeenth of the Twelfth

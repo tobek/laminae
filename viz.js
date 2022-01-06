@@ -1,12 +1,9 @@
-if (location.origin.includes("thereitwas.com") && !document.location.search.includes("viz")) {
-  throw "nope";
-}
-
 import * as THREE from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx1INqCFBN0tXUQc/mode=imports,min/optimized/three.js';
 import { OrbitControls } from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx1INqCFBN0tXUQc/mode=imports,min/unoptimized/examples/jsm/controls/OrbitControls.js';
 // import * as THREE from 'https://cdn.skypack.dev/three@0.136.0/build/three.module.js';
 // import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
 
+const BACKGROUND_COLOR = "antiquewhite";
 const SCRIBE_BLACK = "#311500";
 const SCRIBE_RED = "#b00000";
 const GLYPH_BLUE = "#113a6b";
@@ -16,6 +13,9 @@ const OFFSET = 0.5; // offset from origin out to shape edge
 const CD_MULT = 0.25; // multiplier down/up for creation/destruction
 const C_OFFSET = OFFSET * (1 - CD_MULT);
 const D_OFFSET = OFFSET * (1 + CD_MULT);
+
+// function describing y position of means axis is: `f(z) = -1 * x * CD_MULT + OFFSET` so the following value calculates what value of z gives f(z) = 0:
+const MEANS_INTERSECTION_Z = OFFSET / CD_MULT;
 
 const OBLIQUE_DEPTH = Math.sqrt((OFFSET*2)**2 + (D_OFFSET - C_OFFSET)**2); // hypotenuse in center plane from e.g. LNC to LND, which will be the depth of the 2d facet shape
 const OBLIQUE_ANGLE = Math.atan((D_OFFSET - C_OFFSET) / (OFFSET*2)); // angle that e.g. the L facet needs to be angled up
@@ -163,7 +163,8 @@ function highlightLaminaeSprites(glyphs, doHighlight, _changeSize) {
       laminaeData[i].glyphs[1] === glyphs[1] ||
       laminaeData[i].glyphs[2] === glyphs[2]
     ) {
-      const changeSize = _changeSize && laminaeData[i].glyphs === glyphs;
+      const fullMatch = laminaeData[i].glyphs === glyphs;
+      const changeSize = _changeSize && fullMatch;
 
       if (!doHighlight) {
         laminaeData[i].sprite.material = getLabelMaterial([{ text: laminaeData[i].glyphs }]);
@@ -182,6 +183,10 @@ function highlightLaminaeSprites(glyphs, doHighlight, _changeSize) {
             color: laminaeData[i].glyphs[2] === glyphs[2] ? SCRIBE_RED : undefined,
           },
         ], changeSize ? 72 : undefined);
+
+        if (fullMatch) {
+          laminaeData[i].sprite.material.fog = false;
+        }
       }
 
       if (changeSize) {
@@ -205,14 +210,17 @@ function highlightFacets(glyphs, doHighlight, _changeSize) {
     facet.highlightTocGlyphs(doHighlight);
     if (facet.compassSprite) {
       facet.compassSprite.material = getLabelMaterial([{ text: glyphs[i], color: doHighlight && SCRIBE_RED }], 128)
+      facet.compassSprite.material.fog = false;
     }
     if (facet.compassCone) {
       facet.compassCone.material = doHighlight
         ? new THREE.MeshLambertMaterial({color: SCRIBE_RED})
         : new THREE.MeshBasicMaterial({color: GLYPH_BLUE});
+      facet.compassCone.material.fog = false;
     }
     if (facet.compassGem) {
       facet.compassGem.material = new THREE.MeshLambertMaterial({color: doHighlight ? SCRIBE_RED : GLYPH_BLUE});
+      facet.compassGem.material.fog = false;
     }
 
     document.querySelector(".facet-legend [data-facet='" + glyphs[i] + "']").classList[doHighlight ? "add" : "remove"]("hover");
@@ -259,10 +267,11 @@ function updateLaminaTooltipPosition() {
 }
 
 const facetBaseMaterialOptions = {
-  color: "antiquewhite",
+  color: BACKGROUND_COLOR,
   side: THREE.DoubleSide,
   transparent: true,
-  opacity: 0.33,
+  // opacity: 0.33,
+  opacity: 0,
   depthWrite: false,
 
   // reduce z-fighting:
@@ -281,7 +290,7 @@ const facetLinesBaseMaterial = new THREE.LineBasicMaterial({
   color: SCRIBE_RED,
   depthTest: false,
   transparent: true,
-  opacity: 0.1,
+  opacity: 0.15,
 });
 const facetLinesHoverMaterial = new THREE.LineBasicMaterial({
   depthTest: false,
@@ -378,6 +387,51 @@ function generateFacets(scene) {
   scene.add(middleAxesLines);
 }
 
+function generateMeansIntersectionLines(scene) {
+  const farZ = -50;
+  const farXY = 50 * CD_MULT + OFFSET;
+
+  scene.add(new THREE.Line(
+    new THREE.BufferGeometry().setFromPoints([
+      new THREE.Vector3( 0, 0, MEANS_INTERSECTION_Z ),
+      new THREE.Vector3( 0, farXY, farZ ),
+      new THREE.Vector3( 0, -1*farXY, farZ ),
+      new THREE.Vector3( 0, 0, MEANS_INTERSECTION_Z ),
+      new THREE.Vector3( farXY, 0, farZ ),
+      new THREE.Vector3( -1*farXY, 0, farZ ),
+      new THREE.Vector3( 0, 0, MEANS_INTERSECTION_Z ),
+      new THREE.Vector3( farXY, farXY, farZ ),
+      new THREE.Vector3( -1*farXY, -1*farXY, farZ ),
+      new THREE.Vector3( 0, 0, MEANS_INTERSECTION_Z ),
+      new THREE.Vector3( -1*farXY, farXY, farZ ),
+      new THREE.Vector3( farXY, -1*farXY, farZ ),
+      new THREE.Vector3( 0, 0, MEANS_INTERSECTION_Z ),
+      new THREE.Vector3( 0, 0, farZ ),
+    ]),
+    facetLinesBaseMaterial,
+  ));
+
+  const originGem = new THREE.Mesh(
+    new THREE.SphereGeometry(OFFSET / 30, 32, 16),
+    new THREE.MeshPhysicalMaterial({
+      side: THREE.FrontSide,
+      transparent: true,
+      opacity: .9,
+      color: BACKGROUND_COLOR,
+      metalness: 0,
+      roughness: .6,
+      reflectivity: 1,
+    }),
+  );
+  originGem.position.set(0, 0, MEANS_INTERSECTION_Z);
+  scene.add(originGem);
+
+  const spotLight = new THREE.SpotLight(BACKGROUND_COLOR);
+  spotLight.position.set(0,0,0);
+  spotLight.target = originGem;
+  scene.add(spotLight);
+}
+
 function getCompassArrow(direction, length) {
   return new THREE.ArrowHelper(
     direction,
@@ -427,10 +481,13 @@ function generateCompass() {
   for (let glyph in compassData) {
     const compassArrow = getCompassArrow(compassData[glyph].direction, compassData[glyph].length);
     compassArrow.children[0].material.linewidth = 2;
+    compassArrow.children[0].material.fog = false;
+    compassArrow.children[1].material.fog = false;
     facetIndex[glyph].compassCone = compassArrow.children[1];
     compass.add(compassArrow);
 
     const sprite = getLabel([{ text: glyph }], 128);
+    sprite.material.fog = false;
     compassData[glyph].glyphOffset[1] = compassData[glyph].glyphOffset[1] - 0.025; // burmese script baseline kinda offset, hacky fix here
     sprite.position.set.apply(sprite.position, compassData[glyph].glyphOffset);
     facetIndex[glyph].compassSprite = sprite;
@@ -441,6 +498,7 @@ function generateCompass() {
     new THREE.IcosahedronGeometry(OFFSET / 10),
     new THREE.MeshLambertMaterial({color: GLYPH_BLUE}),
   );
+  compassGem.fog = false;
   facetData[0][1].compassGem = compassGem
   facetData[1][1].compassGem = compassGem
   facetData[2][1].compassGem = compassGem
@@ -521,15 +579,20 @@ controls.autoRotateSpeed = 0.4; // we set autoRotate true once user scrolls down
 if (window.matchMedia('(pointer: coarse)').matches) {
   controls.enableZoom = true;
   controls.minDistance = cameraDistance / 2;
-  controls.maxDistance = cameraDistance * 2;
+  controls.maxDistance = cameraDistance * 1.5;
 } else {
   controls.enableZoom = false;
 }
 
-scene.add(new THREE.HemisphereLight( 0xffffbb, 0x080820, 1 ));
+const hemisphereLight = new THREE.HemisphereLight(BACKGROUND_COLOR, BACKGROUND_COLOR, 1);
+hemisphereLight.groundColor.addScalar(-0.5);
+scene.add(hemisphereLight);
+
+scene.fog = new THREE.Fog(BACKGROUND_COLOR, cameraDistance * 0.75, cameraDistance * 1.5);
 
 generateLabels(scene);
 generateFacets(scene);
+generateMeansIntersectionLines(scene);
 const hoverables = laminaeData.map(l => l.sprite);
 
 const compass = generateCompass();
@@ -663,18 +726,3 @@ function render() {
   updateLaminaTooltipPosition();
 }
 render();
-
-// @TODO/temp
-window.THREE = THREE;
-window.facetData = facetData;
-window.laminaeData = laminaeData;
-window.facetHoverMaterial = facetHoverMaterial;
-window.getLabelMaterial = getLabelMaterial;
-window.getLabel = getLabel;
-window.highlightFacets = highlightFacets;
-window.camera = camera;
-window.compass = compass;
-window.compassCamera = compassCamera;
-window.scene = scene;
-window.controls = controls;
-window.renderer = renderer;

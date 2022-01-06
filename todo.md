@@ -3,53 +3,35 @@
 7-8x 8h days of estimated stuff + 14 laminae x 2h = another 4 full days
 
 - At least stub content (+ TOC?) for all laminae (14 remaining)
-<!-- - Interactive cosmology visualization `8h` -->
-<!-- - Site-wide glyph visualization `4h` -->
-<!-- - Add GPT-3 content in distinct visual style `4h` -->
-<!-- - Fleshed out glossary/index stuff `4h` -->
+- Add GPT-3 content in distinct visual style `4h`
 - Style pass and improvements across the site `16h`
 - More content about the author `4h`
 - Closing Notes chapter `8h`
 - A close edit pass across the whole thing `8h`
 - Colophon `4h`
 - Review every TODO
-- Other misc bits - go through every single task on here (more translator notes, include the dissimulation, decide where to host it, remove any remaining D&D IP, favicon, OG tags, OG images for non-lamina pages, etc), add/update/shift images for LNC, CGP, NNC, CEP, consider ꩣ ဘ for autonomy, decide on non-laminae TOC glyphs
-- Bonuses:
-    - moodboard images?
-    - more shifting elements
-    - ask myanmar subreddit about use
-        - could ask the guy that did this https://github.com/vincent-paing/BurmeseProverbDataSet
-    - post it places
+- Other misc bits
+    + link image authors
+    + middot instead of dash
+    + renumber/reorder (glyphs in URLs?) `30m`
+    + go through every single task in this doc
+    + more translator notes
+    + include the dissimulation `30m`
+    + decide where to host it
+    + remove any remaining D&D IP `30m`
+        * (just eladrin etc from LNC?)
+    + favicon
+    + OG tags, OG images for non-lamina pages
+    + add/update/shift images for LNC, CGP, NNC, CEP
+    + consider ꩣ ဘ for autonomy
+    + decide on non-laminae TOC glyphs
+    + capitalize Cardinal or no?
 
-# requirements before launch
+## DONE
 
-(outdated, review)
-
-tiny back arrow??
-
-- glossary/index `?`
-    + improve
-    + add REFs and defs
-- quick-revise facets `5m`
-- lucidity `15m`
-- 16 laminae `16+h`
-- dissimulation `30m`
-- cosmology visualization?? `2h`
-- style pass `1h`
-- glyph stuff `1h`
-    + facet hover?
-    + lamina reference with trinym
-        * uncomment out translator note in cosmography
-        * hover?
-- revise cosmography `30m`
-- revise facets `30m`
-- colophon `1h`
-- border around images `30m`
-- finalize copyright/D&D removal (just eladrin etc from LNC?) `30m`
-- renumber/reorder `30m`
-- changelog?
-
-~7h non laminae
+- Interactive cosmology visualization
+- ~Site-wide glyph visualization~
+- Fleshed out glossary/index stuff
 
 # big questions
 
@@ -89,6 +71,16 @@ tiny back arrow??
     + thread header: brief description and the alignments
     + backdating some already-completed chapters
 
+# backlog
+
+- put facet names in lamina tooltip (copy into ref dict, if present add with appropriate style)
+- post it places
+- more shifting elements
+- ask myanmar subreddit about use
+    + could ask the guy that did this https://github.com/vincent-paing/BurmeseProverbDataSet
+- how can index and glossary be better?
+    + add defs for un-deffed REFs in glossary (especially ones used outside of glossary)
+
 # backburner chunks
 
 - quotation stuff
@@ -99,6 +91,8 @@ tiny back arrow??
 - music
 - neighborly relations, e.g. LEC and LNC might get along
     + any time they differ by one facet (or more really), the "what each facet thinks of the other" comes into play
+- moodboard images?
+    - mood board with all the images? per-lamina mood boards for some? at the bottom
 
 # Sections
 
@@ -537,50 +531,101 @@ viz:
 
 ## ■▤□ Styles
 
-- more noticable visited vs. unvisited links (for changelog)
-- title page - spacing, caps, weights
-- editors note on NNP line spacing is too tight, but not elsewhere?
-- table of contents/viz
-- blue glyphs in lamina headings - should they be blue elsewhere?
-    + see e.g. Equilibrium in intro in 08 Brink
-- glyphs after every lamina name?
-    + even repeated mentions, like in 08 Brink intro?
-- index/glossary
 
-maybe
+### go over
 
+- confirm fonts
+    + Poliphilus: body and bold
+    + Cormorant Garamond: headings and italics
+    + use other Poliphilus?
+        * use original style?
+            - \Q, \X, \Y, \Z, \h, \v changes - really just capital QZYZ are the good ones
+            - probably skip the \?
+        * no more slanty -
+        * use their italic instead of cormorant garamond prob
+        * where to use italic display swashes? i guess beginning of quotes
+            - and/or the dropcaps
+        * standard vs display?
+        * man maybe an option to use long s and its ligatures
+- title page
+    + spacing, caps, weights
+    + table of contents style
+    + table of contents division: guild vs. translation
+- every element in styleguide
+    + viz
+    + headings okay?
+    + middot · (with nbsp before) instead of colons? instead of semicolons?
+    + shifting
+- colors and element styles
+    + background colors
+    + mobile nav bar color?
+    + glyphs, facets, laminae
+    + #113a6b: glyphs in subtitles, facets in viz, that's it
+    + #b00000: links
+    + should facets be #113a6b everywhere? just glyph or whole link? viz + facets page
+    + should facet glyphs in lamina links be #113a6b? e.g. cosmography intro - also home page TOC?
+- glyph square?
+- more noticable visited vs. unvisited links
+    + and `:hover` vs `:visited:hover`
+- index/glossary general style thoughts
 - glyphs before/after facets/laminae?
     + related to decision of whether to link and/or capitalize "the", cause "[glyph] the Lamina" is weird
     + currently have before for facets, after for laminae, doesn't make the most sense. check intro, facets, cosmography, and some lamina. before is definitely good for viz facet legend
-- glyph tooltips
-    + facets
-    + laminae
-- glyph hover - slow color change or glow?
-    + maybe when you hover glyph in header, it highlights the word in subtitle
-- h's off? (h3's look wrong, h4's like in CND language...)
-- hr's (LNC)
-- inline translators notes
-    + currently have "[untranslateable, unknown glyph]", how is that?
-- drop caps? decorated initials (historiated/illuminated initial)
+- facet names in lamina tooltip?
+- linking "the" (and not capitalizing) - currently no breaking
+    + styleguide intro
+- "about" in corner - especially on mobile
+    + guess this will be colophon? call it that? it's out-of-character
+- favicon
+- should footnotes show footnote in tooltip? some are long-ish
+- tooltip on mobile: click once to show, again to go? or some "view more" link to be extra clear
+- images
+- for later, but:
+    + mobile nav overflow
+        * 14-nnp is tightest lamina
+        * "primer on ordial plane" breaks
+        * indent under raquo
+    + regular vs translators notes - different footnote numbering/section?
+
+### definitely do
+
+- change mobile nav bar color
+- full screen?
+- tooltip on mobile
+    + can use hover + fine pointer as in viz
+    + references - tap should pop up, with link to view more
+        * link to view more on desktop too?
+- more mobile and browser compatibility check
+    + styles, fonts, what else?
+- "about" in bottom right is crowded on mobile
+
+### style backlog
+
+#### additions
+
+- gpt3 style
+- shift style (overlay stuff)
+- footnotes/hash fragment links should highlight word (and maybe paragraph)
+    + maybe like some scroll curlicue drawn around it or to the side
+    + or a glow
+- footnotes should be margin notes like gwern?
+- drop caps updates
+    + AKA decorated initials (historiated/illuminated initial)
     + go one heading level deeper?
     + Lombardic/rubricated capitals every paragraph?
     + another common thing is for first word (of which drop cap is a letter) is in small caps
         * and the first non drop cap letter is capitalized
         * also potentially increase letter spacing for that first word
         * could do small caps/letter spacing first word for new sections that don't deserve drop cap
-- capitalization (demonyms, The Laminaname)
-    + i've been capitalizing Ordial, but not cardinal or laminae
-        * i guess Ordial Plane or the Ordial should be capitalized, and Ordial" adjective too?
-    + in english, adjectival forms of countries/languages are capitalized
-        * "the adjectival form of a proper noun keeps its properness (and thus its initial cap) for itself, but also that properness does not extend to phrases that are not proper with the noun form"
-            - e.g. "the Mississippi Band" vs "various Mississippian bands"
-    + lamina is not capitalized cause it's like plane
-    + should Cardinal be, like Prime Material planes?
-        * but then there should be a proper noun form, Cardinal Worlds, which eh
-        * currently not capitalized, but maybe looks odd e.g. end of cosmography Laminae section
-        * might also use "cardinals"? nah use mortals
-- middot · (with nbsp before) instead of colons? used middot in CND list
-    + how does this look compared to semicolon?
+- could decorate facets/cosmography with various flourishes
+    - like the cloud burst stuff here https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
+- could have the last paragraph of a chapter narrow to a triangle centered
+    - like hypnorotomachia or
+    - or some here too https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
+    - can use CSS shapes for this https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes
+- [Capituli: Some notes on summaries, chapter divisions and chapter titles in ancient and medieval manuscripts](https://www.roger-pearse.com/tertullian/rpearse/manuscripts/chapter_titles.htm)
+- regular vs translators notes - different footnote numbering?
+- floating TOC?
 - different/more noticeable styling for :visited links?
     + maybe track in local storage which links user has clicked, so e.g. they might have visited a page but not clicked on a glossary term and unless they read the whole page maybe they didn't see the glossary term
         * maybe like two tiers of :visited
@@ -590,54 +635,19 @@ maybe
         * untranslated vs. visited should be separate styles, maybe untranslated are italic or something, or color vs opacity
     + if a page has changed since user visited it, it should be considered unvisited? tough depending on change, maybe only if it went from untranslated to translated
 
-later
+#### fixes
 
-- could decorate facets/cosmography with various flourishes
-    - like the cloud burst stuff here https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
-- could have the last paragraph of a chapter narrow to a triangle centered
-    - like hypnorotomachia or
-    - or some here too https://archive.org/details/utriusquecosmima01flud/page/n52/mode/1up
-    - can use CSS shapes for this https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes
+- mobile nav overflow
+    + 14-nnp is tightest lamina
+    + "primer on ordial plane" breaks
+    + indent under raquo
 - FOUT for bold quotes
-- floating TOC?
 - update indic fonts to only include needed characters
     + burmese from `/usr/share/fonts/noto/NotoSansMyanmar*`
     + do myanmar noto, use https://stackoverflow.com/a/37159128/458614 and uni2ascii
     + done
         * `pyftsubset segoeui.ttf --output-file=segoeui-stripped.ttf --unicodes-file=kannada-tibetan-unicodes.txt`
         * `pyftsubset DejaVuSans.ttf --output-file=DejaVuSans-stripped.ttf --unicodes-file=lao-unicodes.txt`
-- tooltip on mobile
-    + handle clipping off side... gotta use library
-    + can use hover + fine pointer as in viz
-    + images - tap to show (might already work?)
-    + references - tap should pop up, with link to view more
-        * link to view more on desktop too?
-    + untranslated refs that have no href - does tap open tooltip? yes
-- more mobile and browser compatibility check
-    + styles, fonts, what else?
-- mobile nav "Contents" could be on its own line so there's space for the others
-- [Capituli: Some notes on summaries, chapter divisions and chapter titles in ancient and medieval manuscripts](https://www.roger-pearse.com/tertullian/rpearse/manuscripts/chapter_titles.htm)
-- footnotes/hash fragment links should highlight word (and maybe paragraph)
-    + maybe like some scroll curlicue drawn around it or to the side
-    + or a glow
-- footnotes should be margin notes like gwern?
-- regular vs translators notes - different footnote numbering?
-
-### fade/cycle stuff
-
-show another random selection, e.g.:
-
-    <span class="guild-term" style="display: inline-block;">
-        <span class="guild-term" style="position: absolute; opacity: .1;">Order</span>
-        Circle
-    </span>
-
-### code tasks
-
-- "about" in bottom right is crowded on mobile
-- later
-    + change mobile nav bar color
-    + full screen?
 
 ### font
 
@@ -646,6 +656,10 @@ https://www.myfonts.com/fonts/flanker/poliphili/ but it's $20-50 (http://www.stu
 could try Bembo font, also based off the same book
 
 for garamond currently using 500 (we ask for 400, but using 500), 600 italic, and 700
+
+https://caniuse.com/font-variant-alternates
+but can accomplish with https://caniuse.com/font-feature
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/OpenType_fonts_guide#alternates_font-variant-alternates
 
 ## ■▤□ Author
 
@@ -656,20 +670,9 @@ for garamond currently using 500 (we ask for 400, but using 500), 600 italic, an
 
 ALSO: more translator's notes!
 
-## ▤□□ Visualization
-
-"teaser" fields for laminae instead of summary?
+## ■▤□ Visualization
 
 ### cosmography viz
-
-places where viz would make sense:
-
-- TOC
-    + between heading and items
-    + hover over in one highlights in the other
-- cosmography
-
-same in both? remove one?
 
 formats:
 
@@ -727,53 +730,49 @@ nodes or cubes?
 
 different colors to make it less confusing
 
-code:
-
-- https://threejs.org/examples/#webgl_interactive_points
-- https://threejs.org/examples/#webgl_lines_fat_wireframe
-- https://threejs.org/examples/#webgl_postprocessing_unreal_bloom
-- https://developer.mozilla.org/en-US/docs/Web/CSS/perspective
-- bits
-    + tooltip that always faces camera http://stemkoski.github.io/Three.js/Mouse-Tooltip.html
-    + HTML elements tracking three.js stuff: https://threejs.org/manual/?q=canvas#en/align-html-elements-to-3d
-    + CSS2Renderer
-    + CSS3Renderer
-    + sprites or billboards
-
 #### viz design q's
 
 - where on the page?
-- circle or little arc around/over each lamina?
 - colors in general
 - show midpoint facets in compass?
 - camera damping?
-- go over hover states everywhere
+- fog vs panes
+- means intersection lines? could be diff color
+- go over hover states
+    + lamina sprites, TOC lamina, facets, axis names
     + enlarging of lamina glyphs in viz on TOC hover?
     + highlighting glyphs in TOC is too much? maybe darker color for non main one
 - facet legend
-    + are the tooltips too much?
+    + are the tooltips too much? no tooltips for laminae but...
+        * could do "teaser" fields for laminae
     + axis name hovers - indicate hove state? could do tooltips too
     + label the whole legend ("Facets")?
-
-#### viz up next
-
-- mobile responsiveness
-    + width overflow from tooltip business
-- stylize
-    - bloom, etc
-    - look at inspo, maybe some other touches
-- put in cosmography
-    + update "Arrangement" section etc, move it, where to put viz, etc
+- more stylized touches
+    + circle or little arc around/over each lamina?
 
 #### viz backlog
 
+- loading state?
+    + maybe show facet legend, loading state in middle of viz and compass elements
+- hover over compass facets?
+- sync up lamina hover with viz on cosmography
 - ensure notosansmyanmar font is loaded before rendering sprites? https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/font#loading_fonts_with_the_css_font_loading_api
+- main viz should go all the way to left edge of page
 - stylize ideas
     + means lines from origin point to infinity??
         * change CD_MULT to be an angle
     + bezier curve?
     + could try making each facet edge line stop short of each lamina (and then moving them back in)
-- hover over compass facets?
+        * potentially each line could end in like a shape like:---( ꧪဋဗ )---
+    + some framing around the whole thing, and/or facet legend and/or compass
+    + some flourish for highlighted facets (and maybe the one highlighted lamina if any)
+    + could add more burmese somewhere
+    + a translucent reflective sphere around each lamina sprite
+    + fog vs translucent unhighlighted facets, not sure
+        * to try: disable fog, reenable opacity on facetBaseMaterialOptions, put facetLinesBaseMaterial opacity back to 0.1 prob
+    + compass rose could be prettier/more interesting
+        * maybe like two triangles planes rotated around each other, each with inwards-curved edges
+    + arcs at each corner - just quarter circle lines at every possible corner along the plane of each facet
 - could make obscured lines dashed: https://discourse.threejs.org/t/making-invisible-edges-dashed/29824/1
 
 ### facet hover
@@ -788,7 +787,7 @@ data-facet= (added when processing REFs) and :after content
 
 ### lamina hover
 
-PROB ALSO NOT THAT NECESSARY i mean how many of these are there even
+PROB ALSO NOT THAT NECESSARY i mean how many of these are there even - mostly in intro chapters
 
 - show three glyphs in :after?
     + probably not in ordial-primer chapter - do we even want those to link?
@@ -813,7 +812,17 @@ consider mobile
 
 some way to always show a certain one the first time, e.g. NGP landscape. just need to keep track of if seen or not. not perfect cause could be off screen but that's okay. probably don't do idle timeout for that page load
 
-shiftwrights?
+shiftwrights
+fluxsmiths
+fluxwright
+driftwrights
+driftsmiths
+tidewrights
+tidesmiths
+tidespurs
+
+shift, flux, drift, tide
+wright, smith, spur
 
 should they change whenever they go out of viewport view too?? yes! but only if enough time has passed, so you can't game it by just scrolling up and down. also, if no movement for a long long time (no scroll, no change in visibility) then change once. maybe timer for visibility change too so you can't game that. you have to leave it open and come back. and maybe a (50%?) chance that it simply doesn't
 
@@ -831,6 +840,13 @@ todo
 - figure out what it looks like
 - is it interactive, maybe just a little?
 - rename gpt tag
+
+show another random selection, e.g.:
+
+    <span class="guild-term" style="display: inline-block;">
+        <span class="guild-term" style="position: absolute; opacity: .1;">Order</span>
+        Circle
+    </span>
 
 #### shift brainstorm
 
@@ -871,25 +887,26 @@ long delay: 1 hour
 
 ## ■▤□ Plates
 
-- border
-- lightbox?
-- captions? i think maybe not
+- tissue guard with attribution, hover to remove?
+- border?
+- lightbox? ...probably not?
+- link to artist (official site or social media)
+    + no need to link to the specific work?
 - probably a middot instead of a dash between artist/title
-- link to artist where possible?
-- float, or only full width?
-- multi-image ones?
+- indicate shifting in any way?
 - style matching
     + maybe an overlay of some parchment texture
         * which maybe should be on background anyway? with a random offset (using seeded random)
     + .9 opacity on all? maybe makes them too pale. transparency vignette? filter?
     + like LEC... something is lost =(
-    + confirm mobile tap is okay
+
+### do
+
 - photoshop
     + "Michael Hutter - Carcosa XXXIV" remove buildings
     + "Floto+Warner - Colourant - orange" eh
     + CEC henry hudson meld images?
     + CEC nausicaa remove person/look at other frames from movie, animated?
-- mood board with all the images? per-lamina mood boards for some? at the bottom
 
 ### management
 

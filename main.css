@@ -128,18 +128,22 @@ header {
   font-weight: 700;
   letter-spacing: 0.25px;
 }
-.b-glossary .glyph,
-.subtitle .glyph {
-  color: #113a6b;
-}
-.subtitle .glyph {
-  font-variant: normal;
-  display:  block;
-  font-size: 110%;
-  font-weight:  500;
-  line-height: 2;
-  letter-spacing: 5px;
-}
+  .b-glossary .glyph,
+  .subtitle .glyph {
+    color: #113a6b;
+  }
+  .subtitle .glyph {
+    font-variant: normal;
+    display:  block;
+    font-size: 110%;
+    font-weight:  500;
+    line-height: 2;
+    letter-spacing: 5px;
+  }
+  .subtitle .tooltip {
+    display: none !important;
+  }
+
 .intro {
   margin-top: 2rem;
 }
@@ -184,23 +188,25 @@ a.ref:not([href]):hover {
   border:  1px solid #31150030;
   font-size: 0.875rem;
   text-align: left;
-  padding: 15px 15px 10px;
-  width: 350px;
+  padding: 16px 16px 10px;
+  max-width: 350px;
   white-space: normal;
+  display: none;
 }
-  .tooltip[data-show] {
+  .tooltip.ready {
+    display: block;
+  }
+  .tooltip.show {
     opacity: 1;
     visibility: visible;
-  }
-  .tooltip.short {
-    width: auto;
   }
   .img-wrap {
     position: relative;
   }
   .img-wrap .tooltip {
     text-align: center;
-    width: 75%;
+    padding: 16px 32px 10px;
+    max-width: 75%;
   }
 
 .karedian,

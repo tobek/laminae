@@ -133,6 +133,10 @@ function shift() {
 }
 shift();
 
+if (!location.origin.includes("thereitwas.com") || document.location.search.includes("conduit")) {
+  window.shift = shift;
+}
+
 setInterval(function updateExpiry() {
   try {
     var seeds = JSON.parse(localStorage.seeds || "{}");
@@ -172,8 +176,8 @@ document.addEventListener("visibilitychange", function() {
 
 function initTooltips() {
   Array.from(document.querySelectorAll(".tooltip-wrap")).forEach(wrapEl => {
-    const tooltip = wrapEl.querySelector(".tooltip");
-    const anchor = wrapEl.querySelector(".tooltip-anchor");
+    const tooltip = wrapEl.querySelector(":scope > .tooltip");
+    const anchor = wrapEl.querySelector(":scope > .tooltip-anchor");
     if (!tooltip) {
       return;
     }
@@ -182,12 +186,8 @@ function initTooltips() {
     }
     const popperInstance = Popper.createPopper(anchor, tooltip);
 
-    if (tooltip.textContent.length < 50) {
-      tooltip.classList.add("short");
-    }
-
     function show() {
-      tooltip.setAttribute('data-show', '');
+      tooltip.classList.add('show');
 
       popperInstance.setOptions((options) => ({
         ...options,
@@ -201,7 +201,7 @@ function initTooltips() {
     }
 
     function hide() {
-      tooltip.removeAttribute('data-show');
+      tooltip.classList.remove('show');
 
       popperInstance.setOptions((options) => ({
         ...options,
@@ -218,6 +218,8 @@ function initTooltips() {
     ['mouseleave', 'blur'].forEach((event) => {
       anchor.addEventListener(event, hide);
     });
+
+    tooltip.classList.add('ready');
   });
 }
 

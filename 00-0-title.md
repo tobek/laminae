@@ -284,13 +284,14 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   </div>
   </div>
 
+  <div class="compass-wrap"><div class="compass"><canvas></canvas></div></div>
+
   <div class="viz">
   <div class="scroll-handle top"></div>
   <canvas></canvas>
   <div class="tooltip"></div>
   <div class="scroll-handle bottom"></div>
   </div>
-  <div class="compass-wrap"><div class="compass"><canvas></canvas></div></div>
 </div>
 
 ##### The Laminae
@@ -423,7 +424,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 ##### Back Matter
 
 <div class="row">
-  <div class="left"><div class="numeral">A.</div><span class="tooltip-wrap"><a class="tooltip-target undone" hreff="#">Closing Notes</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">A.</div><span class="tooltip-wrap"><a class="tooltip-anchor undone" hreff="#">Closing Notes</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">

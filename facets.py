@@ -35,11 +35,15 @@ facet_names = [facet["name"] for axis in facets for facet in axis]
 facet_glyphs = [facet["glyph"] for axis in facets for facet in axis]
 name_to_glyph = dict([(facet["name"], facet["glyph"]) for axis in facets for facet in axis])
 id_to_glyph = [{ a[0]["id"]: a[0]["glyph"], a[1]["id"]: a[1]["glyph"], a[2]["id"]: a[2]["glyph"] } for a in facets]
+id_to_name = [{ a[0]["id"]: a[0]["name"], a[1]["id"]: a[1]["name"], a[2]["id"]: a[2]["name"] } for a in facets]
 
 def trinym_to_glyphs(tri):
 	return id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]]
 
-# print(name_to_glyph)
+def glyphs_to_english(glyphs):
+	return " ".join([id_to_name[i][glyphs[i]] for i in range(3)])
+
+# print(glyphs_to_english("LGC"))
 # quit()
 
 if sys.argv[0] == "facets.py":

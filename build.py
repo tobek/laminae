@@ -8,7 +8,7 @@ import glob
 import frontmatter
 from bs4 import BeautifulSoup
 
-from facets import facet_names, name_to_glyph, id_to_glyph, trinym_to_glyphs
+from facets import facet_names, name_to_glyph, id_to_glyph, trinym_to_glyphs, glyphs_to_english
 
 default_pandoc_args = [
     "--standalone",
@@ -65,7 +65,11 @@ def facet_replace(match):
         return match.group(0)[1:] # abort, just return match (excluding slash)
 
     triGlyph = trinym_to_glyphs(match.group(0)[1:])
-    return match.group(1) + '<span class="glyph">' + triGlyph[0] + triGlyph[1] + triGlyph[2] + '</span>'
+    return (match.group(1)
+        + '<span class="glyph">'
+            + triGlyph[0] + triGlyph[1] + triGlyph[2]
+        + '</span>'
+    )
 def facet_extra_detail_replace(match):
     if match.group(1) == "\\":
         return match.group(0)[1:] # abort, just return match (excluding slash)
@@ -83,7 +87,6 @@ def facet_extra_detail_replace(match):
                 + triGlyph[2]
             + '</span>'
         + '</span>')
-    # return match.group(1) + '<span class="glyph">' + id_to_glyph[0][tri[0]] + id_to_glyph[1][tri[1]] + id_to_glyph[2][tri[2]] + '</span>'
 def facet_plain_text_replace(match):
     triGlyph = trinym_to_glyphs(match.group(0)[1:])
     return match.group(1) + "| " + triGlyph
@@ -166,7 +169,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
 only_file = sys.argv[1] if len(sys.argv) > 1 else None
 
 outer_files = ["progress.md", "about.md", "error.md"]
-files = glob.glob("[^0-9]*.md") + glob.glob("[^a-d]-*.md")
+files = glob.glob("[^0-9]*.md") + glob.glob("[^a-e]-*.md")
 files.sort()
 file_data = {}
 file_titles = []
@@ -222,7 +225,7 @@ for i, filename in enumerate(input_files):
     if i > 1:
         contents_href = "./#contents"
         contents_title = "Contents"
-    if i < len(input_files) - 1:
+    if i < len(input_files) - 2: # `-2` not `-1` so we can skip the last one, styleguide, which we have in the regular flow so that the styleguide gets references and navigation links like othe rpages
         next_href = output_files[i+1]
         next_title = file_titles[i+1]
 
@@ -238,7 +241,7 @@ anchors = {}
 anchor_blacklist = ["environment", "culture-paradigm", "visiting", "locations", "rumors-mysteries", "history", "festivals-traditions", "figures-groups", "overview", "others", "figures", "todo"]
 print("\ngathering anchors...")
 for file_id, data in file_data.items():
-    if file_id == "title":
+    if file_id == "title" or file_id == "styleguide":
         continue
 
     anchors[file_id] = {
@@ -334,7 +337,7 @@ for file_id, data in file_data.items():
                 ref["href"] = anchor.get("href")
                 if anchor.get("untranslated"):
                     ref["href"] = ref["href"][:ref["href"].index("#")] + "#untranslated" # from index, link to the untranslated note anchor
-                    ref['class'] = ref.get('class', []) + ['untranslated']
+                    ref["class"] = ref.get("class", []) + ["untranslated"]
                     tooltip.string = "The referenced text has not yet been translated."
 
             if not tooltip.string:
@@ -360,7 +363,35 @@ def get_gloss_table(glosses, lams=False):
     gloss_table ="\n<table>\n"
     for gloss in glosses:
         glyphs = gloss["id"].upper() if lams else ""
-        gloss_table += "    <tr><td>REF[%s](%s)%s</td><td>%s</td></tr>\n" % (gloss["name"], gloss["id"], glyphs, gloss["def"])
+        if glyphs:
+            gloss_table += ("    "
+                + "<tr>"
+                    + "<td>"
+                        + '<div class="tooltip-wrap">'
+                            + '<span class="tooltip-anchor">'
+                                + "REF[%s](%s)%s"
+                            + '</span>'
+                            + '<span class="glossary-glyph tooltip">'
+                                + glyphs_to_english(glyphs)
+                            + '</span>'
+                        + '</div>'
+                    + "</td>"
+                    + "<td>"
+                        + "%s"
+                    + "</td>"
+                + "</tr>\n"
+            ) % (gloss["name"], gloss["id"], glyphs, gloss["def"])
+        else:
+            gloss_table += ("    "
+                + "<tr>"
+                    + "<td>"
+                        + "REF[%s](%s)"
+                    + "</td>"
+                    + "<td>"
+                        + "%s"
+                    + "</td>"
+                + "</tr>\n"
+            ) % (gloss["name"], gloss["id"], gloss["def"])
     gloss_table += "</table>\n"
     return gloss_table
 
