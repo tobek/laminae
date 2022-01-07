@@ -534,6 +534,18 @@ viz:
 
 ### go over
 
+- later
+    - title page stuff
+    - colors?
+- TODO
+    - don't link the
+    - lighter/less saturated/lower opacity color for visited
+    - rustier red
+    - make sure it's not italic
+    - double middot? lower?
+    - wider index - or two columns?
+        - letter segregated index
+    - front matter (I II III) - introduction (I II III) - laminae - back matter
 - confirm fonts
     + Poliphilus: body and bold
     + Cormorant Garamond: headings and italics
@@ -548,7 +560,7 @@ viz:
         * standard vs display?
         * man maybe an option to use long s and its ligatures
 - title page
-    + spacing, caps, weights
+    + spacing, caps, weights - LATER
     + table of contents style
     + table of contents division: guild vs. translation
 - every element in styleguide
@@ -558,6 +570,7 @@ viz:
     + shifting
 - colors and element styles
     + background colors
+        * manuscript texture?
     + mobile nav bar color?
     + glyphs, facets, laminae
     + #113a6b: glyphs in subtitles, facets in viz, that's it
@@ -586,6 +599,7 @@ viz:
         * "primer on ordial plane" breaks
         * indent under raquo
     + regular vs translators notes - different footnote numbering/section?
+    + decorative titles and endings (inspo/styles)
 
 ### definitely do
 
@@ -732,10 +746,15 @@ different colors to make it less confusing
 
 #### viz design q's
 
-- where on the page?
+- todo
+    - compass in middle left, legend on bottom?
+    - don't cut off top bottom, more space now
+    - tooltip cut off on left
+    - remove legend tooltips
+    - facet legend on my mobile is squished together
+    - bottom of compass glyphs cut off on my mobile
+    - fix sprites getting squished on tap
 - colors in general
-- show midpoint facets in compass?
-- camera damping?
 - fog vs panes
 - means intersection lines? could be diff color
 - go over hover states
@@ -743,9 +762,6 @@ different colors to make it less confusing
     + enlarging of lamina glyphs in viz on TOC hover?
     + highlighting glyphs in TOC is too much? maybe darker color for non main one
 - facet legend
-    + are the tooltips too much? no tooltips for laminae but...
-        * could do "teaser" fields for laminae
-    + axis name hovers - indicate hove state? could do tooltips too
     + label the whole legend ("Facets")?
 - more stylized touches
     + circle or little arc around/over each lamina?
@@ -887,7 +903,13 @@ long delay: 1 hour
 
 ## ■▤□ Plates
 
+- TODO
+    - tissue guard default caption could be glyphs like <hr>
+    - click > remove guard > click > show attribution
+    - shifting element - deliberate looking
+    - GPT-3 text is different when highlighted
 - tissue guard with attribution, hover to remove?
+    + makes me want to do captions which i wasn't going to
 - border?
 - lightbox? ...probably not?
 - link to artist (official site or social media)

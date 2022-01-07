@@ -218,41 +218,9 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   }
 
   .viz-wrap.loaded {
-    margin-top: 24px;
-    margin-bottom: -48px;
+    margin-top: -36px;
   }
 </style>
-
-<div class="toc">
-
-## Contents
-
-##### Front Matter
-
-<div class="row">
-  <div class="left"><div class="numeral">I.</div><a href="00-i-note.html">A Note from the <span class="guild-term">Order</span></a></div>
-  <div class="dots"></div><div class="page">ဪ</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">II.</div><a href="00-ii-ordial-primer.html">A Primer on the Ordial Plane</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">III.</div><a href="00-iii-translators-note.html">Translator's Note</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">IV.</div><a href="00-iv-author-preface.html">Author's Preface</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">V.</div><a href="00-v-cosmography.html">Cosmography</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">VI.</div><a href="00-vi-facets.html">Facets</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
 
 <div class="viz-wrap follow-with-dropcap">
   <div class="facet-legend-wrap">
@@ -292,6 +260,37 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="tooltip"></div>
   <div class="scroll-handle bottom"></div>
   </div>
+</div>
+
+<div class="toc">
+
+## Contents
+
+##### Front Matter
+
+<div class="row">
+  <div class="left"><div class="numeral">I.</div><a href="00-i-note.html">A Note from the <span class="guild-term">Order</span></a></div>
+  <div class="dots"></div><div class="page">ဪ</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">II.</div><a href="00-ii-ordial-primer.html">A Primer on the Ordial Plane</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">III.</div><a href="00-iii-translators-note.html">Translator's Note</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">IV.</div><a href="00-iv-author-preface.html">Author's Preface</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">V.</div><a href="00-v-cosmography.html">Cosmography</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">VI.</div><a href="00-vi-facets.html">Facets</a></div>
+  <div class="dots"></div><div class="page"></div>
 </div>
 
 ##### The Laminae

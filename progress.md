@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 50,753 | 2,887 | 25/42 | 107/224 |
+| 50,806 | 2,902 | 26/42 | 108/224 |
 
 </div>
 
@@ -168,7 +168,8 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
-|2022-01-05|5   |50753|2887|59%|47%|25|107|69|38|
+|2022-01-07|7   |50806|2902|61%|48%|26|108|69|39|
+|2022-01-04|5   |50753|2887|59%|47%|25|107|69|38|
 |2022-01-03|3.5 |50753|2808|59%|47%|25|107|69|38|
 |2022-01-02|1.75|50722|2697|59%|47%|25|107|69|38|
 |2022-01-01|1   |50722|2614|59%|47%|25|107|69|38|
@@ -372,7 +373,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | Title Page | <span class="bloop">■▤□</span> |
 | Styles | <span class="bloop">■▤□</span> |
 | Author | <span class="bloop">■▤□</span> |
-| Visualization | <span class="bloop">▤□□</span> |
+| Visualization | <span class="bloop">■▤□</span> |
 | Plates | <span class="bloop">■▤□</span> |
 | References | <span class="bloop">■▤▤</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |

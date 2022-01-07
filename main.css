@@ -189,7 +189,7 @@ a.ref:not([href]):hover {
   font-size: 0.875rem;
   text-align: left;
   padding: 16px 16px 10px;
-  max-width: 350px;
+  width: 350px;
   white-space: normal;
   display: none;
 }
@@ -200,12 +200,16 @@ a.ref:not([href]):hover {
     opacity: 1;
     visibility: visible;
   }
+  .tooltip.short {
+    width: auto;
+  }
   .img-wrap {
     position: relative;
   }
   .img-wrap .tooltip {
     text-align: center;
     padding: 16px 32px 10px;
+    width: auto;
     max-width: 75%;
   }
 

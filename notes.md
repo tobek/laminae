@@ -84,7 +84,17 @@ can i add tension and mystery? what makes the reader what to keep reading?
             - if so, should nbsp them or else the tooltip is dumb, or TODO make the tooltip handle this somehow
             - one advantage of not linking is less inline-block/nbsp issues and giant empty spaces
             - don't link in untranslated note, otherwise it'd be straight links
-    + prime? so far yes for both Prime planes and Primes as being, Prime-wards, etc.
+    + more notes:
+        + i've been capitalizing Ordial, but not cardinal or laminae
+            * i guess Ordial Plane or the Ordial should be capitalized, and Ordial" adjective too?
+        + in english, adjectival forms of countries/languages are capitalized
+            * "the adjectival form of a proper noun keeps its properness (and thus its initial cap) for itself, but also that properness does not extend to phrases that are not proper with the noun form"
+                - e.g. "the Mississippi Band" vs "various Mississippian bands"
+        + lamina is not capitalized cause it's like plane
+        + should Cardinal be, like Prime Material planes?
+            * but then there should be a proper noun form, Cardinal Worlds, which eh
+            * currently not capitalized, but maybe looks odd e.g. end of cosmography Laminae section
+            * might also use "cardinals"? nah use mortals
 
 ## Grammatical person
 

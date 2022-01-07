@@ -186,6 +186,10 @@ function initTooltips() {
     }
     const popperInstance = Popper.createPopper(anchor, tooltip);
 
+    if (tooltip.textContent.length < 50) {
+      tooltip.classList.add("short");
+    }
+
     function show() {
       tooltip.classList.add('show');
 
