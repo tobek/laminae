@@ -22,7 +22,7 @@ Fount of Creation?
 
 One thousandth of the energy supplied every instant in the core of this place would be enough to supply the greatest artist with a lifetime's creative energies. Esoteric attempts to tap into this plane have nearly always ended in great misfortune - an entire city torn up and twisted through with coral reefs, cotton candy, and hundreds of thousands of chaotic oil paintings from the size of a thumbnail to the size of a castle.
 
-To be in this plane is to be suspended in what appears, deceptively, to be a directionless nothing. This is because the forces of creation are in their purest essence and have yet to materialize into recognizable form. As soon as this substance meets *any* other kind of matter, it instantly takes form, corroding and usually destroying matter in moments. An unprotected human, for instance, will erupt in a completely unpredictable fashion - a flock of birds, a geyser of blue flame,
+To be in this plane is to be suspended in what appears, deceptively, to be a directionless nothing. This is because the forces of creation are in their purest essence, as if under incredible pressure, and have yet to materialize into recognizable form. As soon as this substance meets *any* other kind of matter, that matter acts as an pressure release for this energy, which instantly takes form, corroding and usually destroying matter in moments. An unprotected human, for instance, will erupt in a completely unpredictable fashion - a flock of birds, a geyser of blue flame,
 
 ### TODO (magical research outpost)
 

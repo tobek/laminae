@@ -12,12 +12,22 @@
 - Review every TODO
 - Other misc bits
     + link image authors
-    + middot instead of dash
+    + middot(s) instead of dash
     + renumber/reorder (glyphs in URLs?) `30m`
+        * no numbers - names would be annoying, so just glyphs?
+        * https://laminae.org/꧹ဥဗ
+        * https://laminae.org/%EA%A7%B9%E1%80%A5%E1%80%97
+        * need content-type "text/html" but that seems to be working automatically
     + go through every single task in this doc
     + more translator notes
     + include the dissimulation `30m`
     + decide where to host it
+        * laminae.xyz
+        * laminae.org
+        * laminae.guide
+        * laminae.observer
+        * 27laminae, twentysevenlaminae, thelaminae
+    + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + remove any remaining D&D IP `30m`
         * (just eladrin etc from LNC?)
     + favicon
@@ -26,6 +36,7 @@
     + consider ꩣ ဘ for autonomy
     + decide on non-laminae TOC glyphs
     + capitalize Cardinal or no?
+    + add "FOR THE CURIOSITY of the LEARNED PUBLIC" to the title?
 
 ## DONE
 
@@ -538,7 +549,7 @@ viz:
     - title page stuff
     - colors?
 - TODO
-    - don't link the
+    - don't link "the"
     - lighter/less saturated/lower opacity color for visited
     - rustier red
     - make sure it's not italic
@@ -613,6 +624,17 @@ viz:
     + styles, fonts, what else?
 - "about" in bottom right is crowded on mobile
 
+#### fonts
+
+https://stackoverflow.com/questions/41233532/converting-ttf-to-woff
+https://github.com/fonttools/fonttools
+
+- use fl, st, ff, etc ligatures?
+- maybe use terminal forms at the end of chapters
+- https://caniuse.com/font-variant-alternates
+- but can accomplish with https://caniuse.com/font-feature
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/OpenType_fonts_guide#alternates_font-variant-alternates
+
 ### style backlog
 
 #### additions
@@ -662,18 +684,6 @@ viz:
     + done
         * `pyftsubset segoeui.ttf --output-file=segoeui-stripped.ttf --unicodes-file=kannada-tibetan-unicodes.txt`
         * `pyftsubset DejaVuSans.ttf --output-file=DejaVuSans-stripped.ttf --unicodes-file=lao-unicodes.txt`
-
-### font
-
-https://www.myfonts.com/fonts/flanker/poliphili/ but it's $20-50 (http://www.studiodilena.com/en/2305.html) from https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili
-
-could try Bembo font, also based off the same book
-
-for garamond currently using 500 (we ask for 400, but using 500), 600 italic, and 700
-
-https://caniuse.com/font-variant-alternates
-but can accomplish with https://caniuse.com/font-feature
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/OpenType_fonts_guide#alternates_font-variant-alternates
 
 ## ■▤□ Author
 

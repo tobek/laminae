@@ -1,6 +1,6 @@
 # About
 
-This is a work in perpetual <a href="https://thereitwas.com/bits/progress.html">progress</a>.
+This is a work in perpetual <a href="progress">progress</a>.
 
 <br>
 

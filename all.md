@@ -6,9 +6,11 @@ The Lattice?
 
 Maybe they have some rumored and controversial deal/symbiosis with CED?
 
+artists?
+
 crystalline structure
 
-Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ "The Retelling"
+Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ "The Retelling" (something like eulexia - but song). this could also totally be LGP, maybe better as LGP
 
 @conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
 
@@ -58,6 +60,98 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ***
 
+# **Hierarchy Utility**
+
+## Hierarchy Utility Creation LNC
+
+**Architects of the Unfolding**
+
+[transferred]
+
+## Hierarchy Utility Equilibrium LNP
+
+Archivists.
+
+Everything is collected (in some unusual architectural shape, maybe captured in some preserving gel that floats and is connected to some crystalline structures).
+
+could be collected via verges, but some way of ensuring the object's safety - objects verged into the collection tend to be miraculously resilient - the church that is the only building left standing after a volcanic eruption wipes out a town, the delicate string instrument that has against all odds survived centuries, the artifact of glass or ceramic in perfect condition, etc. other times, when this can no longer be sustained, the verge is severed such that the object remains here, such as a treasure lost at sea that is inexplicably missing when the ruins are later dredged and searched
+
+They're "essentialists": trying to define the essences of any given object, but not into elements like fire or wind or even emotions or tendencies like excitement or neuroticism, but into very specific categories like "tending to ______" OR WAIT could be like counter words in japanese.
+
+People come here to discover and define *themselves* like meyers briggs or astrology haha.
+
+Is there some currency/market element to this?
+
+the Mathematicians of Mechanus "hold that everything that you can imagine can be found on Mechanus in some form, and by cataloguing this and applying logic, symbolism and math to this one can unlock the secrets of the plane. They don't do this for riches or power: they are a group of serious minds who want to discover the secrets of the plane for scholastic reasons". be different from this
+
+some connection to [Timaresh](http://www.rilmani.org/timaresh/Timaresh) where every written work in the multiverse is reflected, reproduced, and stored.
+
+include storing like styles/motifs, e.g. "Hamonshu - A Japanese Book of Wave and Ripple Designs" and the tibetan book
+
+### storage
+
+All or part of this plane is based around temporary and free, but regulated and often indefinite, storage.
+
+people come from all over the multiverse to store stuff there, and they are REALLY GOOD at storage. they can store anything of any size, with any magical qualities or dangers or challenges. some fastidious dragons clear their treasure pits and store them for safekeeping, some store vanquished foes, cursed magical heirlooms, exotic pets, botched experiments, anything.
+
+there are conditions to storage. maybe it has to be something they don't currently have? and if that's the case, they will store it for free, in flawless condition, taking care of it if necessary. part of the condition though maybe is that they have to be allowed to study it? can they touch it? they've never been known to mess anything up though. is there anything they won't store?
+
+## Hierarchy Utility Dissolution LND
+
+**Moilers of the Instrument**
+
+[transferred]
+
+***
+
+# **Hierarchy Power**
+
+## Hierarchy Power Creation LEC
+
+**Oriels of the Macula**
+
+[transferred]
+
+## Hierarchy Power Equilibrium LEP
+
+tyrants
+
+regimented armies. gauntlet and boot
+
+paranoid tyrants holed up in indestructible fortresses, overwhelmingly prepared for threats that never materialize
+
+easily the most militarily powerful of all the laminae, but since they remain in defensive mode indefinitely, it's all moot.
+
+there was once some extraordinary incident where a trickster managed to harness their military might---maybe either by luring an enemy into hopeless attack against these guys, or by somehow managing them to, for once, sally out from their fortresses.
+
+orwell quote, but what's the "danger and death", wouldn't they catch on eventually at possible threats never coming? or maybe orwellianish they hear about threats and attacks and incursions but none are real or they're all inside jobs, maybe even people know but they're terrified to say because they'll get disappeared if they disobey, it's an open secret. the struggle is really internal.
+
+maybe it's actually not bad, if you're into it?
+
+Ben Sack art?
+
+Milton Controversy:
+
+> why Milton, a fervent (if unconventional) Protestant, would ultimately give the devil all the poem’s best lines? Why make Lucifer the most attractive character in Paradise Lost if you’re supposedly trying to “justify the ways of God to man?” Many in the Romantic tradition thus argued that Lucifer should be read as a revolutionary, a Promethean figure who tears at unfair strictures.
+>
+> [...] Fish interpreted Milton’s epic as “a poem about how its readers came to be the way they are … to provoke in its readers wayward fallen responses.” In other words, Lucifer is supposed to be intriguing, because in forcing the reader of Paradise Lost to be drawn to evil, Milton demonstrates the original sin that he believed marked everyone’s soul. That Lucifer gets the best lines isn’t incidental to his evil, but central to it.
+>
+> [...] these [Luciferian] characters share a rage generated from feeling that they are owed something
+
+LEP'ers feel this?
+
+## Hierarchy Power Dissolution LED
+
+elaborate weavers of personalized, creative curses
+
+Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
+
+Is the multiverse too big? Is the lamina somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
+
+Beautiful, intricate, ornate.
+
+***
+
 # **Synthesis Empathy**
 
 ## Synthesis Empathy Creation NGC
@@ -80,6 +174,44 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ***
 
+# **Synthesis Utility**
+
+## Synthesis Utility Creation NNC
+
+**Grains of the Asymmetry (?)**
+
+[transferred]
+
+## Synthesis Utility Equilibrium NNP
+
+**The Cartography (?)**
+
+[transferred]
+
+## Synthesis Utility Dissolution NND
+
+**Precepts of the Lucidity (?)**
+
+[transferred]
+
+***
+
+# **Synthesis Power**
+
+## Synthesis Power Creation NEC
+
+[transferred]
+
+## Synthesis Power Equilibrium NEP
+
+the opposite of NGP - opposite of restorative justice? training, using trauma to become stronger? revenge?
+
+## Synthesis Power Dissolution NED
+
+ritual athletes? use yourself up
+
+***
+
 # **Autonomy Empathy**
 
 ## Autonomy Empathy Creation CGC
@@ -89,10 +221,12 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 - a gorgeous crazy world where *thought* is not possible, only observation and feeling
 - observations are not quite reliable, they constantly flower with related or plausible images and variations - when you observe a boy, you also see a baby, a grown man, a woman, a tiger cub. when you perceive a castle, you also perceive a manor, a fortified wall, a dungeon, a floating island, an army. each observation leads to more observations, it's almost impossible to get one's bearing.
 - a technique is to wear these pinhole goggles (not so pinhole that you get a full image like pinhole camera) so that you perceive as little as possible at once, so there's less branching. a similar technique has not been developed for hearing, since earmuffs equally dim all sound, but what is desired is a narrowing of sound. so total sound blockage is used, along with nose, since smell is a particularly evocative sense and the smells are myriad. touch TODO
+	- maybe this is the author's proposed technique but it's too dangerous she doesn't want to try again - first and only time she did it the "hard" way
 - constant festival?
 - what is it actually like? there's a recurring image of a boy in a chariot who seems to be a local deity, or perhaps there are many and they are the inhabitants.
 - pure inspiration
 - how do you get out?? many have been lost, maybe there's some aperture route you have to like train yourself to go
+	- basically some society has a ritual around this and it's become the only relatively safe way to experience it (they don't realize that's what they're doing)
 
 <gpt>The experience of being on this plane can be so overwhelming that it blots out the senses, driving mortals mad with desire for what they have seen before banishing them forever.</gpt>
 
@@ -188,95 +322,11 @@ ritual bath that you die in?
 
 ***
 
-# **Hierarchy Utility**
-
-## Hierarchy Utility Creation LNC
-
-**Architects of the Unfolding**
-
-[transferred]
-
-## Hierarchy Utility Equilibrium LNP
-
-Archivists.
-
-Everything is collected (in some unusual architectural shape, maybe captured in some preserving gel that floats and is connected to some crystalline structures).
-
-They're "essentialists": trying to define the essences of any given object, but not into elements like fire or wind or even emotions or tendencies like excitement or neuroticism, but into very specific categories like "tending to ______" OR WAIT could be like counter words in japanese.
-
-People come here to discover and define *themselves* like meyers briggs or astrology haha.
-
-Is there some currency/market element to this?
-
-the Mathematicians of Mechanus "hold that everything that you can imagine can be found on Mechanus in some form, and by cataloguing this and applying logic, symbolism and math to this one can unlock the secrets of the plane. They don't do this for riches or power: they are a group of serious minds who want to discover the secrets of the plane for scholastic reasons". be different from this
-
-some connection to [Timaresh](http://www.rilmani.org/timaresh/Timaresh) where every written work in the multiverse is reflected, reproduced, and stored.
-
-include storing like styles/motifs, e.g. "Hamonshu - A Japanese Book of Wave and Ripple Designs" and the tibetan book
-
-### storage
-
-All or part of this plane is based around temporary and free, but regulated and often indefinite, storage.
-
-people come from all over the multiverse to store stuff there, and they are REALLY GOOD at storage. they can store anything of any size, with any magical qualities or dangers or challenges. some fastidious dragons clear their treasure pits and store them for safekeeping, some store vanquished foes, cursed magical heirlooms, exotic pets, botched experiments, anything.
-
-there are conditions to storage. maybe it has to be something they don't currently have? and if that's the case, they will store it for free, in flawless condition, taking care of it if necessary. part of the condition though maybe is that they have to be allowed to study it? can they touch it? they've never been known to mess anything up though. is there anything they won't store?
-
-## Hierarchy Utility Dissolution LND
-
-**Moilers of the Instrument**
-
-[transferred]
-
-***
-
-# **Synthesis Utility**
-
-## Synthesis Utility Creation NNC
-
-**Grains of the Asymmetry (?)**
-
-[transferred]
-
-## Synthesis Utility Equilibrium NNP
-
-**The Cartography (?)**
-
-[transferred]
-
-## Synthesis Utility Dissolution NND
-
-**Precepts of the Lucidity (?)**
-
-[transferred]
-
-***
-
 # **Autonomy Utility**
 
 ## Autonomy Utility Creation CNC
 
-for people that said yes to everything in life
-
-mutatorium
-
-metamorphoses
-
-Be-careful-what-you-wish-for self improvement
-
-Poetic Terrorism
-
-does it also have the outpost? maybe two places, has both
-
-thin barrier to pure creation - which is thinner, here or CGC? should be here but feels like there. maybe this would be even crazier if it weren't for the mutatorium floating in the chaos, yeah! "utility"? outside are all possible factors, the raw stuff from which anything can be made
-
-From the outside, the Mutatorium of TODO resembles a single nautilus shell the size of a small city. Its colors, ridges, and spirals constantly shift, but it holds impossibly still as the splurging winds of creation buffet its sheening impenetrable surface.
-
-Inside, twisting fractal passageways that can be navigated only by the caretakers (a clan of well-meaning but quite thoroughly demented lillendi). People who seek great change in their life find their way here, either by mercenaries who ferry supplicants back and forth, or by certain spells or portals sought out by the enterprising. Some come to change their minds, some come to change their appearances, some come to change their future some come bring others (willing or unwilling) for changing. With sufficient planning, willpower, or skilled guides, the mutation sometimes goes according to plan. Unsurprisingly frequently, however, supplicants leave the Mutatorium with something very different than they intended.
-
-No payment is expected for the services provided here - the plane itself supplies the raw materials necessary, and the caretakers partake for the joy of it.
-
-What sustains the Mutatorium remains unknown, but the best guess is that the nautilus structure itself is responsible, and that it may be the husk of a dead Lawful Neutral god transported from the Astral Plane and revived into a powerful but dormant, semi-conscious state.
+[transferred]
 
 ## Autonomy Utility Equilibrium CNP
 
@@ -312,70 +362,6 @@ hermits who spend time alone wear the ordial thin along this axis
 
 ***
 
-# **Hierarchy Power**
-
-## Hierarchy Power Creation LEC
-
-**Oriels of the Macula**
-
-[transferred]
-
-## Hierarchy Power Equilibrium LEP
-
-tyrants
-
-regimented armies. gauntlet and boot
-
-paranoid tyrants holed up in indestructible fortresses, overwhelmingly prepared for threats that never materialize
-
-easily the most militarily powerful of all the laminae, but since they remain in defensive mode indefinitely, it's all moot.
-
-there was once some extraordinary incident where a trickster managed to harness their military might---maybe either by luring an enemy into hopeless attack against these guys, or by somehow managing them to, for once, sally out from their fortresses.
-
-orwell quote, but what's the "danger and death", wouldn't they catch on eventually at possible threats never coming? or maybe orwellianish they hear about threats and attacks and incursions but none are real or they're all inside jobs, maybe even people know but they're terrified to say because they'll get disappeared if they disobey, it's an open secret. the struggle is really internal.
-
-maybe it's actually not bad, if you're into it?
-
-Ben Sack art?
-
-Milton Controversy:
-
-> why Milton, a fervent (if unconventional) Protestant, would ultimately give the devil all the poem’s best lines? Why make Lucifer the most attractive character in Paradise Lost if you’re supposedly trying to “justify the ways of God to man?” Many in the Romantic tradition thus argued that Lucifer should be read as a revolutionary, a Promethean figure who tears at unfair strictures.
->
-> [...] Fish interpreted Milton’s epic as “a poem about how its readers came to be the way they are … to provoke in its readers wayward fallen responses.” In other words, Lucifer is supposed to be intriguing, because in forcing the reader of Paradise Lost to be drawn to evil, Milton demonstrates the original sin that he believed marked everyone’s soul. That Lucifer gets the best lines isn’t incidental to his evil, but central to it.
->
-> [...] these [Luciferian] characters share a rage generated from feeling that they are owed something
-
-LEP'ers feel this?
-
-## Hierarchy Power Dissolution LED
-
-elaborate weavers of personalized, creative curses
-
-Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
-
-Is the multiverse too big? Is the lamina somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
-
-Beautiful, intricate, ornate.
-
-***
-
-# **Synthesis Power**
-
-## Synthesis Power Creation NEC
-
-[transferred]
-
-## Synthesis Power Equilibrium NEP
-
-the opposite of NGP - opposite of restorative justice? training, using trauma to become stronger? revenge?
-
-## Synthesis Power Dissolution NED
-
-ritual athletes? use yourself up
-
-***
-
 # **Autonomy Power**
 
 ## Autonomy Power Creation CEC
@@ -398,7 +384,7 @@ ritual athletes? use yourself up
 
 maybe this is the forgetting place
 
-The Procedure? interesting associate, sounds a bit LXX, maybe a synonym
+The Procedure? interesting association, sounds a bit LXX, maybe a synonym
 
 Murder as art
 

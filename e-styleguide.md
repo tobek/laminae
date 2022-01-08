@@ -187,20 +187,22 @@ Collected here are the collated and lightly edited manuscript notes recovered fr
 
 ***
 
-## Heading 1
+## Heading 2
+
+Heading 1 is at the top of the page.
 
 The dazzling, hideous garden that is the Bloom shelters and nurtures its children, the Florets, who frolic perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with the pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
 
-### Heading 2
+### Heading 3
 
 All living things deform here eventually, but *growth* is the driver. The children themselves grow, of course, and in the process sprout talons and chitinous ridges and extra limbs, gnarl with bark and thorns, and grow to freakish sizes small or large from which they droop and blotch with cysts and buds and teratomas. Vegetation flourishes incomprehensibly, discordant with features of plants and animals and inanimate objects, melding into impassable tangles of fragrant silvery stinging tendrils, rivulets of flame, globs of translucent sap, wet rot squirming wings and maws and drum-beat membranes.
 
-#### Heading 3
+#### Heading 4
 
 The laboratory is dedicated primarily to the breeding of crops for sustenance and the testing of their safety---tasks that requires constant attendance as existing crops slowly mutate or suddenly die out. No small effort is also dedicated to the recreational study and crossbreeding of the ornamental flora which spectacularly adorn the settlement. Due to the history of the place, the caretakers here are reluctant to engage in medicinal research, but their expertise is well suited to such efforts, and intellectual interchange occurs with trusted colleagues who visit to use the Islet's facilities and knowledge.
 
 Mother's relationship with mortals is even less clear. "Have you met Mother?" the Florets will ask. "She wants you to play with us." One of the REF[Islet](#the-islet)'s residents, the recipient of a particularly unfortunate Bloom scar, shared with this visitor that she had in fact met their Mother, but would not speak more of it.
 
-#### Heading 3
+#### Heading 4
 
 Mother's relationship with mortals is even less clear. "Have you met Mother?" the Florets will ask. "She wants you to play with us." One of the REF[Islet](#the-islet)'s residents, the recipient of a particularly unfortunate Bloom scar, shared with this visitor that she had in fact met their Mother, but would not speak more of it.

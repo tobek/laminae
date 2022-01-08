@@ -52,7 +52,7 @@ Among those few scholars, mercenaries, and obsessives familiar with this lamina,
 
 The case of the Cartography, however, is more tantalizing, since some methods hold promise of guiding you closer to a desired moment. Once the desired tableau has been reached, especially if this was achieved with a permanent aperture that lets visitors come and go as they please to avoid the gradual burden of the place, it can be explored with none of the hazards of the original location. Enemy defenses or the location of powerful relics in a hostile environment could be explored and mapped out at leisure. One can also travel to places normally inaccessible. With a suit fashioned from lotus leaves or shark skin adventurers have found ways to swim through fog, and with a large kind of solid snowshoe you can walk on clouds if you keep moving. Lava is lukewarm to the touch and completely solid, traps are never sprung, defenses hang helplessly in the air, and treacherous paths never crumble.
 
-<p class="editor-note" id="untranslated">[This chapter has not yet been fully translated. Please turn to the <a href="18-cnd.html">Inevitability</a>, the <a href="25-cec.html">Bloom</a>, or the <a href="10-lnc.html">Unfolding</a> for completed chapters.]</p>
+<p class="editor-note" id="untranslated">[This chapter has not yet been fully translated. Please turn to the <a href="꧹၇ဗ">Inevitability</a>, the <a href="꧹ဋꧠ">Bloom</a>, or the <a href="ꩧ၇ꧠ">Unfolding</a> for completed chapters. Recent additions can be found in the <a href="d-translation-log">Translation Log</a>.]</p>
 
 
 ## Visiting

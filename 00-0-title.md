@@ -269,27 +269,30 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 ##### Front Matter
 
 <div class="row">
-  <div class="left"><div class="numeral">I.</div><a href="00-i-note.html">A Note from the <span class="guild-term">Order</span></a></div>
+  <div class="left"><div class="numeral">I.</div><a href="00-i-note">A Note from the <span class="guild-term">Order</span></a></div>
   <div class="dots"></div><div class="page">ဪ</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">II.</div><a href="00-ii-ordial-primer.html">A Primer on the Ordial Plane</a></div>
+  <div class="left"><div class="numeral">II.</div><a href="00-ii-ordial-primer">A Primer on the Ordial Plane</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">III.</div><a href="00-iii-translators-note.html">Translator's Note</a></div>
+  <div class="left"><div class="numeral">III.</div><a href="00-iii-translators-note">Translator's Note</a></div>
+  <div class="dots"></div><div class="page"></div>
+</div>
+
+##### Introduction
+
+<div class="row">
+  <div class="left"><div class="numeral">IV.</div><a href="00-iv-author-preface">Author's Preface</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">IV.</div><a href="00-iv-author-preface.html">Author's Preface</a></div>
+  <div class="left"><div class="numeral">V.</div><a href="00-v-cosmography">Cosmography</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">V.</div><a href="00-v-cosmography.html">Cosmography</a></div>
-  <div class="dots"></div><div class="page"></div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">VI.</div><a href="00-vi-facets.html">Facets</a></div>
+  <div class="left"><div class="numeral">VI.</div><a href="00-vi-facets">Facets</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 
@@ -298,11 +301,11 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 <div class="lamina">
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="01-lgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="01-lgc"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="02-lgp.html">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="02-lgp">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LGP</div>
 </div>
 <div class="row">
@@ -311,42 +314,42 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">4.</div>REF[NGC]</div>
-  <div class="dots"></div><div class="page">NGC</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">5.</div>REF[NGP]</div>
-  <div class="dots"></div><div class="page">NGP</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">6.</div>REF[NGD]</div>
-  <div class="dots"></div><div class="page">NGD</div>
-</div>
-
-<div class="row">
-  <div class="left"><div class="numeral">7.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="07-cgc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
-  <div class="dots"></div><div class="page">CGC</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">8.</div>REF[CGP]</div>
-  <div class="dots"></div><div class="page">CGP</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">9.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="09-cgd.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
-  <div class="dots"></div><div class="page">CGD</div>
-</div>
-
-<div class="row">
-  <div class="left"><div class="numeral">10.</div>REF[LNC]</div>
+  <div class="left"><div class="numeral">4.</div>REF[LNC]</div>
   <div class="dots"></div><div class="page">LNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">11.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="11-lnp.html">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">5.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="11-lnp">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">LNP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">12.</div>REF[LND]</div>
+  <div class="left"><div class="numeral">6.</div>REF[LND]</div>
   <div class="dots"></div><div class="page">LND</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">7.</div>REF[LEC]</div>
+  <div class="dots"></div><div class="page">LEC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">8.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="20-lep"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="dots"></div><div class="page">LEP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">9.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="21-led"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="dots"></div><div class="page">LED</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">10.</div>REF[NGC]</div>
+  <div class="dots"></div><div class="page">NGC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">11.</div>REF[NGP]</div>
+  <div class="dots"></div><div class="page">NGP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">12.</div>REF[NGD]</div>
+  <div class="dots"></div><div class="page">NGD</div>
 </div>
 
 <div class="row">
@@ -361,47 +364,47 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="15-nnd.html">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="15-nnd">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NND</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="16-cnc.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
-  <div class="dots"></div><div class="page">CNC</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="17-cnp.html">The Wilt</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
-  <div class="dots"></div><div class="page">CNP</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">18.</div>REF[CND]</div>
-  <div class="dots"></div><div class="page">CND</div>
-</div>
-
-<div class="row">
-  <div class="left"><div class="numeral">19.</div>REF[LEC]</div>
-  <div class="dots"></div><div class="page">LEC</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">20.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="20-lep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
-  <div class="dots"></div><div class="page">LEP</div>
-</div>
-<div class="row">
-  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="21-led.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
-  <div class="dots"></div><div class="page">LED</div>
-</div>
-
-<div class="row">
-  <div class="left"><div class="numeral">22.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="22-nec.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="22-nec"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">23.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="23-nep.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="23-nep"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">24.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="24-ned.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">18.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="24-ned"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">NED</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">19.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="07-cgc"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="dots"></div><div class="page">CGC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">20.</div>REF[CGP]</div>
+  <div class="dots"></div><div class="page">CGP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="09-cgd"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="dots"></div><div class="page">CGD</div>
+</div>
+
+<div class="row">
+  <div class="left"><div class="numeral">22.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="16-cnc"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="dots"></div><div class="page">CNC</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">23.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="17-cnp">The Wilt</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="dots"></div><div class="page">CNP</div>
+</div>
+<div class="row">
+  <div class="left"><div class="numeral">24.</div>REF[CND]</div>
+  <div class="dots"></div><div class="page">CND</div>
 </div>
 
 <div class="row">
@@ -413,7 +416,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="dots"></div><div class="page">CEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="27-ced.html"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="27-ced"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div><div class="page">CED</div>
 </div>
 
@@ -427,15 +430,15 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">B.</div><a href="b-glossary.html">Glossary</a></div>
+  <div class="left"><div class="numeral">B.</div><a href="b-glossary">Glossary</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">C.</div><a href="c-index.html">Index</a></div>
+  <div class="left"><div class="numeral">C.</div><a href="c-index">Index</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">D.</div><a href="d-translation-log.html">Translation Log</a></div>
+  <div class="left"><div class="numeral">D.</div><a href="d-translation-log">Translation Log</a></div>
   <div class="dots"></div><div class="page"></div>
 </div>
 

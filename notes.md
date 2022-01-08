@@ -397,9 +397,9 @@ GET WEIRD
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
     + update progress (md and index.yml)
     + update all.md and index.yml
-    + update homepage TOC
+    + update homepage TOC (change to REF)
     + comment out from rand.js
-    + remove name from homepage TOC filler
+    + remove name from homepage TOC filler and with demonym from here
     + update translation log
 - Summary
 - Read again, organize notes
@@ -415,6 +415,7 @@ TODO go through evil sketch
 
 23 of them!
 
+- artists - LEC is a bit, but otherwise NEC, CNC, or LGC
 - terrapin (is it an archive/library/museum or more sensorium? could be both)
 - something pretty futuristic, but not described as such
 - they worship a god who is crazy but they love it
@@ -430,14 +431,14 @@ TODO go through evil sketch
     + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
     + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
     + LEX? maybe LEC
-    + rilke quote (?)
+    + rilke quote about god as the one who is coming
 - society that glamorizes maintenance instead of creation? LGP
 - death? CGD
 - glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. NND or NED or LED or LND. - and then how it heals
-- two planes that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX
+- two planes that have something to say about the presence or absence of free will - perhaps both planes work in the exact same way, but in one the action is taken as an argument for free will and in the other the action is taken as an argument for determinism - probably LXX and corresponding CXX - LND and CNC?
 - One where she finds the Annals of the Parrigues - some library, or some place connected to a cardinal world?
 - One should be extremely short (maybe no or very few known residents?)
-    - like "_____ appears to be a complicated place, but thanks to the efforts of the Forgetful Duke, it all seems rather simple once you've left."
+    - like "_____ appears to be a complicated place, but thanks to the efforts of the jealous Forgetful Duke, it all seems rather simple once you've left."
     - CED
 - Which is the most populous? LGC? Would be good for LGC's character but prob doesn't make sense that most people are that. Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around?
 - Generation ship - high-tech-low-tech caravan across 100,000 mile desert - why? hoping to find the end. how: aperture travels with them. XXD - LED or NED? NGD you join for ritual. prob LED or at least NED cause it requires a system to sustain itself. all else fails could be on CNP. what about CGD? brackish swamp
@@ -445,6 +446,7 @@ TODO go through evil sketch
     - interesting stuff about maintaining morale on endless journey, does that work with finding the end? i guess some could give up, maybe there are some scattered communities
     - generation ship aspect needs inhospitability of space vs spaceship vs finding a planet, so this would need something like that, caravan provides something
 - magical research outpost, maybe in CNC or CGC. this is kind of Bloom islet
+    + maybe rumored to be in CGC but might be some extra crazy bit of CNC or some other place, hard to know
 - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC)
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
@@ -457,9 +459,9 @@ TODO go through evil sketch
     + 'The afterlife is comprised of two territories: not heaven and hell, but a world for those who said "yes" more than "no", and its opposite. Yes-world is flowing, a realm without boundaries, and of your soul it makes a river and a flux, a joyful playdough being that absorbs all it touches. No-world is a sequence of diamond-walled gardens, and from safety you watch beautiful terrors flicker through the crystal' <https://twitter.com/ctrlcreep/status/1100085668397699073> ('But what if I had to spend my life mostly saying yes against my will')
     - maybe this is in cosmography, someone went to exactly 2 planes and then said the above, lead the way into figuring out about there being more - CNC vs CNP
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED or CNP
-- Lost and found (maybe in CEC or CNC or LNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
-- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NXX, would be interesting autonomy CXX, maybe NEC, CNC, CEC, CGC. gosh could be NGD if nothing else
-    - https://twitter.com/TylerAlterman/status/1453671384186564610
+- Lost and found (maybe in CEC or CNC or LNP or CNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
+- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NEX, would be interesting autonomy CNC or CGC. gosh could be NGD if nothing else
+    - AKA collective consciousness/intelligence, mindcity, hypermind, metamind, group mind
     - "Something the whole ocean is doing"
 - Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (two walls place?) NED?
 - Sex  - CGD, CED, NED, NEC (dreams), NEP
@@ -529,7 +531,7 @@ unused ones can just be particular places
     + moss lawn
 - Orchard
 - Something like a space habitat (LND?)
-- Like a temple space station with galaxy backdrop, see one of the Philippe Druillet pics
+- Like a temple space station with galaxy backdrop, see one of the Philippe Druillet pics, also a tumblr pic
     + "mark ferrari - spyro- eternal night - icetemple01b"
 - Cofferdam (enclosure in a body of water - huge)
 - Smoke
@@ -560,7 +562,7 @@ unused ones can just be particular places
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LEP?)
-- place where 2nd law of thermodynamics is reversed? what does time mean? opposite of CND is LNC but that hmm maybe actually
+- place where 2nd law of thermodynamics is reversed? what does time mean? opposite of CND is LNC but that hmm maybe actually, that's why shapers can build matter out of nothing, it wants to be formed
 - some kind of transportation system? mechanical or biological. LNP?
 - the conception of perfection. (look up quotes?)
     + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
@@ -584,7 +586,7 @@ unused ones can just be particular places
 - "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
 - Giant books multiple people to turn page
 - the bell ringing hearing contest episode (dissimulation NND)
-- rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC)
+- rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC, CNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area
 - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, CNP, NED, LED
     + maybe some other perception issue
@@ -630,15 +632,16 @@ unused ones can just be particular places
 
 ### Abstract Concepts
 
+- "It is your job to teach the gods proper morals." https://twitter.com/CurlOfGradient/status/1108326892053123075
 - "retinal" art, intended only to please the eye. Instead, Duchamp wanted to use art to serve the mind.
-- "you: human creativity is an glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316
+- "you: human creativity is an glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 NEC, CNC
 - "Some sophists marvel at the dual nature of reality, that for every thing it either *is* or it *isn't*. Marvelous. Well then there are the real thinkers. They say that sometimes a thing *is* **and** it *isn't*. Or that all qualities have a spectrum, ranging from *isn't* all the way to *is*. Or there's a field, some strange topography, multi-dimensional spectra which don't start and end at *isn't* and *is* but go all sorts of other places instead. But they're all backwards. I'll tell you the nature of things. It's very simple. Are you listening? **It neither *is* nor *isn't*.**"
     - did i get this from "It no more is than it is not or it both is and is not or it neither is nor is not." (Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views, https://en.wikipedia.org/wiki/Pyrrho)
     - full passage: https://en.wikipedia.org/wiki/Pyrrhonism#Buddhism
 - breaking down all of these needs to be in there https://google.github.io/filament/Filament.md.html maybe LNP or NNC
 - formlessness vs EXTREMELY existent
 - is total absence of habit freedom? or is it its own kind of tyranny? funes el memorioso is relevant. CXX
-- realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe
+- realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe, or else CNC or CGC
 - "water always finds a crack" - LND or LED
 - GEB, achilles gets one meta wish, asks for wish not to be granted, and then "an event — or is 'event' the word for it? — takes place which cannot be described, and hence no attempt will be made to describe it." the result is that the universe crashes, and the characters wind up somewhere totally different
 - emergence
@@ -722,7 +725,7 @@ unused ones can just be particular places
 - Pantropy: modifying being to suit its environment (opposite of terraforming)
 - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
 - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NEP, NED, LED)
-- A place where no one experiences boredom. LND or LEP LED or CGP
+- A place where no one experiences boredom. LND or LEP LED or CGP or CNC
     - boredom is required for creativity
     - "Consider the incredibly important human value of "boredom" - our desire not to do "the same thing" over and over and over again. You can imagine a mind that contained almost the whole specification of human value, almost all the morals and metamorals, but left out just this one thing ... and so it spent until the end of time, and until the farthest reaches of its light cone, replaying a single highly optimized experience, over and over and over again." --- <http://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile>
     - blaise pascal: "we seek rest in a struggle against some obstacles. And when we have overcome these, rest proves unbearable because of the boredom it produces""
@@ -739,7 +742,7 @@ unused ones can just be particular places
 >
 > known known knowables
 > known unknown knowables
-> kown unknown unknowables
+> known unknown unknowables
 > unknown unknown knowables
 > unknown unknown unknowables
 > unknown known knowables
@@ -757,10 +760,10 @@ LOOK THROUGH HEADSOAK QUOTES
 
 LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 
-- "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq
-- "Only children and the stupid seek both cause and effect in the same story" - Nasrudin, as related by Idries Shah
+- "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." 'The Utter Idiot', Ablahi Mutlaq CNC
+- "Only children and the stupid seek both cause and effect in the same story" - Nasrudin, as related by Idries Shah CNC
 - "Nothing that is evil is necessary." - Tertullian, Adversus Marcionem IV.29:4
-    - but i like the reverse!! "Nothing that is necessary is evil."
+    - but i like the reverse!! "Nothing that is necessary is evil." LEP
 - "All things will be in danger of being taken in a sense different from their own proper sense, and, whilst taken in that different sense, of losing their proper one, if they are called by a name which differs from their natural designation. Fidelity in names secures the safe appreciation of properties." Tertullian, De Carne Christi 13:2 (LNP?)
 - "Fluency before understanding, discipline before imagination"
 - "If you try and go against réalité... Réalité will surely crush you. Réalité will kill you. And réalité will continue to go on az if not'ing ever happened... From yesterday to today, and from today to tomorrow. Réalité marchez on... Leaving your crushed body behind..." - Harle
@@ -773,14 +776,14 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "Look, the minute everybody in the room agrees with you, you’re in a bad place, so I’m a big believer in change just for its own sake, just to show that you *can* change, to move forward incrementally, but ain’t [no one person] gonna make everything better." Anthony Bourdain
 - Maori chants?
 - hakim bey TAZ
-    + "chaos is the sum of all orders" hakim bey, p41
-    + ‎"the architecture of suffocation and paralysis will be *blown up* only by our total celebration of everything---even darkness" hakim bey p42
-    + “Chaos comes before all principles of order & entropy, it's neither a god nor a maggot, its idiotic desires encompass & define every possible choreography, all meaningless aethers & phlogistons: its masks are crystallizations of its own facelessness, like clouds. ”
+    + "chaos is the sum of all orders" hakim bey CNC
+    + "the architecture of suffocation and paralysis will be *blown up* only by our total celebration of everything---even darkness" hakim bey
+    + “Chaos comes before all principles of order & entropy, it's neither a god nor a maggot, its idiotic desires encompass & define every possible choreography, all meaningless aethers & phlogistons: its masks are crystallizations of its own facelessness, like clouds.” CNC
 - “...I remain restless and dissatisfied; what I knot with my right hand, I undo with my left, what my left hand creates, my right fist shatters” ― Günter Grass, The Tin Drum (NND, CGD, *NEP*, NED)
 - “Mamá sabía ser alegre. Mamá sabía ser temerosa. Mamá sabía olvidar fácilmente. Y, sin embargo tenía buena memoria. Mamá me daba con la puerta en la narices, y sin embargo, me admitía en su baño. A veces mamá se me perdía, pero su instinto me encontraba. Cuando yo rompía vidrios, mamá ponía la masilla. A veces se instalaba en el error, aunque a su alrededor hubiera sillas suficientes. Aun cuando se encerraba en sí misma, para mí siempre estaba abierta. Temía las corrientes de aire y sin embargo no paraba de levantar el viento. Gastaba, y no le gustaba pagar impuestos. Yo era el revés de su medalla. Cuando mamá jugaba corazones ganaba siempre. ” ― Günter Grass, El Tambor De Hojalata (CEC?)
 - Just had a dream where I was a protagonist named Jim. Jim knew that after death, part of Jim's patron god would become a copy of Jim, remember being Jim. But Jim figured that had nothing to do with him. Dead was dead. / Woke up, realized Jim was right and I was Jim's patron god. - https://twitter.com/St_Rev/status/1085079881627643904
 - "A taker likewise is an order taker. These are different than market makers and market takers, which make and take markets, but may take or make orders. On the AirSwap Network, you may take the role of maker or taker." LNP if there is some market element? LND somehow?
-- "It no more is than it is not or it both is and is not or it neither is nor is not." -- Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views <https://en.wikipedia.org/wiki/Pyrrho>
+- "It no more is than it is not or it both is and is not or it neither is nor is not." -- Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views <https://en.wikipedia.org/wiki/Pyrrho> CNC
 - "You'd have to stand a very long time at the top of a mountain before a cooked goose flies into your mouth."
 - "A transition from an author’s book to his conversation, is too often like an entrance into a large city, after a distant prospect. Remotely, we see nothing but spires of temples and turrets of palaces, and imagine it the residence of splendour, grandeur and magnificence; but when we have passed the gates, we find it perplexed with narrow passages, disgraced with despicable cottages, embarrassed with obstructions, and clouded with smoke." -- Dr. Samuel Johnson; The Rambler, No. 14 (5 May 1750)
 - "An amazing creative solution has to obey at least one law, the criterion that makes it a "solution".  It's the one box you can't step outside: No optimization without goals." -- <http://www.lesswrong.com/posts/KKLQp934n77cfZpPn/lawful-creativity> then "The pleasant shock of witnessing Art arises from the constraints of Art - from watching a skillful archer send an arrow into an exceedingly narrow target." LNC?
@@ -908,6 +911,7 @@ actual words: https://wordsmith.org/anagram/advanced.html
 
 ### music, soundtracks?!
 
+- https://mynoise.net/Community/
 - fourth world obvs
     - Robert Musci - The advent of rose + Croix, maybe LND? something ominous and formal, maybe it's not stressful enough for LND
     - Mikael Seifu - How To Save a Life (Vector of Eternity) (stressful, beautiful, intense)
@@ -951,7 +955,7 @@ actual words: https://wordsmith.org/anagram/advanced.html
 realm names or demonyms:
 
 - Blister*
-- Discarnate (not having a physical body)
+- Discarnate (not having a physical body) (CGC?)
 - Feign
 - Figment
 - Numen/Numina
@@ -979,14 +983,13 @@ realm names or demonyms:
 - The Blot*
 - The Bough*
 - The Braid (currently NGP)
-- ‎The Bright
+- The Bright
 - The Burgeon*
 - The Cabling
 - The Canon*
 - The Carapace*
 - The Chalice*
 - The Cherish
-- The Cicatrix* (the scar of a healed wound e.g. on plant)
 - The Clamor*
 - The Clarion (shrill trumpet, or loud and clear)
 - The Clasp
@@ -997,7 +1000,7 @@ realm names or demonyms:
 - The Concordance (agreement or consistency)
 - The Consonance (agreement or compatibility)
 - The Convergence*
-- ‎The Creak
+- The Creak
 - The Crescendo
 - The Crenellation (LEP?)
 - The Crest*
@@ -1031,11 +1034,12 @@ realm names or demonyms:
 - The Grain (tentative NNC demonym)
 - The Grasp
 - The Hidebound/The Hidebind
-- ‎The Horn
+- The Horn
 - The Hull
 - The Husk
 - The Illumination
-- The Imminence (state or fact of being about to happen)
+- The Immanence (the divine encompasses or is manifested in the material world, or: the quality of being contained within, or remaining within the boundaries of a person, of the world, or of the mind)
+- The Imminence (state or fact of being about to happen) (maybe shift with above)
 - The Incandescence
 - The Increpation (chiding, rebuking, censure - from making a nosie, creaking)
 - The Keen*
@@ -1053,9 +1057,9 @@ realm names or demonyms:
 - The Ligate (tie up or close off in surgery, or join in biochem)
 - The Ligature*
 - The Loom
-- The Macula* (center of retina, keenest vision)
 - The Manacle
-- The Marrow (LEC mountain but could rename)
+- The Marrow
+- The Meld
 - The Membrane
 - The Morrow
 - The Multitude
@@ -1063,6 +1067,7 @@ realm names or demonyms:
 - The Oval
 - The Pasture*
 - The Pith*
+- The Premise
 - The Presupposition
 - The Procedure
 - The Pulchritude* (beauty)
@@ -1074,6 +1079,7 @@ realm names or demonyms:
 - The Rectitude
 - The Recital
 - The Recurrence*
+- The Reification
 - The Reproach (rebuke, blame, censure)
 - The Restraint
 - The Retelling
@@ -1113,9 +1119,11 @@ realm names or demonyms:
 - used
     + The Asymmetry
     + The Bell
-    + The Brink*
-    + ‎The Grip
+    + The Brink
+    + The Cicatrix* (the scar of a healed wound e.g. on plant)
+    + The Grip
     + The Knot
+    + The Macula (center of retina, keenest vision)
     + The Swell (a thing in the Bloom)
 
 ## demonyms
@@ -1123,7 +1131,6 @@ realm names or demonyms:
 don't forget "-er"s like Unravellers
 
 - Abounds
-- Alters
 - Barrens
 - Certorari ("writ from superior to inferior courts seeking the records of a case," legal Latin, "to be certified, to be informed or shown") - Certors?
 - Clarions
@@ -1149,14 +1156,13 @@ don't forget "-er"s like Unravellers
 - Ligands (molecule that binds to another, from latin "that can be tied" or bound)
 - Limns (NGP and NEC??)
 - Looms
+- Melds/Melders
 - Mercies
 - Meshers
 - Mixers
 - Nourishes
-- Oriels (upper-story bay window protruding from wall)
 - Pyreans (fire)
 - Quivers
-- Reators
 - Rebukes
 - Reveries
 - Rhemes (linguistic term: comment that is being made about topic of sentence)
@@ -1180,10 +1186,12 @@ don't forget "-er"s like Unravellers
 - Whiloms (formerly, in the past)
 - Whorls
 - used
+    + Alters (NGD but not sure)
     + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
     + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
     + Knots
     + Grips
+    + Oriels (upper-story bay window protruding from wall)
 
 ## Characters, Places, Customs, Etc.
 

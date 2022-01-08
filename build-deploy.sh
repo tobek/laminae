@@ -5,9 +5,10 @@ echo
 ./utils/stats.sh
 echo
 python build.py
+cp build/e-styleguide build/e-styleguide.html # TODO temp
 echo
 aws s3 sync build/ s3://thereitwas.com/laminae/
-aws s3 cp build/progress.html s3://thereitwas.com/bits/
+aws s3 cp build/progress s3://thereitwas.com/bits/progress.html # TODO just redirect the latter to former
 
 # (first 1,000 path invalidations per month are free, $0.005/path after that)
 if [ $# -eq 1 ]

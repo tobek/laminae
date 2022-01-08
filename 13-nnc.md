@@ -39,13 +39,16 @@ many more things are made than are released - why/how? not sure
     + The Figure
     + The Hew
     + The Kinesis
-    + The Marrow
+    + The Marrow TODO maybe this
     + The Recital
     + The Sum
 - demonym
     + Grains
     + Granums
     + Kinetics
+    + Marrows
+    + Melds/Melders
+    + Rhemes (linguistic term: comment that is being made about topic of sentence)
 - quote search NNC
 - environment
     + maybe yemen mountain cropped?

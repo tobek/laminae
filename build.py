@@ -91,16 +91,27 @@ def facet_plain_text_replace(match):
     triGlyph = trinym_to_glyphs(match.group(0)[1:])
     return match.group(1) + "| " + triGlyph
 
+# returns e.g. just "ngc", "cosmography", "glossary"
+def get_file_id(input_file):
+    file_id_match = re.match(file_id_regex, input_file)
+    return file_id_match and file_id_match[2]
+
+def get_output_file(input_file):
+    file_id = get_file_id(input_file)
+    if file_id and re.match(strict_facet_regex, file_id.upper()):
+        return trinym_to_glyphs(file_id.upper())
+    else:
+        return filename.replace(".md", "")
+
 os.makedirs("build", exist_ok=True)
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
     print(input_file)
 
-    file_id_match = re.match(file_id_regex, input_file)
-    file_id = file_id_match and file_id_match[2]
+    file_id = get_file_id(input_file)
     # import pprint; pprint.PrettyPrinter(indent=2).pprint(file_data[file_id])
 
     if output_file is None:
-        output_file = input_file.replace(".md", ".html")
+        output_file = get_output_file(input_file)
 
     input_string = open(input_file, "r").read()
 
@@ -187,19 +198,19 @@ for i, filename in enumerate(files):
         if "SKIP" in title:
             continue
         print(filename)
-        file_id = re.match(file_id_regex, filename)[2]
+        file_id = get_file_id(filename)
         metadata, content = frontmatter.parse(f.read())
         file_data[file_id] = {
             "id": file_id,
             "title": "Contents" if i == 0 else title,
             "input": filename,
-            "output": filename.replace(".md", ".html"),
+            "output": get_output_file(filename),
             "metadata": metadata,
         }
         file_ids += [file_id]
         file_titles += [title]
         input_files += [filename]
-        output_files += [filename.replace(".md", ".html")]
+        output_files += [get_output_file(filename)]
 
 # import pprint; pprint.PrettyPrinter(indent=2).pprint(file_data)
 

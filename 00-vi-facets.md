@@ -103,7 +103,7 @@ REF[Empathy] is righteous and pure when paired with REF[Hierarchy], humane and c
 
 ### <dfn def="Utility tends towards rationality, pragmatism, realism, balance, pedantry, judiciousness, perception, and level-headedness.">Utility</dfn>
 
-REF[Utility] aims for a nuanced realism in viewing the world, and pragmatic heuristics for acting within it. It acknowledges that individuals vary widely in their goals and moral constructs, and so finds that the best one can do is to assess situations in the light of all available information and act for the balanced benefit of oneself and others. Conflicts should be measured, discussed, and resolved to the mutual advantage of all parties.
+REF[Utility] aims for a nuanced realism in viewing the world, and pragmatic heuristics for acting within it. It rejects dogma and acknowledges that individuals vary widely in their goals and moral constructs, and argues that one should assess every situation in the light of all available information and act for the balanced benefit of oneself and others. Conflicts should be measured, discussed, and resolved to the mutual advantage of all parties.
 
 REF[Utility] tends towards rationality, pragmatism, realism, balance, pedantry, judiciousness, perception, and level-headedness.
 

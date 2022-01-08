@@ -45,10 +45,6 @@
       user-select: none;
       text-transform: capitalize;
     }
-      .viz .tooltip.show {
-        opacity: 1;
-        visibility: visible;
-      }
     @media only screen and (max-width: 900px) {
       .viz {
         right: -36px;
@@ -107,6 +103,9 @@
     .viz-wrap .facet-legend .axis-name {
       display: block;
       padding-top: 8px;
+    }
+    .viz-wrap .facet-legend .tooltip {
+      display: none;
     }
     .viz-wrap .facet-legend a {
       margin: 0;

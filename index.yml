@@ -9,7 +9,7 @@
 Hierarchy Empathy:
 
     '◍◍○○○○ Hierarchy Empathy Creation (LGC)':
-        name: The Bauble? The Procedure?
+        name: The Bauble? The Procedure? The Crescendo?
         demonym:
         summary: |
             *?* a surprisingly exhausting, crushing place? Too much energy? Conduit should maybe be missing from this one or CEC or CED or LEC. W40k Terra? Or crystalline? Some deal/symbiosis with CED. oral history in wisdom, maybe in clothing and everything. incoming godhead, they're creating it
@@ -26,6 +26,52 @@ Hierarchy Empathy:
         demonym: Avatars, Archons, Ardents, Apeirons, Pyreans
         summary: |
             Resting place for famous champions (martial and otherwise) who wish to engage with evil one more time, but only if the challenge is perfectly matched such that it results in the hero simultaneously succeeding and perishing. Visitors make their cases requesting help from these mythical heros, and bookkeepers assess the odds that it will be sufficiently valiant and perilous.
+
+
+Hierarchy Utility:
+
+    '●◍◍◍◍○ Hierarchy Utility Creation (LNC)':
+        link: true
+        name: The Unfolding
+        demonym: Architects
+        summary: |
+            Artists and engineers that have architected all of the most famous constructions in existence, original copies of which fill archipelagos that spread across the Glass Ocean, where the enormous automaton wind shifters interlock and glide across empty waters.
+
+    '◍◍○○○○ Hierarchy Utility Equilibrium (LNP)':
+        name: The Essentialism
+        demonym: Archivists
+        summary: |
+            Collecting everything in a crystalline library hive, for cataloging and categorization according to infinitely varied sets of overlapping ontologies, none of which can be argued to be a universally useful or applicable paradigm. Also, free storage of stuff they don't have? Lost and found?
+
+    '●◍◍○○○ Hierarchy Utility Dissolution (LND)':
+        link: true
+        name: The Instrument
+        demonym: Moilers
+        summary: |
+            The labyrinthine interior of a colossal automaton, the outside of which never been seen. The Instrument is tended to by the Moilers, whose culture has lost its knowledge of the automaton's purpose and operation, and as a result have devolved into industrious paranoia and neurosis.
+
+
+Hierarchy Power:
+
+    '●◍◍○○○ Hierarchy Power Creation (LEC)':
+        link: true
+        name: The Macula
+        demonym: Oriels
+        summary: |
+            The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
+
+    '◍○○○○○ Hierarchy Power Equilibrium (LEP)':
+        name:
+        demonym:
+        summary: |
+            In on the LGP/CGP questions? This or LEC has to be a cruel but beautiful and powerful and successful society, what ZHP wants.
+            Paranoid tyrants holed up in indestructible maze fortresses, overwhelmingly prepared for threats that never materialize, obsessively studying, the best at it. The culture has spiraled into paranoia (too much like LND?) - or just be a citystate? Or maybe the whole place but minus the paranoia. "optimistic evil" like nazis, their vision of social progress at all costs.
+
+    '◍◍○○○○ Hierarchy Power Dissolution (LED)':
+        name:
+        demonym:
+        summary: |
+            Catacombs of industrious, hierarchical workers who invent convoluted schemes to unleash on the rest of existence. Not a single instance of a scheme being enacted has ever been observed. Are we not looking hard enough or are they obfuscating their work?
 
 
 Synthesis Empathy:
@@ -52,51 +98,6 @@ Synthesis Empathy:
             Floating stony crags and tendrils wind through the endless sky and wind of the Cicatrix, in which the Alters bear the verging currents of catharsis from across the multiverse, celebrating and mourning the passage of things in visceral ritual until the land and their own bodies become more scar than substance. As the airborne land slowly rotates, memorials eventually slip into the sky and are lost.
 
 
-Autonomy Empathy:
-
-    '◍◍○○○○ Autonomy Empathy Creation (CGC)':
-        name:
-        demonym:
-        summary: |
-            Pure experience/observation is all that's possible
-
-    '●◍◍○○○ Autonomy Empathy Equilibrium (CGP)':
-        link: true
-        name: The Brink
-        demonym: Apeirons
-        summary: |
-            Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
-
-    '◍○○○○○ Autonomy Empathy Dissolution (CGD)':
-        name:
-        demonym:
-        summary: |
-            masochism
-
-
-Hierarchy Utility:
-
-    '●◍◍◍◍○ Hierarchy Utility Creation (LNC)':
-        link: true
-        name: The Unfolding
-        demonym: Architects
-        summary: |
-            Artists and engineers that have architected all of the most famous constructions in existence, original copies of which fill archipelagos that spread across the Glass Ocean, where the enormous automaton wind shifters interlock and glide across empty waters.
-
-    '◍◍○○○○ Hierarchy Utility Equilibrium (LNP)':
-        name: The Essentialism
-        demonym: Archivists
-        summary: |
-            Collecting everything in a crystalline library hive, for cataloging and categorization according to infinitely varied sets of overlapping ontologies, none of which can be argued to be a universally useful or applicable paradigm. Also, free storage of stuff they don't have? Lost and found?
-
-    '●◍◍○○○ Hierarchy Utility Dissolution (LND)':
-        link: true
-        name: The Instrument
-        demonym: Moilers
-        summary: |
-            The labyrinthine interior of a colossal automaton, the outside of which never been seen. The Instrument is tended to by the Moilers, whose culture has lost its knowledge of the automaton's purpose and operation, and as a result have devolved into industrious paranoia and neurosis.
-
-
 Synthesis Utility:
 
     '●◍◍○○○ Synthesis Utility Creation (NNC)':
@@ -118,6 +119,49 @@ Synthesis Utility:
         demonym: Precepts
         summary: |
             Obliterating zen monks aim for ultimate nothingness residing in blank palaces. Flawless control over their attention gives them otherwordly abilities. They occasionally gather outside their realm to perform lengthy ceremonies of "erasure" causing an unepected thing (an artifact, a memory, a person, a river, a civilization) to vanish at the end of the ceremony. Swap with NED? if not need something that pulls them away from pure power
+
+
+Synthesis Power:
+
+    '◍◍○○○○ Synthesis Power Creation (NEC)':
+        name:
+        demonym:
+        summary: |
+            Dreams, unfiltered, dangerous, inspiration
+
+    '◍○○○○○ Synthesis Power Equilibrium (NEP)':
+        name:
+        demonym:
+        summary: |
+            the opposite of NGP - opposite of restorative justice? training, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
+
+    '◍○○○○○ Synthesis Power Dissolution (NED)':
+        name:
+        demonym:
+        summary: |
+            ritual athletes, use yourself up
+
+
+Autonomy Empathy:
+
+    '◍◍○○○○ Autonomy Empathy Creation (CGC)':
+        name:
+        demonym:
+        summary: |
+            Pure experience/observation is all that's possible
+
+    '●◍◍○○○ Autonomy Empathy Equilibrium (CGP)':
+        link: true
+        name: The Brink
+        demonym: Apeirons
+        summary: |
+            Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
+
+    '◍○○○○○ Autonomy Empathy Dissolution (CGD)':
+        name:
+        demonym:
+        summary: |
+            masochism, death doulas
 
 
 Autonomy Utility:
@@ -142,50 +186,6 @@ Autonomy Utility:
         demonym: Unravellers
         summary: |
             An otherwise-empty wasteland graced by the exuberant and chaotic Procession in which Unravellers joyously manifest the forces of entropy, that universal and implacable slide from order into disorder. Troupes each pursue their own flavors of entropy: rotting food, aging, combustion, romantic miscommunication, broken furniture, political dissolution, and myriad others.
-
-
-Hierarchy Power:
-
-    '●◍◍○○○ Hierarchy Power Creation (LEC)':
-        link: true
-        name: The Macula
-        demonym: Oriels
-        summary: |
-            The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
-
-    '◍○○○○○ Hierarchy Power Equilibrium (LEP)':
-        name:
-        demonym:
-        summary: |
-            In on the LGP/CGP questions? This or LEC has to be a cruel but beautiful and powerful and successful society, what ZHP wants.
-            Paranoid tyrants holed up in indestructible maze fortresses, overwhelmingly prepared for threats that never materialize, obsessively studying, the best at it. The culture has spiraled into paranoia (too much like LND?) - or just be a citystate? Or maybe the whole place but minus the paranoia. "optimistic evil" like nazis, their vision of social progress at all costs.
-
-    '◍◍○○○○ Hierarchy Power Dissolution (LED)':
-        name:
-        demonym:
-        summary: |
-            Catacombs of industrious, hierarchical workers who invent convoluted schemes to unleash on the rest of existence. Not a single instance of a scheme being enacted has ever been observed. Are we not looking hard enough or are they obfuscating their work?
-
-
-Synthesis Power:
-
-    '◍◍○○○○ Synthesis Power Creation (NEC)':
-        name:
-        demonym:
-        summary: |
-            Dreams, unfiltered, dangerous, inspiration
-
-    '◍○○○○○ Synthesis Power Equilibrium (NEP)':
-        name:
-        demonym:
-        summary: |
-            the opposite of NGP - opposite of restorative justice? training, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
-
-    '◍○○○○○ Synthesis Power Dissolution (NED)':
-        name:
-        demonym:
-        summary: |
-            ritual athletes, use yourself up
 
 
 Autonomy Power:
