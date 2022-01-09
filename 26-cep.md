@@ -9,11 +9,11 @@ quote: |
     >
     > <span class="attribution">--- Gorol<span>
 
-summary: Possibly the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
+summary: Easily among the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
 
 intro: |
 
-    Almost nothing has been written about the Knot and this visitor, travelling there against all advice, gleaned little. It may be the most hazardous of any lamina, a churning landscape with no reliable purchase but only seas of cloud and mud split by geysers of steam and lava in which perplexing rocky outcrops rise and fall. Towering creatures, nightmarish and fascinating, crash dumbly through the landscape: endless serpents, amorphous horned behemoths, long-necked bony black equines, and segmented lumbering bulks with no discernible features. They appear to be chasing each other and themselves, often attempting, like an ouroboros, to devour their own bodies, tumbling to the ground.
+    Almost nothing has been written about the Knot and this visitor, travelling there against all advice, gleaned little. It is among the most hazardous of lamina, a churning landscape with no reliable purchase but only seas of cloud and mud split by geysers of steam and lava in which perplexing rocky outcrops rise and fall. Towering creatures, nightmarish and fascinating, crash dumbly through the landscape: endless serpents, amorphous horned behemoths, long-necked bony black equines, and segmented lumbering bulks with no discernible features. They appear to be chasing each other and themselves, often attempting, like an ouroboros, to devour their own bodies, tumbling to the ground.
 
     Petitioners of this realm, known as Grips, are either very few or beyond sight during brief traveller forays. A handful were sighted astride---or being thrown from---behemoths, some of which had mounted upon them turret-like structures that may have been howdahs. Despite a conversation with a delirious Grip flung onto one of the few islands of stability, and a brief encounter with a laconic and meditative creature atop a passing behemoth, this visitor can only speculate on the aspirations and function of this place.
 ---

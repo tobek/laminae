@@ -189,9 +189,9 @@ Collected here are the collated and lightly edited manuscript notes recovered fr
 
 ## Heading 2
 
-Heading 1 is at the top of the page.
-
 The dazzling, hideous garden that is the Bloom shelters and nurtures its children, the Florets, who frolic perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with the pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
+
+Heading 1 is at the top of the page.
 
 ### Heading 3
 

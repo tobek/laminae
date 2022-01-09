@@ -389,3 +389,5 @@ The Procedure? interesting association, sounds a bit LXX, maybe a synonym
 Murder as art
 
 Maybe they have some rumored and controversial deal/symbiosis with LGC? Like they're good at flawlessly disappearing the handful of people who don't fit in... oh wait LGP. And that sounds like LED should do that.
+
+magical research outpost could be here

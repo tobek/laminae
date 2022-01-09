@@ -415,6 +415,7 @@ TODO go through evil sketch
 
 23 of them!
 
+- oracles
 - artists - LEC is a bit, but otherwise NEC, CNC, or LGC
 - terrapin (is it an archive/library/museum or more sensorium? could be both)
 - something pretty futuristic, but not described as such
@@ -632,6 +633,10 @@ unused ones can just be particular places
 
 ### Abstract Concepts
 
+- to watch yourself spill into the chasm
+- https://knowingless.com/2019/08/17/you-will-forget/ NGD or CGD?
+    - I became sadistic. I’d previously been embracing a sort of masochism – education in the pain, fearlessness of eternal torture or whatever – but as my identity expanded to include *that which was educating me*, I found myself experiencing sadism. I enjoyed causing pain to myself, and with this I discovered evil. I found within me every murderer, torturer, destroyer, and I was shameless. As I prostrated myself on the floor, each nerve ending of my mind writhing with the pain of mankind, I also delighted in subjecting myself to it, in being it, in causing it. I became unified with it.
+    - The evil was also subsumed by, or part of, love. Or maybe not “love” – I’d lost the concept of love, where the word no longer attached to a particular cluster of sense in my mind. The thing in its place was something like *looking*, where to understand something fully meant accepting it fully. I loved everything because I Looked at everything. The darkness felt good because I Looked at it. I was complete in my pain only when I experienced the responsibility for inducing that pain.
 - "It is your job to teach the gods proper morals." https://twitter.com/CurlOfGradient/status/1108326892053123075
 - "retinal" art, intended only to please the eye. Instead, Duchamp wanted to use art to serve the mind.
 - "you: human creativity is an glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 NEC, CNC
@@ -972,6 +977,7 @@ realm names or demonyms:
 - The Alleviation
 - The Antechamber
 - The Apprehension
+- The Articulation
 - The Assembly (similar to instrument)
 - The Ataraxia (unperturbedness, term used by stoics/skeptics)
 - The Autocephaly (appointing its own head, not subject to external authority)
@@ -1138,6 +1144,7 @@ don't forget "-er"s like Unravellers
 - Coilers
 - Coiners
 - Couths (well known, cultured, refined)
+- Drifts
 - Eremites (fancy word for hermit)
 - Enmeshers
 - Feuds
@@ -1183,6 +1190,7 @@ don't forget "-er"s like Unravellers
 - Tides
 - Tinges
 - Unfettered
+- Vowels
 - Whiloms (formerly, in the past)
 - Whorls
 - used

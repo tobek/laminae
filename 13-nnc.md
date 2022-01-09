@@ -44,8 +44,6 @@ many more things are made than are released - why/how? not sure
     + The Sum
 - demonym
     + Grains
-    + Granums
-    + Kinetics
     + Marrows
     + Melds/Melders
     + Rhemes (linguistic term: comment that is being made about topic of sentence)

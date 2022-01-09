@@ -1,4 +1,6 @@
 """
+    http://localhost/yhfd/planescape%20trimurti/utils/todos.html
+
     python utils/todos.py > utils/todos.html
     python utils/todos.py > utils/todos.html && aws s3 cp utils/todos.html s3://thereitwas.com/todos/index.html
     aws cloudfront create-invalidation --distribution-id E3M8QKVDNJU97N --paths "/todos/*"
@@ -47,7 +49,8 @@ filenames = glob.glob("*.md")
 filenames.sort()
 
 for filename in filenames:
-    if filename == "todo.md":
+    # TODO try removing, also try scanning all files not just *.md
+    if filename == "todo.md" or filename == "notes.md":
         continue
 
     plane = filename.replace(".md", "")

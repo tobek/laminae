@@ -4,20 +4,16 @@
 
 - At least stub content (+ TOC?) for all laminae (14 remaining)
 - Add GPT-3 content in distinct visual style `4h`
-- Style pass and improvements across the site `16h`
+- Style pass and improvements across the site `8h`
 - More content about the author `4h`
 - Closing Notes chapter `8h`
 - A close edit pass across the whole thing `8h`
 - Colophon `4h`
 - Review every TODO
 - Other misc bits
+    + Pablo Bronstein
     + link image authors
     + middot(s) instead of dash
-    + renumber/reorder (glyphs in URLs?) `30m`
-        * no numbers - names would be annoying, so just glyphs?
-        * https://laminae.org/꧹ဥဗ
-        * https://laminae.org/%EA%A7%B9%E1%80%A5%E1%80%97
-        * need content-type "text/html" but that seems to be working automatically
     + go through every single task in this doc
     + more translator notes
     + include the dissimulation `30m`
@@ -43,6 +39,9 @@
 - Interactive cosmology visualization
 - ~Site-wide glyph visualization~
 - Fleshed out glossary/index stuff
+- Other misc bits
+    + renumber/reorder laminae
+    + change URLs to glyphs
 
 # big questions
 
@@ -941,6 +940,14 @@ long delay: 1 hour
     + CEC nausicaa remove person/look at other frames from movie, animated?
 
 ### management
+
+need to have an easy way to see which images are currently in use and on what page
+
+need to be able to, in one place, update an image to be decided to be used in 1 place, or no longer a candidate for a certain place, etc.
+
+prob need caption, metadata, author link, etc...
+
+maybe just a big JSON file as a data store, update there, run a script and it lays it all out
 
 *before i figure this out need to figure out trinyms, filenames, ordering laminae, etc*
 

@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 51,844 | 2,913 | 26/42 | 108/224 |
+| 52,016 | 2,923 | 26/42 | 109/224 |
 
 </div>
 
@@ -168,6 +168,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2022-01-08|3.5 |52016|2923|61%|48%|26|109|70|39|
 |2022-01-07|4.25|51844|2912|61%|48%|26|108|69|39|
 |2022-01-06|7   |50806|2902|61%|48%|26|108|69|39|
 |2022-01-04|5   |50753|2887|59%|47%|25|107|69|38|
@@ -341,7 +342,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | <span class="glyph">ꩧ၇ဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꩧ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဥဓ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဥဗ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍◍○○○○</span> |
+| <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">◍◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
 | <span class="glyph">ꧪဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋꧠ</span> | <span class="bloop">●◍◍◍○○</span> |
