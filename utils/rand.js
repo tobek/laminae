@@ -22,8 +22,8 @@ const trinymBurmese = [
 	"꧹ဥꧠ",
 	// "꧹ဥဓ",
 	"꧹ဥဗ",
-	"꧹၇ꧠ",
-	"꧹၇ဓ",
+	// "꧹၇ꧠ",
+	// "꧹၇ဓ",
 	// "꧹၇ဗ",
 	// "꧹ဋꧠ",
 	// "꧹ဋဓ",
@@ -52,8 +52,8 @@ const trinymRoman = [
 	"CGC", // pure experience
 	// "CGP",
 	"CGD", // death doulas
-	"CNC",
-	"CNP", // the wilt
+	// "CNC",
+	// "CNP",
 	// "CND",
 	// "CEC",
 	// "CEP",

@@ -14,6 +14,10 @@ hide_toc: True
 
 ## The 222nd Year L.C.
 
+#### The Ninth of the First
+
+The introduction and outline of both REF[CNC] and REF[CNP] have been translated.
+
 #### The Fifth of the First
 
 Our shiftwrights have completed an adaptation of the author's diagram laying out a cartography of the twenty-seven laminae. We have placed it on the <a href="./">title page</a> of this collection.
@@ -22,11 +26,11 @@ Our shiftwrights have completed an adaptation of the author's diagram laying out
 
 #### The Seventeenth of the Twelfth
 
-The introduction and outline of REF[the Cicatrix](NGD) have been translated.
+The introduction and outline of REF[NGD] have been translated.
 
 #### The Third of the Twelfth
 
-The introduction and outline of REF[the Macula](LEC) have been translated. A note on one of these pages marked a quotation as intended to preface REF[the Bloom](CEC).
+The introduction and outline of REF[LEC] have been translated. A note on one of these pages marked a quotation as intended to preface REF[CEC].
 
 #### The Twenty-Sixth of the Eleventh
 
@@ -38,7 +42,7 @@ This log, beginning with notable past milestones, has been added and will be upd
 
 A REF[Translator's Note](translators-note) has also been added.
 
-The introduction and outline of REF[the Braid](NGP) have been translated.
+The introduction and outline of REF[NGP] have been translated.
 
 #### The Twenty-Third of the Tenth
 

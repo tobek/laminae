@@ -192,6 +192,7 @@ a.ref:not([href]):hover {
   width: 350px;
   white-space: normal;
   display: none;
+  line-height: 1.05rem; /*TODO hack/magic number so that plain text burmese glyphs don't bork the line height in tooltips (e.g. Method/Means refs in CNC), check this after changing font*/
 }
   .tooltip.ready {
     display: block;
@@ -459,7 +460,7 @@ p .editor-note {
     width: 100%;
   }
 
-[data-facet], [data-facets] {
+[data-facet] {
   display: inline-block;
 }
 [data-facet]:before, [data-facet]:after, [data-facets]:after {

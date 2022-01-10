@@ -3,6 +3,7 @@
 7-8x 8h days of estimated stuff + 14 laminae x 2h = another 4 full days
 
 - At least stub content (+ TOC?) for all laminae (14 remaining)
+    + 9h to do CNC, 3.5h to do CNP
 - Add GPT-3 content in distinct visual style `4h`
 - Style pass and improvements across the site `8h`
 - More content about the author `4h`
@@ -17,18 +18,21 @@
     + go through every single task in this doc
     + more translator notes
     + include the dissimulation `30m`
+    + update translator's note to have tooltip/glyphs/etc?
     + decide where to host it
         * laminae.xyz
         * laminae.org
         * laminae.guide
         * laminae.observer
-        * 27laminae, twentysevenlaminae, thelaminae
+        * thelaminae.net
+        * thelaminae.com
+        * 27laminae, twentysevenlaminae
     + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + remove any remaining D&D IP `30m`
         * (just eladrin etc from LNC?)
     + favicon
     + OG tags, OG images for non-lamina pages
-    + add/update/shift images for LNC, CGP, NNC, CEP
+    + add/update/shift images for LNC, CGP, NNC, CEP, soblei (check pinterest)
     + consider ꩣ ဘ for autonomy
     + decide on non-laminae TOC glyphs
     + capitalize Cardinal or no?
@@ -45,6 +49,10 @@
 
 # big questions
 
+- perhaps something changed to seal off the Ordial, and that's why the guild and everyone have no evidence for it?
+    + maybe something involving Soblei, wiping out every single aperture, leaving on verges
+    + possibly conduit-related (maybe an effort to prevent a conduit-related catastrophe)
+    + potentially the author played a role! some hint/offhand comment about how sad she'll be to never visit any laminae again
 - how can it support scifi? should it? why wouldn't it?
     + maybe it is totally out of time and some scifi stuff is present, but author doesn't have terminology to describe it (like the instrument)
 - meaning behind effects (shifting & gpt3)
@@ -71,11 +79,15 @@
 
 - feedback
     + i'm interested in primarily in:
-        * things that take you OUT of the flow of reading, whether that's grammatical/stylistic (something is hard to follow) or something in the world doesn't make sense ("wait, why would they do that that doesn't make sense")
-        * also interested in what DOES work for you, things that stand out that you like
+        * things that take you OUT of the flow of reading, whether that's
+            - something in the world doesn't make sense/isn't consistent ("wait, why would they do that?" or "wait what about...") or
+            - grammatical (like something is hard to follow) or
+            - stylistic (something doesn't match, breaks the vibe)
         * which parts are boring/you want to hear less about, and which parts you're curious to hear more about
+    + i am secondarily interested in:
+        * what DOES work for you, things that stand out that you like
 - reach out to
-    + IJ subreddit to say i put an homage to IJ in here
+    + IJ subreddit to say i put an homage to IJ in here (NGC)
     + mechanical monk twitter about that "build spaces like this" beautiful tweet
 - twitter?
     + thread header: brief description and the alignments
@@ -93,6 +105,8 @@
 
 # backburner chunks
 
+- add facet crossovers with Means, e.g. Empathy + Dissolution = vengeance
+- every item in index that's mentioned in multiple places should link to those multiple places! especially laminae. would need to anchor to those references
 - quotation stuff
     + do something with all the quote authors?
         * like place them in the work, maybe put them in index, etc. certainly vectors guy, maybe rilke

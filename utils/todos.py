@@ -83,7 +83,7 @@ for filename in filenames:
                         todos.append(todo)
 
 # todos_from_file("all.md")
-# todos_from_file("17-cnp.md")
+# todos_from_file("04-lnc.md")
 
 # ts = [t for t in todos if t["type"] or t["info"]]
 # brief = [(t["type"], t["info"]) for t in todos if t["type"] or t["info"]]

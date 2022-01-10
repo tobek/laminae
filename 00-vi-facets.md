@@ -45,7 +45,9 @@ Each facet can be understood in a positive or negative light, and provides its a
 
 Whether facets exist in a material sense, or are simply mental artifacts that help structure our conceptions, is is far from agreed upon. Many believe that there are raw and tangible realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring. Such forces should pass through the REF[laminae], where they are shaped by the efforts of REF[petitioners], eventually reaching cardinal worlds in recognizable forms.
 
-## Method
+## <dfn def="The facets of Hierarchy ꩧ, Synthesis ꧪ, and Autonomy ꧹ concern matters of control and agency: how societies organize their efforts and distribute power, and how individuals fit into and are beholden to the larger whole.">Method</dfn>
+
+TODO(facet glyphs should ideally be not plaintext, instead be styled etc)[]
 
 The facets of REF[Hierarchy], REF[Synthesis], and REF[Autonomy] concern matters of control and agency: how societies organize their efforts and distribute power, and how individuals fit into and are beholden to the larger whole. Adherents each lay their own claims to concepts such as integrity, discipline, and community, and the more strident accuse those whose views differ along this axis of being untrustworthy and selfish.
 
@@ -85,9 +87,9 @@ REF[Autonomy] dismisses REF[Synthesis] as pedantic and cowardly, but lambasts RE
 
 REF[Autonomy] is universalist when paired with REF[Empathy], maverick when paired with REF[Utility], and TODO(power/autonomy pair)[voracious] when paired with REF[Power].
 
-## Motive
+## <dfn def="The facets of Empathy ဥ, Utility ၇, and Power ဋ concern the methods by which we determine whether a goal is worthy, and what drives us towards those goals.">Motive</dfn>
 
-The facets of REF[Empathy], REF[Utility], and REF[Power] concern the methods by which we determine whether a goal is worthy, and what drives us towards those goals. These facets dictate how one relates to other beings and nature at large, and each have their own visions of integrity and their own claims to realistic views of the world.
+The facets of REF[Empathy], REF[Utility], and REF[Power] concern the methods by which we determine whether a goal is worthy, and what drives us towards those goals. These facets dictate how one relates to other beings and to nature at large, and each have their own visions of integrity and their own claims to realistic views of the world.
 
 Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe (the exact extent of that which which one considers one's own tribe being formed largely by facets along the Method axis: REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all). These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit.
 
@@ -121,7 +123,9 @@ REF[Power] disdains REF[Empathy] as passive, weak, and dependent on others, whil
 
 REF[Power] is totalitarian when paired with REF[Hierarchy], ambitious when paired with REF[Synthesis], and TODO(power/autonomy pair)[voracious] when paired with REF[Autonomy].
 
-## Means
+## <dfn def="The facets of Creation ꧠ, Equilibrium ဓ, and Dissolution ဗ are forces that fuel reality. They are, respectively, the inhale, the pause, and the exhale: a cycle harnessed by every being in support of its goals.">Means</dfn>
+
+TODO(put back em dash to make above sentence better and same as below sentence, when font change improves em dash)[]
 
 The facets of REF[Creation], REF[Equilibrium], and REF[Dissolution] are forces that fuel reality. They are, respectively: the inhale, the pause, and the exhale---a cycle harnessed by every being in support of its goals. These three facets lie in a careful balance, for any disparity would over aeons result in overflow, stagnation, or annihilation. Those who believe that the same matter has been endlessly cycling from an infinite past feel this balance very deeply, but those who believe that there was once nothing which at some point gave rise to something must believe in a delicate imbalance in favor of creation in order to account for the presence of our reality.
 

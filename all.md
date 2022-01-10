@@ -326,33 +326,15 @@ ritual bath that you die in?
 
 ## Autonomy Utility Creation CNC
 
+**Rhemes of the Premise**
+
 [transferred]
 
 ## Autonomy Utility Equilibrium CNP
 
-for people that said no to everything life?
+**Eremites of the Reverie**
 
-i guess just a perfect place to be alone, unless this moves to NED. if remains here: the perfect, beautiful place to be alone, everyone's crystalline gossamer bubble shell.
-
-Voiders? The Wilt?
-
-find stuff from dissimulation intro
-
-An endless gray rock slab with enormous geometric holes in the ground, like that exhibit at DIA Beacon, also Chichu. Each void is inhabited by a single individual, residing in indefinite inertia and dissolution.
-
-How do they end up there? Punishment, if NED. Apathy, giving up, failing. OR: people who just really really want to be alone.
-
-They very very rarely talk to each other but will sometimes go on a pilgrimage to journey to another hole.
-
-In one pit, two exhausted former partners fighting it out infinitely. Famously sought out for their wisdom, but sometimes you have to wait a long while until they exhaust themselves, and they never respond directly to your queries (this has been attempted).
-
-Another pit is what people call "the anointed". It's huge, and appears to be infinitely deep, but a cylindrical pillar rises up from the depth to a height some distance below the rim of the hole. on it is a small plateau, with a patch of grass, on which a man sleeps. somehow sunlight shines on him
-
-The arrangement of holes changing/unpredictable somehow? Holes slowly close up sometimes, inevitably trapping and crushing their resident, who invariably accept their fate with apathy.
-
-Peaceful.
-
-hermits who spend time alone wear the ordial thin along this axis
+[transferred]
 
 ## Autonomy Utility Dissolution CND
 

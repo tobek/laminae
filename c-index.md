@@ -34,6 +34,7 @@
     <tr><td>Abandoned Archipelagos</td><td>REF[LNC](lnc#abandoned-archipelagos)</td></tr>
     <tr><td>Affect Flooding</td><td>REF[CGP](cgp#affect-flooding)</td></tr>
     <tr><td>Amends</td><td>REF[NGP](ngp#amends)</td></tr>
+    <tr><td>Anchor Trees</td><td>REF[CNC](cnc#anchor-trees)</td></tr>
     <tr><td>Anvil, The</td><td>REF[NGD](ngd#the-anvil)</td></tr>
     <tr><td>Apertures</td><td>REF[Cosmography](cosmography#apertures)</td></tr>
     <tr><td>Apotheosis</td><td>REF[CEP](cep#apotheosis)</td></tr>
@@ -145,10 +146,13 @@
     <tr><td>Loss of Knowledge</td><td>REF[CND](cnd#loss-of-knowledge)</td></tr>
     <tr><td>Macula, The</td><td>REF[LEC](lec)</td></tr>
     <tr><td>Mainland, The</td><td>REF[NGD](ngd#the-mainland)</td></tr>
+    <tr><td>Material Maelstroms</td><td>REF[CNC](cnc#material-maelstroms)</td></tr>
+    <tr><td>Matter Vesicles</td><td>REF[CNC](cnc#matter-vesicles)</td></tr>
     <tr><td>Means</td><td>REF[Facets](facets#means)</td></tr>
     <tr><td>Mechanisms</td><td>REF[LND](lnd#mechanisms)</td></tr>
     <tr><td>Mentorship</td><td>REF[CGP](cgp#mentorship)</td></tr>
     <tr><td>Method</td><td>REF[Facets](facets#method)</td></tr>
+    <tr><td>Microcosmic Investigations</td><td>REF[CNC](cnc#microcosmic-investigations)</td></tr>
     <tr><td>Mirrors & Clouds</td><td>REF[CGP](cgp#mirrors-clouds)</td></tr>
     <tr><td>Mnemonic Artifacts</td><td>REF[NGP](ngp#mnemonic-artifacts)</td></tr>
     <tr><td>Monument Cloisters</td><td>REF[NGP](ngp#monument-cloisters)</td></tr>
@@ -156,6 +160,7 @@
     <tr><td>Mortals</td><td>REF[Cosmography](cosmography#mortals)</td></tr>
     <tr><td>Mother</td><td>REF[CEC](cec#mother)</td></tr>
     <tr><td>Motive</td><td>REF[Facets](facets#motive)</td></tr>
+    <tr><td>Mutatorium, The</td><td>REF[CNC](cnc#the-mutatorium)</td></tr>
     <tr><td>Narrative Language</td><td>REF[NGP](ngp#narrative-language)</td></tr>
     <tr><td>Nimble’s Bazaar</td><td>REF[CGP](cgp#nimbles-bazaar)</td></tr>
     <tr><td>Observatories</td><td>REF[LEC](lec#observatories)</td></tr>
@@ -165,6 +170,7 @@
     <tr><td>Ordial Plane</td><td>REF[Cosmography](cosmography#ordial-plane)</td></tr>
     <tr><td>Organ, The</td><td>REF[LND](lnd#the-organ)</td></tr>
     <tr><td>Outside the Automaton</td><td>REF[LND](lnd#outside-the-automaton)</td></tr>
+    <tr><td>Palette, The</td><td>REF[CNC](cnc#the-palette)</td></tr>
     <tr><td>Paradox of Boredom, The</td><td>REF[CGP](cgp#the-paradox-of-boredom)</td></tr>
     <tr><td>Passage of Time, The</td><td>REF[NNP](nnp#the-passage-of-time)</td></tr>
     <tr><td>Passage of Time, The</td><td>REF[CND](cnd#the-passage-of-time)</td></tr>
@@ -177,10 +183,12 @@
     <tr><td>Peregrination</td><td>REF[NGC](ngc#peregrination)</td></tr>
     <tr><td>Perpetual Dawn</td><td>REF[NGC](ngc#perpetual-dawn)</td></tr>
     <tr><td>Petitioners</td><td>REF[Cosmography](cosmography#petitioners)</td></tr>
+    <tr><td>Phlogiston of Creation</td><td>REF[CNC](cnc#phlogiston-of-creation)</td></tr>
     <tr><td>Plane of Mirrors, The</td><td>REF[NNP](nnp#the-plane-of-mirrors)</td></tr>
     <tr><td>Plateau Conception</td><td>REF[NGP](ngp#plateau-conception)</td></tr>
     <tr><td>Political Dissolution</td><td>REF[CND](cnd#political-dissolution)</td></tr>
     <tr><td>Power</td><td>REF[Facets](facets#power)</td></tr>
+    <tr><td>Premise, The</td><td>REF[CNC](cnc)</td></tr>
     <tr><td>Procession’s Path, The</td><td>REF[CND](cnd#the-processions-path)</td></tr>
     <tr><td>Progenitors</td><td>REF[LEC](lec#progenitors)</td></tr>
     <tr><td>Promenade of Congruities</td><td>REF[LNC](lnc#promenade-of-congruities)</td></tr>
@@ -202,6 +210,7 @@
     <tr><td>Scaffold’s Collapse, The</td><td>REF[LNC](lnc#the-scaffolds-collapse)</td></tr>
     <tr><td>Sculpting</td><td>REF[LEC](lec#sculpting)</td></tr>
     <tr><td>Seekers</td><td>REF[LND](lnd#seekers)</td></tr>
+    <tr><td>Self Will</td><td>REF[CNC](cnc#self-will)</td></tr>
     <tr><td>Sky Mirror</td><td>REF[NGP](ngp#sky-mirror)</td></tr>
     <tr><td>Skyhurl</td><td>REF[NGD](ngd#skyhurl)</td></tr>
     <tr><td>Skyreaches</td><td>REF[CGP](cgp#skyreaches)</td></tr>
