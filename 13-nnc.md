@@ -9,7 +9,7 @@ hide_toc: True
 quote: |
     > 204 &middot; By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. TODO(quote maybe)[]
     >
-    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --><span>
+    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --></span>
 
 summary: An endless cliff face, with no known ground or top or sides, into which the Grains have quarried for aeons as they craft and sculpt and adjust essential creations for introduction into cardinal worlds.
 
@@ -60,7 +60,7 @@ many more things are made than are released - why/how? not sure
 - polyhedral distortion
 - clone awaits you
 - elemental forces
-- petitioners are somewhat featureless (like NND?) bald, wiry, strong, scarred - ATLA Aang-ish
+- petitioners are somewhat featureless (like NED?) bald, wiry, strong, scarred - ATLA Aang-ish
 
 ## Environment
 

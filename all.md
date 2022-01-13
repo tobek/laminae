@@ -14,6 +14,12 @@ Some enormous oral history (perhaps song in unknown language) that everyone lear
 
 @conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
 
+"be not afraid" biblical angel vibe? shimmering irridescent, totally huge and overwhelming, blaring overlapping shephard tone melodies, discordant to the ear but perfectly arranged. massive structures twirling and some extra-dimensional fashion, totally incomprehensible. cannot be properly perceived
+
+they are *BUSY* but what are they up to? so much stuff going on
+
+one of the weirdest
+
 ## Hierarchy Empathy Equilibrium LGP
 
 <https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun>
@@ -190,7 +196,7 @@ Beautiful, intricate, ornate.
 
 ## Synthesis Utility Dissolution NND
 
-**Precepts of the Lucidity (?)**
+**Mercies of the Pasture**
 
 [transferred]
 
@@ -208,7 +214,9 @@ the opposite of NGP - opposite of restorative justice? training, using trauma to
 
 ## Synthesis Power Dissolution NED
 
-ritual athletes? use yourself up
+**Precepts of the Lucidity (?)**
+
+[transferred]
 
 ***
 
@@ -216,66 +224,9 @@ ritual athletes? use yourself up
 
 ## Autonomy Empathy Creation CGC
 
-- artists, creative madness.?
-- it's said that here more than any other outer outer plane, the membrane between reality and the Plane of Creation is thinned to a near breaking point. (or CNC?)
-- a gorgeous crazy world where *thought* is not possible, only observation and feeling
-- observations are not quite reliable, they constantly flower with related or plausible images and variations - when you observe a boy, you also see a baby, a grown man, a woman, a tiger cub. when you perceive a castle, you also perceive a manor, a fortified wall, a dungeon, a floating island, an army. each observation leads to more observations, it's almost impossible to get one's bearing.
-- a technique is to wear these pinhole goggles (not so pinhole that you get a full image like pinhole camera) so that you perceive as little as possible at once, so there's less branching. a similar technique has not been developed for hearing, since earmuffs equally dim all sound, but what is desired is a narrowing of sound. so total sound blockage is used, along with nose, since smell is a particularly evocative sense and the smells are myriad. touch TODO
-	- maybe this is the author's proposed technique but it's too dangerous she doesn't want to try again - first and only time she did it the "hard" way
-- constant festival?
-- what is it actually like? there's a recurring image of a boy in a chariot who seems to be a local deity, or perhaps there are many and they are the inhabitants.
-- pure inspiration
-- how do you get out?? many have been lost, maybe there's some aperture route you have to like train yourself to go
-	- basically some society has a ritual around this and it's become the only relatively safe way to experience it (they don't realize that's what they're doing)
+**Discarnate of the Kylix**
 
-<gpt>The experience of being on this plane can be so overwhelming that it blots out the senses, driving mortals mad with desire for what they have seen before banishing them forever.</gpt>
-
-summary: A baffling and beautiful realm where ordinary thought is impossible: observations and feelings strike with such speed and force as to crowd out the conscious mind. It is like a manic dream and nothing is processed upon one's return.
-
-*The Something*
-
-TODO. This visitor was amused to find that her ramblings spouted upon return had been written down by her companion, which she presents to you here with some reluctance:
-
-A boy on a chariot
-A white horse
-Wooden wind chimes
-The smell of thyme
-The color blue
-Silent heavy snowfall
-A starry night
-Rustling leaves
-Freshly baked bread
-Full moon over an empty ocean
-An elephant lumbering
-An orchard
-A bite of cucumber
-A big old house
-The sun rising
-A ripe plum
-A flock of swallows, their wings
-
-You're standing barefoot on a field of deep, soft moss
-Somewhere nearby a stream trickles
-The air is thick with cool mist
-
-One room has dancers in red and white.
-A framed picture of a silver thread.
-A book open to gilded curls of an illuminated manuscript
-A door to an endless plain of black and white tiles
-A single tulip in a mirrored hall
-
-The indigo sisters
-The touch of soft leather
-An antelope stops and turns its head
-A glass ocean
-TODO yourself doing something
-An iridescent hexagon
-Three brothers on a row boat laughing
-The owl perches on the gondola at high noon
-
-A barren void. A pulsating fractured rainbow riverbed. A boy in a chariot. A waterfall up from the soil. A purple hedge bleeding out birds. A branching catacomb through translucent rock. A spire on a cliff. A pedestal topped by lizards. A drop of water. A lightning strike turns the lake to ice. A snake peeks its head out of a hole---or is it a whip, a belt, a rope? A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps to life, a praying mantis. A flute lays eggs. A mountain coils and sings. A chariot rides its wave, a boy dismounts. A labyrinth, a maze, a mission, a foe, a dialog, an image, a geyser, a trickle. A boy in a chariot, a frown, a smile. A gate. A library of colors. The color of noise. A warm welcome.
-
-add hints about brother and other stuff
+[transferred]
 
 ## Autonomy Empathy Equilibrium CGP
 
@@ -298,6 +249,7 @@ ritual bath that you die in?
 - torture/masochism. sex? should be benevolent? or maybe there's some way for empathy to go wrong here. if you empathise with someone that loves pain... where does it go.
 	- sex could also be CED, NED, NEC (dreams), NEP, CGP (brink), CGC (pure experience soup)
 	- CGD and LEC are exact opposite, two visions of sex
+	- memoirs of hadrian quote about erotic knowledge
 - connoiseurs of pain. maybe this is kinda gone wrong. really good at fucking you up and thinking they're doing you a favor.
 	- should this go with sex?
 	- maybe sex in two places, this one is masochism that also includes sex

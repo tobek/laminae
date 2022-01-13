@@ -7,7 +7,7 @@ post_intro_only: MEDIA("Yoshitaka Amano - Sandman - Dream Hunters - Spiritual Re
 quote: |
     > You are here to be swallowed.
     >
-    > <span class="attribution">--- Gorol<span>
+    > <span class="attribution">--- Gorol</span>
 
 summary: Easily among the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
 

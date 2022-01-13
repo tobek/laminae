@@ -51,7 +51,7 @@ Though known generically as pavilions, these structures range in size and style 
 
 ### TODO(term)[Bookkeepers]
 
-Native outsiders known as ____ live here. They are a solemn, industrious, but gentle race of tall humanoids with graying flesh and slender, sharp, gaunt faces. They shroud themselves in a dark uniform of hooded, ornate robes, each unique and tumbling with metallic embroidery in complex, methodical patterns.
+Native outsiders known as ____ live here. They are a solemn, industrious, but gentle TODO(no less fantasy race stuff?)[race of tall humanoids] with graying flesh and slender, sharp, gaunt faces. They shroud themselves in a dark uniform of hooded, ornate robes, each unique and tumbling with metallic embroidery in complex, methodical patterns.
 
 Each ____ resides at and tends to one of the pavilions. Sometimes they are the sole such resident but often they are one of a dozen or more. They are responsible for receiving visitors and assessing their needs in light of the rules of this place and the capabilities of their current champion, a complex process discussed in the following chapter.
 

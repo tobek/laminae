@@ -114,11 +114,11 @@ Synthesis Utility:
         summary: |
             A lifeless and lethally suffocating expanse that contains every moment of every location in the multiverse, frozen and duplicated here in shades of grey.
 
-    '◍◍◍○○○ Synthesis Utility Dissolution (NND)':
-        name: The Lucidity
-        demonym: Precepts
+    '●◍◍○○○ Synthesis Utility Dissolution (NND)':
+        name: The Pasture
+        demonym: Mercies
         summary: |
-            Obliterating zen monks aim for ultimate nothingness residing in blank palaces. Flawless control over their attention gives them otherwordly abilities. They occasionally gather outside their realm to perform lengthy ceremonies of "erasure" causing an unepected thing (an artifact, a memory, a person, a river, a civilization) to vanish at the end of the ceremony. Swap with NED? if not need something that pulls them away from pure power
+            No petitioners have been found on the blizzarding tundra of the Pasture, only a small nomadic caravan of mortals pursuing a mental state of "unknowing" that they believe will allow their souls to become petitioners here, thereby restoring the lamina's role in the balance of the multiverse, and in persisting through the arctic wasteland of this place they hope to one day find evidence of their success.
 
 
 Synthesis Power:
@@ -135,20 +135,20 @@ Synthesis Power:
         summary: |
             the opposite of NGP - opposite of restorative justice? training, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
 
-    '◍○○○○○ Synthesis Power Dissolution (NED)':
-        name:
-        demonym:
+    '◍◍◍○○○ Synthesis Power Dissolution (NED)':
+        name: The Lucidity
+        demonym: Precepts
         summary: |
-            ritual athletes, use yourself up
+            Obliterating zen monks aim for ultimate nothingness residing in blank palaces. Flawless control over their attention gives them otherwordly abilities. They occasionally gather outside their realm to perform lengthy ceremonies of "erasure" causing an unepected thing (an artifact, a memory, a person, a river, a civilization) to vanish at the end of the ceremony. Swap with NED? if not need something that pulls them away from pure power. i guess it's about what they choose to remove, some utility to it
 
 
 Autonomy Empathy:
 
-    '◍◍○○○○ Autonomy Empathy Creation (CGC)':
-        name:
-        demonym:
+    '●◍◍○○○ Autonomy Empathy Creation (CGC)':
+        name: The Kylix
+        demonym: Discarnate
         summary: |
-            Pure experience/observation is all that's possible
+            Ordinary thought is impossible in the baffling avalanche of the Kylix: sensations strike with such speed and force as to crowd out thoughts of a conscious mind, and upon returning from this manic dream no clear memories remain, only a flood of images and a delirium that can last for hours. As a result it is nearly impossible to describe this lamina, and quite dangerous to venture there, but recurring images provide some insight as to its properties.
 
     '●◍◍○○○ Autonomy Empathy Equilibrium (CGP)':
         link: true

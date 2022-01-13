@@ -1,4 +1,26 @@
 @font-face {
+  font-family: "PoliphiliDisplay";
+  src: url("./fonts/PoliphiliDisplay.otf") format("opentype"),
+    url("./fonts/PoliphiliDisplay.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PoliphiliDisplay";
+  src: url("./fonts/PoliphiliDisplay-Bold.otf") format("opentype"),
+    url("./fonts/PoliphiliDisplay-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PoliphiliDisplay";
+  src: url("./fonts/PoliphiliDisplay-Italic.otf") format("opentype"),
+    url("./fonts/PoliphiliDisplay-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
   font-family: "Poliphilus";
   src: url("./fonts/PoliphilusStd.otf") format("opentype"),
     url("./fonts/PoliphilusStd.ttf") format("truetype"),
@@ -28,29 +50,39 @@ $if(toc)$
   }
 $endif$
 
-body.bask {
-  font-size: 18px;
-  font-family: 'Libre Baskerville' !important;
-}
-.bask p {
-  line-height:  1.25rem;
+:root {
+  --bg-bg-color: #f9e6cd;
+  --bg-color: antiquewhite;
+  --tooltip-bg: #F8E8D4;
+  --border-color: rgba(49, 21, 0, 0.2);
+  --border-color-light: rgba(49, 21, 0, 0.1);
+  --scribe-black: rgba(49, 21, 0, 1);
+  --scribe-red: rgb(176, 0, 0, 1);
+  --scribe-red-visited: rgb(198, 71, 65); /* manually calculated 70% scribe-red 30% bg-color - doing this since :visited can't change opacity */
+  --scribe-red-active: rgb(124, 0, 0);
+  --glyph-blue: #113a6b;
+
+  --highlight-bg: var(--scribe-red);
+  --gpt-highlight-bg: var(--glyph-blue);
+  --highlight-color: lightgoldenrodyellow;
+
+  --body-font: "PoliphiliDisplay", "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  --heading-font: "Cormorant Garamond", serif;
+  --glyph-font: "NotoSansMyanmar", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, blockquote {
-  font-family:  'Cormorant Garamond', serif;
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font);
 }
 
 html {
-  background: #f9e6cd;
-  font-size: 24px;
+  background: var(--bg-bg-color);
+  font-size: 20px;
   position: relative;
 }
-  html[class*="00-0-title"] {
-    font-size: 20px;
-  }
   @media only screen and (max-width: 767px) {
     html {
-      font-size: 20px;
+      font-size: 18px;
     }
   }
 
@@ -58,16 +90,19 @@ html, body {
   scroll-behavior: smooth;
 }
 body {
-  font-family: "Poliphilus", "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-family: var(--body-font);
   box-sizing: border-box;
   max-width: 900px;
   min-height: 100vh;
   width: calc(100% - 32px);
   padding: 32px 64px 64px;
   margin: auto;
-  background: antiquewhite;
-  color: #311500;
+  background: var(--bg-color);
+  color: var(--scribe-black);
 }
+  body.historical {
+    font-feature-settings: "dlig" 1, "salt" 1, "hist" 1;
+  }
   @media only screen and (max-width: 767px) {
     body {
       padding: 16px 16px 48px 16px;
@@ -76,67 +111,71 @@ body {
   }
 
 ::selection {
-  background-color: #a90000;
-  color: lightgoldenrodyellow;
+  background-color: var(--highlight-bg);
+  color: var(--highlight-color);
 }
 
 h1, h2 {
   font-weight: normal;
 }
 h1.title {
-  font-size: 2.5rem;
-  margin-bottom:  1rem;
+  font-size: 3rem;
+  margin-bottom: 1.2rem;
 }
   @media only screen and (max-width: 767px) {
     h1.title {
-      font-size: 2rem;
+      font-size: 2.4rem;
     }
   }
 h1 {
-  font-size: 2rem;
+  font-size: 2.4rem;
 }
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 h3 {
-  font-size: 1.17rem;
+  font-size: 1.4rem;
 }
 h4 {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 h5 {
-  font-size: 0.83rem;
+  font-size: 1rem;
 }
 h6 {
-  font-size: 0.67rem;
+  font-size: 0.8rem;
+}
+
+p {
+  line-height: 1.4;
 }
 
 header {
   text-align: center;
-  margin: 4rem 0 3rem;
+  margin: 4.8rem 0 3.6rem;
 }
   @media only screen and (max-width: 767px) {
     header {
-      margin-top: 3rem;
+      margin-top: 3.6rem;
     }
   }
 .subtitle {
   font-weight: normal;
-  margin-top: -0.375rem;
-  margin-bottom: 1rem;
+  margin-top: -0.45rem;
+  margin-bottom: 1.2rem;
   font-variant: all-small-caps;
   font-weight: 700;
   letter-spacing: 0.25px;
 }
   .b-glossary .glyph,
   .subtitle .glyph {
-    color: #113a6b;
+    color: var(--glyph-blue);
   }
   .subtitle .glyph {
     font-variant: normal;
-    display:  block;
+    display: block;
     font-size: 110%;
-    font-weight:  500;
+    font-weight: 500;
     line-height: 2;
     letter-spacing: 5px;
   }
@@ -145,22 +184,22 @@ header {
   }
 
 .intro {
-  margin-top: 2rem;
+  margin-top: 2.4rem;
 }
 
 #untranslated {
-  margin: 1.5rem 0 2rem;
+  margin: 1.8rem 0 2.4rem;
 }
 
 a[href] {
   text-decoration: none;
-  color: #b00000;
+  color: var(--scribe-red);
 }
 a[href]:visited {
-  color: #900000;
+  color: var(--scribe-red-visited);
 }
 a[href]:active, a[href]:hover, a[href]:focus {
-  color: #700000;
+  color: var(--scribe-red-active);
 }
 
 dfn {
@@ -183,16 +222,19 @@ a.ref:not([href]):hover {
   position: absolute;
   transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out;
   z-index: 999;
-  background: #F8E8D4;
-  color: #311500;
-  border:  1px solid #31150030;
-  font-size: 0.875rem;
+  background: var(--tooltip-bg);
+  color: var(--scribe-black);
+  border: 1px solid var(--border-color);
+  font-family: var(--body-font);
+  font-size: smaller;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.4;
   text-align: left;
-  padding: 16px 16px 10px;
+  padding: 16px 16px 12px;
   width: 350px;
   white-space: normal;
   display: none;
-  line-height: 1.05rem; /*TODO hack/magic number so that plain text burmese glyphs don't bork the line height in tooltips (e.g. Method/Means refs in CNC), check this after changing font*/
 }
   .tooltip.ready {
     display: block;
@@ -216,19 +258,11 @@ a.ref:not([href]):hover {
 
 .karedian,
 .glyph {
-  font-family: "NotoSansMyanmar", sans-serif;
+  font-family: var(--glyph-font);
 }
 
 p .em-dash {
   font-weight: bold;
-  margin-right: 2px;
-  margin-left: 1px;
-  /*
-  width: 22px;
-  overflow: hidden;
-  display: inline-block;
-  vertical-align: middle;
-  */
 }
 
 hr {
@@ -238,9 +272,9 @@ hr {
 }
 hr:before {
   content: "ၹ\0000a0\0000a0\0000a0ဓ\0000a0\0000a0\0000a0ၻ";
-  color: #a90000;
-  font-size: 0.87rem;
-  font-family: "NotoSansMyanmar", sans-serif;
+  color: var(--scribe-red);
+  font-size: 1rem;
+  font-family: var(--glyph-font);
 }
 
 .img-wrap {
@@ -263,54 +297,82 @@ header + blockquote + blockquote + p:first-letter,
 .follow-with-dropcap + p:first-letter,
 h1 + p:first-letter {
   float: left;
+  font-style: italic;
+  font-feature-settings: "swsh" 1;
   font-size: 500%;
-  margin: 1px 0 -17px 0;
-  padding: 0 .08em 0 0;
+  margin: 8px 0 -17px 0;
+  padding: 0 .125em 0 0;
   height: .7em;
   line-height: .85em;
 }
 
-blockquote {
-  font-weight: 600;
-  font-style: italic;
-  margin: -2rem 10px 1.5rem;
-  padding: .155rem 1.5rem;
+strong {
+  font-weight: 700;
+  letter-spacing: -0.66px;
 }
+
+blockquote,
+em,
+.editor-note {
+  font-feature-settings: "dlig" 1;
+  font-style: italic;
+}
+  .historical blockquote,
+  .historical em,
+  .historical .editor-note {
+    font-feature-settings: "dlig" 1, "salt" 1, "hist" 1;
+    font-style: italic;
+  }
+
+blockquote {
+  font-feature-settings: "dlig" 1, "swsh" 1;
+  /*TODO maybe actually: */
+  /*font-feature-settings: "dlig" 1, "swsh" 1, "salt" 1;*/
+  font-size: 1.15rem;
+  margin: -2.4rem 10px 1.8rem;
+  padding: .185rem 1.8rem;
+}
+  .historical blockquote {
+    font-feature-settings: "dlig" 1, "swsh" 1, "salt" 1, "hist" 1;
+  }
+  blockquote p {
+    line-height: 1.25;
+  }
   /*.img-wrap img:before,*/
   blockquote:only-child:before,
   blockquote:first-child:before {
     content: '';
     display: block;
-    border-bottom: 1.5px solid #31150018;
+    border-bottom: 1.5px solid var(--border-color-light);
     margin: 0 auto 35px;
-    width: calc(100% + 3rem);
-    margin-left: -1.5rem;
+    width: calc(100% + 3.6rem);
+    margin-left: -1.8rem;
   }
   /*.img-wrap img:after,*/
   blockquote:only-child:after,
   blockquote:last-child:after {
     content: '';
     display: block;
-    border-top: 1.5px solid #31150018;
+    border-top: 1.5px solid var(--border-color-light);
     margin: 35px auto 0;
-    width: calc(100% + 3rem);
-    margin-left: -1.5rem;
+    width: calc(100% + 3.6rem);
+    margin-left: -1.8rem;
   }
   /*.img-wrap img,*/
   blockquote:only-child,
   blockquote:first-child {
-    border-top: 3px solid #31150018;
+    border-top: 3px solid var(--border-color-light);
   }
   /*.img-wrap,*/
   blockquote:only-child,
   blockquote:last-child {
-    border-bottom: 3px solid #31150018;
+    border-bottom: 3px solid var(--border-color-light);
   }
 
   @media only screen and (max-width: 767px) {
     blockquote {
-      padding-left:  0;
-      padding-right:  0;
+      padding-left: 0;
+      padding-right: 0;
     }
     blockquote:before,
     blockquote:after {
@@ -321,42 +383,28 @@ blockquote {
 
   blockquote .attribution {
     display: block;
-    font-size:  90%;
+    font-size: smaller;
     font-style: normal;
-    margin-top: -.5rem;
+    font-feature-settings: normal;
+    margin-top: -.6rem;
   }
-  blockquote .em-dash {
-    font-weight: 700;
-  }
-
-em,
-.editor-note {
-  font-family:  'Cormorant Garamond', serif;
-  font-size: 98%;
-  font-weight: 600;
-  font-style: italic;
-}
-p em,
-p .editor-note {
-  line-height:  1;
-}
 
 .shortcuts {
-  font-size: smaller;
+  font-size: 0.9rem;
   display: flex;
   justify-content: space-between;
   font-variant: small-caps;
   text-transform: lowercase;
 }
   .shortcuts.top{
-    margin-bottom: 2rem;
+    margin-bottom: 2.4rem;
   }
   .shortcuts.bottom {
-    margin-top: 4rem;
+    margin-top: 4.8rem;
   }
     @media only screen and (max-width: 767px) {
       .shortcuts.bottom {
-        margin-bottom: 1rem;
+        margin-bottom: 1.2rem;
       }
     }
   .shortcuts a {
@@ -370,7 +418,7 @@ p .editor-note {
   }
   .shortcuts .contents {
     font-weight: 700;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: var(--heading-font);
     font-size: 110%;
     margin-top: -3.5px;
     width: auto;
@@ -385,17 +433,18 @@ p .editor-note {
   counter-reset: toc;
 }
   #TOC ul:first-child {
-    padding-left: 1.5rem;
+    padding-left: 1.8rem;
   }
     #TOC ul > li {
       counter-increment: toc;
-      line-height: 1.5rem;
+      line-height: 1.8rem;
     }
       #TOC ul > li:before {
         content: counter(toc, kannada) " ";
-        margin-right: 0.2rem;
+        margin-right: 0.24rem;
         font-family: "SegoeUI";
         line-height: 1;
+        font-size: 24px;
       }
         #TOC ul ul > li:before {
           content: counter(toc, lao) " ";
@@ -407,47 +456,44 @@ p .editor-note {
           }
             #TOC ul ul ul ul > li:before {
                 content: counter(inscrutable, myanmar) " ";
-                font-family: "NotoSansMyanmar", sans-serif;
-                /* Burmese is kinda vertically offset, so (may not be necssary after switching font to noto): */
-                position: relative;
-                top: -3px;
+                font-family: var(--glyph-font);
             }
 
 .footnote-ref sup {
   vertical-align: unset;
   position: relative;
-  top: -0.3rem;
+  top: -0.36rem;
 }
   /*TODO(check these styles when sizes finalized)*/
   h2 .footnote-ref sup,
   h3 .footnote-ref sup {
-    top: -0.6rem;
-    left: 0.1rem;
+    top: -0.72rem;
+    left: 0.12rem;
     font-size: 70%;
   }
   h3 .footnote-ref sup {
-    top: -0.5rem;
+    top: -0.6rem;
   }
 
 .footnotes {
-  margin-top: 2rem;
+  margin-top: 2.4rem;
 }
   .footnote-back {
     position: absolute;
-    margin-left: .33rem;
+    margin-left: .4rem;
     margin-top: -1px;
     font-size: 0;
   }
   .footnote-back:after {
-    font-family: "NotoSansMyanmar", sans-serif;
+    font-family: var(--glyph-font);
     /*content: 'ရ';*/
     content: 'န';
     position: absolute;
     left: 8px;
     top: -8px;
-    font-size: 0.9rem;
+    font-size: 1.08rem;
     transform: rotate(90deg);
-    height: 1.9rem;
+    height: 2.28rem;
   }
 
 .corner {
@@ -464,8 +510,9 @@ p .editor-note {
   display: inline-block;
 }
 [data-facet]:before, [data-facet]:after, [data-facets]:after {
-  font-family: "NotoSansMyanmar", sans-serif;
-  line-height: 1rem;
+  font-family: var(--glyph-font);
+  font-weight: normal;
+  line-height: 1.2rem;
 }
 [data-facet]:after {
   content: attr(data-facet);
@@ -477,7 +524,7 @@ p .editor-note {
 }
 /*
 .glyph-group [data-facet] + [data-facet] {
-  margin-left: 0.25rem;
+  margin-left: 0.3rem;
 }
 */
 
@@ -492,6 +539,10 @@ gpt {
   display: inline;
   opacity: 0.8;
 }
+gpt::selection {
+  background-color: var(--gpt-highlight-bg);
+  color: var(--highlight-color);
+}
 
 .copy-table table {
   margin: auto;
@@ -500,13 +551,13 @@ gpt {
     display: none !important;
   }
   .copy-table td {
-    padding: 0.25rem 1rem;
+    padding: 0.3rem 1.2rem;
   }
   .lamina-table td {
-    padding: 0.15rem 0.5rem;
+    padding: 0.18rem 0.6rem;
   }
   .lamina-table tr:first-child td {
-    padding-bottom: 0.25rem;
+    padding-bottom: 0.3rem;
   }
   @media only screen and (max-width: 767px) {
     .copy-table table {
@@ -516,14 +567,14 @@ gpt {
       font-size: 100%;
     }
     .facet-table td {
-      padding: 0.25rem 0.05rem;
+      padding: 0.3rem 0.06rem;
       min-width: 75px;
     }
     .facet-table tr:first-child td {
-      padding-bottom: 0.5rem;
+      padding-bottom: 0.6rem;
     }
     .lamina-table td {
-      padding: 0 0.25rem;
+      padding: 0 0.3rem;
     }
     .copy-table [data-facet]:before {
       display: block;

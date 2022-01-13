@@ -103,7 +103,18 @@ def get_output_file(input_file):
     else:
         return filename.replace(".md", "")
 
-os.makedirs("build", exist_ok=True)
+def init_build_dir():
+    os.makedirs("build", exist_ok=True)
+    try:
+        os.symlink("../fonts/used", "build/fonts")
+    except Exception:
+        pass
+    try:
+        os.symlink("../pics/used", "build/images")
+    except Exception:
+        pass
+
+init_build_dir()
 def build_file(input_file, output_file=None, prev_href="", prev_title="", contents_href="", contents_title="", next_href="", next_title=""):
     print(input_file)
 

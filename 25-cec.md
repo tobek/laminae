@@ -12,7 +12,7 @@ quote: |
     > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 summary: A dazzling and hideous jungle in which everything blossoms and transforms and regenerates unpredictably. To its children, the Florets, it is a paradise garden for endless play within the forgiving embrace of their Mother.
 intro: |
-    The dazzling, hideous garden that is the Bloom shelters and nurtures its children, the Florets, who frolic perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with the pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
+    The dazzling and hideous garden that is the Bloom shelters and nurtures its children, the Florets, frolicking perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with the pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
 ---
 
 <!--
@@ -84,7 +84,7 @@ The only reliable feature is a rough arrangement of biomes, though this visitor 
 
 ### TODO(better name for the Islet? refuge, sanctum, harbor, haven, oasis, conservatory)[The Islet]
 
-TODO(how to people get to the Islet, depends on cosmography: either a: there's a well-guarded gate here, or b: just travel on foot, or c: there's an intermittent gate phenomenon in the bloom)[]
+TODO(how to people get to the Islet, depends on cosmography: either a: there's a well-guarded aperture here, or b: just travel on foot, or c: there's an intermittent aperture phenomenon in the bloom)[]
 
 This visitor was fortunate to be introduced to the Bloom through a researcher who splits her time between the Islet and REF[the Brink](CGP), and was able to travel with her community's expertise and wisdom. The Islet is a small encampment resting deep in an unusual area of barren scrubland, on the site of an intermittent freshwater spring.^[The spring warbles forth from a low rocky outcropping, and every few hours (by this visitor's estimation) the flow trickles to a stop, only to start again a few hours later. This has carried on since before the encampment's founding and might be the only reliable phenomenon on the entire lamina.] A few dozen mortals of all ages---elders, adults, and their children alike---live in this oasis, a resilient and dedicated group of caretakers who have established safe harbor and learned how to gently harness the chaos of this place.
 

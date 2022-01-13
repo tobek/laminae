@@ -101,6 +101,8 @@ These absolutes can be seen as a structure with which to measure and observe phe
 
 This is an REF[untranslated reference](foo) but soon there won't be any of these outside of the Index.
 
+This tooltip for REF[Motive] has glyphs in it.
+
 ### Editors notes
 
 Like the peak of a seamount which occasionally pierces the ocean's surface due to particular configurations of tides and wind and waves, aspects of the laminae may be glimpsed from cardinal worlds at the whim of factors unique to each subject and varying over brief or vast timespans. This may take an immaterial form, such as a sudden insight, a state of mind, a vague sense in the air, or even widespread [untranslatable, unknown glyph]. It may also take a material form, such as an individual or object being visible in multiple realms at once, weather patterns passing from one to another, or the appearance or disappearance of an out-of-place or lost item.
@@ -111,7 +113,7 @@ Like the peak of a seamount which occasionally pierces the ocean's surface due t
 
 No other lamina channels the gales of REF[Creation] to greater effect,^[Perhaps one could make an argument that, in it's own much smaller and focused way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
 
-Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:^[*Translator's Note: Each of these "facets," like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each. I have likewise, as in the original text, suffixed each lamina's name with the glyphs that denote its three facets.*]
+Each of the twenty-seven laminae is shaped by its location at the intersection of three axes that form the nine facets. These are described in detail in the following chapter, but in brief they are:^[*Translator's Note: Each of these "facets", like many Karedian words, is represented by a single glyph, and the <span class="guild-term">Order</span> has no record of these nine glyphs in any of our dictionaries or extant Karedian texts. I have done my best to choose a single translated word which approximates each glyph's range of nuances as revealed in this work, but I will leave the original glyphs present as a reminder of the multi-layered concepts behind each. I have likewise, as in the original text, suffixed each lamina's name with the glyphs that denote its three facets.*]
 
 ### Middots instead of colons
 

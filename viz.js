@@ -3,10 +3,11 @@ import { OrbitControls } from 'https://cdn.skypack.dev/pin/three@v0.136.0-4Px7Kx
 // import * as THREE from 'https://cdn.skypack.dev/three@0.136.0/build/three.module.js';
 // import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
 
-const BACKGROUND_COLOR = "antiquewhite";
-const SCRIBE_BLACK = "#311500";
-const SCRIBE_RED = "#b00000";
-const GLYPH_BLUE = "#113a6b";
+const bodyStyles = getComputedStyle(document.body);
+const BG_COLOR = bodyStyles.getPropertyValue("--bg-color").trim();
+const SCRIBE_BLACK = bodyStyles.getPropertyValue("--scribe-black").trim();
+const SCRIBE_RED = bodyStyles.getPropertyValue("--scribe-red").trim();
+const GLYPH_BLUE = bodyStyles.getPropertyValue("--glyph-blue").trim();
 
 const OFFSET = 0.5; // offset from origin out to shape edge
 // const CD_MULT = 9/16; // multiplier down/up for creation/destruction
@@ -267,7 +268,7 @@ function updateLaminaTooltipPosition() {
 }
 
 const facetBaseMaterialOptions = {
-  color: BACKGROUND_COLOR,
+  color: BG_COLOR,
   side: THREE.DoubleSide,
   transparent: true,
   // opacity: 0.33,
@@ -417,7 +418,7 @@ function generateMeansIntersectionLines(scene) {
       side: THREE.FrontSide,
       transparent: true,
       opacity: .9,
-      color: BACKGROUND_COLOR,
+      color: BG_COLOR,
       metalness: 0,
       roughness: .6,
       reflectivity: 1,
@@ -426,7 +427,7 @@ function generateMeansIntersectionLines(scene) {
   originGem.position.set(0, 0, MEANS_INTERSECTION_Z);
   scene.add(originGem);
 
-  const spotLight = new THREE.SpotLight(BACKGROUND_COLOR);
+  const spotLight = new THREE.SpotLight(BG_COLOR);
   spotLight.position.set(0,0,0);
   spotLight.target = originGem;
   scene.add(spotLight);
@@ -584,11 +585,11 @@ if (window.matchMedia('(pointer: coarse)').matches) {
   controls.enableZoom = false;
 }
 
-const hemisphereLight = new THREE.HemisphereLight(BACKGROUND_COLOR, BACKGROUND_COLOR, 1);
+const hemisphereLight = new THREE.HemisphereLight(BG_COLOR, BG_COLOR, 1);
 hemisphereLight.groundColor.addScalar(-0.5);
 scene.add(hemisphereLight);
 
-scene.fog = new THREE.Fog(BACKGROUND_COLOR, cameraDistance * 0.75, cameraDistance * 1.5);
+scene.fog = new THREE.Fog(BG_COLOR, cameraDistance * 0.75, cameraDistance * 1.5);
 
 generateLabels(scene);
 generateFacets(scene);

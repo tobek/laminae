@@ -42,17 +42,17 @@ The greatest hazard of all is cumulative: each of these physical constraints---t
 
 Visitors sealed into a tableau, artifacts left behind, or any successful attempts to move or bend lighter objects are the only known scenarios in which the state of things in this lamina may not be true to the outside multiverse. Though it is an unlikely scenario given the infinite spread of space and time represented here, this fact provides a tiny seed of doubt behind the assumption that a tableau accurately reflects a real happening.
 
-Lastly, you have read that this realm contains even itself. What does that mean? This has been experimentally proven: tableau have been found depicting the Cartography, that is to say, tableau of explorers visiting a tableau, and even, in one tragic recorded case, tableau of an explorer finding a tableau of explorers visiting a tableau, which will be discussed shortly.
+Lastly, you have read that this realm contains even itself. What does that mean? This has been experimentally proven: tableau have been found depicting the Cartography, that is to say, tableau containing visiting explorers, and even, in one tragic recorded case, tableau of an explorer finding a tableau containing visiting explorers, which will be discussed shortly.
 
 ## Culture & Paradigm
 
-Unique among all of the laminae TODO(is this true)[], there appear to be no REF[petitioners] who make the Cartography their final residence. Visitors have reported beings sighted from a distance: slender: humanoid creatures with iridescent flesh wrapped in cloaks, carefully inspecting some detail of a tableau. Apparently unencumbered by the oppressive nature of the lamina, they are swifter than any visitor and gently depart when sighted. Whether they are native REF[laminals](cosmography#laminals) or simply frequent guests is unknown.
+Nothing is known about REF[petitioners] who make the Cartography their final residence. Visitors have reported beings sighted from a distance: slender figures with iridescent flesh wrapped in cloaks, carefully inspecting some detail of a tableau. Unencumbered by the oppressive nature of the lamina, they are swifter than any visitor and gently depart when sighted. Whether they are petitioners at all however, or instead native REF[laminals] or otherworldly guests, is unknown.
 
-Among those few scholars, mercenaries, and obsessives familiar with this lamina, however, a small and wildly dangerous cottage industry has sprung up, accompanied by a certain camaraderie. The Cartography is something of a holy grail that, if tamed, would hold untold promise. It is reminiscent of that fable of the near-infinite library that contains all possible books of a certain size, which are mostly indecipherable but must by necessity have among their member all past and future books, some of great knowledge and power.
+Among those few scholars, mercenaries, and obsessives familiar with this lamina a small and wildly dangerous cottage industry has sprung up, alongside a certain camaraderie. The Cartography is something of a holy grail that, if tamed, would hold untold promise. It is reminiscent of that fable of the near-infinite library that contains all possible books of a certain size, which are mostly indecipherable but must by necessity have among their member all past and future books, some of great knowledge and power.
 
-The case of the Cartography, however, is more tantalizing, since some methods hold promise of guiding you closer to a desired moment. Once the desired tableau has been reached, especially if this was achieved with a permanent aperture that lets visitors come and go as they please to avoid the gradual burden of the place, it can be explored with none of the hazards of the original location. Enemy defenses or the location of powerful relics in a hostile environment could be explored and mapped out at leisure. One can also travel to places normally inaccessible. With a suit fashioned from lotus leaves or shark skin adventurers have found ways to swim through fog, and with a large kind of solid snowshoe you can walk on clouds if you keep moving. Lava is lukewarm to the touch and completely solid, traps are never sprung, defenses hang helplessly in the air, and treacherous paths never crumble.
+The case of the Cartography, however, is more tantalizing, since some methods hold promise of guiding you closer to a desired moment. Once the desired tableau has been reached, especially if this was achieved with a permanent aperture that lets visitors come and go as they please to avoid the gradual burden of the place, it can be explored with none of the hazards of the original location. Enemy defenses or the location of powerful relics in a hostile environment could be explored and mapped out at leisure. One could also travel to places normally inaccessible. With a suit fashioned from lotus leaves or shark skin adventurers have found ways to swim through fog, and with a large kind of solid snowshoe you can walk on clouds if you keep moving. Lava is lukewarm to the touch and completely solid, traps are never sprung, defenses hang helplessly in the air, and treacherous paths never crumble.
 
-<p class="editor-note" id="untranslated">[This chapter has not yet been fully translated. Please turn to the <a href="꧹၇ဗ">Inevitability</a>, the <a href="꧹ဋꧠ">Bloom</a>, or the <a href="ꩧ၇ꧠ">Unfolding</a> for completed chapters. Recent additions can be found in the <a href="d-translation-log">Translation Log</a>.]</p>
+<p class="editor-note" id="untranslated">[This chapter has not yet been fully translated. Please turn to REF[CND], REF[CEC], or the REF[LNC] for completed chapters. Recent additions can be found in the <a href="d-translation-log">Translation Log</a>.]</p>
 
 
 ## Visiting
@@ -122,13 +122,13 @@ If you are interested in the particulars I have copied here more detailed notes:
 >
 > **Travel within the Cartography**
 >
-> The separation of laminae and cardinal worlds is preserved in the Cartography. I am lucky to have in my laboratory a gate to the coronation of Prince Uyik in his resplendent palace on the Elemental Plane of Mirrors. From that tableau, simpler teleportation efforts that only work within the same realm will only take one elsewhere in the Elemental Plane of Mirrors, while inter-planar transport will take one to any realm. However, no matter how one gets there, one will remain at the moment of the coronation of Print Uyik.
+> The separation of laminae and cardinal worlds is preserved in the Cartography. I am lucky to have in my laboratory an aperture to the coronation of Prince Uyik in his resplendent palace on the Elemental Plane of Mirrors. From that tableau, simpler teleportation efforts that only work within the same realm will only take one elsewhere in the Elemental Plane of Mirrors, while inter-laminal transport will take one to any realm. However, no matter how one gets there, one will remain at the moment of the coronation of Print Uyik.
 >
 > TODO: plane of mirrors: https://1d4chan.org/wiki/Plane_of_Mirrors
 >
 > Teleportation within the Cartography is subject to the same hazards and inaccuracies a teleportation normally is, but the rate and severity of mishaps is notably increased.
 >
-> The only known way to move in time from within is to do some foolish action that creates a tear in reality, for example by placing a portable hole in a bag of holding. This will fling the perpetrator and those near him to a random moment in time, but usually roughly in the same place.
+> The only known way to move in time from within is to do some foolish action that creates a tear in reality, for example by placing a TODO(remove IP)[portable hole in a bag of holding]. This will fling the perpetrator and those near him to a random moment in time, but usually roughly in the same place.
 >
 > **Travel to the Cartography**
 >
@@ -170,7 +170,7 @@ inside caldera of volcano and it's like... cool but fine. and they laboriously c
 
 #### TODO
 
-plane of mirrors, unknown future or past. planar transport to all realms except some (like elemental planes) fails - because they don't exist? is this some ancient primordial past or degenerate future where only element planes exist?
+plane of mirrors, unknown future or past. laminal transport to all realms except some (like elemental planes) fails - because they don't exist? is this some ancient primordial past or degenerate future where only element planes exist?
 
 (maybe quote from guy)
 
@@ -194,7 +194,7 @@ ritual revisiting of past event. snowy mountain where something religious or wha
 
 #### Extent in Space
 
-TODO(replace Sigil and Outlands and spire and EVERYTHING with Soblei)[]
+TODO(replace Sigil and Outlands and planes spire and EVERYTHING with Soblei)[]
 
 To be clear, the Cartography doesn't reflect only cardinal worlds. It holds everything---the Inner and Outer Planes, the Astral and the Ethereal, wildspace, the Hinterlands, all of it, even the Far Realm. The one exception, perhaps, is Sigil. Tableau of the Outlands are plentiful (notably, magic is not suppressed in tableau there) from which of course you can see Sigil atop the infinite Spire. But since the Spire is infinitely tall, there seems no way to reach Sigil. Must it be there, if it can be seen, replicated in total detail, holding all its secrets? For the slim price of overcoming this lamina's natural hazards, we could explore the City of Doors at leisure, unmolested by the Lady or her servants!
 

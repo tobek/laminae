@@ -1,24 +1,16 @@
 # race
 
-7-8x 8h days of estimated stuff + 14 laminae x 2h = another 4 full days
+~60h = 12h/day
 
-- At least stub content (+ TOC?) for all laminae (14 remaining)
-    + 9h to do CNC, 3.5h to do CNP
-- Add GPT-3 content in distinct visual style `4h`
-- Style pass and improvements across the site `8h`
-- More content about the author `4h`
+- add kylix to untranslated note
+- At least stub content for all laminae (12 remaining)
+    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC
+- Style pass and improvements across the site `4h`
 - Closing Notes chapter `8h`
-- A close edit pass across the whole thing `8h`
 - Colophon `4h`
-- Review every TODO
+- Review every TODO and every task in this doc to triage any important ones
 - Other misc bits
-    + Pablo Bronstein
     + link image authors
-    + middot(s) instead of dash
-    + go through every single task in this doc
-    + more translator notes
-    + include the dissimulation `30m`
-    + update translator's note to have tooltip/glyphs/etc?
     + decide where to host it
         * laminae.xyz
         * laminae.org
@@ -28,17 +20,28 @@
         * thelaminae.com
         * 27laminae, twentysevenlaminae
     + change email address to `guild/circle/order@laminae.org` (set all of them up)
-    + remove any remaining D&D IP `30m`
-        * (just eladrin etc from LNC?)
-    + favicon
-    + OG tags, OG images for non-lamina pages
+    + OG tags
+- Bonuses/considerations
+    + Pablo Bronstein
+    + Don't start every intro with a T word
+    + middot(s) (replace [semi]colon, replace image caption dashes)
+    + more translator notes
+    + include the dissimulation `30m`
+    + update favicon
     + add/update/shift images for LNC, CGP, NNC, CEP, soblei (check pinterest)
     + consider ꩣ ဘ for autonomy
     + decide on non-laminae TOC glyphs
     + capitalize Cardinal or no?
+    + images (and OG) for non-lamina pages
     + add "FOR THE CURIOSITY of the LEARNED PUBLIC" to the title?
 
-## DONE
+## do (more) but not critical for deadline
+
+- Add GPT-3 content in distinct visual style `4h`
+- More content about the author `4h`
+- A close edit pass across the whole thing (review on page) `8h`
+
+## done
 
 - Interactive cosmology visualization
 - ~Site-wide glyph visualization~
@@ -46,6 +49,7 @@
 - Other misc bits
     + renumber/reorder laminae
     + change URLs to glyphs
+    + remove any remaining D&D IP
 
 # big questions
 
@@ -88,7 +92,9 @@
         * what DOES work for you, things that stand out that you like
 - reach out to
     + IJ subreddit to say i put an homage to IJ in here (NGC)
-    + mechanical monk twitter about that "build spaces like this" beautiful tweet
+    + comment on https://mynoise.net/Community/user.php?submission=1aa5b0a5ed452c155bd8ef2b1641918773 for NND
+    + maybe https://mynoise.net/Community/user.php?submission=dee395a018b838df1107d85c1624162647 too for CGC
+    + mechanical monk twitter about that "build spaces like this" beautiful tweet https://twitter.com/mechanical_monk/status/1254837362166829058
 - twitter?
     + thread header: brief description and the alignments
     + backdating some already-completed chapters
@@ -168,11 +174,11 @@ contents:
 ### terms
 
 - find/replace
-    + realm/plane/planar - ?
-    + portal/gate
-    + prime
-    + outsider
-    + probably search world and realm and mortal to make sure they make sense
+    + plane/planar - done
+    + portal/gate - done
+    + prime - done
+    + outsider - done
+    + probably search world and realm and mortal to make sure they make sense - done
 - name for this all? the twenty-seven lamina(e)
 - LAMINA
     - lamina/laminae or laminum/lamina or laminus/lamina (eh no laminus)
@@ -247,6 +253,8 @@ might not need elemental planes - no prob not
     + LEC could have panopticons from their peaks (could do this anyway but magically) scouring for beauty
 
 **contiguous geography cons**
+
+NED/NND swap is now interesting. NED would have to be off the edge. NND is like... dropped out the bottom
 
 - is it less... pure? it's more normal
 - borders = more stuff to write/figure out
@@ -453,7 +461,7 @@ so far (some need changing, decide/find and replace, and then REF them):
     + plane/lamina
     + soblei
 - places? (cerivalia, anywhere else?)
-- races/creatures? (eladrin, balors, etc)
+- races/creatures? (removed eladrin/balors/etc, are there any others)
 - alignment/"force"?
     + "the force of destruction"
 
@@ -463,7 +471,7 @@ misc:
 
 ## ◍○○○ Colophon
 
-Same as "about"?
+Replace "about"?
 
 ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmese myth into narrator, explain language
 
@@ -472,20 +480,42 @@ ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmes
         * maybe mention my connection and personal feelings
         * See more examples [here](link)
         * Learn more about TODO.
-        * Support TODO.
+        * As of January 2022 things are still really tough in Myanamar. Learn more about it TODO and support TODO.
         * Recommended book
         * Also Burmese food is incredible: check out [TODO](link) in San Francisco and [TODO](link) in NYC.
+        * tooltip popup with that really cool pic of bunch of script
         * burmese well wishing phrase
     + also mention other indic scripts?
-    + easydabus/easydamus
-    + d&d for alignments
-    + hinduism for trimurti
-    + wikis
     + friends
+- used
+    + poliphil font + other
+    + images
+        * list every artist and link to them?
+        * i believe that my use here falls under copyright fair use, and i hope that artists work here garners new fans, but if you prefer not to have your work here please let me know at todo@foo.com
+    + quote authors but especially vectors
+    + tech stack
+        * handwritten markdown, HTML, and vanilla JS/CSS, ad hoc python and shell build scripts with tons of text-replacement macros, static site hosted AWS S3
+        * three.js, popper, pypandoc, beautifulsoup
+    + OpenAI GPT-3
+        * all of the introductory and frame matter, along with the concepts for, and introductions to, and outline for every lamina, have been written be me. Several laminae chapters also written in full by me
+        * what is written by GPT-3? here's the process
+            - i put in the introduction to the laminae and then prompt it with xyz, usually run it a couple dozen times tweaking various parameters, and then edit the text for inclusion. looks like [this](imagelink)
+        * you can tell what's written by GPT-3 because it is <gpt>written in an xyz color/style</gpt>. The difference is even more noticeable if you highlight
 - faq
     + how do you pronounce "laminae"?
         * There are [quite a few](https://en.wiktionary.org/wiki/Category:English_irregular_plurals_ending_in_%22-ae%22) words in English, derived from Latin, where the singular ends in -a and the plural in -ae: nebulae, alumnae, algae, antennae, larvae, vertebrae. With some exceptions (including algae and vertebrae), the final vowel in British English is generally pronounced like the "ee" in "see", and in American English generally pronounced like "eye".
 - stats?
+    + words, words excluding unreleased draft content, words excluding unreleased draft content and GPT content, LOC, working on intermittently since X date
+    + see progress
+- inspiration
+    + D&D planescape
+        * easydabus/easydamus
+        * wikis
+    + emily short's annals of the parrigues
+    + hinduism for trimurti
+    + calvino's invisible cities
+- idea credits
+- link to styleguide?
 - about
     + contact
     + me
@@ -562,14 +592,14 @@ viz:
     - title page stuff
     - colors?
 - TODO
-    - don't link "the"
-    - lighter/less saturated/lower opacity color for visited
+    - parchment
+    - don't link "the" - dunno actually
+    - lighter/less saturated/lower opacity color for visited - done
     - rustier red
-    - make sure it's not italic
     - double middot? lower?
+        - maybe single middot for semicolon, double middot for colon, both lower
     - wider index - or two columns?
         - letter segregated index
-    - front matter (I II III) - introduction (I II III) - laminae - back matter
 - confirm fonts
     + Poliphilus: body and bold
     + Cormorant Garamond: headings and italics
@@ -636,11 +666,22 @@ viz:
 - more mobile and browser compatibility check
     + styles, fonts, what else?
 - "about" in bottom right is crowded on mobile
+- fix drop caps
+    - `function o(c) {$0.innerHTML = c + $0.innerHTML.substring(1)}`
+    - add them all to style guide haha
+    - CGHJKLNQRSZ need vertical space (change -17px to -7px)
+    - KLNQR need horizontal space too (varying amounts)
+    - for some, at least for L, could be resolve by moving it up a bit so the swash fits in the middle, though for some, like K, that looks weird maybe. certainly handles other ones that need vertical space though
 
 #### fonts
 
 https://stackoverflow.com/questions/41233532/converting-ttf-to-woff
 https://github.com/fonttools/fonttools
+
+check if better to do:
+
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
 
 - use fl, st, ff, etc ligatures?
 - maybe use terminal forms at the end of chapters

@@ -104,13 +104,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   }
 
 .toc {
-  font-size: 1.17rem;
 }
-  @media only screen and (max-width: 767px) {
-    .toc {
-      font-size: 1rem;
-    }
-  }
   .toc h1, .toc h4 {
     text-align: center;
     margin-top: 3rem;
@@ -159,9 +153,11 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
         padding-right: 8px;
       }
     }
-    .toc .hover[data-toc-glyph],
     .toc .row.hover {
-      color: #b00000;
+      color: var(--scribe-red-active);
+    }
+    .toc .hover[data-toc-glyph] {
+      color: var(--scribe-red);
     }
   .toc .left {
     white-space: nowrap;
@@ -384,7 +380,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">15.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="15-nnd">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">15.</div>REF[NND]</div>
   <div class="dots"></div>
   <div class="page">NND</div>
 </div>
@@ -400,13 +396,13 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="page">NEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">18.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="24-ned"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">18.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="24-ned">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
   <div class="dots"></div>
   <div class="page">NED</div>
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">19.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="07-cgc"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">19.</div>REF[CGC]</div>
   <div class="dots"></div>
   <div class="page">CGC</div>
 </div>

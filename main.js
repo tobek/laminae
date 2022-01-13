@@ -1,3 +1,7 @@
+if (document.location.search.includes("historical")) {
+  document.body.classList.add("historical");
+}
+
 var SHIFT_DELAY_SHORT = 10 * 60 * 1000;
 var SHIFT_DELAY_LONG = 60 * 60 * 1000;
 

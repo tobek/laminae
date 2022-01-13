@@ -14,6 +14,12 @@ hide_toc: True
 
 ## The 222nd Year L.C.
 
+#### The Twelfth of the First
+
+The introduction and outline of REF[NND] have been translated, as well as the entirety of REF[CGC].
+
+Our pace of translation improves in line with your humble translator's fluency. Additionally, two understudies have completed their apprenticeships and now join the endeavor, and with each chapter fewer unfamiliar glyphs and terms remain that have not already been researched and added to our ever-growing Karedian dictionary.
+
 #### The Ninth of the First
 
 The introduction and outline of both REF[CNC] and REF[CNP] have been translated.
@@ -30,7 +36,7 @@ The introduction and outline of REF[NGD] have been translated.
 
 #### The Third of the Twelfth
 
-The introduction and outline of REF[LEC] have been translated. A note on one of these pages marked a quotation as intended to preface REF[CEC].
+The introduction and outline of REF[LEC] have been translated. A note on one of these pages marked a quotation as being intended to preface REF[CEC].
 
 #### The Twenty-Sixth of the Eleventh
 
@@ -38,34 +44,32 @@ A stray note describing "REF[verges]" has been found, translated, and inserted i
 
 #### The Eighth of the Eleventh
 
-This log, beginning with notable past milestones, has been added and will be updated with further progress.
-
-A REF[Translator's Note](translators-note) has also been added.
+A REF[Translator's Note](translators-note) has been added.
 
 The introduction and outline of REF[NGP] have been translated.
 
 #### The Twenty-Third of the Tenth
 
-After some delay due to preparations for the Fora Incandesca and TODO(something else interesting, maybe related to me moving)[other matters], we resumed our translation efforts.
+After some delay due to preparations for the Fora Incandesca and TODO(something else interesting, maybe related to me moving)[other matters], we have resumed our translation efforts.
 
 #### The First of the Sixth
 
-The <span class="guild-term">Order</span> formally entered the present work---comprising of translations of front matter, three laminae in full, and several more in part---into our library for consideration by associates.
+The <span class="guild-term">Order</span> formally enters the present work---at this time comprising of translations of front matter, three laminae in full, and several more in part---into our library for consideration by associates. Significant translation work remains.
 
 #### The Twenty-Second of the First
 
-The <span class="guild-term">Order</span> announced our possession of this text and committed to sharing significant progress with the broader scholarly community on the upcoming First of the Sixth, to coincide with the commemoration of the 340th anniversary of the establishment of the <span class="guild-term">Order</span>'s charter.
+The <span class="guild-term">Order</span> has announced our possession of this text and committed to sharing significant translation progress with the broader scholarly community on the upcoming First of the Sixth, to coincide with the commemoration of the 350th anniversary of the establishment of the <span class="guild-term">Order</span>'s charter.
 
 ## The 217th Year L.C.
 
 #### The Sixteenth of the Ninth
 
-Translation work began.
+The <span class="guild-term">Order</span> has gathered all extant Karedian works in our collection and from associates' collections, as well as reviewed all available records on Ordial matters. Extensive research will be required before we can rigorously begin translation work.
 
 ## The 215th Year L.C.
 
 #### The Nineteenth of the Fourth
 
-The source text of the present work came into the <span class="guild-term">Order</span>'s possession.
+The source text of the present work has come into the <span class="guild-term">Order</span>'s possession.
 
 <!-- https://hinduism.stackexchange.com/questions/7787/do-the-trimurti-brahma-vishnu-shiva-cleanly-map-onto-the-3-gunas-sattva-ra -->

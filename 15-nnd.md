@@ -1,67 +1,130 @@
-# The Lucidity SKIP
+# The Pasture
 
 ---
 subtitle: Synthesis Utility Dissolution NND
-toc_only: True
-summary: 'A blank, white void graced with marble monasteries in which contemplatives cultivate "lucid body, spacious mind, empty heart." Feared for their ritual of Erasure whereby they cause unpredictable targets to vanish from cardinal worlds.'
+intro_only: True
+post_intro_only: MEDIA("Jean-Pierre Ugarte - Une terre hors du temps.jpg")
+quote: |
+    > That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped.
+    >
+    > <span class="attribution">--- Oral scripture of the Unfettered <!-- https://mobile.twitter.com/gods_txt/status/1456321077710241792 --></span>
+    >
+    > <div class="choose-one-child">
+    > <div></div>
+    >
+    > <div style="margin-top: 40px;">
+    > 62 &middot; The fire doesn't know where all that smoke came from.
+    >
+    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --></span>
+    > </div>
+    > </div>
+
+summary: No petitioners have been found on the blizzarding tundra of the Pasture, only a small nomadic caravan of mortals pursuing a mental state of "unknowing" that they believe will allow their souls to become petitioners here, thereby restoring the lamina's role in the balance of the multiverse, and in persisting through the arctic wasteland of this place they hope to one day find evidence of their success.
+
+intro: |
+
+    Unique among all laminae, no REF[petitioners] or REF[laminals] are known to populate the Pasture. It exists in a state of permanent whiteout, a deafening snowstorm over a wasteland interrupted by sheared-off crevasses and cliffs. The only life here is a nomadic community that refers to themselves as the Unfettered: about one hundred mortals who, according to their oral history, have been travelling here for over thirty generations, searching for petitioners and hoping to become them.
+
+    Believing that each lamina and its petitioners perform a critical role, and that their apparent absence here throws the multiverse out of balance, the Unfettered are utterly dedicated to their quest. The Unfettered seek a state of "unknowing"---to empty their minds of the complexity of existence and enter a cloud of forgetting. Their tradition states that this path will align them with the nature of the Pasture such that, upon death, their souls will repopulate this place as petitioners, and that as petitioners they could spread the purity of unknowing, a vital counterbalance for the exhausting and unsustainable mission of creation that preoccupies the minds of their mortal brethren.^[Indeed, scholars have long supposed that there is a fundamental imbalance in favor of REF[Creation], for if this force were equally balanced with REF[Dissolution] then how would we come to find that there is anything present in the multiverse at all? It is much easier to destroy than it is to create and yet everywhere around us we see the building of civilizations. Perhaps it is the lack of petitioners on this lamina that has permitted our existence at all. Should the Unfettered succeed in their goal and this endless growth cease, may we hope it replaced not by the collapse of things but instead by a true REF[Equilibrium].] And so apart from the toil of their meagre survival they spend their days marching through the snow, to the sound of fire and drums, throat singing and ethereal hymns, the entire troupe with their eyes closed^[The closed eye is a symbol that the Unfettered hold dear, and they carve it into simple ivories with which they adorn themselves. This visitor lost track of the time---days or weeks perhaps---that she spent with these pilgrims, walking in darkness and listening to their chants and the howling blizzard that they call the Curtain and embrace as their own, and as a reminder of their dedication and clarity of purpose she still wears their gift of a closed eye pendant.] save for a lookout to navigate the landscape.
+
+    The Unfettered sustain themselves on the flesh of mammoth beasts they search for buried in the permafrost, each one of which provides months' worth of food. At the core of their caravan is an unusual double-REF[aperture](apertures) embedded in a dolmen that they drag across the snow on sledges. On one side of the structure is an aperture to REF[Soblei], by which rare visitors arrive and from which a steady gale of wind clears snow from their path and creates an eye-of-the-storm in which their convoy is partially shielded from the blizzard. On another side of the structure is an aperture to an unknown place from which spills the flames of a perpetual inferno, warming the community and allowing for the cooking of meat and melting of ice for water, and creating a plume of black smoke that ascends into a whirlwind above---a landmark by which to return to the caravan after searches for food or petitioners.^[The Unfettered tell that in early days they kept warm only by furs and oil lamps of blubber, but that many generations of constant flame and ritual intention opened up an aperture to a world of fire.] Scholars report other apertures that have been determined to lead to the Pasture but that open upon only blizzard; nothing has been found.
 ---
 
 <!--
-	- shakuhachi music? e.g. https://www.youtube.com/watch?v=miUKO5g0ONk
-	- something about an attention snap, like the transition i have from focusing on breathing to "let you mind be free" (and be thoughtless), that. these guys with their crazy power of attention that can wreak havoc, they seem to "envelop" the thing in their attention, and when they all simultaneously stop thinking, the thing stops existing. it's like things exist only by virtue of attention being paid to it, and the strength (in individual and in numbers) of their attention swamps the attention of bystanders, such that when they stop, it's like the thing stops existing.
-		- Many things have been proposed to explain the variance of numbers of monks present for a disappearance. The most obvious was "size", but TODO/metaphysists find this an arbitrary quality, and a handful of examples, such as a lone monk sighted on a rowboat off an uninhabited island disappearing an entire coral reef, give the lie to this, unless some monks are far more "powerful" than others. Another proposal is "importance", although this is hard to measure, and what is the "importance" of TODO. The best candidate is "attention" from which a plausible theory of a mechanism has been generated, and indeed the only known successful defense against a disappearance attempt, along with the only known apparent delay (but failed defense).
-		- TODO (how to merge this with the sight thing and the kid)
-		- TODO (maybe explain "attention" after the anecdotes)
-		- TODO (relative amounts of attention relative to intelligence/consciousness)
-		- TODO (only successful defense, about 20 monks, about a thousand sit-in visitors drishti-ing on the to-be-dissapeared thing, maybe number of monks grew and number (and training) of defenders grew, was this HUGE thing, and the monks gave up. TODO (BUT WAIT this violates the thing where you never know what's going to be disappeared, maybe it was some isolated circumstance so it was obvious, but does this violate coolness of "never can be guessed?"))
-	- TODO erasure? slating? like blank slate
-	- something about art using unconscious control? but destruction art? see thing from kris (and can i name it after her or something. or ask her for something that'll be part of it)
-		- ~"express unconscious mind directly through art, unmediated expression, uncover metaphysical truths by relinquishing conscious control"~
-		- what is destruction art?
+what's the point?
 
-Maybe the ritualistic culture ("lucid body, spacious mind, empty heart") I've written about elsewhere, or that could be a different one.
-
-Jordan Peterson quote about what you (choose to) pay attention to determines everything you experience
-
+- spooky and tragic and mysterious and beautiful
+- incredible commitment
 -->
 
-obliterating zen monks who aim for ultimate nothingness?
+using the plume to guide back when searching for petitioners
 
-bone white marble lattice in infinite whiteness
+some give up and hazard into soblei to find a new world. others have been known to give up and wander off into the blizzard
 
-infinitely tall marble pillars in infinitely large hall TODO(not destruction enough?)[]
+- name
+    - The Curtain
+    - The Fruition
+    - The Kenosis (christ's "act of emptying" christian theology, emptying to become receptive to god's will)
+    - The Lacuna (unfilled space or interval, gap)
+    - The Pasture <--
+- demonym
+    - Mercies <-- their name for petitioners
+    - Unfettered <-- mortals
+- quotes
+- environment
+- culture
+    - they love the environment. many who have left have returned
+    - unknowing
+    - "For He can well be loved, but he cannot be thought. By love he can be grasped and held, but by thought, neither grasped nor held. And therefore, though it may be good at times to think specifically of the kindness and excellence of God, and though this may be a light and a part of contemplation, all the same, in the work of contemplation itself, it must be cast down and covered with a cloud of forgetting. And you must step above it stoutly but deftly, with a devout and delightful stirring of love, and struggle to pierce that darkness above you; and beat on that thick cloud of unknowing with a sharp dart of longing love, and do not give up, whatever happens."
+    - "If you want to gather all your desire into one simple word that the mind can easily retain, choose a short word rather than a long one. A one-syllable word such as "God" or "love" is best. But choose one that is meaningful to you. Then fix it in your mind so that it will remain there come what may. This word will be your defence in conflict and in peace. Use it to beat upon the cloud of darkness above you and to subdue all distractions, consigning them to the cloud of forgetting beneath you."
+    - seeking out a state of "unknowing" XXD
+        + 'all thoughts and desires under a "cloud of forgetting," and thereby piercing God's cloud of unknowing with a "dart of longing love" from the heart... "For He can well be loved, but he cannot be thought." ... "And so I urge you, go after experience rather than knowledge"'
+        + https://en.wikipedia.org/wiki/The_Cloud_of_Unknowing
+    - empty mind, empty conscience - some kind of small brain everything is easier if you just think nothing oblivion situation - NND
+- cardinal interaction
+- author stuff
+    - author has powerful experience, doesn't know how long she spent here, in this beautifully inhospitable world with a group of people so dedicated and clear of purpose
+    - runic motif of a closed eye: "...its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too [now] wear the spiral." from slate star codex thing
+    - everyone recognizes her???
+    - she gives some gift
+    - slip up about laminae being fictional could be here
+    - could nearly retire from travelling here, too weird?
+    - apologizing genuinely for breaking some norm, and then speaking to the offended person for a long time about it, understanding
+- audio
+    - [Drum of the Land of Snow](https://mynoise.net/Community/user.php?submission=1aa5b0a5ed452c155bd8ef2b1641918773)
 
-In some places, harmonic vibrations resonate your bones and guts, tremors starting fuzzy big and wide, then sharp and crack and divide, split you apart from the inside.
+info gathering
 
-Different regions vibrate differently: some will destroy only certain kinds of objects, some will destroy anything. Different Monks find themselves at home and in comfort in different regions.
+- questions
+- future research
+- possible elements
+    - gosh doppelganger could be out here in the snow
+    - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NEP, NND, LED)
+- notes
+- research notes
 
-Maybe white? White is the purest of destruction, white is the color when nothing is there. White is the color of thoughts stripped bare. White shows the mind the way it would be. White brings to mind the nothing-to-see. White has no form, no texture, no grain. White clears the storm, the pleasure, the strain.
+## Environment
 
-White sky - not bright, but absolutely white. No cloud, no aurorae, no texture or shade.
+## Culture & Paradigm
 
-The monks claim no magical abilities, but merely the ability to have complete control over their attention. They say that beings waste vast strength by the fact that most of their attention is not under their control, that there is a constant background torrent of leaking attention. Everything is superfluous to them. It's not unknown for a monk partaking in ritual to squeeze so much attention out of their beings that the blood stops flowing in their veins, the skin stops holding in the flesh, resulting in the petitioner's structural form failing, and their essence being unified with the obliterative strength of the plane. Sometimes during Erasure ceremonies, monks are known to vanish while outside of their home, their essence presumably dispersing.
+### Unknowing
 
-Their attention causes vibrations, the vibrations obliterate. Or rather, discuss difference between attention and awareness. The focus so much attention on the object, to the exclusion of awareness, that when the all simultaneously (how do they time it?) open up to a broad awareness, it's like a massive vacuum that sucks the thing into nonexistence. This is why if anyone else is paying attention, it doesn't work.
+### The Curtain
 
-They seek out (or hate?) actors and musicians and models---they've soaked up so much attention.
+they love the blizzard!
 
+### Hymns
 
-### Erasures
+### Departers
 
-Ritualistic. Rarely, a cadre will coalesce for an Erasure, where they go en masse to some location and erase something---a building, a city, a lake, an artifact. The Monks will be seen congregating, silently and peacefully, in an area. They defend themselves with deadly and precise psychic force when threatened, but otherwise their techniques seem more subtle. Vibrations and noises, sometimes blurring or fuzzy muffling of sounds, will be evident, at a range corresponding to the size of the object being erased and the number of Monks participating. The to-be-erased object eventually vanishes. It happens suddenly, and the monks vanish simultaneously.
+is this the right word? non-judgy, those who leave - some come back. meanderers?
 
-When the monks gather, it is never clear what is going to be Erased. Generally the number of monks present and the duration of their stay indicate the size of what will be Erased: a handful may congregate for a day to erase an ancient oak tree, while hundreds march weeks to erase a mountain range. However their force may indicate power instead of size: an entire city could be filled with monks for days, only to vanish without any sign of what they erased, which may have been a small but forceful artifact, or, very rarely, a powerful mortal life.
+## Visiting
 
-No one witnesses the actual moment of Erasure---it always happens during a blink or when glancing away from something. It's said that staring at a thing, holding eyelids open so as not to blink, can prevent the monks from erasing it. However, since it is never clear what the monks will erase or exactly when it will happen, it's impossible to purposefully employ this tactic. Even beings of immense clairvoyance whose physiology allow flawless unblinking, omnidirectional gaze, do not consume all the available information at any given time, and move their attention from time to time. During these times, an object will be erased. Erasures are rare (example using some civilization), though a handful of beings are known to be have been the presence of more than one. Infamously, mighty wizard TODO/name (haughty wizard) who deemed every speck of dust in his dwelling to be in absolute focus in his mind at all times, found after several days of a half dozen monks that his TODO (important wizard belonging) vanished while he was in the same room having just used it. Maybe happened twice, first time was further away.
+## Locations
 
-Skeptics argue that this aspect of erasure proves that there is no being in the universe that is truly omniscient, or who is both omniscient and holds everything in attention at once---for if this were the case, nothing could ever be erased.
+none
 
-Academic observers have attempted to identify a system to what they erase, and the dominant narrative is that the monks maintain a multiversal balance by erasing TODO stuff at extremes. However, far too many observed erasures have seemingly no connection to this. The TODO/organization, a group of mostly gnomes who TODO, have made it a pastime and competition of documenting erasures, the most successful of which, TODO/name (winning gnome), has personally witnessed an astounding seven monk gatherings (a record), though in only 4 of those was the erased object identified (TODO/name (runner up gnome) holds the record for identified erasures, having traced 5, though first gnome maintains that the 5th is wrong and so they're tied for it.) TODO how do the gnomes find them?
+<!-- ## Figures & Groups -->
 
-It's unknown whether monks ever gather outside their plane for purposes other than erasure, though many gatherings have resulted in no erasure found.
+## Festivals & Traditions
 
-TODO what do they do during ritual? Nothing much, but something.
+### Peregrinations
 
-TODO what tone/frame/form should next paragraph take? Could be "I once met a guy..." but narration should be more authoritative and not have "I". Could be a blockquoted thing, like a journal entry. What else?
+searching for petitioners
 
-One report of a being who had a hunch about what would be erased TODO/building (but not a religious shrine, what) and resolved to stare at it as the monks swirled around. He held his eyelids open, drying, TODO describe, for days. Eventually it happened. He could still see the structure, but his vision became surreal and uncomfortable to witness TODO describe. Indeed the structure had not been erased in his vision, but it seemed to be an after image, or another existence superimposed upon his normal one. He could see passersby react as if the structure were gone (in shock, etc), but the structure still stood. And though the final moment of erasure is accompanied by the monks vanishing, in his vision, the monks remained. And they were *busy*. But his vision bubbled and blurred. They were disassembling the structure perhaps, or re-building it, or arranging something inside it or modifying it somehow. TODO more interesting, maybe they're panicked that the watcher will fuck everything up. The after-image became stranger and stranger. Suddenly, a sneeze shook him, and though he swore his managed to keep his eyes open, it was no use---his attention was diverted for a fraction of a second. The monks and the structure were gone, and so was his vision: he was blind for the rest of his life
+### Frostfall
+
+the bounty of finding meat
+
+## History
+
+### The Fettered
+
+## Rumors & Mysteries
+
+### Mirages
+
+### Beneath the Curtain
+
+### The Passing of Mercies

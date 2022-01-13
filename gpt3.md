@@ -117,7 +117,7 @@ The Wikipedia article for "Children Who Come Before Their Parents" is unusual an
 
 ###
 
-Children Who Come Before Their Parents is a phenomenon that was originally documented by Carlos Castaneda in his book The Active Side of Infinity . The phenomenon is that children who are conceived and born by a Yaqui sorcerer or brujo are aware that they have come from the future to fulfill an important duty. Typically, this awareness is shown when a child states before the parent has even met their significant other.
+Children Who Come Before Their Parents is a phenomenon that was originally documented by Carlos Castaneda in his book The Active Side of Infinity. The phenomenon is that children who are conceived and born by a Yaqui sorcerer or brujo are aware that they have come from the future to fulfill an important duty. Typically, this awareness is shown when a child states before the parent has even met their significant other.
 
 Other traits that seem to be common among these children are:
 
@@ -167,16 +167,6 @@ The Bell is also home to many Kalons who do not create sanctums for visitors, bu
 **The most surprising feature of the The Bell is that** it is not a paradise. The Kalons are not angels, and their work is not perfect. The Universal Story is a powerful gift, but it is not the only one, and its recipients are still human beings with all the flaws that entails. The Bell's most significant flaw is that it does not have a great deal of interest in those who do not wish to receive its gift. Those who enter with no intention of receiving the Universal Story will find themselves ignored by the Kalons, who will be unable to communicate with them even if they try. 
 
 The Bell's final flaw is that it has been corrupted by its own success. As more and more people have received the Universal Story, fewer and fewer have come to The Bell for any other purpose than to receive it again. Many Kalons have become bitter about this trend, feeling that their art has been reduced to a tool for spreading propaganda rather than an expression of their deepest selves. Some have even become convinced that the Universal Story is a lie, and that the multiverse is not as it seems.
-
-Lamina name: The Cathedral
-
-Attributes: Power, Reason, Protection
-
-Description:
-
-The Cathedral is one of the most ancient places in existence. It was built by beings who were already old when the universe was young, and who now sleep in its depths in great crystalline tombs guarded by terrible guardians. The Cathedral's walls are carved with intricate patterns whose meaning has long since been forgotten; its towers are capped with spires of gold; its halls are hung with tapestries depicting scenes of a world that no longer exists. The Cathedral is the seat of the power of reason, and its many halls are devoted to every field of study and art.
-
-The Cathedral's greatest treasure is its library, which contains every book ever written or conceived by any mind in existence. The library is guarded by a single librarian, who has been charged with protecting it from all threats for as long as the universe endures. The librarian is a being of great power and wisdom, but also one whose mind has been twisted by centuries of isolation and responsibility. He has become convinced that his duty is to protect the library from all who would use it, even if they mean no harm; he will not allow anyone to enter unless they can prove their worthiness by solving some impossible riddle or answering some unanswerable question. He will not allow anyone to leave until they have solved some other riddle or answered another question. He will not allow anyone to take any books away with them, even if they have solved his riddles and answered his questions correctly; he believes
 
 ***
 

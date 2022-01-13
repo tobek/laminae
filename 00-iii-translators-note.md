@@ -14,7 +14,7 @@ Translation efforts continue, and major updates will be recorded in the REF[Tran
 
 <br />
 
-<div class="choose-one-child karedian" style="font-size: smaller; opacity: 0.75">
+<div class="choose-one-child karedian" style="opacity: 0.75">
 
 ကုသိုလ်လည်းရ ဝမ်းလည်းဝ<br />
 မုသားမပါ လင်္ကာမချေ
@@ -22,8 +22,6 @@ Translation efforts continue, and major updates will be recorded in the REF[Tran
 ကုသိုလ်လည်းရ ဝမ်းလည်းဝ မုသားမပါ လင်္ကာမချေ
 
 ကုသိုလ်လည်းရ ဝမ်းလည်းဝ နှင့် မုသားမပါ လင်္ကာမချေ
-
-မုသားမပါ လင်္ကာမချေ နှင့် ကုသိုလ်လည်းရ ဝမ်းလည်းဝ
 
 </div>
 
