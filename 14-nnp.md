@@ -122,7 +122,7 @@ If you are interested in the particulars I have copied here more detailed notes:
 >
 > **Travel within the Cartography**
 >
-> The separation of laminae and cardinal worlds is preserved in the Cartography. I am lucky to have in my laboratory an aperture to the coronation of Prince Uyik in his resplendent palace on the Elemental Plane of Mirrors. From that tableau, simpler teleportation efforts that only work within the same realm will only take one elsewhere in the Elemental Plane of Mirrors, while inter-laminal transport will take one to any realm. However, no matter how one gets there, one will remain at the moment of the coronation of Print Uyik.
+> The separation of laminae and cardinal worlds is preserved in the Cartography. I am lucky to have in my laboratory an aperture to the coronation of Prince Uyik in his resplendent palace on the Elemental Plane of Mirrors. From that tableau, simpler teleportation efforts that only work within the same realm will only take one elsewhere in the Elemental Plane of Mirrors, while interlaminal transport will take one to any realm. However, no matter how one gets there, one will remain at the moment of the coronation of Print Uyik.
 >
 > TODO: plane of mirrors: https://1d4chan.org/wiki/Plane_of_Mirrors
 >

@@ -2,23 +2,7 @@
 
 ## Hierarchy Empathy Creation LGC
 
-The Lattice?
-
-Maybe they have some rumored and controversial deal/symbiosis with CED?
-
-artists?
-
-crystalline structure
-
-Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ "The Retelling" (something like eulexia - but song). this could also totally be LGP, maybe better as LGP
-
-@conaw tweet: "Heaven is the feedback loop where the good keeps getting better"
-
-"be not afraid" biblical angel vibe? shimmering irridescent, totally huge and overwhelming, blaring overlapping shephard tone melodies, discordant to the ear but perfectly arranged. massive structures twirling and some extra-dimensional fashion, totally incomprehensible. cannot be properly perceived
-
-they are *BUSY* but what are they up to? so much stuff going on
-
-one of the weirdest
+[transferred]
 
 ## Hierarchy Empathy Equilibrium LGP
 
@@ -60,7 +44,7 @@ headsoak note 724 about a system designed to allow for bad actors vs. is it ok i
 
 ## Hierarchy Empathy Dissolution LGD
 
-**?? of the Ardence (?)**
+**Clarions of the Lambent**
 
 [transferred]
 
@@ -120,41 +104,13 @@ there are conditions to storage. maybe it has to be something they don't current
 
 ## Hierarchy Power Equilibrium LEP
 
-tyrants
-
-regimented armies. gauntlet and boot
-
-paranoid tyrants holed up in indestructible fortresses, overwhelmingly prepared for threats that never materialize
-
-easily the most militarily powerful of all the laminae, but since they remain in defensive mode indefinitely, it's all moot.
-
-there was once some extraordinary incident where a trickster managed to harness their military might---maybe either by luring an enemy into hopeless attack against these guys, or by somehow managing them to, for once, sally out from their fortresses.
-
-orwell quote, but what's the "danger and death", wouldn't they catch on eventually at possible threats never coming? or maybe orwellianish they hear about threats and attacks and incursions but none are real or they're all inside jobs, maybe even people know but they're terrified to say because they'll get disappeared if they disobey, it's an open secret. the struggle is really internal.
-
-maybe it's actually not bad, if you're into it?
-
-Ben Sack art?
-
-Milton Controversy:
-
-> why Milton, a fervent (if unconventional) Protestant, would ultimately give the devil all the poem’s best lines? Why make Lucifer the most attractive character in Paradise Lost if you’re supposedly trying to “justify the ways of God to man?” Many in the Romantic tradition thus argued that Lucifer should be read as a revolutionary, a Promethean figure who tears at unfair strictures.
->
-> [...] Fish interpreted Milton’s epic as “a poem about how its readers came to be the way they are … to provoke in its readers wayward fallen responses.” In other words, Lucifer is supposed to be intriguing, because in forcing the reader of Paradise Lost to be drawn to evil, Milton demonstrates the original sin that he believed marked everyone’s soul. That Lucifer gets the best lines isn’t incidental to his evil, but central to it.
->
-> [...] these [Luciferian] characters share a rage generated from feeling that they are owed something
-
-LEP'ers feel this?
+[transferred]
 
 ## Hierarchy Power Dissolution LED
 
-elaborate weavers of personalized, creative curses
+**Rues of the Increpation**
 
-Labyrinthine catacombs where the some of the smartest minds in the multiverse plot intricate schemes. It's an immense civilization subdivided into self-organizing groups which tackle certain domains/styles TODO examples. Lower castes scheme smaller schemes, while barons and dukes plot the restructuring of entire cultures. What they actually *accomplish*, however, is a complete mystery. Residents are never seen to leave the plane or communicate with those outside it, and all plans witnessed by others seem to have no correlation to reality, e.g. plan to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with incredibly specific details of allies and turncoats, locations to infiltrate, TODO, etc., but which refers to a place and bloodline that no outsiders can find.
-
-Is the multiverse too big? Is the lamina somehow removed from the normal flow of time such that plans reference ancient things or predict and plan for things not yet come to pass? Are the plans expertly obfuscated such that spying outsiders never understand them? Neighboring powers tread carefully for fear of attracting the ire of this plane's denizens, so we can only assume that many of the longest cons and most devastating corruptions can be traced back to this plane. We can only assume.
-
-Beautiful, intricate, ornate.
+[transferred]
 
 ***
 
@@ -210,7 +166,7 @@ Beautiful, intricate, ornate.
 
 ## Synthesis Power Equilibrium NEP
 
-the opposite of NGP - opposite of restorative justice? training, using trauma to become stronger? revenge?
+[transferred]
 
 ## Synthesis Power Dissolution NED
 
@@ -316,7 +272,7 @@ ritual bath that you die in?
 - REF[Power] tends towards ambition, achievement, glory, determination, focus, efficiency, beauty, domination, competition, selfishness, cynicism, security, success, and luxury.
 - REF[Dissolution] tends towards finality, rest, release, destruction, nullification, loss, ignorance, waste, death, and certainty.
 
-maybe this is the forgetting place
+maybe this is the forgetting place. he wants it all to himself, like "_____ appears to be a complicated place, but thanks to the efforts of the jealous Forgetful Duke, it all seems rather simple once you've left."
 
 The Procedure? interesting association, sounds a bit LXX, maybe a synonym
 

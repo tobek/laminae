@@ -35,7 +35,6 @@ intro: |
 old notes from index: They're insufferable, but you can't blame them. Pilgrimages and crowds. How can so many experience it without infinite queues? Everyone should experience it but it's so cringe some people never will. They try to optimize this but can't? Or no, do they evangelize or no? maybe they don't but others do. Some struggle here, in the way that IJ is a struggle against addictiveness. goal is to motivate one to do better
 
 - Name
-	+ The Asymmetry (used)
 	+ The Bell
 		* weather/light is such that you can't keep track of the days, and you only know it's done when the petitioner rings the bell
 	+ The Braid - pretty good too, maybe better

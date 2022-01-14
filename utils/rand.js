@@ -3,13 +3,13 @@
 const trinymBurmese = [
   "ꩧဥꧠ",
   "ꩧဥဓ",
-  "ꩧဥဗ",
+  // "ꩧဥဗ",
   // "ꩧ၇ꧠ",
   "ꩧ၇ဓ",
   // "ꩧ၇ဗ",
   // "ꩧဋꧠ",
   "ꩧဋဓ",
-  "ꩧဋဗ",
+  // "ꩧဋဗ",
   // "ꧪဥꧠ",
   // "ꧪဥဓ",
   // "ꧪဥဗ",
@@ -33,13 +33,13 @@ const trinymBurmese = [
 const trinymRoman = [
   "LGC",
   "LGP",
-  "LGD", // ardence
+  // "LGD",
   // "LNC",
   "LNP", // terrapin
   // "LND",
   // "LEC",
   "LEP",
-  "LED",
+  // "LED",
   // "NGC",
   // "NGP",
   // "NGD",
@@ -57,7 +57,7 @@ const trinymRoman = [
   // "CND",
   // "CEC",
   // "CEP",
-  "CED",
+  "CED", // forgetting
 ];
 
 const index = Math.floor(Math.random() * trinymBurmese.length);

@@ -36,9 +36,7 @@ Autonomy Empathy Equilibrium
 
 - name
 	+ The Brink
-	+ The Brim
 	+ The Crescendo
-	+ The Crest
 - demonym
 	+ Apeirons
 	+ Pyreans

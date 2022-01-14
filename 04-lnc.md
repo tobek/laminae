@@ -16,6 +16,8 @@ intro: |
 
 TODO(rather than built once here and once there, is it that it is in both places, but just the building? big changes. maybe still built on "both" places at once)
 
+TODO(being opposed CND, is the 2nd law of thermodynamics reversed here and that's how shapers get stuff?)
+
 - their ethic seems to be that nothing has any real intrinsic moral or emotional value, no intent, everything is just an opportunity for experience and creative genesis. mention more of this?
 - more personality
 - the beginning is boring and encyclopedic, interesting stuff only comes to the end - reorganize

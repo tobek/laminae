@@ -49,6 +49,7 @@ many more things are made than are released - why/how? not sure
     + Rhemes (linguistic term: comment that is being made about topic of sentence)
 - quote search NNC
 - environment
+    + theory that cliff is imperceptibly curved and is on inside of rim or outside of steep mountain
     + maybe yemen mountain cropped?
     + network of caves in cliff face/endless wall
     + the rock provides all kinds of stuff, they dig in
@@ -92,3 +93,5 @@ many more things are made than are released - why/how? not sure
 ## Rumors & Mysteries
 
 *Antipode*
+
+*Curving*

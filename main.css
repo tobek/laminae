@@ -218,7 +218,6 @@ a.ref:not([href]):hover {
 .tooltip {
   visibility: hidden;
   opacity: 0;
-  pointer-events: none;
   position: absolute;
   transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out;
   z-index: 999;
@@ -255,6 +254,32 @@ a.ref:not([href]):hover {
     width: auto;
     max-width: 75%;
   }
+  .tooltip .read-more {
+    display: block;
+    position: relative;
+    margin-top: 0.33em;
+  }
+    .tooltip.no-text {
+      padding-right: 42px; /* make room for absolutely positioned :after glyph */
+    }
+    .tooltip.no-text .read-more {
+      margin-top: 0;
+    }
+    .tooltip .read-more:after {
+      font-family: var(--glyph-font);
+      content: 'န';
+      position: absolute;
+      top: -5px;
+      margin-left: 7px;
+      font-size: 1.08rem;
+      transform: rotate(-90deg);
+    }
+    @media (hover: hover) and (pointer: fine) {
+      .tooltip.no-text,
+      .tooltip .read-more {
+        display: none;
+      }
+    }
 
 .karedian,
 .glyph {
@@ -486,7 +511,6 @@ blockquote {
   }
   .footnote-back:after {
     font-family: var(--glyph-font);
-    /*content: 'ရ';*/
     content: 'န';
     position: absolute;
     left: 8px;

@@ -84,7 +84,7 @@ info gathering
     - some place where you can peer through the looking glass of "what if" moments in your own life. CNC? CGC? CNP? eh
     - realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe, or else CNC or CGC. used in CNC but open to it going elsewhere
     - oracle(s) maybe in CNP? CGC somehow?
-    - they worship a god who is crazy but they love it
+    - they worship a god who is crazy but they love it CGC NEP
     - something where everything is like a play, or all interactions are formulaic - NGP probably, could be CGC
     - "you: human creativity is a glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 NEC, CNC, CGC
     - hive mind

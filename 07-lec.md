@@ -47,7 +47,7 @@ intro: |
 
     Some Oriels seek an objective beauty, constructed according to elegant geometric proofs laid out for all to see, but beauty of course is an experience that unfolds in the beholder, and so Oriels warp and transfigure themselves in order to behold ever more esoteric and intense experiences of beauty, inventing philosophies and bodies and states of mind to inhabit. Others pursue beauty outside their own selves, in the breeding of outlandish creatures, or in sexual pursuits, or in the invention of musical structures, mathematical theories, languages and scripts and social experimentations that rival those of REF[the Brink](CGP). No natural light suffuses the Macula, and so even vision is an act of Oriel agency: the harnessing of light here is a universal art, one that provides another axis along which Oriels distinguish, judge, and focus their efforts.
 
-    No other lamina channels the gales of REF[Creation] with such intensity and precision,^[Perhaps one could make an argument that, in it's own much smaller and focused way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
+    No other lamina channels the gales of REF[Creation] with such intensity and precision,^[Perhaps one could argue that, in it's own narrower and more practical way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
 
     Far beyond the ornate clusters of Oriel abodes REF[laminal](laminals) titans are occasionally found wandering slowly in the blackness. Oriels avoid them and could report little to this visitor except to note a distant feature known as the Cleave: <gpt>a mighty mountain split evenly down its center. On one side of this mountain reportedly stands a gorgeous and luminescent woman eternally chiseling the stone into perfect statues of the most beautiful figures. The other half is populated by those statuesque giants who end their meanderings here lusting after her, and in doing so their bodies and minds slowly deform and harden.</gpt>
 
@@ -86,7 +86,7 @@ more quotes:
 	- Barbarella decadence
 	- palaces & monuments
 	- dark eldar
-	- bottom x% constantly sacrificed/transmuted? LEP too
+	- bottom x% constantly sacrificed/transmuted? LEP LEC
 		- can choose to be sacrificed OR transmuted into some more beautiful form (grotesque ish)
 	- led by the most beautiful
 	- varying standards of beauty, some impenetrable to outsiders
@@ -111,7 +111,8 @@ info gathering
 	- https://en.wikipedia.org/wiki/Lookism
 	- https://en.wikipedia.org/wiki/Processing_fluency_theory_of_aesthetic_pleasure
 - elements
-	- looking for the chosen one - and then what?
+	- selective breeding - chosen-one-ish, but different
+	- "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html - LEC?
 	- mirroring/doppelgangering
 	- sex
 	    + sex ed: everyone tries everything and then chooses what they're into

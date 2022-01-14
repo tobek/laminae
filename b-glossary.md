@@ -5,32 +5,36 @@
 		border-collapse: collapse;
 	}
 		td {
-			padding: 0.5rem 0;
+            line-height: 1.25;
+			padding: 0.67rem 0;
 			vertical-align: top;
 		}
 		td:first-child {
 			width:  160px;
-			padding-right: 1rem;
+			padding-right: 1.26rem;
 			/*font-weight: bold;*/
 		}
 	    table .glyph {
 	    	display: block;
-	    	margin-top: -0.25rem;
 	    }
 	    @media only screen and (max-width: 767px) {
 	    	tr {
 	    		display: table;
 	    		width: 100%;
-	    		margin-bottom: 1rem;
+	    		margin-bottom: 1.26rem;
 	    	}
 	    	td {
 	    		display: table-row;
 	    	}
+                .terms td:first-child span {
+                    display: inline-block;
+                    padding-bottom: 0.33rem;
+                }
 		    table .glyph {
 		    	display: inline-block;
 		    	float: right;
 		    	line-height: 1;
-		    	margin: 0 0 0.5rem;
+		    	margin: 0 0 0.67rem;
 		    }
 	    }
 
@@ -46,7 +50,7 @@
 
 ## <dfn no-index>General Terms</dfn>
 
-<table>
+<table class='terms'>
     <tr><td>REF[Apertures](cosmography#apertures)</td><td>Locations where two realms are joined in such a way that you may slip between them. They appear as uncanny distortions through which passage can be disorienting and dangerous.</td></tr>
     <tr><td>REF[Cardinal Worlds](cosmography#cardinal)</td><td>The cardinal worlds make up our foundational, everyday reality over which the laminae are layered.</td></tr>
     <tr><td>REF[Laminae](cosmography#laminae)</td><td>Afterworlds that are each aligned with a particular set of facets. The twenty-seven laminae are layered on top of our reality and interact with it in myriad ways.</td></tr>

@@ -4,7 +4,7 @@
 
 - add kylix to untranslated note
 - At least stub content for all laminae (12 remaining)
-    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC
+    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED
 - Style pass and improvements across the site `4h`
 - Closing Notes chapter `8h`
 - Colophon `4h`
@@ -26,18 +26,21 @@
     + Don't start every intro with a T word
     + middot(s) (replace [semi]colon, replace image caption dashes)
     + more translator notes
+        * and: unreadable due to damage, spilled ink, etc
     + include the dissimulation `30m`
     + update favicon
-    + add/update/shift images for LNC, CGP, NNC, CEP, soblei (check pinterest)
+    + add/update/shift images for LNC, CGP, NNC, CEP, soblei (check pinterest), akiya kageichi CND banquet
     + consider ꩣ ဘ for autonomy
     + decide on non-laminae TOC glyphs
     + capitalize Cardinal or no?
     + images (and OG) for non-lamina pages
     + add "FOR THE CURIOSITY of the LEARNED PUBLIC" to the title?
+    + add verges/apertures stuff to CND and LNC (CEC at all?)
 
 ## do (more) but not critical for deadline
 
 - Add GPT-3 content in distinct visual style `4h`
+    - add Inevitability GPT stuff, make a mysteries section for the city
 - More content about the author `4h`
 - A close edit pass across the whole thing (review on page) `8h`
 
@@ -51,6 +54,10 @@
     + change URLs to glyphs
     + remove any remaining D&D IP
 
+## underserved laminae
+
+- LGD
+
 # big questions
 
 - perhaps something changed to seal off the Ordial, and that's why the guild and everyone have no evidence for it?
@@ -62,6 +69,7 @@
 - meaning behind effects (shifting & gpt3)
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 - include conduit?
+- how do they interact with each other? have referenced "interlaminal" affairs in Soblei and LED, what is that
 - language??
     + can petitioners and mortals understand each other? handwave something? how to petitioners from different worlds understand each other??
     + planescape it's just celestial/infernal etc?
@@ -76,6 +84,7 @@
 
 # big ideas
 
+- doppelganger thing, yeah maybe they are on every lamina, or for author at least, taking different forms on each
 - branch out with allusions
     + pick an oulipo process and a myth or concept and see where they go
 
@@ -585,44 +594,40 @@ viz:
 
 ## ■▤□ Styles
 
+### new questions
 
-### go over
+- tooltip "turn to section/chapter" copy? "read more" feels to internet-y
+- tooltip link to view more on desktop too?
 
-- later
-    - title page stuff
-    - colors?
-- TODO
-    - parchment
-    - don't link "the" - dunno actually
-    - lighter/less saturated/lower opacity color for visited - done
-    - rustier red
-    - double middot? lower?
-        - maybe single middot for semicolon, double middot for colon, both lower
-    - wider index - or two columns?
-        - letter segregated index
-- confirm fonts
-    + Poliphilus: body and bold
-    + Cormorant Garamond: headings and italics
-    + use other Poliphilus?
-        * use original style?
-            - \Q, \X, \Y, \Z, \h, \v changes - really just capital QZYZ are the good ones
-            - probably skip the \?
-        * no more slanty -
-        * use their italic instead of cormorant garamond prob
-        * where to use italic display swashes? i guess beginning of quotes
-            - and/or the dropcaps
-        * standard vs display?
-        * man maybe an option to use long s and its ligatures
-- title page
-    + spacing, caps, weights - LATER
-    + table of contents style
-    + table of contents division: guild vs. translation
-- every element in styleguide
-    + viz
-    + headings okay?
-    + middot · (with nbsp before) instead of colons? instead of semicolons?
-    + shifting
-- colors and element styles
+### definitely do
+
+- parchment
+- change mobile nav bar color
+- more mobile and browser compatibility check
+    + styles, fonts, what else?
+- fix drop caps
+    - `function o(c) {$0.innerHTML = c + $0.innerHTML.substring(1)}`
+    - add them all to style guide haha
+    - CGHJKLNQRSZ need vertical space (change -17px to -7px)
+    - KLNQR need horizontal space too (varying amounts)
+    - for some, at least for L, could be resolve by moving it up a bit so the swash fits in the middle, though for some, like K, that looks weird maybe. certainly handles other ones that need vertical space though
+- parchment
+
+### please do
+
+- tissue guard
+- viz legend too narrow on some mobile widths
+- footnote tooltips for now? check some v long ones
+- favicon
+- double middot? lower?
+    - maybe single middot for semicolon, double middot for colon, both lower
+- wider index - or two columns?
+    - letter segregated index
+- make footnote target bigger
+- "about" in bottom right is crowded on mobile
+- decide on shifting palimpsest
+- finalize colors and element styles
+    + rustier red?
     + background colors
         * manuscript texture?
     + mobile nav bar color?
@@ -631,47 +636,6 @@ viz:
     + #b00000: links
     + should facets be #113a6b everywhere? just glyph or whole link? viz + facets page
     + should facet glyphs in lamina links be #113a6b? e.g. cosmography intro - also home page TOC?
-- glyph square?
-- more noticable visited vs. unvisited links
-    + and `:hover` vs `:visited:hover`
-- index/glossary general style thoughts
-- glyphs before/after facets/laminae?
-    + related to decision of whether to link and/or capitalize "the", cause "[glyph] the Lamina" is weird
-    + currently have before for facets, after for laminae, doesn't make the most sense. check intro, facets, cosmography, and some lamina. before is definitely good for viz facet legend
-- facet names in lamina tooltip?
-- linking "the" (and not capitalizing) - currently no breaking
-    + styleguide intro
-- "about" in corner - especially on mobile
-    + guess this will be colophon? call it that? it's out-of-character
-- favicon
-- should footnotes show footnote in tooltip? some are long-ish
-- tooltip on mobile: click once to show, again to go? or some "view more" link to be extra clear
-- images
-- for later, but:
-    + mobile nav overflow
-        * 14-nnp is tightest lamina
-        * "primer on ordial plane" breaks
-        * indent under raquo
-    + regular vs translators notes - different footnote numbering/section?
-    + decorative titles and endings (inspo/styles)
-
-### definitely do
-
-- change mobile nav bar color
-- full screen?
-- tooltip on mobile
-    + can use hover + fine pointer as in viz
-    + references - tap should pop up, with link to view more
-        * link to view more on desktop too?
-- more mobile and browser compatibility check
-    + styles, fonts, what else?
-- "about" in bottom right is crowded on mobile
-- fix drop caps
-    - `function o(c) {$0.innerHTML = c + $0.innerHTML.substring(1)}`
-    - add them all to style guide haha
-    - CGHJKLNQRSZ need vertical space (change -17px to -7px)
-    - KLNQR need horizontal space too (varying amounts)
-    - for some, at least for L, could be resolve by moving it up a bit so the swash fits in the middle, though for some, like K, that looks weird maybe. certainly handles other ones that need vertical space though
 
 #### fonts
 
@@ -693,12 +657,16 @@ check if better to do:
 
 #### additions
 
+- glyph square?
+- facet names in lamina tooltip?
+- full screen?
 - gpt3 style
 - shift style (overlay stuff)
 - footnotes/hash fragment links should highlight word (and maybe paragraph)
     + maybe like some scroll curlicue drawn around it or to the side
     + or a glow
 - footnotes should be margin notes like gwern?
+- decorative titles and endings (see inspo/styles)
 - drop caps updates
     + AKA decorated initials (historiated/illuminated initial)
     + go one heading level deeper?
@@ -890,6 +858,8 @@ consider mobile
 
 ### shifting and gpt3
 
+*PROBLEM* - both guild stuff (just name) *and* author stuff (quotes) shift. so they both do this thing? (don't know who images belong to yet). one option is to make all of these belong to the guild explicitly (would have to update attribution and refernce to quotes on NND and CGC), but like that's a lotta guild content.
+
 some way to always show a certain one the first time, e.g. NGP landscape. just need to keep track of if seen or not. not perfect cause could be off screen but that's okay. probably don't do idle timeout for that page load
 
 shiftwrights
@@ -927,6 +897,10 @@ show another random selection, e.g.:
         <span class="guild-term" style="position: absolute; opacity: .1;">Order</span>
         Circle
     </span>
+
+instead actually could duplicate the existing one and offset it, double-vision style
+
+for images could show a ghost of other (or same) image offset
 
 #### shift brainstorm
 
@@ -999,6 +973,8 @@ long delay: 1 hour
 need to have an easy way to see which images are currently in use and on what page
 
 need to be able to, in one place, update an image to be decided to be used in 1 place, or no longer a candidate for a certain place, etc.
+
+issue: image a gets labeled LEC and added to LEC folder. later, it gets appended with LED and added to LED. from LEC folder you can't see it's pending for LED also. main folder is source of truth
 
 prob need caption, metadata, author link, etc...
 

@@ -358,12 +358,21 @@ for file_id, data in file_data.items():
             if anchor.get("file_id") != file_id:
                 ref["href"] = anchor.get("href")
                 if anchor.get("untranslated"):
-                    ref["href"] = ref["href"][:ref["href"].index("#")] + "#untranslated" # from index, link to the untranslated note anchor
+                    ref["href"] = ref["href"][:ref["href"].index("#")] + "#TOC" # from index, link to the TOC anchor, where they will also see untranslated note
                     ref["class"] = ref.get("class", []) + ["untranslated"]
                     tooltip.string = "The referenced text has not yet been translated."
 
+            if not ref["href"]:
+                raise Exception('REF with no href!')
+
             if not tooltip.string:
-                tooltip.decompose()
+                tooltip["class"] = tooltip.get("class", []) + ["no-text"]
+
+            read_more = soup.new_tag("a", href=ref["href"])
+            # TODO(refs that don't have text/tooltips will, on mobile, jump straight to the page.)
+            read_more.string = "Turn to section" if ref["href"][0] == "#" else "Turn to chapter"
+            read_more["class"] = "read-more"
+            tooltip.append(read_more)
 
             # print(ref)
 
@@ -382,7 +391,7 @@ glossary = [a for a in index if a["def"]]
 # print(); import pprint; pprint.PrettyPrinter(indent=2).pprint(anchors)
 
 def get_gloss_table(glosses, lams=False):
-    gloss_table ="\n<table>\n"
+    gloss_table = "\n<table>\n" if lams else "\n<table class='terms'>\n"
     for gloss in glosses:
         glyphs = gloss["id"].upper() if lams else ""
         if glyphs:

@@ -5,12 +5,12 @@
 		border-collapse: collapse;
 	}
 		td {
-			padding: 0.25rem 0;
+			padding: 0.33rem 0;
 			vertical-align: top;
 		}
 		td:first-child {
 			width:  225px;
-			padding-right: 1rem;
+			padding-right: 1.25rem;
 			/*font-weight: bold;*/
 		}
 	    table .glyph {
@@ -20,7 +20,7 @@
 	    	tr {
 	    		display: table;
 	    		width: 100%;
-	    		margin-bottom: 1rem;
+	    		margin-bottom: 1.25rem;
 	    	}
 	    	td {
 	    		display: table-row;

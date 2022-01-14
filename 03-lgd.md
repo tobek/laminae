@@ -1,4 +1,4 @@
-# The Ardence
+# The Lambent
 
 ---
 subtitle: Hierarchy Empathy Dissolution LGD
@@ -8,12 +8,12 @@ quote: |
     > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 intro_only: True
 post_intro_only: MEDIA("Waneella - Sijanie (Shine).gif")
-summary: Dark, star-slicked highlands of altars and shrines, each dedicated to a single exceptional petitioner who awaits one final and fatal quest worthy of their heroism.
+summary: Dark, star-slicked highlands of altars and shrines, each bearing a single exceptional petitioner who awaits one final and fatal quest worthy of their heroism.
 intro: |
 
-    Most laminae offer mortals the chance for eternal perfection of their philosophical and spiritual ideals as reincarnated petitioners. The Ardence, however, is a way station on a path to noble oblivion. The champions who find themselves reborn among these dark, star-slicked highlands of altars and mausoleums are instilled with a single purpose: to find one last mission worthy of their abilities, a challenge so perfectly matched that it results in the hero's success and destruction. Pilgrims journey to this lamina to appeal to these heroes for aid, and councils of native bookkeepers receive these pleas and assess the odds that it will be appropriately valiant and perilous before sending their champion forth for their final struggle.
+    Most laminae offer mortals the chance for eternal perfection of their philosophical and spiritual ideals as reincarnated REF[petitioners]. The Lambent, however, leads only to noble oblivion. The rare paragons who find themselves reborn as Clarions among these dark, star-slicked highlands of altars and mausoleums are instilled with a single purpose: to find an ultimate endeavor worthy of their abilities, a challenge so precisely matched that it results in both the hero's success and destruction. Pilgrims journey to this lamina to appeal for aid, and councils of REF[laminal](laminals) known as Certoriari receive these pleas and assess the odds that it will be appropriately valiant and perilous before sending a champion forth for their final struggle---sometimes in material form, and sometimes by grasping the minds of mortals through REF[verges]. It is a delicate assessment, for Clarions who survive their quests and remain stranded outside the Lambent will often go mad and cause great destruction.
 
-    No songs are sung nor monuments erected to commemorate the deeds of those who pass through this place: all memories of the heroes that leave are erased from the minds of residents and supplicants alike. It is not a land of myth or renown, nor ledgers and historical tomes, only hard work and sacrifice for a greater good. Nothing is commemorated, and the fallen are forgotten.
+    No songs are sung nor monuments erected to commemorate the deeds of those who pass through this place: all memories of its heroes slip from the minds of residents and supplicants alike. It is not a land of myth or renown, nor ledgers and historical tomes, only labor and sacrifice for greater causes. Nothing is commemorated and the fallen are forgotten.
 
 ---
 
@@ -33,25 +33,44 @@ kinda needs an overhaul and more flavor/complexity
 - bureaucrats ensure missions aren't anywhere where hero will be recognized
 - its believed that every hero has one mission for which they are perfect, bookkeepers assess this
 - TODO replace hero/champion/etc with demonym
-- TODO come up with name (or just stick with) bookkeepers, and find and replace
+- TODO come up with name (or just stick with) bookkeepers, and find and replace - Certoriari
 - maybe different colors (of pavilions and/or champions) based on different spectral emissions/fluorescence of a system of qualities. maybe all the warriors are aesthetically transformed into this?
-- One class: thieves who seek out and return stolen goods
+- One class: thieves who seek out and return stolen goods. how would they die
+- those that just convince people, wreak great diplomatic successes? but then how would they die
 - Talk about frozen hero at each pavilion
 - if you see the hero: one can be waneella black knight
-- MEDIA(Doug Wheeler at Palazzo Grassi)
 
+notes
+
+TODO(ahh what if LGD is The Bell and Certoriari/Bookkeepers are Bellkeepers. NGC could be The Keyhole)[]
+
+- name
+    - The Ardence
+    - The Fell (of terrible evil or ferocity, deadly)
+    - The Knell
+    - The Lambent (glowing/gleaming/flickering with soft radiance)
+    - The Zenith
+- demonym
+    - Ardents
+    - Clarions
+    - Lambents
+- possible elements
+    - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC, maybe even CNP, LED)
+    - "They can't tell a context story. They can't tell a structure story. They have to tell a hero story." hakim bey. should one plane be a hero story? (LGD) But one which ends up deeply reflecting the context?
 
 (some reversal on the prototypical myth of hero who ventures into the underworld - unlike the prototype, these heroes do not return, and are forgotten. it's argued by fans that this is an authentic approach to heroism)
 
 ## Environment
 
+TODO(maybe use word lambent here if not used for lamina name)[]
+
 The landscape of the Ardence is otherworldly---hushed and soft and still. The sky is perpetual starry night, brilliant and twinkling, while the terrain is rolling and craggy and covered in rock, moss, heather, and occasional scrub, all in shades of deep gray and black, with occasional muted splashes of somber purple or dull gold. A steady cool breeze causes slight movement. Peaks and the occasional valley or cliffside are crowned by glittering pavilions, each ready to serve as the temporary resting place of a single champion.
 
 Though known generically as pavilions, these structures range in size and style from small altars and follies to sprawling amphitheaters, and they cover the land: from any vantage point you are likely to see at least one pavilion in the distance, and often several. All are made from deep black stone with a subtly colorful iridescent surface and edges that glint in sharp gold. Each calls out to heroes who evince particular preferences: temples and barracks and libraries attracting clerics and warriors and mages, while the size and grandeur tend to match the valor of the champions who wait within them. Innumerable finer distinctions arise: while some pavilions and their champions are more general-purpose, others are dedicated to eternal struggle against ills as varied as necromancy, political tyranny, theft, misinformation, or elemental rampage. In all these cases, structural form echoes motivation and function.
 
-### TODO(term)[Bookkeepers]
+### Certoriari
 
-Native outsiders known as ____ live here. They are a solemn, industrious, but gentle TODO(no less fantasy race stuff?)[race of tall humanoids] with graying flesh and slender, sharp, gaunt faces. They shroud themselves in a dark uniform of hooded, ornate robes, each unique and tumbling with metallic embroidery in complex, methodical patterns.
+Native REF[laminals] known as ____ live here. They are a solemn, industrious, but gentle TODO(no less fantasy race stuff?)[race of tall humanoids] with graying flesh and slender, sharp, gaunt faces. They shroud themselves in a dark uniform of hooded, ornate robes, each unique and tumbling with metallic embroidery in complex, methodical patterns.
 
 Each ____ resides at and tends to one of the pavilions. Sometimes they are the sole such resident but often they are one of a dozen or more. They are responsible for receiving visitors and assessing their needs in light of the rules of this place and the capabilities of their current champion, a complex process discussed in the following chapter.
 
@@ -79,19 +98,13 @@ If a supplicant's request is rejected, their belongings are returned to them and
 
 If a supplicant's request is accepted, the hero is woken. The supplicant and bookkeepers inform the hero of all they know, and a TODO/ritual (describe it) is conducted, in which the robes are burned and the hero sent forth by TODO/teleportation to the appropriate location. The supplicant's belongings are returned, and they are released to return the way they came, knowing only that their request was honored.
 
-### TODO/term(The Hero Beyond, or The Hero Utterly, as in how sentences start?)[The Hero Utterly]
+### TODO/term(The Hero Beyond, or The Hero Utterly, as in how sentences start?)[The Maddened]
 
 There are many reasons why bookkeepers work so hard to ensure that a challenge is sufficiently perilous to ensure a fatal victory for their hero. Firstly, any lesser challenge would be a waste of their hero's prowess. TODO/reword Their valiance must be used to the last drop. The second reason is widely feared. A hero that has passed through this realm emerges blinded with vengeful purpose, with all intent boiled and distilled into their quest, and if they do not perish in the process, no consciousness remains: only force and might. These broken raving saviors know only destruction, and wreak it upon anything in their presence. Entire cities have been leveled in the misguided aftermath of such episodes, and the hero will not stop until slain or lost.
 
 The source of this effect is TODO disputed, maybe necessary side effect of channeling all might into purpose, or perhaps place was cursed, is it done on purpose or just the fabric of the plane. Whether the effect is intentional on the part of the bookkeepers or whoever lay the foundation of ____, or whether it is simply infused into the logic this place
 
-## Visitors
-
-## History
-
-### <dfn no-index>Heroic Episodes</dfn>
-
-most successful, a few broken
+## Visiting
 
 ## Locations
 
@@ -101,4 +114,18 @@ most successful, a few broken
 
 one huge pavilion (what theme?) has been closed in deliberation for as long as anyone can remember
 
+<!-- ## Figures & Groups -->
+
+<!-- ## Festivals & Traditions -->
+
+## History
+
+### <dfn no-index>Clarion Episodes</dfn>
+
+most successful, a few broken
+
 ## Rumors & Mysteries
+
+### The Untapped
+
+those who never get used?

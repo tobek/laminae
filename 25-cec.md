@@ -96,7 +96,7 @@ On these trips to the mainland, members of the Islet interface delicately with F
 
 #### The Islet Conservatory
 
-At the center of the community, dug into the ground around the rhythmic spring itself, is a lattice-walled conservatory that functions as a botany museum, research laboratory, and art gallery. Spring-fed rivulets trickle down multi-level aqueducts and along channels in the floor. From the infinite palette of the Bloom has been composed a baffling harmony of color, scent, shape, and texture. The garden here is tended to largely by a lone mute Floret child who won the trust of one of the founding matriarchs and has remained here since.
+At the center of the community, dug into the ground around the rhythmic spring itself, is a lattice-walled conservatory that functions as a botany museum, research laboratory, and art TODO(better term)[studio]. Spring-fed rivulets trickle down multi-level aqueducts and along channels in the floor. From the infinite palette of the Bloom has been composed a baffling harmony of color, scent, shape, and texture. The garden here is tended to largely by a lone mute Floret child who won the trust of one of the founding matriarchs and has remained here since.
 
 MEDIA("nausicaa valley of the wind - secret garden - 01.jpg")
 

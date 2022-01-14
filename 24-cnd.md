@@ -175,7 +175,7 @@ The only figures that regularly stray from the Procession---never far---are the 
 
 Certain individuals are so distinctive, venerable, and skilled as to be treated by locals and visitors alike as demigods of their domains. These Unravellers possess to an alarmingly magnified degree the same entropic aura which in their brethren only delicately guides nature along its course. Around these powers minor calamities unfold as appropriate to each one's influence: clothing tears, food turns sour, thoughts derail.
 
-**Jindl, of broken chairs**, a ludicrous gangly figure constantly humming to himself, around whom the ground is the only reliable seating surface.
+**Jindl, of broken chairs**, a ludicrous gangly figure constantly humming to himself, around whom the ground is the only reliable seat.
 
 **Goramor, of malfunctioning mechanical weapons**, an unimaginably ancient gnome with intuitive comprehension of the most alien of devices.
 

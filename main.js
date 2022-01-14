@@ -178,6 +178,7 @@ document.addEventListener("visibilitychange", function() {
   }
 }, false);
 
+const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 function initTooltips() {
   Array.from(document.querySelectorAll(".tooltip-wrap")).forEach(wrapEl => {
     const tooltip = wrapEl.querySelector(":scope > .tooltip");
@@ -226,6 +227,14 @@ function initTooltips() {
     ['mouseleave', 'blur'].forEach((event) => {
       anchor.addEventListener(event, hide);
     });
+
+    if (!canHover) {
+      anchor.addEventListener("click", (e) => {
+        if (tooltip.classList.contains("show")) {
+          e.preventDefault();
+        }
+      });
+    }
 
     tooltip.classList.add('ready');
   });

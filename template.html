@@ -99,10 +99,7 @@ $endif$
 $if(hide_toc)$
 $else$
   $if(toc)$
-    <nav id="$idprefix$TOC" role="doc-toc">
-    $if(toc-title)$
-      <h2 id="$idprefix$toc-title">$toc-title$</h2>
-    $endif$
+    <nav id="TOC" role="doc-toc">
     $table-of-contents$
     </nav>
   $endif$
