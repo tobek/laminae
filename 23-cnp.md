@@ -32,6 +32,7 @@ what's the point?
 
 - just a beautiful place to be alone
 - platonic ideal of endless hermetitude
+- perfect autonomy: each individual has literally nothing to do with every other individual
 -->
 
 
@@ -58,19 +59,16 @@ info gathering
 - questions
 - future research
 - possible elements
-    - generation ship?
     - lost & found?
     - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NEP, NND, LED)
         - could be some rumor or historical thing or weird intervention
-    - an oracle
-    - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC, maybe even CNP)
     - doppelganger
     - there's a prison here?
     - everything in black/white
-    - ice age engulfed something ("epic fantasy art dump - byPC1eB.jpg") - could be some old thing in CNP
     - some place where you can peer through the looking glass of "what if" moments in your own life. CNC? CGC? CNP? eh
     - theories relating to black holes (maybe in CNP or CEP)
     - indra's net could be here?
+        - if so, indra's net works for CNP but would be kind of a rebuke of *this* incarnation of CNP, in which everyone is totally alone and there is no reflection of anything. so it's like an alternate CNP
 - notes
 - research notes
 

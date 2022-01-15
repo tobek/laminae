@@ -35,12 +35,11 @@ many more things are made than are released - why/how? not sure
 - name
     + The Asymmetry
     + The Consonance
-    + The Fell
     + The Figure
+    + The Formation - or this
     + The Hew
     + The Kinesis
-    + The Marrow TODO maybe this
-    + The Recital
+    + The Marrow - TODO maybe this
     + The Sum
 - demonym
     + Grains
@@ -57,7 +56,6 @@ many more things are made than are released - why/how? not sure
 - culture
 - filament library if not LNP
 - halting problem!!
-- One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move
 - polyhedral distortion
 - clone awaits you
 - elemental forces

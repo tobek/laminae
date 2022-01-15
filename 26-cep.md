@@ -26,6 +26,8 @@ what's the point?
 - powerful
 -->
 
+TODO(consider changing this to be less inhospitable in more teeming, but equally weird? to go with the equilibrium cycle LGP LEP CGP CEP - or maybe just own it, but this should have something to do with that cycle)
+
 ouroboros. inhabitants routinely eat themselves. aura makes things regenerate.
 
 the way to protect yourself from the ouroboros is to get them to catch their own tails, which distracts them for a while, maybe forever? each ouroboros is extremely unique, and ones which were self eating have later been seen to be no longer self eating, but no one has ever seen the transition. what happens? does it just... stop? does it... succeed? maybe they constantly grow at crazy speed, so unless they eat themselves, they just get enormous.
@@ -36,9 +38,10 @@ the way to protect yourself from the ouroboros is to get them to catch their own
 	+ The Gnarl
 	+ The Husk
 	+ The Knot
-- demonym
+- demonym TODO(reconsider)
 	+ Coilers
 	+ Feuds
+	+ Grasps
 	+ Grips
 	+ Rifes
 	+ Whorls

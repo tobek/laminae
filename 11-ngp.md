@@ -78,7 +78,7 @@ what's the point?
 	+ truth & reconciliation committees/events
 	+ art therapy? https://en.wikipedia.org/wiki/Creative_peacebuilding
 	+ "fair fighting" like a duel
-	+ "dramas" like ebru's thing, maybe stock play with formulaic roles
+	+ "dramas" like ebru's thing, maybe stock play with formulaic roles (overlap with LGC?)
 	+ group journeys to/from the mesas
 	+ all sides being disappointed is good
 	+ some "breath house" where you breathe in interesting things in special ways (and it responds to you, and syncs up multiple people?)

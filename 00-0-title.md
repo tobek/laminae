@@ -303,7 +303,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 <div class="lamina">
 <div class="lamina-section">
 <div class="row">
-  <div class="left"><div class="numeral">1.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="01-lgc"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">1.</div>REF[LGC]</div>
   <div class="dots"></div>
   <div class="page">LGC</div>
 </div>

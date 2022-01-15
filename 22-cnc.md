@@ -90,7 +90,6 @@ info gathering
     - some place where you can peer through the looking glass of "what if" moments in your own life. CNC? CGC? eh
     - doppelganger kinda makes sense, the mutatorium folks can't explain, a bit fearful. other candidates: maybe weirdly LGC? NGD, CGD, LEC, LEP, NEC, CEP, CNC, CGC
     - "liminal deity" (presiding over transitions, thresholds, crossers of boundaries) CNC? CGD?
-    - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC)
     - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC, CNC)
     - realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe, or else CNC or CGC
     - no one experiences boredom?

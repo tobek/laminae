@@ -7,7 +7,7 @@
 
 | | | | |
 | :-- | :-- | :-- | :-- |
-| <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> |
+| <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
 | <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">◍○○○○○</span> |
 | <span class="glyph">ꩧ၇ꧠ</span> | <span class="bloop">●◍◍◍◍○</span> | <span class="glyph">ꧪဋဗ</span> | <span class="bloop">◍◍◍○○○</span> |

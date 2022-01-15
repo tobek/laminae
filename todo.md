@@ -2,16 +2,15 @@
 
 ~60h = 12h/day
 
-- add kylix to untranslated note
-- At least stub content for all laminae (12 remaining)
-    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED
-- Style pass and improvements across the site `4h`
-- Closing Notes chapter `8h`
-- Colophon `4h`
-- Review every TODO and every task in this doc to triage any important ones
+the only thing i didn't do is "link image authors" and i didn't do an editing pass over the laminae i wrote in the last few days
+
+- At least stub content for all laminae (8 remaining) `11h`
+    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED, 4.5 LGC
+- Closing Notes chapter `4h`
+- Colophon `2h`
 - Other misc bits
     + link image authors
-    + decide where to host it
+    + decide where to host it, upload `1h`
         * laminae.xyz
         * laminae.org
         * laminae.guide
@@ -19,9 +18,19 @@
         * thelaminae.net
         * thelaminae.com
         * 27laminae, twentysevenlaminae
+
+## do (more) but not critical for deadline
+
+- Style pass and improvements across the site `4h`
+- Review every TODO and every task in this doc to triage any important ones
+- Add GPT-3 content in distinct visual style `4h`
+    - add Inevitability GPT stuff, make a mysteries section for the city
+- More content about the author `4h`
+- A close edit pass across the whole thing (review on page) `8h`
+- Bits
+    + add kylix to untranslated note
     + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + OG tags
-- Bonuses/considerations
     + Pablo Bronstein
     + Don't start every intro with a T word
     + middot(s) (replace [semi]colon, replace image caption dashes)
@@ -36,13 +45,7 @@
     + images (and OG) for non-lamina pages
     + add "FOR THE CURIOSITY of the LEARNED PUBLIC" to the title?
     + add verges/apertures stuff to CND and LNC (CEC at all?)
-
-## do (more) but not critical for deadline
-
-- Add GPT-3 content in distinct visual style `4h`
-    - add Inevitability GPT stuff, make a mysteries section for the city
-- More content about the author `4h`
-- A close edit pass across the whole thing (review on page) `8h`
+    + really de-emphasize untranslated stuff in glossary/index? what's a good experience here
 
 ## done
 
@@ -56,7 +59,7 @@
 
 ## underserved laminae
 
-- LGD
+- LGD, LED
 
 # big questions
 
@@ -69,6 +72,7 @@
 - meaning behind effects (shifting & gpt3)
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 - include conduit?
+    - (old note) maybe missing from LGC CEC CED or LEC
 - how do they interact with each other? have referenced "interlaminal" affairs in Soblei and LED, what is that
 - language??
     + can petitioners and mortals understand each other? handwave something? how to petitioners from different worlds understand each other??
@@ -84,9 +88,22 @@
 
 # big ideas
 
-- doppelganger thing, yeah maybe they are on every lamina, or for author at least, taking different forms on each
 - branch out with allusions
     + pick an oulipo process and a myth or concept and see where they go
+- doppelganger thing, yeah maybe they are on every lamina, or for author at least, taking different forms on each
+- overarching structures, maybe add an appendix, with description of each and updated visualization
+    - "understanding laminal perspectives/alignments/arrangements"
+    - one viz for each type, all those of the type are highlighted, if you hover then the opposite(s) highlight too
+    - maybe some interact with cardinal worlds more directly, others are like reservoirs for forces... see if anything lines up
+    - edges: 12x pillars, in 3x cycles of 4 - ones that are neutral in one and extreme on other two. the corners of central squares on cube, they all kind of... go together, some kind of statement about a particular problem. each a cycle
+        - synthesis cycle: NGC NGD NEC NED - sort of... channeling our energies and striving
+        - utility cycle: LNC LND CNC CND - what to do with the physical world
+        - equilibrium cycle: LGP LEP CGP CEP (CEP is a bit of a weird one maybe change) - organizing vast societies? maybe CEP is actually a vast society we don't get
+    - faces: 6x "absolutes/exemplars" in 3x pairs - ones that are neutral in two and extreme in one. these exemplify the extreme facet, and with their opposite pair they exemplify the opposing differences
+        - LNP/CNP NGP/NEP NNC/NND
+    - corners: 8x "extremes" in 4x pairs, where each facet is extreme - these are the weirder laminae, the least hospitable (okay but CEP and CNC and NNP are inhospitable... and LGD and CGD are perfectly hospitable, okay i guess it's just how weird they are)
+        - LGC/CED LEC/CGD LGD/CEC LED/CGC
+    - 1x NNP
 
 # misc after launch
 
@@ -602,19 +619,19 @@ viz:
 ### definitely do
 
 - parchment
-- change mobile nav bar color
-- more mobile and browser compatibility check
-    + styles, fonts, what else?
 - fix drop caps
     - `function o(c) {$0.innerHTML = c + $0.innerHTML.substring(1)}`
     - add them all to style guide haha
     - CGHJKLNQRSZ need vertical space (change -17px to -7px)
     - KLNQR need horizontal space too (varying amounts)
     - for some, at least for L, could be resolve by moving it up a bit so the swash fits in the middle, though for some, like K, that looks weird maybe. certainly handles other ones that need vertical space though
-- parchment
 
 ### please do
 
+- more mobile and browser compatibility check
+    + safari
+    + styles, fonts, what else?
+- change mobile nav bar color
 - tissue guard
 - viz legend too narrow on some mobile widths
 - footnote tooltips for now? check some v long ones
@@ -941,6 +958,7 @@ long delay: 1 hour
 
 ## ■▤□ Plates
 
+- man, fullscreen might be good, like e.g. LNC, i wanna see it
 - TODO
     - tissue guard default caption could be glyphs like <hr>
     - click > remove guard > click > show attribution

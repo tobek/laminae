@@ -32,6 +32,7 @@
 
 <table>
     <tr><td>Abandoned Archipelagos</td><td>REF[LNC](lnc#abandoned-archipelagos)</td></tr>
+    <tr><td>Actors</td><td>REF[LGC](lgc#actors)</td></tr>
     <tr><td>Affect Flooding</td><td>REF[CGP](cgp#affect-flooding)</td></tr>
     <tr><td>Amends</td><td>REF[NGP](ngp#amends)</td></tr>
     <tr><td>Anchor Trees</td><td>REF[CNC](cnc#anchor-trees)</td></tr>
@@ -40,12 +41,12 @@
     <tr><td>Apertures</td><td>REF[Cosmography](cosmography#apertures)</td></tr>
     <tr><td>Apotheosis</td><td>REF[CEP](cep#apotheosis)</td></tr>
     <tr><td>Architectural Services</td><td>REF[LNC](lnc#architectural-services)</td></tr>
-    <tr><td>Ardence, The</td><td>REF[LGD](lgd)</td></tr>
     <tr><td>Arrangement & Navigation</td><td>REF[Cosmography](cosmography#arrangement-navigation)</td></tr>
+    <tr><td>Articulators</td><td>REF[LGC](lgc#articulators)</td></tr>
     <tr><td>Astrals & Chthonics</td><td>REF[CGP](cgp#astrals-chthonics)</td></tr>
-    <tr><td>Asymmetry</td><td>REF[LND](lnd#asymmetry)</td></tr>
     <tr><td>Asymmetry, The</td><td>REF[NNC](nnc)</td></tr>
     <tr><td>Autonomy</td><td>REF[Facets](facets#autonomy)</td></tr>
+    <tr><td>Axioms</td><td>REF[LGC](lgc#axioms)</td></tr>
     <tr><td>Balancers</td><td>REF[LND](lnd#balancers)</td></tr>
     <tr><td>Bearing the Echo</td><td>REF[NGP](ngp#bearing-the-echo)</td></tr>
     <tr><td>Before the Blank</td><td>REF[LEC](lec#before-the-blank)</td></tr>
@@ -56,7 +57,6 @@
     <tr><td>Bloodfrees</td><td>REF[NGD](ngd#bloodfrees)</td></tr>
     <tr><td>Bloom, The</td><td>REF[CEC](cec)</td></tr>
     <tr><td>Body Instrumentation</td><td>REF[CGP](cgp#body-instrumentation)</td></tr>
-    <tr><td>Bookkeepers</td><td>REF[LGD](lgd#bookkeepers)</td></tr>
     <tr><td>Braid, The</td><td>REF[NGP](ngp)</td></tr>
     <tr><td>Breath House</td><td>REF[NGP](ngp#breath-house)</td></tr>
     <tr><td>Brink, The</td><td>REF[CGP](cgp)</td></tr>
@@ -64,9 +64,11 @@
     <tr><td>Cardinal Worlds</td><td>REF[Cosmography](cosmography#cardinal)</td></tr>
     <tr><td>Cartography, The</td><td>REF[NNP](nnp)</td></tr>
     <tr><td>Cauterization</td><td>REF[NGD](ngd#cauterization)</td></tr>
+    <tr><td>Certoriari</td><td>REF[LGD](lgd#certoriari)</td></tr>
     <tr><td>Choosing a Sanctum</td><td>REF[NGC](ngc#choosing-a-sanctum)</td></tr>
     <tr><td>Chords</td><td>REF[LNC](lnc#chords)</td></tr>
     <tr><td>Cicatrix, The</td><td>REF[NGD](ngd)</td></tr>
+    <tr><td>Clasp, The</td><td>REF[LGC](lgc#the-clasp)</td></tr>
     <tr><td>Cleave, The</td><td>REF[LEC](lec#the-cleave)</td></tr>
     <tr><td>Cleft, The</td><td>REF[NGP](ngp#the-cleft)</td></tr>
     <tr><td>Cloudburst</td><td>REF[NGC](ngc#cloudburst)</td></tr>
@@ -74,9 +76,12 @@
     <tr><td>Collective Howl</td><td>REF[NGD](ngd#collective-howl)</td></tr>
     <tr><td>Combustion</td><td>REF[CND](cnd#combustion)</td></tr>
     <tr><td>Commemoration</td><td>REF[NGD](ngd#commemoration)</td></tr>
+    <tr><td>Contours</td><td>REF[LGC](lgc#contours)</td></tr>
     <tr><td>Control Room, The</td><td>REF[LND](lnd#the-control-room)</td></tr>
     <tr><td>Cooking</td><td>REF[CND](cnd#cooking)</td></tr>
     <tr><td>Cosmography</td><td>REF[Cosmography](cosmography)</td></tr>
+    <tr><td>Councils of Sympathy</td><td>REF[LGC](lgc#councils-of-sympathy)</td></tr>
+    <tr><td>Crash, The</td><td>REF[LGC](lgc#the-crash)</td></tr>
     <tr><td>Creation</td><td>REF[Facets](facets#creation)</td></tr>
     <tr><td>Creation Eddies</td><td>REF[LEC](lec#creation-eddies)</td></tr>
     <tr><td>Crystallization</td><td>REF[CND](cnd#crystallization)</td></tr>
@@ -121,8 +126,8 @@
     <tr><td>Gorol</td><td>REF[CEP](cep#gorol)</td></tr>
     <tr><td>Growing Numb</td><td>REF[LEC](lec#growing-numb)</td></tr>
     <tr><td>Guilds</td><td>REF[LNC](lnc#guilds)</td></tr>
+    <tr><td>Harmonics</td><td>REF[LGC](lgc#harmonics)</td></tr>
     <tr><td>Hedonic Tides</td><td>REF[CGP](cgp#hedonic-tides)</td></tr>
-    <tr><td>Hero Utterly, The</td><td>REF[LGD](lgd#the-hero-utterly)</td></tr>
     <tr><td>Hierarchy</td><td>REF[Facets](facets#hierarchy)</td></tr>
     <tr><td>Hole in the Sky, The</td><td>REF[CGP](cgp#the-hole-in-the-sky)</td></tr>
     <tr><td>Howdahs</td><td>REF[CEP](cep#howdahs)</td></tr>
@@ -131,6 +136,7 @@
     <tr><td>Identity Exchange</td><td>REF[CGP](cgp#identity-exchange)</td></tr>
     <tr><td>Illusion of Insight, The</td><td>REF[NGC](ngc#the-illusion-of-insight)</td></tr>
     <tr><td>Immeasurable Banquet, The</td><td>REF[CND](cnd#immeasurable-banquet)</td></tr>
+    <tr><td>Increpation, The</td><td>REF[LED](led)</td></tr>
     <tr><td>Inevitability, The</td><td>REF[CND](cnd)</td></tr>
     <tr><td>Instrument, The</td><td>REF[LND](lnd)</td></tr>
     <tr><td>Instrumentalists</td><td>REF[LEC](lec#instrumentalists)</td></tr>
@@ -143,6 +149,7 @@
     <tr><td>Knife Edge, The</td><td>REF[NGD](ngd#the-knife-edge)</td></tr>
     <tr><td>Knot, The</td><td>REF[CEP](cep)</td></tr>
     <tr><td>Kylix, The</td><td>REF[CGC](cgc)</td></tr>
+    <tr><td>Lambent, The</td><td>REF[LGD](lgd)</td></tr>
     <tr><td>Laminae</td><td>REF[Cosmography](cosmography#laminae)</td></tr>
     <tr><td>Laminals</td><td>REF[Cosmography](cosmography#laminals)</td></tr>
     <tr><td>Language</td><td>REF[CND](cnd#language)</td></tr>
@@ -155,6 +162,7 @@
     <tr><td>Loss of Knowledge</td><td>REF[CND](cnd#loss-of-knowledge)</td></tr>
     <tr><td>Lovers, The</td><td>REF[CNP](cnp#the-lovers)</td></tr>
     <tr><td>Macula, The</td><td>REF[LEC](lec)</td></tr>
+    <tr><td>Maddened, The</td><td>REF[LGD](lgd#the-maddened)</td></tr>
     <tr><td>Mainland, The</td><td>REF[NGD](ngd#the-mainland)</td></tr>
     <tr><td>Material Maelstroms</td><td>REF[CNC](cnc#material-maelstroms)</td></tr>
     <tr><td>Matter Vesicles</td><td>REF[CNC](cnc#matter-vesicles)</td></tr>
@@ -191,6 +199,7 @@
     <tr><td>Pasture, The</td><td>REF[NND](nnd)</td></tr>
     <tr><td>Pasture, The</td><td>REF[CEP](cep#the-pasture)</td></tr>
     <tr><td>Patchwork</td><td>REF[NGP](ngp#patchwork)</td></tr>
+    <tr><td>Pattern, The</td><td>REF[LGC](lgc#the-pattern)</td></tr>
     <tr><td>Patterners</td><td>REF[LNC](lnc#patterners)</td></tr>
     <tr><td>Pavilions</td><td>REF[LGD](lgd#pavilions)</td></tr>
     <tr><td>Peacebuilds</td><td>REF[NGP](ngp#peacebuilds)</td></tr>
@@ -198,6 +207,7 @@
     <tr><td>Peregrination</td><td>REF[NGC](ngc#peregrination)</td></tr>
     <tr><td>Peregrinations</td><td>REF[NND](nnd#peregrinations)</td></tr>
     <tr><td>Perpetual Dawn</td><td>REF[NGC](ngc#perpetual-dawn)</td></tr>
+    <tr><td>Perpetuation</td><td>REF[LGC](lgc#perpetuation)</td></tr>
     <tr><td>Petitioners</td><td>REF[Cosmography](cosmography#petitioners)</td></tr>
     <tr><td>Phlogiston of Creation</td><td>REF[CNC](cnc#phlogiston-of-creation)</td></tr>
     <tr><td>Pilgrimage</td><td>REF[CNP](cnp#pilgrimage)</td></tr>
@@ -206,17 +216,21 @@
     <tr><td>Political Dissolution</td><td>REF[CND](cnd#political-dissolution)</td></tr>
     <tr><td>Power</td><td>REF[Facets](facets#power)</td></tr>
     <tr><td>Premise, The</td><td>REF[CNC](cnc)</td></tr>
+    <tr><td>Procedure, The</td><td>REF[LGC](lgc)</td></tr>
     <tr><td>Procession’s Path, The</td><td>REF[CND](cnd#the-processions-path)</td></tr>
     <tr><td>Progenitors</td><td>REF[LEC](lec#progenitors)</td></tr>
     <tr><td>Promenade of Congruities</td><td>REF[LNC](lnc#promenade-of-congruities)</td></tr>
     <tr><td>Rainways</td><td>REF[CGP](cgp#rainways)</td></tr>
+    <tr><td>Ramifications</td><td>REF[LGC](lgc#ramifications)</td></tr>
     <tr><td>Recursiveness</td><td>REF[NNP](nnp#recursiveness)</td></tr>
     <tr><td>Regeneration</td><td>REF[CEP](cep#regeneration)</td></tr>
+    <tr><td>Relationship with the Lacuna</td><td>REF[LGC](lgc#relationship-with-lacuna)</td></tr>
     <tr><td>Release</td><td>REF[NGD](ngd#release)</td></tr>
     <tr><td>Reservoir, The</td><td>REF[LND](lnd#the-reservoir)</td></tr>
     <tr><td>Residents</td><td>REF[Cosmography](cosmography#residents)</td></tr>
     <tr><td>Restoration</td><td>REF[CGP](cgp#restoration)</td></tr>
     <tr><td>Retelling the Story</td><td>REF[NGC](ngc#retelling-the-story)</td></tr>
+    <tr><td>Reticulum, The</td><td>REF[LGC](lgc#the-reticulum)</td></tr>
     <tr><td>Retrieval</td><td>REF[CND](cnd#retrieval)</td></tr>
     <tr><td>Reverie, The</td><td>REF[CNP](cnp)</td></tr>
     <tr><td>Revisitation</td><td>REF[NGD](ngd#revisitation)</td></tr>
@@ -230,6 +244,7 @@
     <tr><td>Sculpting</td><td>REF[LEC](lec#sculpting)</td></tr>
     <tr><td>Seekers</td><td>REF[LND](lnd#seekers)</td></tr>
     <tr><td>Self Will</td><td>REF[CNC](cnc#self-will)</td></tr>
+    <tr><td>Self-Refraction</td><td>REF[LGC](lgc#self-refraction)</td></tr>
     <tr><td>Sky Mirror</td><td>REF[NGP](ngp#sky-mirror)</td></tr>
     <tr><td>Skyhurl</td><td>REF[NGD](ngd#skyhurl)</td></tr>
     <tr><td>Skyreaches</td><td>REF[CGP](cgp#skyreaches)</td></tr>
@@ -244,6 +259,7 @@
     <tr><td>Subservience to Beauty</td><td>REF[LEC](lec#subservience-to-beauty)</td></tr>
     <tr><td>Supplication</td><td>REF[LGD](lgd#supplication)</td></tr>
     <tr><td>Swells</td><td>REF[CEC](cec#swells)</td></tr>
+    <tr><td>Symmetry</td><td>REF[LND](lnd#symmetry)</td></tr>
     <tr><td>Synthesis</td><td>REF[Facets](facets#synthesis)</td></tr>
     <tr><td>Tableau</td><td>REF[NNP](nnp#tableau)</td></tr>
     <tr><td>Theorists</td><td>REF[LEC](lec#theorists)</td></tr>
@@ -258,10 +274,10 @@
     <tr><td>Universal Story, The</td><td>REF[NGC](ngc#the-universal-story)</td></tr>
     <tr><td>Unknowing</td><td>REF[NND](nnd#unknowing)</td></tr>
     <tr><td>Unseen Feud, The</td><td>REF[LNC](lnc#the-unseen-feud)</td></tr>
+    <tr><td>Untapped, The</td><td>REF[LGD](lgd#the-untapped)</td></tr>
     <tr><td>Utility</td><td>REF[Facets](facets#utility)</td></tr>
     <tr><td>Veiled Oases</td><td>REF[LEC](lec#veiled-oases)</td></tr>
     <tr><td>Verges</td><td>REF[Cosmography](cosmography#verges)</td></tr>
-    <tr><td>Visitors</td><td>REF[LGD](lgd#visitors)</td></tr>
     <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>
     <tr><td>Wind Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>
 </table>

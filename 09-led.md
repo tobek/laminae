@@ -11,10 +11,10 @@ quote: |
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --></span>
 
-summary: A vast crevasse bisects the Increpation, atop which all the soldiers of every mortal battlefield fight amidst the fallen bodies of aeons. Down the depths of the crevasse loom ornate and labyrinthine catacombs that hold anxious intellects weaving schemes and curses to unleash upon the rest of the multiverse, none of which have ever been observed to unfold.
+summary: A vast crevasse bisects the Increpation, atop which all the soldiers of every mortal battlefield fight amidst the fallen bodies of aeons. In the depths of the crevasse loom ornate and labyrinthine catacombs that hold anxious intellects weaving schemes and curses to unleash upon the rest of the multiverse, none of which have ever been observed to unfold.
 
 intro: |
-    A vast crevasse bisects the Increpation, dozens of yards across, but it is its upper surface that divides this lamina in two. Atop the crevasse in all directions is a wasteland populated by warring soldiers from every era and world---all mortal battlefields REF[verge](verges) upon the Increpation and their troops, mostly unawares, fight amidst the fallen bodies of aeons. Down the depths of the crevasse (into which a steady stream of casualties plunge) an entirely different endeavor looms: in ornate and labyrinthine catacombs gather the REF[petitioners] of the place, the Rues, anxious intellects who weave schemes and curses to unleash upon the rest of the multiverse.
+    A vast crevasse bisects the Increpation, dozens of yards across, but it is its upper surface that divides this lamina in two. Atop the crevasse in all directions is a wasteland populated by warring soldiers from every era and world---all mortal battlefields REF[verge](verges) upon the Increpation and their troops, mostly unawares, fight amidst the fallen bodies of aeons. In the depths of the crevasse (into which a steady stream of casualties plunge) an entirely different endeavor looms: in ornate and labyrinthine catacombs gather the REF[petitioners] of the place, the Rues, anxious intellects who weave schemes and curses to unleash upon the rest of the multiverse.
 
     <gpt>The Rues appear to have lost their ability to communicate with one another. They can still speak, and are sometimes found muttering to themselves, but they cannot understand the speech of others. These souls exist in constant fear of being unable to communicate, and so they work alone and take great pains to avoid interacting with one another. As a result, below the warring surface the Increpation is completely silent except for the sound of wind blowing through its bridges and tunnels.</gpt>
 
@@ -66,7 +66,7 @@ info gathering
 - questions
 - future research
 - environment maybe
-    - Everything is black and white - maybe CED? or NNP. or... LGC or LGP? CNP, LED
+    - Everything is black and white - maybe CED? or NNP. or LGP? CNP, LED
     - Medieval illuminated manuscripts LED?
         - both the overaching style, and them as actual objects in the place
 - possible elements
@@ -85,7 +85,6 @@ info gathering
     - weirdly insensitive and/or literally stupid, but powerful. XXD - NEP, CGD
     - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
     - connect with CND Political Dissolution?
-    - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC, maybe even CNP, LED)
     - doppelganger...
     - hive mind...
     - secret society so secret and/or went wrong such that no one could get back into it (LND is this kinda. LED?)

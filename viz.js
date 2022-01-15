@@ -431,6 +431,11 @@ function generateMeansIntersectionLines(scene) {
   spotLight.position.set(0,0,0);
   spotLight.target = originGem;
   scene.add(spotLight);
+
+  const spotLight2 = new THREE.SpotLight(BG_COLOR);
+  spotLight2.position.set(0,-1,MEANS_INTERSECTION_Z);
+  spotLight2.target = originGem;
+  scene.add(spotLight2);
 }
 
 function getCompassArrow(direction, length) {

@@ -126,7 +126,7 @@ no one has been or seen the "outside" of this machine, if it exists. endless roo
 
 ## Culture & Paradigm
 
-### Asymmetry
+### Symmetry
 
 so some connection to NNC? they like have to deal with it. and maybe they disagree: asymmetry is not necessary, they will fix it, they will prove it!
 

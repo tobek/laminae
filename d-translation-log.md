@@ -14,6 +14,10 @@ hide_toc: True
 
 ## The 222nd Year L.C.
 
+#### The Fourteenth of the First
+
+The introduction and outline of REF[LGC] has been translated.
+
 #### The Thirteenth of the First
 
 The introduction of REF[LED] has been translated.

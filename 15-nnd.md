@@ -19,7 +19,7 @@ quote: |
     > </div>
     > </div>
 
-summary: No petitioners have been found on the blizzarding tundra of the Pasture, only a small nomadic caravan of mortals pursuing a mental state of "unknowing" that they believe will allow their souls to become petitioners here, thereby restoring the lamina's role in the balance of the multiverse, and in persisting through the arctic wasteland of this place they hope to one day find evidence of their success.
+summary: Unique among all laminae, no petitioners have been found on the blizzarding tundra of the Pasture, only a small nomadic caravan of mortals pursuing a mental state of "unknowing" that they believe will allow their souls to become petitioners here, thereby restoring the lamina's role in the balance of the multiverse, and in persisting through the arctic wasteland of this place they hope to one day find evidence of their success.
 
 intro: |
 
@@ -37,7 +37,7 @@ what's the point?
 - incredible commitment
 -->
 
-using the plume to guide back when searching for petitioners
+so perfectly embodying dissolution that there seems to be nothing here at all
 
 some give up and hazard into soblei to find a new world. others have been known to give up and wander off into the blizzard
 

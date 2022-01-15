@@ -55,7 +55,6 @@ TODO(ahh what if LGD is The Bell and Certoriari/Bookkeepers are Bellkeepers. NGC
     - Clarions
     - Lambents
 - possible elements
-    - One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC, maybe even CNP, LED)
     - "They can't tell a context story. They can't tell a structure story. They have to tell a hero story." hakim bey. should one plane be a hero story? (LGD) But one which ends up deeply reflecting the context?
 
 (some reversal on the prototypical myth of hero who ventures into the underworld - unlike the prototype, these heroes do not return, and are forgotten. it's argued by fans that this is an authentic approach to heroism)

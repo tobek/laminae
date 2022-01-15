@@ -162,7 +162,7 @@ from https://www.mmtimes.com/news/top-10-myanmar-proverbs.html
 
 # Author
 
-- Name - Alea?
+- Name - Alea? (Alia is Dune Paul's sister)
 - Brother - Tristo?
 - Predictions that come true or repeat. What same thing could keep showing up on different lamina that's more about her than the multiverse?
     + doppelganger?!
@@ -357,25 +357,28 @@ steam -> rust and/or ground glass
 
 ### Think about for each/Procedure
 
-GET WEIRD
+GET WEIRD. a visitor should feel shocked and out of place
 
-- What's the point? `1` `0` `0` `2`
+NEP = 5th
+
+- What's the point? `1` `0` `0` `2` `5`
 - Research
-- Search trinym (globally), as well as YXX, XYX, and XXY `5` `4` `5` `1` (LEP `10`) (NEP `3`)
-- Read through everything, list candidates `25` `11` `13` `20` (LEP `15`) (NEP `30`)
+- Search trinym (globally), as well as YXX, XYX, and XXY `5` `4` `5` `1` `3` (LEP `10`) (NEC `3`)
+- Read through everything, list candidates `25` `11` `13` `20` `30` (LGP `45`) (LEP `15`) (NEC `13`)
 - Look up quotes on relevant topics
-- Crystallize idea `75` `11` `35`
-- Environment `0` `3` `0`
+- Crystallize idea `75` `11` `35` `30` `16`
+- Environment `0` `3` `0` `0` `21`
     + Landscape
     + Seasonality
     + Weather
-- Culture `0` `2` `0`
+- Culture `0` `2` `0` `0`
+    + Like... what do they do with their time? They're not farming
     + How do they organize themselves?
     + How do subgroups interact?
     + How are they grouped? No "family", so
     + How do they greet each other? Cultural tics
     + Language, writing
-- How they interact with prime worlds `0` `0` `0`
+- How they interact with prime worlds `0` `0` `0` `0`
     + if destruction, they consume, if creation, they overflow
     + Arcs of laminal culture influence history of cardinal worlds
     + Any kind of prayer/ritual that can call the lamina's nature in?
@@ -384,19 +387,20 @@ GET WEIRD
     + https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
 - Something that changed over time
     + e.g. the komusou - anonymous monks so attracted bandits etc
-- Review author notes and think about how to insert `10` `0` `0`
-- What's the point? `1` `0` `0`
-- Name/demonym `15` `27` `15`
-- Review images (check pinterest too) `15` `17` `23` `26`
-- Review everything and decide on elements `0` `0`
-- WRITE `110` `147` `60`
+- Review author notes and think about how to insert `10` `0` `0` `0`
+- What's the point? `1` `0` `0` `0` `0`
+- Name/demonym `15` `27` `15` `25` `17`
+- Review images (check pinterest too) `15` `17` `23` `26` `19` (LGP `24`)
+    - review pinterest for: LGP, LGC, LED
+- Review everything and decide on elements `0` `0` `0` `0`
+- WRITE `110` `147` `60` `120` NEP 40m so far
     - lay out the bits of info to include
     - brainstorm splurge
     - organize, edit
-- TOC `10` `0` `0`
-- Finalize quotes `0` `2` `0`
-- Add images `0` `24` `2`
-- *once done* `6` `7` `7`
+- TOC `10` `0` `0` `16`
+- Finalize quotes `0` `2` `0` `5`
+- Add images `0` `24` `2` `10`
+- *once done* `6` `7` `7` `11`
     + release any ideas that no longer fit (remove trinym from notes)
     + search trinym/name/demonym everywhere and mark as used, remove from unused, see if updates needed
     + update progress (md and index.yml)
@@ -406,8 +410,8 @@ GET WEIRD
     + remove name from homepage TOC filler and with demonym from here
     + update translation log
     + every now and then update fallback viz `laminaeData`
-- Summary `0` `0` `0`
-- Read again, organize notes `4` `30` `0`
+- Summary `0` `0` `0` `7`
+- Read again, reconsider name/demonym, organize notes `4` `30` `0` `0`
 - Publish
 
 ### Foci (high-ish priority?)
@@ -421,24 +425,19 @@ TODO go through evil sketch
 23 of them!
 
 - nostalgia - CGD or NGD?
-- oracle(s) maybe in CNP? CGC somehow? NEP? LGC
-- artists - LEC is a bit, but otherwise NEC, CNC
+- artists - LEC is a bit, but otherwise NEC, CNC, CGC
     - Poetic Terrorism and creative madness - http://www.yorku.ca/caitlin/1900/play/poetic_terrorism.htm maybe CNC
+    - "retinal" art, intended only to please the eye. Instead, Duchamp wanted to use art to serve the mind. - LGP?
 - terrapin (is it an archive/library/museum or more sensorium? could be both)
-- something pretty futuristic, but not described as such - LEP?
-- they worship a god who is crazy but they love it - CGC NEP
-- something where everything is like a play, or all interactions are formulaic - NGP probably, could be CGC - or LGC?
+- something pretty futuristic, but not described as such - LGP? LEP?
+- they worship a god who is crazy but they love it - CGC NEP NEC
+- something where everything is like a play, or all interactions are formulaic - NGP probably, currently vaguely used in LGC
     + like a drama?
     + greek stock characters/jungian archetypes etc
     + and/or where you are assigned a ritual role in a play, and learning that role is therapeutic - NGC?
         * Like thinking about how an actor with a very short role might still deeply flesh out history and mindset of char to play it well. It goes deeper
 - "an indigenous Amazonian society that shifted seasonally between two entirely different forms of social organization (small, authoritarian nomadic bands during the dry months; large, consensual horticultural settlements during the rainy season)" NEP
-- some valuable resource intruders want to use... LEP? LGC?
-- looking for the chosen one - in an interesting way (LGC LGP)
-    + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
-    + society-wide processes to breed out chosen people/breed - this is bene gesserit right?
-    + rilke quote about god as the one who is coming
-    + “Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation.” - 2 Peter 3:3-4
+- some valuable resource intruders want to use... LEP?
 - society that glamorizes maintenance instead of creation? LGP
 - death? CGD
 - glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. NED or LED or LND. - and then how it heals
@@ -446,35 +445,37 @@ TODO go through evil sketch
 - Which is the most populous? Maybe LGP. Might not be about which alignment most people are, but how well the plane keeps petitioners around? LEP decent too
 - magical research outpost, maybe in CNC or CGC. this is kind of Bloom islet
     + maybe rumored to be in CGC but might be some extra crazy bit of CNC or some other place, hard to know. dissolution one could be on CED
-- One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move (NNC, LGD, CNC, maybe even CNP, LED, NEP, LGC)
 - Some kind of mirroring or doppelgangering in the way it responds to you
     + james richardson vectors (see in quotes) "You who have proved how much like me you are: how could I trust you?" some kind of doppelganger thing
-    + maybe weirdly LGC? NGD, CGD, LEC, LEP, LED, NEC, CEP, CNC, CGC, CNP, NND, NEP (you fight them)
+    + maybe weirdly LGC? NGD, CGD, LEC, LEP, LED, NEC, CEP, CNC, CGC, CNP, NND, NEP (you fight them) - is kind of in LGC but not really a doppelganger way, more mirror
     + *definitely NGD if nothing else* - maybe CEP
     + do you learn from it? does it scare you?
 - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED. wait but inertia is XXP?
 - Lost and found (maybe in CEC or CNC or LNP or CNP) (maybe connected through some weird backdoor to the storage plane?) (i guess CND too, maybe a rumor of a lost objects troupe you can sometimes find stuff in)
-- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - should probably be NEC or NEP. gosh could be NGD if nothing else. LED. CGC maybs behind the scenes. oh definitely could be LGC
+- All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic mind, or are actually different minds) - NEP or LED
     - AKA collective consciousness/intelligence, mindcity, hypermind, metamind, group mind
     - "Something the whole ocean is doing"
-- Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (endless crevasse place?) LED
-- Sex - LEC, CGD, CED, NEC (dreams), NEP
+- Two sides that have ritual border. Ceremonies about hating each other, but they never actually fight (endless crevasse place?) LED LEP
+- Sex - LEC, CGD, CED, NEC (dreams)
 - a prison (w research/testing?) (oubliette in CNP, but can be used more elsewhere - LED? LEP?)
-- non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC? LGC, LNP)
+- non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC? LNP) LGC uses but not really geometric, more just weird
 - sleep NEC - maybe some dreamless and tranquil sleep is CNP
     + https://en.wikipedia.org/wiki/Sleep#In_mythology_and_literature
     + https://en.wikipedia.org/wiki/Seven_Sleepers
 - strange loops
-    + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
+    + Synthesis facet? relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP LED LGC LEP LGP
 - weirdly insensitive and/or literally stupid, but powerful. XXD - NEP, CGD
 - bureaucracy? LED or LND
     + belgium
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
         * "Belgium offers a lesson in stability through chaos. Even its demise would be serene. It is the world’s most successful failed state."
         * https://www.economist.com/europe/2021/06/24/belgitude-the-art-of-belgian-zen
-- transportation: they'll take you anywhere, ferriers, psychopomps (could go with generation ship, "come aboard, we're going where you're going")
+- transportation: they'll take you anywhere, ferriers, psychopomps ("come aboard, we're going where you're going") NEC
 - secret society so secret and/or went wrong such that no one could get back into it (LND is this kinda. LED?)
 - used
+    + looking for the chosen one
+    + oracle(s)
+    + One where you sense branching tree of possibilities, rick & morty death stone, fading and increasing options as you move
     + extremely short (forgetting place)
     + generation ship
     + incredible beauty
@@ -499,6 +500,7 @@ TODO go through evil sketch
 
 unused ones can just be particular places
 
+- endless ruined city
 - huge building constructed with a single piece of gossamer fabric
 - More extreme weather and how it effects culture - like it always rains, but weirder
 - https://en.wikipedia.org/wiki/Glossary_of_landforms
@@ -535,7 +537,7 @@ unused ones can just be particular places
     - But also walled gardens for protection from elements https://en.wikipedia.org/wiki/Walled_garden
 - Smells
     - sour, citrus, bitter, pine, vanilla, ash, resin
-- Everything is black and white - maybe CED? or NNP. or... LGC or LGP? CNP, LED
+- Everything is black and white - maybe CED? or NNP, CNP, LED
     - (except visitors and their stuff? what about their stuff left behind?)
 - Medieval illuminated manuscripts LED? LGC?
     - both the overaching style, and them as actual objects in the place
@@ -558,33 +560,26 @@ unused ones can just be particular places
 ### Relational, Situational, Happenings
 
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LED?)
-- a city where there is some wild price you have to pay - like having something tattooed on your body (inspired by Palimpsest book)
+- a city where there is some wild price you have to pay - like having something tattooed on your body (inspired by Palimpsest book) NEC NEP
 - Some kind of super complex interlocking yoga that I can make IRL - NED or NEP
 - to watch yourself spill into the chasm (NGP)
 - "But what is the point of soft without hard, or weight without lightness? In Japan the philosophy of the relative value of things is carried so far that in ceremonial tea-making there's a little cloth they use, which they handle as if it were the weightiest thing in the world. Light things are handled as if they're heavy, heavy things as if they're weightless - in this way one finds an almost complete control over nature instead of being dominated by it!" - Noguchi NEP
 - "There is a crack in everything but The Cube."
     - http://preinfarction.blogspot.com/2021/10/ah-yes-cube.html?m=1
     - https://mobile.twitter.com/solipsistfever/status/1191978845735444481
-- the mind and dreams as a pool of water, from TMI - NEC?
-    - The two main objectives of meditation practice are:
-        - Developing stable attention
-        - Cultivating powerful mindfulness that optimizes the interaction between attention and awareness.
-    - A famous analogy in Zen compares the mind to a pool of water. This is a helpful way to think about the training and goals of meditation. If the water is agitated, churned up by wind and currents, it doesn’t provide a clear reflection nor can we see to the bottom. But as the water calms, the debris that made the pool muddy begins to settle, and the water itself becomes clear. A calm pool also reflects the sky and clouds perfectly.
-    - In the same way, if the mind is agitated, disturbed by the concerns of daily life, it doesn’t accurately reflect experience. Instead, we’re caught up in projections and lack perspective. The inner workings of the mind remain murky as well, full of mental debris that clutters our thinking. Developing stable attention is the key to making the water calm, settled, and pure. Mindfulness is like the sunlight that illuminates the surface, as well as the depths.
 - https://knowingless.com/2019/08/17/you-will-forget/ NGD or CGD?
     - I became sadistic. I’d previously been embracing a sort of masochism – education in the pain, fearlessness of eternal torture or whatever – but as my identity expanded to include *that which was educating me*, I found myself experiencing sadism. I enjoyed causing pain to myself, and with this I discovered evil. I found within me every murderer, torturer, destroyer, and I was shameless. As I prostrated myself on the floor, each nerve ending of my mind writhing with the pain of mankind, I also delighted in subjecting myself to it, in being it, in causing it. I became unified with it.
     - The evil was also subsumed by, or part of, love. Or maybe not “love” – I’d lost the concept of love, where the word no longer attached to a particular cluster of sense in my mind. The thing in its place was something like *looking*, where to understand something fully meant accepting it fully. I loved everything because I Looked at everything. The darkness felt good because I Looked at it. I was complete in my pain only when I experienced the responsibility for inducing that pain.
-- "It is your job to teach the gods proper morals." https://twitter.com/CurlOfGradient/status/1108326892053123075
 - "you: human creativity is a glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 NEC, CNC, CGC, LGC as some kind of warning?
 - place where 2nd law of thermodynamics is reversed? what does time mean? opposite of CND is LNC but that hmm maybe actually, that's why shapers can build matter out of nothing, it wants to be formed
 - some kind of transportation system? mechanical or biological. LNP?
 - the conception of perfection. (look up quotes?) LEP NEP
     + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
 - nomads, who every X amount of time ritualistically destroy everything they have built up and move on to another place - XXP or XXD - NND are nomads but don't destroy, that was prob best chance
-- <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt> LEP LGC
+- <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt> LEP (kinda LGC but not strictly)
 - "a nice dualism: those who are afraid, and those who are not. the fearful ones are prey. they hate life because they could be eaten at any time, they are disgusted with material reality and their bodies because of their impermanence. the unafraid embrace matter and love their bodies, capable of the magical feat of integrating the prey's matter. there is no higher honor and no better statement of love for life than to absorb another being. some may call this hate, but it may be love. these are the ground rules of reality. you can always change sides" - https://twitter.com/wildbuddhini/status/1463392393978335239 (maybe LEC, LED)
 - interaction with cardinals? "person with taste can observe things going on around them and identify points of interest. by doing this, they make the reality they inhabit more interesting. you can create real value this way. it has an emotional impact on people. you might use words, or photographs, whatever. you could maybe think of this as being a "beauty-worker". you create beauty by identifying it, contemplating it, understanding it, accentuating it .if a shaman is a meaning-worker, maybe an artist is a beauty-worker. or a certain subset of artists" - https://twitter.com/visakanv/status/1464230021254377475 LEC?
-- "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity Relieved face" https://twitter.com/sonyasupposedly/status/1463771414830325761 (CNC maybe)
+- "new identity idea: asane (as opposed to insane). not crazy, just renouncing and revoking sanity" https://twitter.com/sonyasupposedly/status/1463771414830325761 (CNC maybe, ah wait, NEC)
 - Audience independent utterance - the idealization of NEP?
 - Emotional etc content of micro actions? (NGP? CGC?)
 - "a massive chunk of the things that alarm suburbanites about being in an urban environment are solved in totality by adopting the city dweller's habit of simply declining to perceive things that are none of your fucking business" https://twitter.com/cakesandcourage/status/1462919432330752006 - somewhere where this flows naturally, maybe LEP?
@@ -592,12 +587,12 @@ unused ones can just be particular places
 - caste systems (LND? LEC LEP) mentioned in LEC and in TOC but doesn't have to be major there
     + signaled by fashion and/or mannerisms
         * Clothing covered with writing/scrolls that catalog some thing ("worn scrolls.jpg")
-- No decisions except gut ones during ceremonies. Very elaborate, no time to scheme. More authentic. They facilitate this method for mortals. Like Dune emperor emissary delivers decree, obey or disobey on the spot, only way to cut through (and assess loyalty, and instinct). the sufis "believe that deep intuition is the only real guide to knowledge". human computer. fluency before understanding (quote?). NGP if nowhere else, but could be LXX or NEP
+- No decisions except gut ones during ceremonies. Very elaborate, no time to scheme. More authentic. They facilitate this method for mortals. Like Dune emperor emissary delivers decree, obey or disobey on the spot, only way to cut through (and assess loyalty, and instinct). the sufis "believe that deep intuition is the only real guide to knowledge". human computer. fluency before understanding (quote?). NGP if nowhere else, but could be LXX, probably XGX. LGP?
 - https://twitter.com/chaosprime/status/1458552157179887621 - grokking, you have to understand your enemy to defeat them, and when you understand them you love them. also you need to love them to hate them. NEP? NED?
 - "bats can hear shapes. plants can eat light. bees can dance maps. we can hold all these ideas at once and feel both heavy and weightless with the absurd beauty of it all." - https://twitter.com/gnonymus/status/1457089729539842050
-- Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this?
-- "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form
-- Giant books multiple people to turn page
+- Sleep is assumed to be death, a new spirit will take your body in the morning. reincarnation somewhere in this? NEC
+- "Mental Health Unawareness Campaigns" that stress takes publicized forms, so here's some alternative form - maybe LGP or LEP
+- Giant books multiple people to turn page LGP
 - the bell ringing hearing contest episode (dissimulation NED)
 - rick & morty arc where there's maybe a clone of beth - one plane could be or have a place where with enough work or luck, you can earn such a clone to take your place. maybe on this plane, a clone is prepared and trained for each person, and almost all go to waste, but some find the plane and take advantage of the clone, and the clone is so happy for the opportunity (NNC, CNC)
 - Place where certain maneuvers can temporarily slow or stop time or physical forces in a very localized area NEP
@@ -627,7 +622,7 @@ unused ones can just be particular places
 - Some kind of bloodletting ceremony, maybe for summoning, their blood turns into something, after they have gone through some intense emotional experience or something - tentative NGD but without summoning bit
 - some crazy education process for new petitioners
     + like lesswrong weirdtopia comment where you work your way through simulation of human civilization learning everything
-    + NGC could do this for Universal Story
+    + NGC could do this for Universal Story, maybe LGP
 - used
     + seeking out a state of "unknowing"
     + Mnemonic objects - clothing or jewelry records life events (could be part of caste system above but it's not) - used in NGP but could maybe be moved elsewhere if perfect
@@ -642,21 +637,23 @@ unused ones can just be particular places
     + empty mind, empty conscience - some kind of small brain everything is easier if you just think nothing oblivion situation
     + psychedelics
     + people who have lost their ability to communicate with one another (gpt3 clasping)
+    + "It is your [our] job to teach the gods proper morals." https://twitter.com/CurlOfGradient/status/1108326892053123075
+    + the mind and dreams as a pool of water, from TMI
 
 ### Abstract Concepts
 
 - nemawashi (根回し) - laying the groundwork, "laying the foundation for some proposed change or project, by talking to the people concerned, gathering support and feedback, and so forth" LGP
-- "retinal" art, intended only to please the eye. Instead, Duchamp wanted to use art to serve the mind.
 - "Some sophists marvel at the dual nature of reality, that for every thing it either *is* or it *isn't*. Marvelous. Well then there are the real thinkers. They say that sometimes a thing *is* **and** it *isn't*. Or that all qualities have a spectrum, ranging from *isn't* all the way to *is*. Or there's a field, some strange topography, multi-dimensional spectra which don't start and end at *isn't* and *is* but go all sorts of other places instead. But they're all backwards. I'll tell you the nature of things. It's very simple. Are you listening? **It neither *is* nor *isn't*.**"
     - did i get this from "It no more is than it is not or it both is and is not or it neither is nor is not." (Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views, https://en.wikipedia.org/wiki/Pyrrho)
     - full passage: https://en.wikipedia.org/wiki/Pyrrhonism#Buddhism
     - AKA https://en.wikipedia.org/wiki/Tetralemma
-- breaking down all of these needs to be in there https://google.github.io/filament/Filament.md.html maybe LNP or NNC
+- breaking down all of these https://google.github.io/filament/Filament.md.html maybe LNP or NNC
+- https://en.wikipedia.org/wiki/Four_causes - material, formal, moving, purpose - NNC and/or LND or LNP
 - formlessness vs EXTREMELY existent
 - is total absence of habit freedom? or is it its own kind of tyranny? funes el memorioso is relevant. CXX
 - realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe, or else CNC or CGC. used in CNC but open to it going elsewhere. LGC?
-- "water always finds a crack" - LND or LED
-- GEB, achilles gets one meta wish, asks for wish not to be granted, and then "an event — or is 'event' the word for it? — takes place which cannot be described, and hence no attempt will be made to describe it." the result is that the universe crashes, and the characters wind up somewhere totally different - LGC, it crashed in the past
+- "water always finds a crack" - LND or LED or NEC
+- GEB, achilles gets one meta wish, asks for wish not to be granted, and then "an event — or is 'event' the word for it? — takes place which cannot be described, and hence no attempt will be made to describe it." the result is that the universe crashes, and the characters wind up somewhere totally different - mentioned in LGC, it crashed in the past, could reuse though
 - emergence LGC
 - Game theory LEP
 - Religions and god archetypes (https://en.wikipedia.org/wiki/Category:Mythological_archetypes)
@@ -688,7 +685,6 @@ unused ones can just be particular places
     - world tree
     - death or departure of (all the) gods
     - multiple gods being combined into one in order to merge disparate faiths
-- https://en.wikipedia.org/wiki/Four_causes - material, formal, moving, purpose - NNC and/or LND or LNP
 - Jungian archetypes - universal organizing themes or patterns that appear regardless of space, time, or person. Limitless, but notable ones:
     - archetypal events: birth, death, separation from parents, initiation, marriage, the union of opposites, etc.
     - archetypal figures: great mother, father, child, devil, god, the shadow (one's darker side), wise old man, wise old woman, the maiden, the trickster, the hero, etc.
@@ -735,17 +731,17 @@ unused ones can just be particular places
     - Black hole (maybe in CNP or CEP)
     - https://en.wikipedia.org/wiki/Chirality_(physics)
     - https://en.wikipedia.org/wiki/Bekenstein_bound (limit on amount of info in finite region)
-- Pantropy: modifying being to suit its environment (opposite of terraforming)
+- Pantropy: modifying being to suit its environment (opposite of terraforming) - NEP?
 - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
 - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NND, LED)
-- A place where no one experiences boredom. LND or CGP or CNC
-    - boredom is required for creativity
+- A place where no one experiences boredom. LND or CGP or CNC or LGP
+    - is boredom required for creativity?
     - "Consider the incredibly important human value of "boredom" - our desire not to do "the same thing" over and over and over again. You can imagine a mind that contained almost the whole specification of human value, almost all the morals and metamorals, but left out just this one thing ... and so it spent until the end of time, and until the farthest reaches of its light cone, replaying a single highly optimized experience, over and over and over again." --- <http://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile>
-    - blaise pascal: "we seek rest in a struggle against some obstacles. And when we have overcome these, rest proves unbearable because of the boredom it produces""
+    - blaise pascal: "we seek rest in a struggle against some obstacles. And when we have overcome these, rest proves unbearable because of the boredom it produces" LGP
     - definitionish
         - hm "a pervasive lack of interest and difficulty concentrating on the current activity"
         - 1) prevented from engaging in wanted activity, 2) when we are forced to engage in unwanted activity, or 3) when we are simply unable for some other reason to maintain engagement in an activity
-- "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better. maybe exists in CNP? LGC?
+- "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better. maybe exists in CNP? mentioned in LGC but not deeply
 - "Two irreconcilable relations to evil: fearing the evil within the walls, fearing the evil without" - https://mobile.twitter.com/0x49fa98/status/1093924128044679168 LEP?
 - "Liberalism [forwards] means chaos; Conservatism [backwards] means petrifaction. Both are equally repellant. We are always faced with the questions: "what must be destroyed?" and "what must be preserved?" Liberalism and Conservatism are not [there are no] philosophies, only habits, and neither is enough to guide us" - https://mobile.twitter.com/0x49fa98/status/1447553891109949440 XXP? CXX? NXX. LEP?
 - done
@@ -805,16 +801,13 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - "a musk that makes you want to stand near them, doing nothing." -- http://dndwithpornstars.blogspot.com/2014/10/gender-and-representation-in-warhammers.html - LEC?
 - "he has grasped the falsity of the hedonistic attitude to life. Nearly all western thought since the last war, certainly all “progressive” thought, has assumed tacitly that human beings desire nothing beyond ease, security and avoidance of pain. In such a view of life there is no room, for instance, for patriotism and the military virtues. The Socialist who finds his children playing with soldiers is usually upset, but he is never able to think of a substitute for the tin soldiers; tin pacifists somehow won’t do. Hitler, because in his own joyless mind he feels it with exceptional strength, knows that human beings don’t only want comfort, safety, short working-hours, hygiene, birth-control and, in general, common sense; they also, at least intermittently, want struggle and self-sacrifice, not to mention drums, flags and loyalty-parades. However they may be as economic theories, Fascism and Nazism are psychologically far sounder than any hedonistic conception of life. The same is probably true of Stalin’s militarized version of Socialism. All three of the great dictators have enhanced their power by imposing intolerable burdens on their peoples. Whereas Socialism, and even capitalism in a more grudging way, have said to people “I offer you a good time,” Hitler has said to them “I offer you struggle, danger and death,” and as a result a whole nation flings itself at his feet." - George Orwell review of Mein Kampf, 1940 - LEP
 - "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." ― Sebastian Junger (CGP? LEP?) [a society that perfects the art of making people feel unnecessary will crumble]
-- "Ideally, if anything were any good, it would be indescribable." - Edward Gorey (CGC)
+- "Ideally, if anything were any good, it would be indescribable." - Edward Gorey (CGC NEC)
 - Adam Smith: "[wonder arises] when something quite new and singular is presented… [and] memory cannot, from all its stores, cast up any image that nearly resembles this strange appearance" (NGC? NEC?)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (used on NGD but could be elsewhere - CGD?)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
-- "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC?
+- "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC? LGP?
 - "Beautiful and terrible things will happen. Don't be afraid." ― Frederick Buechner CGP? NGC. LGC
-- rilke quote about god coming
-    + Why don’t you think of him as the one who is coming, who has been approaching from all eternity, the one who will someday arrive, the ultimate fruit of a tree whose leaves we are? What keeps you from projecting his birth into the ages that are coming into existence, and living your life as a painful and lovely day in the history of a great pregnancy? Don’t you see how everything that happens is again and again a beginning, and couldn’t it be His beginning, since, in itself, starting is always so beautiful? If he is the most perfect one, must not what is less perfect precede him, so that he can choose himself out of fullness and superabundance? Must he not be the last one, so that he can include everything in himself, and what meaning would we have if he whom we are longing for has already existed?
-    + As bees gather honey, so we collect what is sweetest out of all things and build Him. Even with the trivial, with the insignificant (as long as it is done out of love) we begin, with work and with the repose that comes afterward, with a silence or with a small solitary joy, with everything that we do alone, without anyone to join or help us, we start Him whom we will not live to see, just as our ancestors could not live to see us. And yet they, who passed away long ago, still exist in us, as predisposition, as burden upon our fate, as murmuring blood, and as gesture that rises up from the depths of time.
 - "I am the rest between two notes which are somehow always in discord." rilke - CEP? LED?
 - "Shattered people are best represented by bits and pieces." rilke
 - chaucer metal quote from saturn or bloody mars stuff (in quotes.txt)
@@ -830,18 +823,18 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
     - 166. Beware of knowing your virtues; you may lose them. Beware of knowing your vices; you may forgive them. (NGP, CGD)
     - 17. When all agree, so does the Devil.
     - 148. Billions of years, the dust hasn't settled. Water's still seeking its own level.
-    - VECTORS 3.0: EVEN MORE APHORISMS AND TEN-SECOND ESSAYS
-        - 8. When it gets ahead of itself, the wave breaks. (CGC?)
-        - 21. Nothing important comes with instructions. (NGC?)
-        - 84. Of course I’m an escapist. I’m trying to get somewhere real.
-        - 107. A feather lands on the pond and a dozen goldfish come to poke at it. We are whoever rises into our eyes to have a look. (NGC? CGC?)
-        - 108. Those so thorough you cannot in mercy ask them to do anything. Those so empathetic it is cruel to tell them a trouble.
-        - 111. Don’t touch, don’t stare. But no one minds how hard you listen.
-        - 122. Our resolutions for self-control are like our wars for peace. (NGC?)
-        - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP? CGD? LGC?)
-        - 140. When you think in words, are you sure it’s your own voice you hear? (NGP)
-        - 170. Closing a door very gently, you pull with one hand, push with the other. (NGP, CGD, NNC)
+    - 8. When it gets ahead of itself, the wave breaks. (CGC?)
+    - 21. Nothing important comes with instructions. (NGC?)
+    - 84. Of course I’m an escapist. I’m trying to get somewhere real.
+    - 107. A feather lands on the pond and a dozen goldfish come to poke at it. We are whoever rises into our eyes to have a look. (NGC? CGC? NEC?)
+    - 108. Those so thorough you cannot in mercy ask them to do anything. Those so empathetic it is cruel to tell them a trouble.
+    - 111. Don’t touch, don’t stare. But no one minds how hard you listen.
+    - 122. Our resolutions for self-control are like our wars for peace. (NGC?)
+    - 128. ...It won’t take forever, nothing takes forever, but so many things take longer than we have. (NNP? CGD? LGC?)
+    - 140. When you think in words, are you sure it’s your own voice you hear? (NGP)
+    - 170. Closing a door very gently, you pull with one hand, push with the other. (NGP, CGD, NNC)
 - used
+    + rilke quote about god coming
     + "I am circling around God, around the ancient tower, and I have been circling for a thousand years, and I still don't know if I am a falcon, or a storm, or a great song." rilke
     + "Many say: I wanted to learn, but here I have found only madness. Yet, should they seek deep wisdom elsewhere, they may not find it." Teachings of Nasrudin, 'The Utter Idiot', Ablahi Mutlaq
     + "Only children and the stupid seek both cause and effect in the same story" - Nasrudin, as related by Idries Shah
@@ -1003,12 +996,12 @@ realm names or demonyms:
 - The Alleviation
 - The Antechamber
 - The Apprehension
-- The Articulation
+- The Articulation (group in LGC)
 - The Assembly (similar to instrument)
 - The Ataraxia (unperturbedness, term used by stoics/skeptics)
 - The Autocephaly (appointing its own head, not subject to external authority)
 - The Ataxia (lack of muscle control or coordination of voluntary movements)
-- The Axiom
+- The Axiom (element in LGC culture)
 - The Bauble
 - The Binding
 - The Blemish
@@ -1025,12 +1018,12 @@ realm names or demonyms:
 - The Cherish
 - The Clamor
 - The Clarion (shrill trumpet, or loud and clear)
-- The Clasp
+- The Clasp (place in LGC)
 - The Coalescence
 - The Collation
 - The Collision
 - The Concert
-- The Concordance (agreement or consistency)
+- The Concordance (agreement or consistency) (https://en.wikipedia.org/wiki/Concordance_(publishing))
 - The Consonance (agreement or compatibility)
 - The Convergence
 - The Creak
@@ -1076,7 +1069,7 @@ realm names or demonyms:
 - The Immanence (the divine encompasses or is manifested in the material world, or: the quality of being contained within, or remaining within the boundaries of a person, of the world, or of the mind)
 - The Imminence (state or fact of being about to happen) (maybe shift with above)
 - The Incandescence
-- The Increpation (chiding, rebuking, censure - from making a nosie, creaking)
+- The Increpation (chiding, rebuking, censure - from making a nosie, creaking) (tentative LED)
 - The Induction
 - The Keen
 - The Kenosis (christ's "act of emptying" christian theology, emptying to become receptive to god's will)
@@ -1086,7 +1079,6 @@ realm names or demonyms:
 - The Knell
 - The Knuckle
 - The Lacuna (unfilled space or interval, gap)
-- The Lambent (glowing/gleaming/flickering with soft radiance)
 - The Lapse
 - The Lattice
 - The Ligate (tie up or close off in surgery, or join in biochem)
@@ -1102,13 +1094,13 @@ realm names or demonyms:
 - The Obversion (a "type of immediate inference in which from a given proposition another proposition is inferred whose subject is the same as the original subject, whose predicate is the contradictory of the original predicate, and whose quality is affirmative if the original proposition's quality was negative and vice versa" e.g. "All cats are animals" obversion => "No cats are non-animals". truth-value of an original statement is preserved in its resulting obverse form) (used in CNP afterworld story)
 - The Oval
 - The Palimpsest (a manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but of which traces remain - something reused or altered)
+- The Pattern (element in LGC culture)
 - The Pith
-- The Presupposition
-- The Procedure
+- The Presupposition (thing tacitly assumed beforehand, requirement for belief (system) to make sense)
 - The Pulchritude (beauty)
 - The Pullulation (to bud, sprout, pread prolifically or rapidly, be teeming with)
 - The Quell
-- The Ramification
+- The Ramification (element in LGC culture)
 - The Rampant
 - The Rampart
 - The Rectitude
@@ -1118,11 +1110,11 @@ realm names or demonyms:
 - The Reproach (rebuke, blame, censure)
 - The Restraint
 - The Retelling
-- The Reticulum (fine network or netlike structure, veins or nerves disposed like threads of a net)
+- The Reticulum (fine network or netlike structure, veins or nerves disposed like threads of a net) (place in LGC)
 - The Ripple
 - The Rue
 - The Sap
-- The Sequitur
+- The Sequitur ("it follows" - conclusion, deduction)
 - The Shift
 - The Sift
 - The Simmer
@@ -1161,9 +1153,11 @@ realm names or demonyms:
     + The Grip
     + The Knot
     + The Kylix (broad greek cup, "elegant cup or vase for drinking", latin calix -> chalice)
+    + The Lambent (glowing/gleaming/flickering with soft radiance)
     + The Macula (center of retina, keenest vision)
     + The Pasture
     + The Premise
+    + The Procedure
     + The Reverie
     + The Swell (a thing in the Bloom)
 
@@ -1175,7 +1169,6 @@ don't forget "-er"s like Unravellers
 - Barrens
 - Catatons
 - Certorari ("writ from superior to inferior courts seeking the records of a case," legal Latin, "to be certified, to be informed or shown") - LGD bookkeepers
-- Clarions
 - Coalescents
 - Coilers
 - Coiners
@@ -1189,7 +1182,7 @@ don't forget "-er"s like Unravellers
 - Harrows (distress, ravage, spoil) (used in Unseen Feud)
 - Hidebound (unwilling or unable to change because of tradition or convention)
 - Hierophants (one interprets sacred mysteries or esoteric principles)
-- Hierarchs (cheif priest, archbishop, or other leader)
+- Hierarchs (chief priest, archbishop, or other leader)
 - Incepts (already have precepts)
 - Inks
 - Jammers
@@ -1198,7 +1191,6 @@ don't forget "-er"s like Unravellers
 - Knells (sound of bell)
 - Ligands (molecule that binds to another, from latin "that can be tied" or bound)
 - Limns (NGP and NEC??)
-- Looms
 - Melds/Melders
 - Mercies (possible NND missing petitioners)
 - Meshers
@@ -1212,11 +1204,12 @@ don't forget "-er"s like Unravellers
 - Rifes
 - Rifts
 - Roots
-- Rues
+- Rues (tentative LED)
 - Runes
 - Saraphs (burning one/serpent - but seraph is celestial being) (used in Unseen Feud)
 - Sifters
 - Simmers
+- Skeins
 - Sprees
 - Tessellates
 - Testates/Testators
@@ -1229,12 +1222,14 @@ don't forget "-er"s like Unravellers
 - Whorls
 - used
     + Alters (NGD but not sure)
+    + Clarions
     + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
     + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")
     + Discarnate (not having a physical body)
     + Eremites (fancy word for hermit)
     + Knots
     + Grips
+    + Looms
     + Oriels (upper-story bay window protruding from wall)
     + Rhemes (linguistic term: comment that is being made about topic of sentence)
 
@@ -1483,6 +1478,7 @@ THE ONLY REMAINING Q I THINK is about using the term "petitioners"
 - LEC sculpting one's body via unusual exercises https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z
 - NGD culture https://twitter.com/visakanv/status/1443196315970670598
 - CNC vs CNP yes vs no https://twitter.com/ctrlcreep/status/1100085668397699073
+- LGC teach the gods proper morals https://twitter.com/CurlOfGradient/status/1108326892053123075
 
 # template
 

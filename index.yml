@@ -8,15 +8,15 @@
 
 Hierarchy Empathy:
 
-    '◍◍○○○○ Hierarchy Empathy Creation (LGC)':
-        name: The Bauble? The Procedure? The Crescendo?
-        demonym:
+    '●◍◍○○○ Hierarchy Empathy Creation (LGC)':
+        name: The Procedure
+        demonym: Looms
         summary: |
             *?* a surprisingly exhausting, crushing place? Too much energy? Conduit should maybe be missing from this one or CEC or CED or LEC. W40k Terra? Or crystalline? Some deal/symbiosis with CED. oral history in wisdom, maybe in clothing and everything. incoming godhead, they're creating it
 
     '◍◍○○○○ Hierarchy Empathy Equilibrium (LGP)':
         name: The Concordance, The Positioning, The Arrangement, The Procedure
-        demonym: Archons, Valiants
+        demonym:
         summary: |
             An answer to the question "is suffering needed to give context to happiness?" - their answer is "no". A perfect civilization that gently guides any visitor or resident towards benevolent perfection. Idealized Japan?
 
@@ -205,7 +205,7 @@ Autonomy Power:
             Possibly the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
 
     '◍○○○○○ Autonomy Power Dissolution (CED)':
-        name: The Lacuna, The Recital
+        name: The Lacuna, The Recital, The Antechamber
         demonym:
         summary: |
             Murder as art? Forgetting place?
