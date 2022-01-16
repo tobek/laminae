@@ -5,10 +5,10 @@
 the only thing i didn't do is "link image authors" and i didn't do an editing pass over the laminae i wrote in the last few days
 
 - At least stub content for all laminae (8 remaining) `11h`
-    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED, 4.5 LGC
+    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED, 4.5 LGC, 3.75h NEP, 4h LGP, 1.25h CED, 3h LEP, 1.5h NEC
 - Closing Notes chapter `4h`
-- Colophon `2h`
 - Other misc bits
+    + proofread/edit + groom trinyms and elements for CGD and LNP. update summary for LNP
     + link image authors
     + decide where to host it, upload `1h`
         * laminae.xyz
@@ -27,8 +27,15 @@ the only thing i didn't do is "link image authors" and i didn't do an editing pa
     - add Inevitability GPT stuff, make a mysteries section for the city
 - More content about the author `4h`
 - A close edit pass across the whole thing (review on page) `8h`
+    - review Ece's edits
+- TOCs for each
 - Bits
+    + change tea in authors preface
+    + show-first-first
+    + rilke anagram
+    + cosmography "oracular Looms that guide petitioners on REF[The Reticulum](TODO)"
     + add kylix to untranslated note
+    + link "the Echo" and "the Tessellation" properly?
     + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + OG tags
     + Pablo Bronstein
@@ -42,10 +49,11 @@ the only thing i didn't do is "link image authors" and i didn't do an editing pa
     + consider ꩣ ဘ for autonomy
     + decide on non-laminae TOC glyphs
     + capitalize Cardinal or no?
-    + images (and OG) for non-lamina pages
+    + images (and OG) for non-lamina pages - screenshot visualization?
     + add "FOR THE CURIOSITY of the LEARNED PUBLIC" to the title?
     + add verges/apertures stuff to CND and LNC (CEC at all?)
     + really de-emphasize untranslated stuff in glossary/index? what's a good experience here
+    + search "of which" and replace some/all with "whose"?
 
 ## done
 
@@ -59,7 +67,9 @@ the only thing i didn't do is "link image authors" and i didn't do an editing pa
 
 ## underserved laminae
 
-- LGD, LED
+- you know just maybe adding evocative details would go along way. tale of a distant city that does xyz...
+- for sure: LGD, LED, NEP
+- a bit: LGC, LGP, NED, CED, LEP, NEC
 
 # big questions
 
@@ -418,21 +428,35 @@ torment: tides of numenera:
 
 ## ◍○○○ Close
 
+> We stayed up late in Adderfarthing and spent half the night talking about our old friend Edwina Ballard. It is a consolation, when you are far from home and in a strange place, and especially when some local trouble threatens to catch up with you, to remember people far away who are completely detached from your present concerns.
+>
+> We were certain, when we woke the next morning in Adderfarthing, and carried our bags away from Ostrich and Fingerroot, that no one was following us, and that there weren’t any rumors about us, and that no one was whispering *Parrigue, Parrigue* from doorways when we went by. But even supposing we are wrong, we have our notes, and our guidebook, our acquaintance in many lands, an ivory and chalcedony figurine of the King under the Mountain (with his face covered in a swatch of vegetable silk), a purse of gold coins, a bottle of anise liqueur; and a contract registered in Lost Drinchham that says we cannot be made to betray each other, not even at the hands of the law.
+
+figure out
+
+- how come the work is basically done?
+    - maybe just too old to keep travelling - or can't keep travelling but unclear why
+    - "the time has passed for my ordial travels"
+- at time of writing closing note, she still on laminae or what's her plan?
+- is it different? maybe translator note about it being different - weaker handwriting (too easy), different paper and ink, etc.
+- imploring reader to some kind of action or change - what?
+
+notes
+
 - maybe the only first person is in preface and close (why? intimate, after the fact?)
-- revisit parrigues ending
-- how come the work is basically done? maybe here she lists the things she didn't do
-- or she allows herself (?)
+- maybe here she lists the things she didn't do/still wants to do
+    + more experiments on CED, get carried away by eyeboat on NEC, spend more time with NND, hit up universal story again, bring father (alas deceased - maybe different and ambiguous figure) to converse in the light of NGP echo, complete and distribute Soblei map, try out CGC protection method, maybe something about one-time travel companion.
 - more hints about the "real" nature (is it all made up? i forget)
 - imply that some of reader's experiences have actually been on laminae
-- maybe translator note about it being different - weaker handwriting (too easy), different paper and ink, etc.
 - some untranslateable bits
-- emploring reader to some kind of action or change
 - some personal author bits too, now is the time to drive it home
 - kind of an open universe call (some contributions already from readers like you?)
-- oh definitely "if you should see this visitor" (but 1st person?) then xyz - sad cause, yknow
+- oh definitely "if you should see this visitor" (but 1st person? "if we should meet") then xyz - sad cause, yknow
 - analogies again like the preface
 - evoking sense of wonder, that's the purpose of this whole piece, now apply it to your world
 - really punchy beginning and end, chills
+    - i think making it look forward, as parrigues does, does it. like what's coming next
+    - i think some challenge/sadness/regret, like some burden but carrying on anyway
 
 I have carried these Observations with me for a long time, hoping to share etc etc
 
@@ -494,58 +518,6 @@ so far (some need changing, decide/find and replace, and then REF them):
 misc:
 
 - remove tooltips from copy/paste? e.g. copy anything with a link and the tooltip text is copied too. but it should be copy-able when hovering over the tooltip...
-
-## ◍○○○ Colophon
-
-Replace "about"?
-
-ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmese myth into narrator, explain language
-
-- Thanks
-    + Thank you to the [Burmese culture](link) for having developed my favorite [script](link) which has been used for beautiful symbols throughout this project.
-        * maybe mention my connection and personal feelings
-        * See more examples [here](link)
-        * Learn more about TODO.
-        * As of January 2022 things are still really tough in Myanamar. Learn more about it TODO and support TODO.
-        * Recommended book
-        * Also Burmese food is incredible: check out [TODO](link) in San Francisco and [TODO](link) in NYC.
-        * tooltip popup with that really cool pic of bunch of script
-        * burmese well wishing phrase
-    + also mention other indic scripts?
-    + friends
-- used
-    + poliphil font + other
-    + images
-        * list every artist and link to them?
-        * i believe that my use here falls under copyright fair use, and i hope that artists work here garners new fans, but if you prefer not to have your work here please let me know at todo@foo.com
-    + quote authors but especially vectors
-    + tech stack
-        * handwritten markdown, HTML, and vanilla JS/CSS, ad hoc python and shell build scripts with tons of text-replacement macros, static site hosted AWS S3
-        * three.js, popper, pypandoc, beautifulsoup
-    + OpenAI GPT-3
-        * all of the introductory and frame matter, along with the concepts for, and introductions to, and outline for every lamina, have been written be me. Several laminae chapters also written in full by me
-        * what is written by GPT-3? here's the process
-            - i put in the introduction to the laminae and then prompt it with xyz, usually run it a couple dozen times tweaking various parameters, and then edit the text for inclusion. looks like [this](imagelink)
-        * you can tell what's written by GPT-3 because it is <gpt>written in an xyz color/style</gpt>. The difference is even more noticeable if you highlight
-- faq
-    + how do you pronounce "laminae"?
-        * There are [quite a few](https://en.wiktionary.org/wiki/Category:English_irregular_plurals_ending_in_%22-ae%22) words in English, derived from Latin, where the singular ends in -a and the plural in -ae: nebulae, alumnae, algae, antennae, larvae, vertebrae. With some exceptions (including algae and vertebrae), the final vowel in British English is generally pronounced like the "ee" in "see", and in American English generally pronounced like "eye".
-- stats?
-    + words, words excluding unreleased draft content, words excluding unreleased draft content and GPT content, LOC, working on intermittently since X date
-    + see progress
-- inspiration
-    + D&D planescape
-        * easydabus/easydamus
-        * wikis
-    + emily short's annals of the parrigues
-    + hinduism for trimurti
-    + calvino's invisible cities
-- idea credits
-- link to styleguide?
-- about
-    + contact
-    + me
-    + memory multiverse
 
 # Tasks
 
@@ -615,11 +587,14 @@ viz:
 
 - tooltip "turn to section/chapter" copy? "read more" feels to internet-y
 - tooltip link to view more on desktop too?
+- block quotes from others in LEP and LNC, as well as author in CGC and CED - how to format?
+    - former are indented, latter are not. presumably not swashed like intro quotes
 
 ### definitely do
 
 - parchment
 - fix drop caps
+    - check out CED too...
     - `function o(c) {$0.innerHTML = c + $0.innerHTML.substring(1)}`
     - add them all to style guide haha
     - CGHJKLNQRSZ need vertical space (change -17px to -7px)
@@ -628,6 +603,7 @@ viz:
 
 ### please do
 
+- maybe open non-drop-cap sections with italic swashes?
 - more mobile and browser compatibility check
     + safari
     + styles, fonts, what else?
@@ -1105,6 +1081,11 @@ References themselves just `a.ref`
     + if yes, update href with filename
 
 same-page REFs link as normal. if not found, look for page ID transform
+
+## ■▤▤ Colophon
+
+- ask on myanmar/burma/burmese subreddit about this. maybe incorporate some burmese myth into narrator, explain language
+- add link back to title from colophon?
 
 ## ▤▤□ Gondola Owl
 

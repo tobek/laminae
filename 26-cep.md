@@ -26,7 +26,7 @@ what's the point?
 - powerful
 -->
 
-TODO(consider changing this to be less inhospitable in more teeming, but equally weird? to go with the equilibrium cycle LGP LEP CGP CEP - or maybe just own it, but this should have something to do with that cycle)
+TODO: consider changing this to be less inhospitable in more teeming, but equally weird? to go with the equilibrium cycle LGP LEP CGP CEP - or maybe just own it, but this should have something to do with that cycle. maybe some places more like Bruegel - Mad Meg, tons of stuff going on.
 
 ouroboros. inhabitants routinely eat themselves. aura makes things regenerate.
 

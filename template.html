@@ -22,7 +22,7 @@
   $endif$
 
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&display=swap" rel="stylesheet">
 
   <link rel="shortcut icon" href="images/favicon.png">
 
@@ -85,7 +85,7 @@ $if(title)$
 $endif$
 
 $if(quote)$
-  <div>
+  <div class="opening-quote">
     $quote$
   </div>
 $endif$
@@ -106,7 +106,10 @@ $else$
 $endif$
 
 $if(intro_only)$
-  <p class="editor-note" id="untranslated">[This chapter has not yet been translated. Please turn to the <a href="꧹၇ဗ">Inevitability</a>, the <a href="꧹ဋꧠ">Bloom</a>, or the <a href="ꩧ၇ꧠ">Unfolding</a> for completed chapters. Recent additions can be found in the <a href="d-translation-log">Translation Log</a>.]</p>
+  $if(hide_untranslated_note)$
+  $else$
+    <p class="editor-note" id="untranslated">[This chapter has not yet been translated. Please turn to the <a href="꧹၇ဗ">Inevitability</a>, the <a href="꧹ဋꧠ">Bloom</a>, or the <a href="ꩧ၇ꧠ">Unfolding</a> for completed chapters. Recent additions can be found in the <a href="d-translation-log">Translation Log</a>.]</p>
+  $endif$
   <script>
     document.querySelectorAll('#TOC a').forEach(function(el) {
       el.setAttribute("href", "#untranslated");
@@ -142,7 +145,7 @@ $endif$
 </div>
 
 <div id="about" class="corner shortcuts">
-  <a href="about">about</a>
+  <a href="colophon">colophon</a>
 </div>
 
 </div>

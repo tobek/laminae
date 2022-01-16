@@ -148,6 +148,7 @@ h6 {
 
 p {
   line-height: 1.4;
+  margin: 1em 0;
 }
 
 header {
@@ -315,7 +316,7 @@ img {
   max-height: 80vh;
 }
 
-.intro p:first-child:first-letter,
+.intro > p:first-child:first-letter,
 header + p:first-letter,
 header + blockquote + p:first-letter,
 header + blockquote + blockquote + p:first-letter,
@@ -350,19 +351,32 @@ em,
   }
 
 blockquote {
-  font-feature-settings: "dlig" 1, "swsh" 1;
-  /*TODO maybe actually: */
-  /*font-feature-settings: "dlig" 1, "swsh" 1, "salt" 1;*/
+  font-feature-settings: "dlig" 1;
   font-size: 1.15rem;
-  margin: -2.4rem 10px 1.8rem;
+  margin: 1em 0;
   padding: .185rem 1.8rem;
 }
-  .historical blockquote {
-    font-feature-settings: "dlig" 1, "swsh" 1, "salt" 1, "hist" 1;
+  .opening-quote blockquote {
+    margin: -2.4rem 10px 1.8rem;
+    font-feature-settings: "dlig" 1, "swsh" 1;
+    /*TODO maybe actually: */
+    /*font-feature-settings: "dlig" 1, "swsh" 1, "salt" 1;*/
   }
+    .historical .opening-quote blockquote {
+      font-feature-settings: "dlig" 1, "swsh" 1, "salt" 1, "hist" 1;
+    }
   blockquote p {
     line-height: 1.25;
   }
+    blockquote p:first-child {
+      margin-top: 0;
+    }
+    blockquote p:last-child {
+      margin-bottom: 0;
+    }
+    .opening-quote blockquote p {
+      margin: 1em 0;
+    }
   /*.img-wrap img:before,*/
   blockquote:only-child:before,
   blockquote:first-child:before {
@@ -450,6 +464,9 @@ blockquote {
     min-width: 100px;
   }
 
+#TOC {
+  margin-top: 1.5rem;
+}
 #TOC .no-toc-children + ul {
   display: none;
 }

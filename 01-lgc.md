@@ -14,11 +14,11 @@ quote: |
     >
     > <span class="attribution">--- Second Missive of Ertep <!-- Second Epistle of Peter 3:3-4 --></span>
 
-summary: An incomprehensible realm of deafening harmonics and shimmering geometries that shift and overlap, the Procedure is filled with the prismatic Looms who busily arrange and replay the affairs of mortal worlds in an effort to bring about a formation they call "the Pattern".
+summary: An incomprehensible realm of deafening harmonics and shimmering geometries that shift and overlap, the Procedure brims with the zeal of the prismatic Looms, who diligently arrange and replay the affairs of mortal worlds in an effort to bring about a formation they call "the Pattern".
 
 intro: |
 
-    For the sequential reader this lamina may be an unusual introduction: the Procedure is one of the most incomprehensible of realms, and, while not so dangerous as REF[CGC] or REF[CEP], it is not a place intended for mortal visitors, whose faculties seem insufficient for perceiving it. Upon arrival your vision is that of tremendous forms, shimmering and iridescent and overlapping one another and you, accompanied by a cacophony of blaring tones, discordant to the ear yet perfectly arranged, appearing to ever rise in pitch. Merely turning your head causes these shapes and sounds to shift in unpredictable ways.
+    For the sequential reader this REF[lamina](laminae) may be an unusual introduction: the Procedure is one of the most incomprehensible of realms, and, while not so dangerous as REF[CGC] or REF[CEP], it is not a place intended for mortal visitors, whose faculties seem insufficient for perceiving it. Upon arrival your vision is that of tremendous forms, shimmering and iridescent and overlapping one another and you, accompanied by a cacophony of blaring tones, discordant to the ear yet perfectly arranged, appearing to ever rise in pitch. Merely turning your head causes these shapes and sounds to shift in unpredictable ways.
 
     Navigating the Procedure seems impossible, but it is at the very least safe: the landscape contours around you to keep you steady, meeting your feet with solid ground and even supporting you should you stumble.^[Closing your eyes makes walking far more comfortable.] Though there is no getting used to the harmonics, after some time the eye learns to pick out meaningful elements in the holographic jumble: prismatic figures deep in conversation, repetitive geometric landforms, and crystalline structures. The REF[petitioners] that reside here, known as Looms, are everywhere once you come to see them, luminous forms with faces like marbled ink in water, willing to patiently speak with visitors in warm tonal voices that arrive as if from many mouths and directions at once.
 
@@ -28,9 +28,9 @@ intro: |
 
     None could comprehensibly describe what their Pattern might be like nor what it is for, but concluding a lengthy conversation one Loom, ascertaining that this visitor intended to share her understanding, asked that she record a final articulation:
 
-    *<gpt>Why don't you think of the Pattern as that which is coming, that which has been approaching from all eternity, that which will someday arrive, the ultimate fruit of a tree whose leaves you are? You must project this birth into the ages that are coming into existence, and live your life as a painful and lovely day in the history of a great pregnancy. Don't you see how everything that happens is again and again a beginning, and could it not begin the Pattern, since, in itself, starting is always so beautiful? If it is to be the most perfect, must not what is less perfect precede it, so that it can choose itself out of fullness and superabundance? Must it not be the last, so that it can include everything in itself, and what meaning would we have if that for which we are longing for has already existed? As bees gather honey, so we collect what is sweetest out of all things and build the Pattern. We start that which you will not live to see, just as your ancestors could not live to see you. And yet they, who passed away long ago, still exist in you, as predisposition, as burden upon your fate, as murmuring blood, and as gesture that rises up from the depths of time.</gpt>* <!-- Rainer Maria Rilke -->
+    > <gpt>Why don't you think of the Pattern as that which is coming, that which has been approaching from all eternity, that which will someday arrive, the ultimate fruit of a tree whose leaves you are? You must project this birth into the ages that are coming into existence, and live your life as a painful and lovely day in the history of a great pregnancy. Don't you see how everything that happens is again and again a beginning, and could it not begin the Pattern, since, in itself, starting is always so beautiful? If it is to be the most perfect, must not what is less perfect precede it, so that it can choose itself out of fullness and superabundance? Must it not be the last, so that it can include everything in itself, and what meaning would we have if that for which we are longing for has already existed? We start that which you will not live to see, just as your ancestors could not live to see you. And yet they, who passed away long ago, still exist in you, as predisposition, as burden upon your fate, as murmuring blood, and as gesture that rises up from the depths of time and reaches for the Pattern.</gpt> <!-- Rainer Maria Rilke -->
 
-    It is difficult to describe the sensation of hearing these words from all directions and refracted through the harmonic crescendo of the Procedure. In mere ink they seem to only grasp weakly at meaning, yet the Loom that spoke them did so with such precision and grace as to impart upon this visitor some conviction of their significance, along with no small sadness at the impossibility of transmuting the experience into text. This instance is not the only such challenge that befalls the present work.
+    It is difficult to describe the sensation of hearing these words from every direction refracted through the harmonic crescendo of the Procedure. In mere ink they seem to only grasp weakly at meaning, yet the Loom that spoke them did so with such precision and grace as to impart upon this visitor some conviction of their significance, along with no small sadness at the impossibility of transmuting the experience into text. This instance is not the only such challenge that befalls the present work.
 ---
 
 <!--
@@ -92,8 +92,8 @@ info gathering
 - possible environment
     - non-euclidean/visual distortion like Rorik Smith polyhedral pics or something (NNC? LGC, LNP)
     - Medieval illuminated manuscripts LED? LGC?
+    - "you: human creativity is a glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 used in NEC, but maybe also use here in LGC as some kind of warning?
 - possible elements
-    - "you: human creativity is a glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 NEC, CNC, CGC, LGC as some kind of warning?
     - wisdom that can only be understood as divine revelation
     - looking for the chosen one - in an interesting way (LGC)
         + "I could make a good argument for it being an emergent phenomenon. The prophecy might go: "A society of this structure in this environment will inevitably produce a hero of this character. When you see him, don't murder him. Help him along." It's still birth lottery, but shared." https://twitter.com/AaronPogue/status/1444289931162103808
@@ -102,9 +102,9 @@ info gathering
     - doppelganger
     - "The Buddhist allegory of "Indra's Net" tells of an endless net of threads throughout the universe, the horizontal threads running through space, the vertical ones through time. At every crossing of threads is an individual, and every individual is a crystal bead. The great light of "Absolute Being" illuminates and penetrates every crystal bead; moreover, every crystal bead reflects not only the light from every other crystal in the net---but also every reflection of every reflection throughout the universe." GEB. NGP? probably better. maybe exists in CNP? LGC?
     - something where everything is like a play, or all interactions are formulaic - NGP probably, could be LGC?
-    - "It is your [our] job to teach the gods proper morals." https://twitter.com/CurlOfGradient/status/1108326892053123075 LGP LGC
+    - "It is your [our] job to teach the gods proper morals." https://twitter.com/CurlOfGradient/status/1108326892053123075 LGC
     - <gpt>The ruins of an ancient civilization. The inhabitants share their ancestors’ obsession with perfecting a single simulation of a city, endlessly adapting it to reflect new scientific, cultural, and social insights.</gpt> LEP LGC
-    - realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe, or else CNC or CGC. used in CNC but open to it going elsewhere. LGC?
+    - realm outside of cause-and-effect? maybe lawful or neutral somehow? CNC or CGC. used in CNC but open to it going elsewhere. LGC?
     - GEB, achilles gets one meta wish, asks for wish not to be granted, and then "an event — or is 'event' the word for it? — takes place which cannot be described, and hence no attempt will be made to describe it." the result is that the universe crashes, and the characters wind up somewhere totally different - LGC, it crashed in the past
     - strange loops
         + Synthesis facet. relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP?
@@ -155,6 +155,6 @@ some like procedural error/crash
 
 ## Rumors & Mysteries
 
-### <dfn id="relationship-with-lacuna" name="Relationship with the Lacuna">Relationship with REF[the Lacuna](CED)</dfn>
+### <dfn id="relationship-with-oval" name="Relationship with the Oval">Relationship with REF[CED]</dfn>
 
 ### Perpetuation

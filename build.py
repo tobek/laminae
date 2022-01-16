@@ -190,7 +190,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
 
 only_file = sys.argv[1] if len(sys.argv) > 1 else None
 
-outer_files = ["progress.md", "about.md", "error.md"]
+outer_files = ["progress.md", "colophon.md", "error.md"]
 files = glob.glob("[^0-9]*.md") + glob.glob("[^a-e]-*.md")
 files.sort()
 file_data = {}

@@ -2,13 +2,13 @@
 
 const trinymBurmese = [
   // "ꩧဥꧠ",
-  "ꩧဥဓ",
+  // "ꩧဥဓ",
   // "ꩧဥဗ",
   // "ꩧ၇ꧠ",
   "ꩧ၇ဓ",
   // "ꩧ၇ဗ",
   // "ꩧဋꧠ",
-  "ꩧဋဓ",
+  // "ꩧဋဓ",
   // "ꩧဋဗ",
   // "ꧪဥꧠ",
   // "ꧪဥဓ",
@@ -16,29 +16,29 @@ const trinymBurmese = [
   // "ꧪ၇ꧠ",
   // "ꧪ၇ဓ",
   // "ꧪ၇ဗ",
-  "ꧪဋꧠ",
-  "ꧪဋဓ",
-  "ꧪဋဗ",
+  // "ꧪဋꧠ",
+  // "ꧪဋဓ",
+  // "ꧪဋဗ",
   // "꧹ဥꧠ",
   // "꧹ဥဓ",
-  "꧹ဥဗ",
+  // "꧹ဥဗ",
   // "꧹၇ꧠ",
   // "꧹၇ဓ",
   // "꧹၇ဗ",
   // "꧹ဋꧠ",
   // "꧹ဋဓ",
-  "꧹ဋဗ",
+  // "꧹ဋဗ",
 ];
 
 const trinymRoman = [
   // "LGC",
-  "LGP", // (hard) 2h
+  // "LGP"
   // "LGD",
   // "LNC",
   "LNP", // terrapin (medium) 1h
   // "LND",
   // "LEC",
-  "LEP", // (hard) 2h
+  // "LEP",
   // "LED",
   // "NGC",
   // "NGP",
@@ -46,18 +46,18 @@ const trinymRoman = [
   // "NNC",
   // "NNP",
   // "NND",
-  "NEC", // dreams (easy) 1h
-  "NEP", // (hard) 1h
-  "NED", // lucidity (easy) 1h
+  // "NEC",
+  // "NEP",
+  // "NED",
   // "CGC",
   // "CGP",
-  "CGD", // death doulas (medium) 2h
+  // "CGD",
   // "CNC",
   // "CNP",
   // "CND",
   // "CEC",
   // "CEP",
-  "CED", // forgetting (easy) 1h
+  // "CED",
 ];
 
 const index = Math.floor(Math.random() * trinymBurmese.length);

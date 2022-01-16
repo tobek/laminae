@@ -161,7 +161,7 @@ MEDIA("Yoshitaka Amano - Biten - Ranpo.jpg")
 MEDIA("Leonora Carrington - The Juggler.jpg")
 </div>
 
-Anyone in the multiverse is welcome to join this society, and as a result the Brink holds more mortal residents than perhaps any other lamina except REF[____[the Concordance]](LGP). It is however urgently recommended that you find a guide and mentor---assistance that nearly any Apeiron, who are universally kind and attentive despite their decadence, would be overjoyed to provide to a like-minded outsider---to avoid being overwhelmed and burnt out by the miracles and burdens of this place in which those who embarrass themselves or fail to find their way are seen as being entirely responsible for their fates.
+Anyone in the multiverse is welcome to join this society, and as a result the Brink holds more mortal residents than perhaps any other lamina except REF[LGP]. It is however urgently recommended that you find a guide and mentor---assistance that nearly any Apeiron, who are universally kind and attentive despite their decadence, would be overjoyed to provide to a like-minded outsider---to avoid being overwhelmed and burnt out by the miracles and burdens of this place in which those who embarrass themselves or fail to find their way are seen as being entirely responsible for their fates.
 
 ### GPT-3 text
 

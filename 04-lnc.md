@@ -20,6 +20,8 @@ TODO(being opposed CND, is the 2nd law of thermodynamics reversed here and that'
 
 TODO(maybe the Chords have sails attached to their body like the tinfoilgames pic in folder)
 
+TODO(change demonym?)
+
 - their ethic seems to be that nothing has any real intrinsic moral or emotional value, no intent, everything is just an opportunity for experience and creative genesis. mention more of this?
 - more personality
 - the beginning is boring and encyclopedic, interesting stuff only comes to the end - reorganize

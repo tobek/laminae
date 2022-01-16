@@ -60,7 +60,7 @@ info gathering
 - future research
 - possible elements
     - lost & found?
-    - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NEP, NND, LED)
+    - <https://en.wikipedia.org/wiki/Dulness> - "the goddess who presides over Alexander Pope's The Dunciad ... the daughter Chaos and "eternal Night," and her mission is to convert all the world to stupidity ("To hatch a new Saturnian age, of Lead")" (maybe CNP, NND, LED)
         - could be some rumor or historical thing or weird intervention
     - doppelganger
     - there's a prison here?

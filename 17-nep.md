@@ -1,19 +1,27 @@
-# The Grasp SKIP
+# The Grasp
 
 ---
 subtitle: Synthesis Power Equilibrium NEP
 intro_only: True
-<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+hide_toc: True
+post_intro_only: MEDIA("Kilian Eng - The Last Wave II.jpg")
 
 quote: |
-    > TODO quote
+    > The first principle is that you must not fool yourself---and you are the easiest person to fool. TODO(could probably find a better quote)[]
     >
-    > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --></span>
+    > <span class="attribution">--- Darrich Nemnyaf <!-- Richard Feynman --></span>
 
-summary: TODO
+summary: Insisting that they are all merely different endeavors of the single collective intelligence that is the Grasp, the Frames who dwell in this place as petitioners seek to perfect themselves each according to their chosen pursuit, training for athletic, martial, and intellectual prowess in a network of chambers and environments especially suited to their continual improvement.
 
 intro: |
-    TODO intro
+
+    Insisting that they are all merely different endeavors of the single collective intelligence that is the Grasp, the Frames who dwell in this place as REF[petitioners] seek to perfect themselves each according to their chosen pursuit, training for athletic, martial, and intellectual prowess in a network of chambers and environments especially suited to their continual improvement.
+
+    Frames bask in the fractal glow of an effect that runs to the reverse of the Echo found on REF[NGP]. Where the Echo results in an observer witnessing all of the past causes that lead to each present result, the Grasp shows an observer the myriad outcomes that may occur from each potential action under consideration. The effect is referred to as the Tessellation, after the visual form it often takes.^[It is not a perfect prediction, and of course for the unprepared it is a bewildering experience, but in fact it merely advances a natural capacity. Playing a game of strategy one finds that contemplating moving a token causes one to imagine the potential outcomes to which that move might lead. The same occurs when a wrestler considers a line of attack, and then considers their partner's counterattack, and so on. The Tessellation magnifies this effect such that dozens of more distant---yet still relevant---outcomes unfurl clearly before the observer. More likely outcomes loom larger, and the effect is perfectly responsive to actions, such that as one's hand hovers over tokens on the board, slight movements cause the Tessellation to present new information.]
+
+    Though REF[Empathy] and REF[Power] are the most antagonistic TODO(if doing some laminal arrangement section, reference it here)[] of opposing REF[facets], the Braid and the Grasp (differing only along this axis) have an unusual respect for one another. Each understands the power that the other holds---to understand the past and to anticipate the future---yet also fears it, for overlaying the two effects on top of each other produces an unbearable feedback loop: for every event recalled by the Echo, the Tessellation plays out all of its potential ramifications, and for every such ramification, its history resounds with the Echo.
+
+    And this combination can in fact be found. There are regions of both laminae that REF[verge](verges) upon each other such that the two effects can be perceived in the same place, and those few Frames and Limns who can function in such places^[That some Frames can handle this combined effect and others cannot confuses the Frames' assertion that they are all simply aspects of the same being, a matter additionally complicated by their widely varying pursuits, appearances, and personalities. Experiments have verified that different Frames do appear to have a shared state of consciousness in some respects, but there is scholarly debate over whether the Frames have correctly attributed this phenomenon.] hold a nigh-oracular power.
 ---
 
 <!--
@@ -22,22 +30,18 @@ what's the point?
 - wow such heights of prowess!
 - vs NGP - power vs empathy
 - perfection, precision
+- interesting rooms, procedures to test and improve stuff
 -->
 
-The Grasp is a strange realm that appears to be some kind of simulation, game, or test for itself, carefully laid out to its own end, and that end is self-perfection. The REF[petitioners] of this place refer to themselves as Frames and insist that they are all merely different endeavors of the single collective intelligence that is the Grasp. However they differ greatly not only in their chosen endeavors, but also in their appearances and personalities.
 
-The Frames bask in the fractal glow of an effect that runs to the reverse of REF[NGP]'s Echo. Where the Echo presents all of the causes that lead to each present result, the Grasp shows you the myriad outcomes that may occur from each potential action you consider. The effect is referred to as the Tessellation, after the visual form it often takes.^[TODO describe it - it is not perfect prediction, but tons of outcomes and the more likely ones loom larger, and the effect is perfectly responsive to your actions, so chess jiu jitsu etc. Disorienting for visitors]
 
-The Grasp seeks to perfect itself across myriad pursuits, and to this end is filled with all these weird specially suited chambers and environments connected via black and white tiled hallways. these pursuits include martial pursuits, athletic pursuits (swimming, running), mental pursuits (chess) and esoteric applications of dexterity and precision.
+appears to be some kind of simulation, game, or test for itself, carefully laid out to its own end, and that end is self-perfection.
 
-Though REF[Empathy] and REF[Power] are the most antagonistic TODO(if doing some laminal arrangement section, reference it here)[] of opposing REF[facets], the Grasp and REF[NGP], which differ along only that axis, are unusually familiar with and respectful of each other. Each appreciates the power that the other holds---to understand the past and to anticipate the future---but also fears/can't really handle it, for overlaying the two effects on top of each other produces an unbearable feedback loop: for every whiff recalled by the Echo, the Tessellation plays out all of its potential ramifications, and for every such ramification the Tessellation plays out, every factor that would go into it comes out in the Echo.
+However they differ greatly not only in their chosen endeavors, but also in their appearances and personalities.
 
-This combination does, however, exist. There are regions of both laminae that REF[verge](verges) upon each other such that the two effects exist in the same place, and those few Frames and REF[Limns](NGP) who can function in such places are the closest it gets to true oracles.
-
+The Grasp seeks to perfect itself across myriad pursuits, and to this end is filled with all these weird specially suited chambers and environments connected via black and white tiled hallways. these pursuits include martial pursuits (jiu jitsu), athletic pursuits (swimming, running), mental pursuits (chess) and esoteric applications of dexterity and precision.
 
 something about beating akrasia here
-
-i guess they play chess too. and jiu jitsu
 
 - name
     - The Alacrity (brisk cheerful readiness)
@@ -62,7 +66,7 @@ i guess they play chess too. and jiu jitsu
     - Roots
     - Tessellates
 - quotes
-    - "The first principle is that you must not fool yourself, and you are the easiest person to fool" NEP LEP
+    - "The first principle is that you must not fool yourself, and you are the easiest person to fool" NEP
     - "But what is the point of soft without hard, or weight without lightness? In Japan the philosophy of the relative value of things is carried so far that in ceremonial tea-making there's a little cloth they use, which they handle as if it were the weightiest thing in the world. Light things are handled as if they're heavy, heavy things as if they're weightless - in this way one finds an almost complete control over nature instead of being dominated by it!" - Noguchi NEP
     - 6. Wind cannot blow the wind away, nor water wash away the water.
 - environment
@@ -100,10 +104,11 @@ info gathering
     - "an indigenous Amazonian society that shifted seasonally between two entirely different forms of social organization (small, authoritarian nomadic bands during the dry months; large, consensual horticultural settlements during the rainy season)" NEP
     - doppelganger (you fight them)
     - MAYBE ACTUALLY HIVE All beings part of a single collective hive intelligence (OR it's not clear whether everyone is part of a single crazy chaotic (or complex) mind, or are actually different minds) - should probably be NEP or LED
+        - AKA collective consciousness/intelligence, mindcity, hypermind, metamind, group mind
+        - "Something the whole ocean is doing"
     - Pantropy: modifying being to suit its environment (opposite of terraforming) - NEP?
     - a city where there is some wild price you have to pay - like having something tattooed on your body (inspired by Palimpsest book) NEC NEP
-    - they worship a god who is crazy but they love it - CGC NEP NEC
-    - the conception of perfection. (look up quotes?) LEP NEP
+    - the conception of perfection. (look up quotes?) NEP
         + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
     - weirdly insensitive and/or literally stupid, but powerful. XXD - NEP, CGD
     - Some kind of super complex interlocking yoga that I can make IRL - NED or NEP

@@ -149,7 +149,7 @@
 	}
 </style>
 
-It's not done, but it's ready enough: <a href="https://thereitwas.com/laminae/">Observations on the Twenty-Seven Laminae</a>
+<a href="https://thereitwas.com/laminae/">Observations on the Twenty-Seven Laminae</a> is a work in progress.
 
 Major updates will go into the <a href="https://thereitwas.com/laminae/d-translation-log">Translation Log</a>.
 
@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 63,269 | 3,031 | 32/42 | 114/224 |
+| 67,333 | 3,046 | 39/42 | 124/223 |
 
 </div>
 
@@ -168,6 +168,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2022-01-15|8   |66228|3034|85%|53%|36|119|80|39|
 |2022-01-14|9   |63268|3031|76%|50%|32|114|75|39|
 |2022-01-13|7.5 |60436|3026|73%|50%|31|113|74|39|
 |2022-01-12|10  |56276|2987|71%|50%|30|112|73|39|
@@ -342,18 +343,18 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | | | | |
 | :-- | :-- | :-- | :-- |
 | <span class="glyph">ꩧဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> |
-| <span class="glyph">ꩧဥဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">◍◍○○○○</span> |
-| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩧ၇ꧠ</span> | <span class="bloop">●◍◍◍◍○</span> | <span class="glyph">ꧪဋဗ</span> | <span class="bloop">◍◍◍○○○</span> |
+| <span class="glyph">ꩧဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋꧠ</span> | <span class="bloop">●◍◍○○○</span> |
+| <span class="glyph">ꩧဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">ꧪဋဓ</span> | <span class="bloop">●◍◍○○○</span> |
+| <span class="glyph">ꩧ၇ꧠ</span> | <span class="bloop">●◍◍◍◍○</span> | <span class="glyph">ꧪဋဗ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꩧ၇ဓ</span> | <span class="bloop">◍◍○○○○</span> | <span class="glyph">꧹ဥꧠ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꩧ၇ဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဥဓ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꩧဋꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဥဗ</span> | <span class="bloop">◍○○○○○</span> |
-| <span class="glyph">ꩧဋဓ</span> | <span class="bloop">◍○○○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">●◍◍○○○</span> |
+| <span class="glyph">ꩧဋဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ꧠ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꩧဋဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဓ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꧪဥꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹၇ဗ</span> | <span class="bloop">●◍◍◍◍○</span> |
 | <span class="glyph">ꧪဥဓ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋꧠ</span> | <span class="bloop">●◍◍◍○○</span> |
 | <span class="glyph">ꧪဥဗ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဓ</span> | <span class="bloop">●◍◍○○○</span> |
-| <span class="glyph">ꧪ၇ꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဗ</span> | <span class="bloop">◍○○○○○</span> |
+| <span class="glyph">ꧪ၇ꧠ</span> | <span class="bloop">●◍◍○○○</span> | <span class="glyph">꧹ဋဗ</span> | <span class="bloop">●◍◍○○○</span> |
 | <span class="glyph">ꧪ၇ဓ</span> | <span class="bloop">●◍◍○○○</span> |
 
 </div>
@@ -369,7 +370,6 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | Facets | <span class="bloop">●◍◍○</span> |
 | Close | <span class="bloop">◍○○○</span> |
 | Glossary | <span class="bloop">●◍◍○</span> |
-| Colophon | <span class="bloop">◍○○○</span> |
 
 </div>
 <div>
@@ -384,6 +384,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 | Visualization | <span class="bloop">■▤□</span> |
 | Plates | <span class="bloop">■▤□</span> |
 | References | <span class="bloop">■▤▤</span> |
+| Colophon | <span class="bloop">■▤▤</span> |
 | <span class="later">Gondola Owl</span> | <span class="bloop later">▤▤□</span> |
 | <span class="later">Calligraphy</span> | <span class="bloop later">□□□</span> |
 | <span class="later">Peristalsis</span> | <span class="bloop later">□□□</span> |

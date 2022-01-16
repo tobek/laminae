@@ -14,7 +14,7 @@ Hierarchy Empathy:
         summary: |
             *?* a surprisingly exhausting, crushing place? Too much energy? Conduit should maybe be missing from this one or CEC or CED or LEC. W40k Terra? Or crystalline? Some deal/symbiosis with CED. oral history in wisdom, maybe in clothing and everything. incoming godhead, they're creating it
 
-    '◍◍○○○○ Hierarchy Empathy Equilibrium (LGP)':
+    '●◍◍○○○ Hierarchy Empathy Equilibrium (LGP)':
         name: The Concordance, The Positioning, The Arrangement, The Procedure
         demonym:
         summary: |
@@ -37,8 +37,8 @@ Hierarchy Utility:
         summary: |
             Artists and engineers that have architected all of the most famous constructions in existence, original copies of which fill archipelagos that spread across the Glass Ocean, where the enormous automaton wind shifters interlock and glide across empty waters.
 
-    '◍◍○○○○ Hierarchy Utility Equilibrium (LNP)':
-        name: The Essentialism
+    '●◍○○○○ Hierarchy Utility Equilibrium (LNP)':
+        name: The Essentialism, The Concordance
         demonym: Archivists
         summary: |
             Collecting everything in a crystalline library hive, for cataloging and categorization according to infinitely varied sets of overlapping ontologies, none of which can be argued to be a universally useful or applicable paradigm. Also, free storage of stuff they don't have? Lost and found?
@@ -60,7 +60,7 @@ Hierarchy Power:
         summary: |
             The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
 
-    '◍○○○○○ Hierarchy Power Equilibrium (LEP)':
+    '●◍◍○○○ Hierarchy Power Equilibrium (LEP)':
         name:
         demonym:
         summary: |
@@ -123,23 +123,23 @@ Synthesis Utility:
 
 Synthesis Power:
 
-    '◍◍○○○○ Synthesis Power Creation (NEC)':
+    '●◍◍○○○ Synthesis Power Creation (NEC)':
         name:
         demonym:
         summary: |
             Dreams, unfiltered, dangerous, inspiration
 
-    '◍○○○○○ Synthesis Power Equilibrium (NEP)':
+    '●◍◍○○○ Synthesis Power Equilibrium (NEP)':
         name:
         demonym:
         summary: |
             the opposite of NGP - opposite of restorative justice? training, pacts of power, helping however but not honorably. Or dangerous beauty, Barbarella society?
 
-    '◍◍◍○○○ Synthesis Power Dissolution (NED)':
+    '●◍◍○○○ Synthesis Power Dissolution (NED)':
         name: The Lucidity
         demonym: Precepts
         summary: |
-            Obliterating zen monks aim for ultimate nothingness residing in blank palaces. Flawless control over their attention gives them otherwordly abilities. They occasionally gather outside their realm to perform lengthy ceremonies of "erasure" causing an unepected thing (an artifact, a memory, a person, a river, a civilization) to vanish at the end of the ceremony. Swap with NED? if not need something that pulls them away from pure power. i guess it's about what they choose to remove, some utility to it
+            Obliterating zen monks aim for ultimate nothingness residing in blank palaces. Flawless control over their attention gives them otherwordly abilities. They occasionally gather outside their realm to perform lengthy ceremonies of "erasure" causing an unepected thing (an artifact, a memory, a person, a river, a civilization) to vanish at the end of the ceremony.
 
 
 Autonomy Empathy:
@@ -157,7 +157,7 @@ Autonomy Empathy:
         summary: |
             Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
 
-    '◍○○○○○ Autonomy Empathy Dissolution (CGD)':
+    '●◍◍○○○ Autonomy Empathy Dissolution (CGD)':
         name:
         demonym:
         summary: |
@@ -204,8 +204,8 @@ Autonomy Power:
         summary: |
             Possibly the most dangerous and unintelligible of all laminae, the Knot is a maelstrom of cloud, mud, ocean, rock, and fire through which towering alien behemoths stumble and squirm, striving to devour themselves.
 
-    '◍○○○○○ Autonomy Power Dissolution (CED)':
-        name: The Lacuna, The Recital, The Antechamber
+    '●◍◍○○○ Autonomy Power Dissolution (CED)':
+        name: The Lacuna, The Recital, The Antechamber, The Whorl
         demonym:
         summary: |
             Murder as art? Forgetting place?

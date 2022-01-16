@@ -308,7 +308,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="page">LGC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">2.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="02-lgp">The Concordance</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">2.</div>REF[LGP]</div>
   <div class="dots"></div>
   <div class="page">LGP</div>
 </div>
@@ -324,7 +324,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="page">LNC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">5.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="11-lnp">The Essentialism</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">5.</div>REF[LNP]</div>
   <div class="dots"></div>
   <div class="page">LNP</div>
 </div>
@@ -340,7 +340,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="page">LEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">8.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="20-lep"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">8.</div>REF[LEP]</div>
   <div class="dots"></div>
   <div class="page">LEP</div>
 </div>
@@ -386,17 +386,17 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 </div>
 
 <div class="row">
-  <div class="left"><div class="numeral">16.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="22-nec"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">16.</div>REF[NEC]</div>
   <div class="dots"></div>
   <div class="page">NEC</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">17.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="23-nep"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">17.</div>REF[NEP]</div>
   <div class="dots"></div>
   <div class="page">NEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">18.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone" hreff="24-ned">The Lucidity</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">18.</div>REF[NED]</div>
   <div class="dots"></div>
   <div class="page">NED</div>
 </div>
@@ -412,7 +412,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="page">CGP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">21.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="09-cgd"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">21.</div>REF[CGD]</div>
   <div class="dots"></div>
   <div class="page">CGD</div>
 </div>
@@ -444,7 +444,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
   <div class="page">CEP</div>
 </div>
 <div class="row">
-  <div class="left"><div class="numeral">27.</div><span class="tooltip-wrap"><a class="tooltip-anchor lamina-name undone unnamed" hreff="27-ced"></a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">27.</div>REF[CED]</div>
   <div class="dots"></div>
   <div class="page">CED</div>
 </div>
@@ -455,7 +455,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 ##### Back Matter
 
 <div class="row">
-  <div class="left"><div class="numeral">A.</div><span class="tooltip-wrap"><a class="tooltip-anchor undone" hreff="#">Closing Notes</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <div class="left"><div class="numeral">A.</div><a href="a-close">Closing Note</a></div>
   <div class="dots"></div>
   <div class="page"></div>
 </div>

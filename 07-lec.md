@@ -39,13 +39,13 @@ quote: |
     >
     > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 
-summary: The Macula is a pitch-dark blank realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling, spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
+summary: The Macula is a pitch-dark realm where every shred of light and substance has long since been utilized by the alien and fractal Oriels to build curling, spectacular palaces in which they warp their minds and bodies in pursuit of ever more esoteric experiences of beauty.
 
 intro: |
 
     All the light and color has long since been slicked out of this realm: the ground is a desert of black pebbles and the stars, they say, were plucked from the Macula's now-empty sky to adorn crowns and capes of the Oriels. Curling towers and palaces punctuate the blankness, gleaming like jewels scattered in ash, and in each of these a microcosm of fantasy blossoms in which the Oriels---alien and fractal and shatteringly striking beings---mould their minds and bodies in the pursuit of visceral beauty.
 
-    Some Oriels seek an objective beauty, constructed according to elegant geometric proofs laid out for all to see, but beauty of course is an experience that unfolds in the beholder, and so Oriels warp and transfigure themselves in order to behold ever more esoteric and intense experiences of beauty, inventing philosophies and bodies and states of mind to inhabit. Others pursue beauty outside their own selves, in the breeding of outlandish creatures, or in sexual pursuits, or in the invention of musical structures, mathematical theories, languages and scripts and social experimentations that rival those of REF[the Brink](CGP). No natural light suffuses the Macula, and so even vision is an act of Oriel agency: the harnessing of light here is a universal art, one that provides another axis along which Oriels distinguish, judge, and focus their efforts.
+    Some Oriels seek an objective beauty, constructed according to elegant geometric proofs laid out for all to see, but beauty of course is an experience that unfolds in the beholder, and so Oriels warp and transfigure themselves in order to behold ever more esoteric and intense experiences of beauty, inventing philosophies and bodies and states of mind to inhabit. Others pursue beauty outside their own selves, in the breeding of outlandish creatures, or in erotic pursuits, or in the invention of musical structures, mathematical theories, languages and scripts and social experimentations that rival those of REF[the Brink](CGP). No natural light suffuses the Macula, and so even vision is an act of Oriel agency: the harnessing of light here is a universal art, one that provides another axis along which Oriels distinguish, judge, and focus their efforts.
 
     No other lamina channels the gales of REF[Creation] with such intensity and precision,^[Perhaps one could argue that, in it's own narrower and more practical way, the Bloom's REF[Islet Conservatory](CEC#the-islet-conservatory) could contend for this superlative.] wielding them as hammers on the blasted anvils of the Macula and their own bodies. Narcissism runs thick and is equally well harnessed---and warranted: Oriels are unforgiving with their judgments, and so all know their standing. They are often cruel, but not for the sake of cruelty, only sparing no patience before their callings. For those REF[petitioners] that arrive not blessed with beauty, they may shape themselves accordingly or, along complex stratifications of Oriel society, find their place serving others or bearing the honor of being transmuted into materials for those more worthy of their substance.
 
@@ -53,7 +53,7 @@ intro: |
 
 ---
 
-TODO probably add max ernst cocktail drinker
+sufficiently weird beauty is indistinguishiable from perversion (tweet and link here!)
 
 <!--
 what's the point?

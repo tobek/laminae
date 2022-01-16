@@ -12,11 +12,23 @@ hide_toc: True
     }
 </style>
 
+TODO(what's a good way to leave things hanging when done for now - "there's a bunch of papers we haven't even looked at yet" doesn't make sense. maybe some trove that was significantly faded that improved karedian skills let us revisit, we will do our best to incorporate these changes... something better)[]
+
 ## The 222nd Year L.C.
+
+#### The Sixteenth of the First
+
+Introductions have been translated for the REF[LEP], REF[NEC], and REF[CGD], as well as the notes that make up the only information we have about REF[LNP].
+
+<!-- Additionally TODO()[] -->
+
+#### The Fifteenth of the First
+
+Introductions have been translated for the following laminae: REF[NEP], REF[LGP], REF[CED], and REF[NED].
 
 #### The Fourteenth of the First
 
-The introduction and outline of REF[LGC] has been translated.
+The introduction and outline of REF[LGC] have been translated.
 
 #### The Thirteenth of the First
 

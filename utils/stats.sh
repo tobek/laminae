@@ -60,8 +60,6 @@ AT_R=$(grep -c "'●◍" "$LAMINAE_FILE") || true
 WORDS=$(cat ./[0-9]*.md | wc -w)
 TITLE_WORDS=$(wc -w < 00-0-title.md) # mostly HTML
 WORDS=$((WORDS - TITLE_WORDS))
-WIP_WORDS=$(wc -w < all.md) # non-numbered but actual content
-WORDS=$((WORDS + WIP_WORDS))
 
 LOC=$(cat ./*.sh ./*.js ./*.css build.py template.html index.yml utils/*.sh firebase/functions/src/index.ts | wc -l)
 LOC=$((LOC + 137)) # eh add the css in title.md

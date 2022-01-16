@@ -181,7 +181,7 @@ document.addEventListener("visibilitychange", function() {
 const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 function initTooltips() {
   Array.from(document.querySelectorAll(".tooltip-wrap")).forEach(wrapEl => {
-    const tooltip = wrapEl.querySelector(":scope > .tooltip");
+    const tooltip = wrapEl.querySelector(":scope > .tooltip, :scope > .tooltip-anchor > .tooltip");
     const anchor = wrapEl.querySelector(":scope > .tooltip-anchor");
     if (!tooltip) {
       return;

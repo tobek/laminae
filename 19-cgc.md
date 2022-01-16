@@ -21,7 +21,7 @@ intro: |
 
     This visitor was determined to return from the Kylix with words to share, and so added onto the customary ritual a final component: a lengthy monologue of free-association relating anything that she could bring to mind, with the hope that her companion could return in time from the mouth of the river to record these words. Though she had no memory of the process, this attempt was successful, resulting in the following ramblings presented here with equal parts reluctance and wonder:
 
-    *A void. A pulsating fractured rainbow riverbed. A chariot. A waterfall up from the stone. A hedge of scales, a branching catacomb translucent rock. A cliff spire, a wind topped pedestal. A water drop. Lightning strike turns lake to ice. A snake peeks out a hole, a whip, a belt, a rope. A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps a life, a praying mantis. A flute lays white notes eggs. A mountain coils and sings. A chariot rides its wave, foam, a labyrinth, a maze, a boy, an outstretched hand, a mission, a foe, a dialog, an image, a geyser, a trickle, sadness or joy, or a gate, a library of colors, a frown, a smile. The color is noise, breathe. A warm welcome. Wine from a bowl, a starry night, a white horse, wooden wind chimes, the smell of grass, the color, an orchard. An orchard! Silent heavy snowfall, rustling leaves, freshly baked bread, full moon over an empty lake, an elephant lumbering overhead, a boy in an orchard, a plum bite, a big old house horses, father can't look, sun setting, ripe apple cheek blood, a crowd, a flock of swallows, their wings. I'm standing barefoot a field of deep moss. A trickling stream, thick steam. An antelope stops turns its head. An owl perches. One room of dancers in red and white. A framed picture a silver thread. A book open gilded curls, illuminations, a door to black and white, one tulip in mirrors. The indigo sisters. Touch of soft leather. A glass ocean. You watching me. Look please you're watching, a gulf into water, your ankle,^[Apparently this companion, when returning from his hike to the head of the river, had a moment of reverie during which he stumbled over some rocks and injured his ankle.] fear, three brothers on a row boat laughing, rope, one, Tristo---*
+    *No void. A fractured rainbow riverbed. A chariot. A waterfall up from the stone. A hedge of scales, a branching catacomb translucent rock. A cliff spire, a wind topped pedestal. A water drop. Lightning strike turns lake to ice. A snake peeks out a hole, a whip, a belt, a rope. A sudden calm. A pit in the gut. A ring, a ringing. A gust of rosemary. An orchid leaps a life, a praying mantis. A flute lays white notes eggs. A mountain coils and sings. A chariot rides its wave, foam, a labyrinth, a maze, a boy, an outstretched hand, a mission, a foe, a dialog, an image, a geyser, a trickle, sadness or joy, or a gate, a library of colors, a frown, a smile. The color is noise, breathe. A warm welcome. Wine from a bowl, a starry night, a white horse, wooden wind chimes, the smell of grass, the color, an orchard. An orchard! Silent heavy snowfall, rustling leaves, freshly baked bread, full moon over an empty lake, an elephant lumbering overhead, a boy in an orchard, a plum bite, a big old house horses, father can't look, sun setting, ripe apple cheek blood, a crowd, a flock of swallows, their wings. I'm standing barefoot a field of deep moss. A trickling stream, thick steam. An antelope stops turns its head. An owl perches. One room of dancers in red and white. A framed picture a silver thread. A book open gilded curls, illuminations, a door to black and white, one tulip in mirrors. The indigo sisters. Touch of soft leather. A glass ocean. You watching me. Look please you're watching, a gulf into water, your ankle,^[Apparently this companion, when returning from his hike to the head of the river, had a moment of reverie during which he stumbled over some rocks and injured his ankle.] fear, three brothers on a row boat laughing, rope, one, Tristo---*
 
     TODO(this rambling could be better, more hints about brother and relationship with companion, more thinks that aren't just sights - instead feelings etc)[]
 
@@ -55,7 +55,7 @@ what's the point?
     - The Discarnate (not having a physical body)
 - quotes
     - "Ideally, if anything were any good, it would be indescribable." - Edward Gorey (CGC NEC) TODO probably this here
-    - 8. When it gets ahead of itself, the wave breaks.
+    - 8. When it gets ahead of itself, the wave breaks. (CGC CED)
     - 107. A feather lands on the pond and a dozen goldfish come to poke at it. We are whoever rises into our eyes to have a look. (NGC? CGC? NEC?)
 - environment
     - it is probably actually something
@@ -82,10 +82,9 @@ info gathering
         + if so, then canaries for detection
     - Some kind of mirroring or doppelgangering in the way it responds to you
     - some place where you can peer through the looking glass of "what if" moments in your own life. CNC? CGC? CNP? eh
-    - realm outside of cause-and-effect? maybe lawful or neutral somehow? LEP maybe, or else CNC or CGC. used in CNC but open to it going elsewhere
-    - they worship a god who is crazy but they love it CGC NEP
+    - realm outside of cause-and-effect? maybe lawful or neutral somehow? CNC or CGC. used in CNC but open to it going elsewhere
+    - they worship a god who is crazy but they love it CGC
     - something where everything is like a play, or all interactions are formulaic - NGP probably, could be CGC
-    - "you: human creativity is a glorious, nigh-divine faculty / me: a human brain is a puncture wound in the fabric of reality that monsters from outside the world can use to claw their way into it / we are not the same" - https://twitter.com/chaosprime/status/1469396883118477316 NEC, CNC, CGC
     - hive mind
     - Emotional etc content of micro actions? (NGP? CGC?)
     - Resurrection (necromantic or otherwise) - CGC? CEC? you can bring dead bodies there and they will likely come to life, but transformed who-knows-how

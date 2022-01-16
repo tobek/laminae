@@ -11,14 +11,15 @@ quote: |
     >
     > <span class="attribution">--- Jesma Shirancord, "Vectors" <!-- James Richardson --></span>
 
-summary: A vast crevasse bisects the Increpation, atop which all the soldiers of every mortal battlefield fight amidst the fallen bodies of aeons. In the depths of the crevasse loom ornate and labyrinthine catacombs that hold anxious intellects weaving schemes and curses to unleash upon the rest of the multiverse, none of which have ever been observed to unfold.
+summary: "A boundless crevasse bisects the Increpation, atop which all the soldiers of every mortal battlefield fight amidst the fallen bodies of aeons. In the depths of the crevasse loom ornate catacombs that hold the Rues: anxious intellects weaving schemes and curses to unleash upon the rest of the multiverse, none of which have ever been observed to unfold."
 
 intro: |
-    A vast crevasse bisects the Increpation, dozens of yards across, but it is its upper surface that divides this lamina in two. Atop the crevasse in all directions is a wasteland populated by warring soldiers from every era and world---all mortal battlefields REF[verge](verges) upon the Increpation and their troops, mostly unawares, fight amidst the fallen bodies of aeons. In the depths of the crevasse (into which a steady stream of casualties plunge) an entirely different endeavor looms: in ornate and labyrinthine catacombs gather the REF[petitioners] of the place, the Rues, anxious intellects who weave schemes and curses to unleash upon the rest of the multiverse.
+
+    A boundless crevasse bisects the Increpation, dozens of yards across, but it is its upper surface that divides this lamina in two. Atop the crevasse in all directions is a wasteland populated by warring soldiers from every era and world---all mortal battlefields REF[verge](verges) upon the Increpation and their troops, mostly unawares, fight amidst the fallen bodies of aeons. In the depths of the crevasse (into which a steady stream of casualties plunge) an entirely different endeavor looms: in ornate and labyrinthine catacombs gather the REF[petitioners] of the place, the Rues, anxious intellects who weave schemes and curses to unleash upon the rest of the multiverse.
 
     <gpt>The Rues appear to have lost their ability to communicate with one another. They can still speak, and are sometimes found muttering to themselves, but they cannot understand the speech of others. These souls exist in constant fear of being unable to communicate, and so they work alone and take great pains to avoid interacting with one another. As a result, below the warring surface the Increpation is completely silent except for the sound of wind blowing through its bridges and tunnels.</gpt>
 
-    With visitors too the Rues will not speak, and so we have only learned of the their affairs by reviewing the extensive documentation that they keep. Their endeavors range from personal curses and plots---such as causing an individual to become an insomniac, or to be forever late to every appointment they make---to great schemes involving the restructuring of entire cultures. What they accomplish, however, is a complete mystery. Rues have never been sighted verging upon the REF[cardinal], and every plan seem to have no correlation to reality. For example, one might find documentation of an effort to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with details of allies and turncoats, locations to infiltrate, forgeries to employ, and all manner of analyses and strategies, but all of which refer to lands, cultures, names, and histories that have not been found even in the libraries of REF[the Essentialism](LNP).
+    With visitors too the Rues will not speak, and so we have only learned of the their affairs by reviewing the extensive documentation that they keep. Their endeavors range from personal curses and plots---such as causing an individual to become an insomniac, or to be forever late to every appointment they make---to great schemes involving the restructuring of entire cultures. What they accomplish, however, is a complete mystery. Rues have never been sighted verging upon the REF[cardinal], and every plan seem to have no correlation to reality. For example, one might find documentation of an effort to pollute the bloodline of a noble family over generations in order to watch a benevolent kingdom turn slowly upon its trusting populace, replete with details of allies and turncoats, locations to infiltrate, forgeries to employ, and all manner of analyses and strategies, but all of which refer to lands, cultures, names, and histories that have not been found even in the archives of REF[LNP].
 
     Is the multiverse too big? Is this lamina removed from the flow of time such that plans reference ancient happenings or predict things not yet come to pass? Are their schemes expertly obfuscated such that spying outsiders never understand them? Interlaminal powers tread carefully for fear of attracting the ire of the Increpation's denizens, so many assume that the longest cons and most devastating corruptions can be traced back to this lamina, but not a whit has been verified.
 ---
@@ -66,11 +67,11 @@ info gathering
 - questions
 - future research
 - environment maybe
-    - Everything is black and white - maybe CED? or NNP. or LGP? CNP, LED
+    - Everything is black and white - maybe CED? or NNP. or CNP, LED
     - Medieval illuminated manuscripts LED?
         - both the overaching style, and them as actual objects in the place
 - possible elements
-    - ritual border
+    - ritual border - used in LEP now but could reuse in a slightly different way here
     - glitch: the only way to know something is by knowing how it breaks, and everything breaks in a way that's unique to the thing. NED or LED or LND. - and then how it heals
     - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED. wait but inertia is XXP?
     - artisan bureaucracy LED LND
@@ -86,7 +87,6 @@ info gathering
     - Apophatic theology ("attempts to approach God, the Divine, by negation, to speak only in terms of what may not be said about the perfect goodness that is God") vs. cataphatic theology (the opposite, using positive definitions) XXD
     - connect with CND Political Dissolution?
     - doppelganger...
-    - hive mind...
     - secret society so secret and/or went wrong such that no one could get back into it (LND is this kinda. LED?)
     - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LED?)
     - "There is a crack in everything but The Cube."
