@@ -82,7 +82,7 @@ Both the environment and culture of the Unfolding are more hospitable to visitor
 
 Proposals for projects can be presented at an office at the Scaffold. Those who wish to do so should first review the extensive proposal requirements and consult the guild directory, in order to ascertain the appropriate guild to petition and to seek out relevant Architects for their advice.
 
-Ref[Apertures] to the Unfolding can be found in esteemed engineering and architecture guilds across the multiverse, as well as in the possession of the odd library or patron of the arts. Notably lacking a connection is REF[Soblei]; the legend is that before its destruction the ruler of that otherwise famously aperture-laden place was so incensed with consequences stemming from a resident's commission that any connection between the two realms was severed.
+REF[Apertures] to the Unfolding can be found in esteemed engineering and architecture guilds across the multiverse, as well as in the possession of the odd library or patron of the arts. Notably lacking a connection is REF[Soblei]; the legend is that before its destruction the ruler of that otherwise famously aperture-laden place was so incensed with consequences stemming from a resident's commission that any connection between the two realms was severed.
 
 ## Locations
 
@@ -190,7 +190,7 @@ The lights dim as the hallway progresses, eventually taking on a warmer tone and
 
 If you choose not to skirt around it, the labyrinth is both welcoming and challenging. One the one hand, though it wends elaborately towards the center and then out again, it is unicursal, with no branching paths, and the embers burn cleanly, releasing little ash or smoke. On the other hand, the heat is extraordinary, lending an urgency to your passage, and if stepping over the cinders to take a shortcut a visitor should beware the ignition of an errant scrap of clothing. The whole passage, all circular curves and right angles, takes maybe half an hour to traverse and has a peculiar effect on the vision, filled as it is for so long with the darkness and peripheral dance of red streaks in a haze of calidity. This visitor had the powerful sense while walking that she was in fact unmoving, as the great, wavering, manifold disc translated and rotated around her body.
 
-TODO(something in the center of the labyrinth, maybe embers too high to cross surrounding something people have thrown things in to sacrifice, or maybe some scaffold-like catcher thing?)[[The next paragraph is too thoroughly smudged with soot to be legible. It appears to describe a thing at the center of the labyrinth, with several usages of a word meaning "pilgrimage" or "sacrifice".]]
+TODO(something in the center of the labyrinth, maybe embers too high to cross surrounding something people have thrown things in to sacrifice, or maybe some scaffold-like catcher thing? ALSO wait her notes shouldn't be smudged like this... yeah)[[The next paragraph is too thoroughly smudged with soot to be legible. It appears to describe a thing at the center of the labyrinth, with several usages of a word meaning "pilgrimage" or "sacrifice".]]
 
 <!--
 Dark: shadow, can't make out things, fading, things being lost, hiding
@@ -296,7 +296,7 @@ other attributes: formless, cold, hot (that effect of cold next to hot)
 
 ### Abandoned Archipelagos
 
-While in theory every disused or undesired construction is disassembled and reclaimed, in practice some face other fates for a variety of reasons, from the inhospitableness of its terrain or unusually difficult materials used, to simply gaps in bureaucracy. This visitor heard a few mentions of a sizable continent consisting of all the works of a particular disgraced Architect pushed far out at sea, but further details varied: a lingering plague, violent mortal squatters, a demigod's curse.
+While in theory every disused or undesired construction is disassembled and reclaimed, in practice some face other fates for a variety of reasons, from the inhospitableness of its terrain or unusually difficult materials used, to simply gaps in bureaucracy. This visitor heard mention of a sizable continent consisting of all the works of a particular disgraced Architect pushed far out at sea, but further details varied: a lingering plague, violent mortal squatters, a demigod's curse.
 
 ## <span class="no-toc-children">Figures & Groups</span>
 

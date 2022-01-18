@@ -19,7 +19,7 @@ quote: |
     >
     > <div></div>
     > </div>
-summary: Exultant yet mindful hedonists who form a kaleidoscopic community of explorations in creation and destruction, joy and suffering, exertion and renewal. Visitors are welcomed into the fold, and it is impossible not to be overwhelmed.
+summary: One or more of everything.
 intro: |
 
     The Apeirons of the Brink hold a vigorous rivalry with REF[____[the Concordance]](NGP) regarding pursuits of happiness and fulfillment. Where those of ____[the Concordance] view suffering as superfluous to this quest, Apeirons relish heights of realization and beauty that they say can only be attained when pain and failure lie on the path, and their case is presented here with terrifying prowess. To genuinely engage with this place---and it is nearly impossible not to, for in the cacophony some notes inevitably strike deep---is to undergo turns of trauma and euphoria that together result in exhilarating regeneration. As a place of constant reinvention transforming the landscape and culture as if by hallucinated natural disasters, the Brink more than any other lamina of REF[Equilibrium] is fueled by waves of self-contained creation and destruction rather than a gentle balance of stillness.

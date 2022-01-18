@@ -20,7 +20,7 @@ intro: |
 
     For the sequential reader this REF[lamina](laminae) may be an unusual introduction: the Procedure is one of the most incomprehensible of realms, and, while not so dangerous as REF[CGC] or REF[CEP], it is not a place intended for mortal visitors, whose faculties seem insufficient for perceiving it. Upon arrival your vision is that of tremendous forms, shimmering and iridescent and overlapping one another and you, accompanied by a cacophony of blaring tones, discordant to the ear yet perfectly arranged, appearing to ever rise in pitch. Merely turning your head causes these shapes and sounds to shift in unpredictable ways.
 
-    Navigating the Procedure seems impossible, but it is at the very least safe: the landscape contours around you to keep you steady, meeting your feet with solid ground and even supporting you should you stumble.^[Closing your eyes makes walking far more comfortable.] Though there is no getting used to the harmonics, after some time the eye learns to pick out meaningful elements in the holographic jumble: prismatic figures deep in conversation, repetitive geometric landforms, and crystalline structures. The REF[petitioners] that reside here, known as Looms, are everywhere once you come to see them, luminous forms with faces like marbled ink in water, willing to patiently speak with visitors in warm tonal voices that arrive as if from many mouths and directions at once.
+    Navigating the Procedure seems impossible, but it is at the very least safe: the landscape contours around you to keep you steady, meeting your feet with solid ground and even supporting you should you stumble.^[Closing your eyes makes walking far more comfortable.] Though there is no getting used to the harmonics, after some time the eye learns to pick out meaningful elements in the holographic jumble: prismatic figures deep in conversation, repetitive geometric landforms, and crystalline scaffolds. The REF[petitioners] that reside here, known as Looms, are everywhere once you come to see them, luminous forms with faces like marbled ink in water, willing to patiently speak with visitors in warm tonal voices that arrive as if from many mouths and directions at once.
 
     The Looms say that they are in the process of creating "the Pattern", and this visitor will do her best to relate their description of what that entails. Everywhere they are busy with this task, instructing the gods of REF[cardinal] worlds in their ways and cultivating mortal cultures that they believe likely to give rise to the shapes they seek. They then pull beads from the great web of being into this realm to overlay them in potential patterns on the reticulated structures of their observatories, or to temporarily inhabit them and play out their ramifications before councils of sympathy.
 
@@ -138,6 +138,8 @@ info gathering
 ### The Reticulum
 
 ## Figures & Groups
+
+### Observers
 
 ### Articulators
 

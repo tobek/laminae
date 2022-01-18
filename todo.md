@@ -3,6 +3,7 @@
 - Closing Notes chapter `2h`
 - Other misc bits
     + temp fix drop caps
+    + fix edge case viz bug
     + proofread/edit + groom trinyms and elements for CGD and LNP. update summary for LNP
     + decide where to host it, upload `1h`
         * laminae.org
@@ -435,6 +436,8 @@ figure out
 - at time of writing closing note, she still on laminae or what's her plan?
 - is it different? maybe translator note about it being different - weaker handwriting (too easy), different paper and ink, etc.
 - imploring reader to some kind of action or change - what?
+
+maybe she a) was hanging in some lamina finishing up notes, b) next up: go share them with her people, c) go retire in some other lamina, d) aperture accident killed her/tossed her into time suck that spat her out 1000s years later in guild. BUT it shouldn't be random accident, maybe a result of something that she had or carried with her, hint at it. potentially some conduit situation happened between (a) and (b), hinted at, and conduit through aperture was problem
 
 notes
 
