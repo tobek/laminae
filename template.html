@@ -10,9 +10,17 @@
   <meta property="og:title" content="$pagetitle$$if(title_suffix)$ | $title_suffix$$endif$" />
   $if(summary)$
     $if(description_subtitle)$
-      <meta property="og:description" content="$description_subtitle$ | $summary$" />
+      $if(summary_override)$
+        <meta property="og:description" content="$description_subtitle$ | $summary_override$" />
+      $else$
+        <meta property="og:description" content="$description_subtitle$ | $summary$" />
+      $endif$
     $else$
-      <meta property="og:description" content="$summary$" />
+      $if(summary_override)$
+        <meta property="og:description" content="$summary_override$" />
+      $else$
+        <meta property="og:description" content="$summary$" />
+      $endif$
     $endif$
   $endif$
   $if(og_image)$

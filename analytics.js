@@ -1,6 +1,14 @@
+var doBoops = location.origin.indexOf("thereitwas.com") !== -1;
+try {
+  if (document.location.search.indexOf("?no") === 0) {
+    doBoops = false;
+    localStorage.no = 1;
+  } else {
+    doBoops = !localStorage.no;
+  }
+} catch {}
+
 var pageId = "$filename$";
-var no = false; try { no = localStorage.no; } catch {}
-var doBoops = location.origin.indexOf("thereitwas.com") !== -1 && !no;
 
 var booper;
 try {

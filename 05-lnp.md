@@ -7,15 +7,16 @@ hide_toc: True
 hide_untranslated_note: True
 <!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
 
-summary: "[Unfortunately for this lamina we only have some hastily jotted notes. The Taxonomy appears to archive and analyze objects, presided over by inquisitive petitioners known as Skeins.]"
+summary: "[Unfortunately, for this lamina our only information comes from some hastily jotted notes, which suggest that the Taxonomy concerns itself with the archival and analysis of cardinal objects, a process presided over by inquisitive petitioners known as Skeins.]"
+summary_override: "❲Unfortunately, for this lamina our only information comes from some hastily jotted notes, which suggest that the Taxonomy concerns itself with the archival and analysis of cardinal objects, a process presided over by inquisitive petitioners known as Skeins.❳"
 
 intro: |
 
     <div></div> <!-- prevent drop cap -->
 
-    [Translator's note: Sadly no completed chapter for this lamina was found amongst the author's papers, only a series of notes taken after an apparent mishap, which we present here in its stead. Due to extensive shorthand and hurried penmanship these notes have been particularly difficult to decipher.]
+    [Translator's note: Sadly no completed chapter for this lamina was found amongst the author's papers, only a short page of notes written after an apparent mishap, which we present here in its stead, in as equivalent form to the original notes as possible. Due to extensive shorthand and hurried penmanship these notes have been particularly difficult to decipher.]
 
-    ### The Taxonomy, draft and original notes lost in departure from [illegible], jotting down reminders from memory for now
+    ### Taxonomy, draft and old notes lost in departure from [illegible], jotting down reminders from memory for now
 
     crystal lattice &middot; cataloguing nested/overlapping ontologies, universally each [illegible]
 
@@ -29,11 +30,15 @@ intro: |
 
     unlocking/understanding & grouping by surface [illegible] filament: [unknown glyphs]
 
-    visual distortion effect &middot; imagine folding paper &middot; this is the topology [illegible] differently
+    visual distortion effect &middot; imagine folding paper &middot; this is the topology [illegible] & so maps differently here
 
-    STORAGE &middot; only what they lack, perfect handling, they will study it. things they won't store
+    STORAGE &middot; only what they lack, perfect handling, they will study it
 
-    unambiguous language &middot; all statements w emotional attitude, confidence, source, agreement, &c
+    &nbsp;&nbsp;&nbsp;&nbsp;things they won't store
+
+    &nbsp;&nbsp;&nbsp;&nbsp;defense against treasure hunters &middot; obscurity & size
+
+    perfectly unambiguous language &middot; all statements inflected w emotional attitude, confidence, source, level of agreement, &c
 
     transportation network &middot; all laminae?
 ---
@@ -43,6 +48,8 @@ what's the point?
 
 -
 -->
+
+TODO(maybe use scribal shorthand here!! but would translator translate it?)
 
 
 

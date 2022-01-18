@@ -5,7 +5,7 @@ const trinymBurmese = [
   // "ꩧဥဓ",
   // "ꩧဥဗ",
   // "ꩧ၇ꧠ",
-  "ꩧ၇ဓ",
+  // "ꩧ၇ဓ",
   // "ꩧ၇ဗ",
   // "ꩧဋꧠ",
   // "ꩧဋဓ",
@@ -35,7 +35,7 @@ const trinymRoman = [
   // "LGP"
   // "LGD",
   // "LNC",
-  "LNP", // terrapin (medium) 1h
+  // "LNP",
   // "LND",
   // "LEC",
   // "LEP",

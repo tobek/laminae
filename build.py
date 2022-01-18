@@ -367,6 +367,8 @@ for file_id, data in file_data.items():
 
             if not tooltip.string:
                 tooltip["class"] = tooltip.get("class", []) + ["no-text"]
+            elif tooltip.string[0] == "[":
+                tooltip["class"] = tooltip.get("class", []) + ["editor-note"]
 
             read_more = soup.new_tag("a", href=ref["href"])
             # TODO(refs that don't have text/tooltips will, on mobile, jump straight to the page.)

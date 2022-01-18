@@ -1,20 +1,11 @@
 # race
 
-~60h = 12h/day
-
-the only thing i didn't do is "link image authors" and i didn't do an editing pass over the laminae i wrote in the last few days
-
-- At least stub content for all laminae (8 remaining) `11h`
-    + 9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED, 4.5 LGC, 3.75h NEP, 4h LGP, 1.25h CED, 3h LEP, 1.5h NEC
-- Closing Notes chapter `4h`
+- Closing Notes chapter `2h`
 - Other misc bits
+    + temp fix drop caps
     + proofread/edit + groom trinyms and elements for CGD and LNP. update summary for LNP
-    + link image authors
     + decide where to host it, upload `1h`
-        * laminae.xyz
         * laminae.org
-        * laminae.guide
-        * laminae.observer
         * thelaminae.net
         * thelaminae.com
         * 27laminae, twentysevenlaminae
@@ -30,12 +21,16 @@ the only thing i didn't do is "link image authors" and i didn't do an editing pa
     - review Ece's edits
 - TOCs for each
 - Bits
+    + on mobile if a user clicks on viz lamina and scrolls down, the TOC shouldn't remain highlighted
+    + loading state for viz: show facets etc and just static image
+    + link image authors
+    + achieve editors note in LNP summary - maybe just a summary override for template, or else an escape for editors note...
     + change tea in authors preface
     + show-first-first
     + rilke anagram
-    + cosmography "oracular Looms that guide petitioners on REF[The Reticulum](TODO)"
+    + cosmography "oracular Looms that guide petitioners"...
     + add kylix to untranslated note
-    + link "the Echo" and "the Tessellation" properly?
+    + link "the Echo" and "the Tessellation" references properly so they can refer to each other?
     + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + OG tags
     + Pablo Bronstein
@@ -426,7 +421,7 @@ torment: tides of numenera:
 
 "The Tides are linked to action, not intention."
 
-## ◍○○○ Close
+## ◍◍○○ Close
 
 > We stayed up late in Adderfarthing and spent half the night talking about our old friend Edwina Ballard. It is a consolation, when you are far from home and in a strange place, and especially when some local trouble threatens to catch up with you, to remember people far away who are completely detached from your present concerns.
 >

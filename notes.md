@@ -164,6 +164,7 @@ from https://www.mmtimes.com/news/top-10-myanmar-proverbs.html
 
 - Name - Alea? (Alia is Dune Paul's sister)
 - Brother - Tristo?
+- At-some-time travel companion - Rowen?
 - Predictions that come true or repeat. What same thing could keep showing up on different lamina that's more about her than the multiverse?
     + doppelganger?!
         * they are usually bad omens
@@ -360,7 +361,7 @@ steam -> rust and/or ground glass
 
 GET WEIRD. a visitor should feel shocked and out of place
 
-next = 9th
+    9h CNC, 3.5h CNP, 4.5h NND, 4.75h CGC, 2.5h LED, 4.5 LGC, 3.75h NEP, 4h LGP, 1.25h CED, 3h LEP, 1.5h NEC
 
 - What's the point? `1` `0` `0` `2` `5` `0` `0` `0`
 - Research
@@ -1007,7 +1008,7 @@ realm names or demonyms:
 - The Blemish
 - The Blink (tentative CED figure)
 - The Blot
-- The Bough
+- The Bough (tentative CGD)
 - The Braid (currently NGP)
 - The Bright
 - The Burgeon
@@ -1099,7 +1100,7 @@ realm names or demonyms:
 - The Presupposition (thing tacitly assumed beforehand, requirement for belief (system) to make sense)
 - The Pulchritude (beauty)
 - The Pullulation (to bud, sprout, pread prolifically or rapidly, be teeming with)
-- The Quell
+- The Quell (tentative CGD demonym)
 - The Ramification (element in LGC culture)
 - The Rampant
 - The Rampart
@@ -1109,7 +1110,7 @@ realm names or demonyms:
 - The Reification
 - The Reproach (rebuke, blame, censure)
 - The Restraint
-- The Retelling
+- The Retelling (possible LEP Eulexia aspect)
 - The Reticulum (fine network or netlike structure, veins or nerves disposed like threads of a net) (place in LGC)
 - The Ripple
 - The Rue (tentative LED demonym)
@@ -1182,8 +1183,8 @@ don't forget "-er"s like Unravellers
 - Halts
 - Harrows (distress, ravage, spoil) (used in Unseen Feud)
 - Hidebound (unwilling or unable to change because of tradition or convention)
-- Hierophants (one interprets sacred mysteries or esoteric principles)
-- Hierarchs (chief priest, archbishop, or other leader)
+- Hierophants (one interprets sacred mysteries or esoteric principles) mentioned in LEP
+- Hierarchs (chief priest, archbishop, or other leader) mentioned in LEP
 - Incepts (already have precepts)
 - Inks (NEC)
 - Jammers
@@ -1198,7 +1199,7 @@ don't forget "-er"s like Unravellers
 - Mixers
 - Nourishes
 - Pyreans (fire)
-- Quells
+- Quells (tentative CGD)
 - Quivers
 - Rebukes
 - Rhumes (common cold)
@@ -1479,6 +1480,7 @@ THE ONLY REMAINING Q I THINK is about using the term "petitioners"
 # Idea credits
 
 - observations on the river wye
+- CEC play https://twitter.com/fiddlemath/status/1207404931776315392
 - LEC sculpting one's body via unusual exercises https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia#WZCDyzJxnPweLEH6Z
 - NGD culture https://twitter.com/visakanv/status/1443196315970670598
 - CNC vs CNP yes vs no https://twitter.com/ctrlcreep/status/1100085668397699073

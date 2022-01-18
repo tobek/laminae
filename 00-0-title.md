@@ -455,7 +455,8 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 ##### Back Matter
 
 <div class="row">
-  <div class="left"><div class="numeral">A.</div><a href="a-close">Closing Note</a></div>
+  <div class="left"><div class="numeral">A.</div><span class="tooltip-wrap"><a class="tooltip-anchor undone" hreff="#">Closing Note</a><span class="tooltip">This chapter has not yet been translated.</span></span></div>
+  <!-- <div class="left"><div class="numeral">A.</div><a href="a-close">Closing Note</a></div> -->
   <div class="dots"></div>
   <div class="page"></div>
 </div>

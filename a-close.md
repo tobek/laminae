@@ -1,4 +1,4 @@
-# Closing Note
+# Closing Note SKIP
 
 TODO(maybe don't link terms here? same q for ordial primer. okay i'm not except laminae)[]
 

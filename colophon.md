@@ -21,11 +21,11 @@ TODO(add to https://indieweb.org/colophon?)[]
 
 *Observations on the Twenty-Seven Laminae* is an interactive encyclopedia and travelogue about a series of fictional worlds and societies. It's also a kind of multiverse-sized memory palace with which over time I can encode the things I learn into a personal mythology. It's a work in perpetual progress, and many past and future projects slot into a particular lamina in some form or another.
 
-Currently this work consists of about TODO(update)[66,000] words (roughly a 250 page book) and 3,000 lines of code. 42 out of 42 chapters and tasks have been released, and 124 out of 223 milestones have been completed. There are 174 remaining *TODO* placeholders. <a href="progress">See full progress stats.</a>
+Currently this work consists of about TODO(update)[68,000] words (roughly a 250 page book) and 3,000 lines of code. 41 out of 42 chapters and tasks have been released, and 127 out of 223 milestones have been completed. There are 174 remaining *TODO* placeholders. <a href="progress">See full progress stats.</a>
 
 TODO(add words excluding unreleased draft content, words excluding unreleased draft content and GPT content)[]
 
-I've been working on this intermittently since the concept struck in 2015. It reached its current state, which I would call perhaps a version 1.0, in January 2022. Since I started logging time in late 2020, I have spent TODO(update)[280] hours working on this project---the true total is maybe twice that.
+I've been working on this intermittently since the concept struck in 2015. It reached its current state, which I would call perhaps a version 1.0, in January 2022. Since I started logging time in late 2020, I have spent TODO(update)[290] hours working on this project---the true total is maybe twice that.
 
 ## Inspiration
 
@@ -35,7 +35,7 @@ The <a href="https://en.wikipedia.org/wiki/Planescape">Planescape setting</a> fo
 
 The Hindu concept of <a href="https://en.wikipedia.org/wiki/Trimurti">the Trimurti</a>, for its axis of creation, maintenance, and destruction.
 
-Emily Short's <a href="https://emshort.blog/2015/12/07/procjam-entries-nanogenmo-and-my-generated-generation-guidebook/">Annals of the Parrigues</a> (<a href="https://drive.google.com/file/d/0B97d5C256qbrOHFwSUhsZE4tU0k/view?usp=sharing">PDF</a>), in particular for how its fictional authors relate to the text, and the incredible poignancy with which it carries out their background narrative.
+Emily Short's <a href="https://emshort.blog/2015/12/07/procjam-entries-nanogenmo-and-my-generated-generation-guidebook/">Annals of the Parrigues</a> (<a href="https://drive.google.com/file/d/0B97d5C256qbrOHFwSUhsZE4tU0k/view?usp=sharing">PDF</a>), in particular for how its fictional authors present themselves in the text, and the incredible poignancy with which it carries out their background narrative.
 
 Italo Calvino's <a href="https://en.wikipedia.org/wiki/Invisible_Cities">Invisible Cities</a>, which I haven't actually read yet (I've been saving it until after I completed this) but the concept of which I have absorbed via osmosis.
 
@@ -55,9 +55,9 @@ I made a kind of <a href="e-styleguide">style guide</a> for the site.
 
 ### Artwork
 
-None of the artwork included is my own and (except for one gif I couldn't track down) every piece has been credited. Please check out the artists and support them (if they're still alive). The artists:
+None of the artwork included is my own and (except for one gif I couldn't track down) every piece has been credited. Please check out the artists and support them (those that are still alive). The artists:
 
-Akiya Kageichi &middot; Alberto del Pozo &middot; Annibale Siconolfi &middot; Aubrey Beardsley &middot; Ben Sack &middot; David Hellman &middot; De Es &middot; el_djay &middot; Floto+Warner &middot; Henry Hudson &middot; Jean-Pierre Ugarte &middot; Josip Csoor &middot; Kilian Eng &middot; Leonora Carrington &middot; Lie Setiawan &middot; Marcel Duchamp &middot; Max Ernst &middot; Michael Hutter &middot; Mirko Rossi &middot; Nausicaä of the Valley of the Wind &middot; Robert Venosa &middot; Stéphane Malka &middot; The Flower Kings &middot; The Soviet space program &middot; Tim Flach &middot; Vadim Kashin &middot; VQGAN+CLIP &middot; Waneella &middot; Warhammer: Age of Reckoning &middot; Yoshitaka Amano
+> Akiya Kageichi &middot; Alberto del Pozo &middot; Annibale Siconolfi &middot; Aubrey Beardsley &middot; Ben Sack &middot; David Hellman &middot; De Es &middot; el_djay &middot; Floto+Warner &middot; Henry Hudson &middot; Jean-Pierre Ugarte &middot; Josip Csoor &middot; Kilian Eng &middot; Leonora Carrington &middot; Lie Setiawan &middot; Marcel Duchamp &middot; Max Ernst &middot; Michael Hutter &middot; Mirko Rossi &middot; Nausicaä of the Valley of the Wind &middot; Robert Venosa &middot; Stéphane Malka &middot; The Flower Kings &middot; The Soviet space program &middot; Tim Flach &middot; Vadim Kashin &middot; VQGAN+CLIP &middot; Waneella &middot; Warhammer: Age of Reckoning &middot; Yoshitaka Amano
 
 Coming very very soon: actual links to the relevant sites.
 
@@ -69,7 +69,7 @@ The quotes that open each lamina (plus a handful found in the interior of chapte
 
 ### AI-Generated Text
 
-At this time a tiny fraction of the text (about 0.3%---just a couple paragraphs) has been generated using <a href="https://openai.com/blog/gpt-3-apps/">OpenAI's GPT-3</a> language model. I do intend, however, to use it significantly more to generate text to flesh out incomplete laminae with deeper worlds than my time would permit.
+At this time a tiny fraction of the text (about 0.3%---just a couple paragraphs) has been generated using <a href="https://openai.com/blog/gpt-3-apps/">OpenAI's GPT-3</a> language model. I do intend, however, to use it significantly more to generate text to flesh out incomplete laminae to turn them into deeper worlds than my time would permit.
 
 All of the introductory and frame matter, along with the concepts for, introduction to, and outline of every lamina, have all been written by me. All of the current completed laminae chapters have also been written in full by me, but future ones will be a collaboration.
 
@@ -113,7 +113,7 @@ A special sort of thanks to Alex, Leise, Ece, and the Dissimulation.
 
 ## Contact
 
-Very interested in feedback of any sort if you feel like sharing. In particular I'm interested in things that take you *out* of the flow of reading, e.g. something in the world doesn't make sense or is inconsistent, as well as any aspects you're curious to hear more about. Also love hearing about things you come across that feel like they belong to a particular lamina---I'm keeping a list. Also bugs.
+I am interested in feedback or comments of any sort if you feel like sharing. In particular I'm interested in things that take you *out* of the flow of reading, e.g. something in the world doesn't make sense or is inconsistent, as well as any aspects you're curious to hear more about. Also love hearing about things you come across that feel like they belong to a particular lamina---I'm keeping a list. Also bugs.
 
 <a href="mailto:laminae@thereitwas.com">laminae@thereitwas.com</a>
 

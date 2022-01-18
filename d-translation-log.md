@@ -16,11 +16,11 @@ TODO(what's a good way to leave things hanging when done for now - "there's a bu
 
 ## The 222nd Year L.C.
 
+<!-- Additionally TODO()[] -->
+
 #### The Sixteenth of the First
 
-Introductions have been translated for the REF[LEP], REF[NEC], and REF[CGD], as well as the notes that make up the only information we have about REF[LNP].
-
-<!-- Additionally TODO()[] -->
+Introductions have been translated for the REF[LEP], REF[NEC], and REF[CGD], as well as has been the page of notes that makes up the only information we have concerning REF[LNP].
 
 #### The Fifteenth of the First
 

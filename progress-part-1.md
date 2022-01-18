@@ -149,7 +149,7 @@
 	}
 </style>
 
-<a href="https://thereitwas.com/laminae/">Observations on the Twenty-Seven Laminae</a> is a work in progress.
+The <a href="https://thereitwas.com/laminae/">*Observations on the Twenty-Seven Laminae*</a> is a work in progress.
 
 Major updates will go into the <a href="https://thereitwas.com/laminae/d-translation-log">Translation Log</a>.
 
