@@ -98,7 +98,6 @@ function shiftTitle() {
     return;
   }
   var pages = document.querySelectorAll(".toc .page");
-  var laminaNames = document.querySelectorAll(".toc .lamina-name.unnamed");
 
   var burmese = ["က", "ခ", "ဂ", "ဃ", "ဆ", "ဇ", "ဈ", "ည", "ဏ", "တ", "ထ", "ပ", "ဖ", "မ", "ယ", "ရ", "လ", "သ", "ဟ", "ဠ", "အ", "ဢ", "ဣ", "ဤ", "ဦ", "ဧ", "ဨ", "ဩ", "ဿ", "၃", "၄", "၅", "၈", "၉", "၌", "၍", "၎", "၏", "ၐ", "ၓ", "ၔ", "ၕ", "ၚ", "ၛ", "ၜ", "ၡ", "ၦ", "ၮ", "ၯ", "ၰ", "ၵ", "ၶ", "ၷ", "ၸ", "ၹ", "ၺ", "ၻ", "ၼ", "ၽ", "ၾ", "ၿ", "ႀ", "ႎ", "႞", "႟", "ꩠ", "ꩡ", "ꩣ", "ꩤ", "ꩥ", "ꩦ", "ꩩ", "ꩪ", "ꩫ", "ꩬ", "ꩭ", "ꩮ", "ꩯ", "ꩱ", "ꩲ", "ꩳ", "ꩴ", "ꩵ", "ꩶ", "꩷", "꩸", "꩹", "ꩺ", "ꩾ", "ꩿ", "ꧡ", "ꧢ", "ꧣ", "ꧤ", "ꧧ", "ꧨ", "ꧩ", "ꧫ", "ꧬ", "ꧭ", "ꧮ", "꧱", "꧲", "꧸", "ꧾ"]
   pages.forEach(function(page) {
@@ -107,11 +106,6 @@ function shiftTitle() {
     }
     page.classList.add("cycled");
     page.innerHTML = burmese.popRandom();
-  });
-
-  var names = ["The Aleatory", "The Autocephaly", "The Ataxia", "The Bauble", "The Binding", "The Bright", "The Cabling", "The Clarion", "The Creak", "The Crenellation", "The Dilemma", "The Discordance", "The Disputation", "The Encumbrance", "The Equivocation", "The Formation", "The Gossamer", "The Hidebound", "The Horn", "The Illumination", "The Imminence", "The Lattice", "The Lambent", "The Manacle", "The Marrow", "The Oval", "The Presupposition", "The Rectitude", "The Recital", "The Restraint", "The Retelling", "The Reticulum", "The Shimmer", "The Simmer", "The Snarl", "The Squall", "The Taxonomy", "The Weaking", "The Weave", "The Whorl"];
-  laminaNames.forEach(function(name) {
-    name.innerHTML = names.popRandom();
   });
 }
 

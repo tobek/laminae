@@ -97,6 +97,8 @@
 - branch out with allusions
     + pick an oulipo process and a myth or concept and see where they go
 - doppelganger thing, yeah maybe they are on every lamina, or for author at least, taking different forms on each
+- more places that are like... real places one could inhabit
+    - so far this is just like the islet conservatory... i guess promenade of congruities, maybe NND caravan. that's it?
 - overarching structures, maybe add an appendix, with description of each and updated visualization
     - "understanding laminal perspectives/alignments/arrangements"
     - one viz for each type, all those of the type are highlighted, if you hover then the opposite(s) highlight too

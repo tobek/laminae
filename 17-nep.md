@@ -21,8 +21,10 @@ intro: |
 
     Though REF[Empathy] and REF[Power] are the most antagonistic TODO(if doing some laminal arrangement section, reference it here)[] of opposing REF[facets], the Braid and the Grasp (differing only along this axis) have an unusual respect for one another. Each understands the power that the other holds---to understand the past and to anticipate the future---yet also fears it, for overlaying the two effects on top of each other produces an unbearable feedback loop: for every event recalled by the Echo, the Tessellation plays out all of its potential ramifications, and for every such ramification, its history resounds with the Echo.
 
-    And this combination can in fact be found. There are regions of both laminae that REF[verge](verges) upon each other such that the two effects can be perceived in the same place, and those few Frames and Limns who can function in such places^[That some Frames can handle this combined effect and others cannot confuses the Frames' assertion that they are all simply aspects of the same being, a matter additionally complicated by their widely varying pursuits, appearances, and personalities. Experiments have verified that different Frames do appear to have a shared state of consciousness in some respects, but there is scholarly debate over whether the Frames have correctly attributed this phenomenon.] hold a nigh-oracular power.
+    And this combination can in fact be found. There are regions of both laminae that REF[verge](verges) upon each other so that the two effects can be perceived in the same place, and at some such vertexes on the Grasp reside REF[laminal](laminals) figures known as Sequiturs. Each Sequitur appears wholly different---an elemental form of crackling violent energy, or a huge faceless statue of stone and stars---and each holds nigh-oracular wisdom, but will only speak of concerns that interest it. These concerns dictate the layout and subjects of the Grasp's chambers, whose Frames confer with Sequiturs on their perpetual quests for perfection, but they do so with hesitation and awe, for should they venture too close to these echoing, tessellating regions they might go mad, and so perhaps might all the Frames at once, sharing (as they apparently do^[The Frames' assertion that they are all simply aspects of the same being is complicated by their widely varying pursuits, appearances, and personalities. Experiments have verified that distinct Frames do appear to have a shared state of consciousness in some respects, but there is scholarly debate over whether the Frames have correctly attributed this phenomenon. Potentially the Grasp itself imbues each Frame with some common experience, or it may be that the Frames are in fact all one being in some technical sense, but that practically speaking that being holds such a vast and complex mind as to render each Frame a unique persona largely unaware of activity in other regions of its own consciousness.]) a single consciousness.
 ---
+
+TODO(other killian eng pic, removing one of the figures?)
 
 <!--
 what's the point?
@@ -31,6 +33,7 @@ what's the point?
 - vs NGP - power vs empathy
 - perfection, precision
 - interesting rooms, procedures to test and improve stuff
+- such intensity and devotion that they teeter on the precipice of insanity?
 -->
 
 
@@ -42,6 +45,8 @@ However they differ greatly not only in their chosen endeavors, but also in thei
 The Grasp seeks to perfect itself across myriad pursuits, and to this end is filled with all these weird specially suited chambers and environments connected via black and white tiled hallways. these pursuits include martial pursuits (jiu jitsu), athletic pursuits (swimming, running), mental pursuits (chess) and esoteric applications of dexterity and precision.
 
 something about beating akrasia here
+
+opposite of NGP - trauma/revenge to become stronger?
 
 - name
     - The Alacrity (brisk cheerful readiness)

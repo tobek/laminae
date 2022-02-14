@@ -41,8 +41,7 @@ what's the point?
 - orwell quote, ZHP wet dream, and it works
 -->
 
-
-
+aghast at this visitor crossing the gate between the two sides
 
 "optimistic evil" like nazis, their vision of social progress at all costs.
 
@@ -108,6 +107,8 @@ info gathering
     - eulexia
     - hitler quote
     - ritual border
+        - more stuff about differences between two sides? or literally just purported eulexia difference
+        - from possible LED but maybe this kind of thing: "one side terrified of other learning that they've lost ability to communicate, other side believing the first will steal all their ideas?"
     - endless defense building
     - there IS a region that's complete destroyed, everyone fears it, no one knows when or how it happened
     - futuristic
@@ -118,6 +119,7 @@ info gathering
         - "The Retelling" - some aspect?
         - Some enormous oral history (perhaps song in unknown language) that everyone learns and memorizes but only elite understand what it means - laypeople are only as necessary initiated into bits of it where they learn this thing they've been doing/saying all their life actually means XYZ "The Retelling" (something like eulexia - but song). oral history in wisdom, maybe in clothing and everything.
     - hitler quotes!!
+    - artisan bureaucracy (LED LEP LND)
     - the conception of perfection. (look up quotes?) LEP NEP
         + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
     - could have the ritual border (LED LEP) and that's how they sustain endless stress, having an enemy, carefully controlled. obvious orwell

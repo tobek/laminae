@@ -7,4 +7,12 @@ There are countless experiences I would yet like to take on the twenty-seven lam
 Reader, do you feel as if you, too, are a visitor? What would you root on these laminae? What works for REF[Macular](LEC) beauty have you sighted through the thin veil of the Ordial, that one work of art unlike all the others? What structures have you entered where, briefly, you found yourself upon REF[LNC]? What musings have drifted with mild alarm into your mind from REF[NEC]? When have you felt the sudden clarity of REF[NGD], the sudden release of REF[CGD], the sudden insight of REF[NGC]? What lost belongings have you contributed to REF[CND]? What time in solitude have you spent on REF[CNP]? I have perhaps exaggerated the thickness of the Ordial barrier between cardinal worlds and the laminae. Our world is full of their fruits and you will know this and find them everywhere, and by finding these fruits everywhere, you will bring them everywhere, and thereby you bring yourself to the laminae. Where would you like to visit?
 
 
+- As for this visitor, I...
+- finishing up this while at some place (NGC? LNP? LNC? CEC?)
+- will go and give to those through whom you may be reading this
+    - or, it has been rejected, and now she's trying to find somewhere else to give it to
+- and then... i can't do xyz, but i know that abc await me, and at d i intend to cease to be a visitor
+
+28th
+
 

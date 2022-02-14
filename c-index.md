@@ -190,6 +190,7 @@
     <tr><td>Narrative Language</td><td>REF[NGP](ngp#narrative-language)</td></tr>
     <tr><td>Nimble’s Bazaar</td><td>REF[CGP](cgp#nimbles-bazaar)</td></tr>
     <tr><td>Observatories</td><td>REF[LEC](lec#observatories)</td></tr>
+    <tr><td>Observers</td><td>REF[LGC](lgc#observers)</td></tr>
     <tr><td>Odysseys</td><td>REF[NGP](ngp#odysseys)</td></tr>
     <tr><td>Opposite Day</td><td>REF[CGP](cgp#opposite-day)</td></tr>
     <tr><td>Orators</td><td>REF[NGC](ngc#orators)</td></tr>

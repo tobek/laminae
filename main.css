@@ -307,6 +307,7 @@ img {
   max-height: 80vh;
 }
 
+/* @NOTE: Reusing this selector in build.py for X-first classes. */
 .intro > p:first-child:first-letter,
 header + p:first-letter,
 header + blockquote + p:first-letter,
@@ -322,6 +323,11 @@ h1 + p:first-letter {
   height: .7em;
   line-height: .85em;
 }
+/*
+.L-first:first-letter {
+  margin-bottom: -7px !important;
+}
+*/
 
 strong {
   font-weight: 700;

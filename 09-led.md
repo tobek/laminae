@@ -76,7 +76,7 @@ info gathering
     - Some destructiveness focusing on sloth/inertia - activity is actively punished, but in the laziest way possible. If too proactively punishing, the punishment is punished. maybe CED or LED. wait but inertia is XXP?
     - artisan bureaucracy LED LND
     - endlass crevasse
-    - maze (maybe at the surface of the crevasse)
+    - maze (maybe at the surface edge of the crevasse so warriors don't det in)
     - prison
     - Deaf/mute (or everyone is missing one sense) - could be any D, maybe NGD, CGD, NED, LED
     - someone or a group famous for making works of art that convince the viewer to commit suicide. (you must be interviewed first and it's tailored?) (CGP if nowhere else - CGD LED CNP)

@@ -10,7 +10,7 @@ quote: |
     >
     > <span class="attribution">--- Last words of the Dabhud <!-- Buddha --></span>
 
-    > TODO/maybe[] "You should call it entropy [...] nobody knows what entropy really is, so in a debate you will always have the advantage."
+    > TODO/maybe[] You should call it entropy [...] nobody knows what entropy really is, so in a debate you will always have the advantage.
     >
     > <span class="attribution">--- Jhennon von Numa <!-- John von Neumann --></span>
 

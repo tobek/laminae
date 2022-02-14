@@ -29,6 +29,7 @@ what's the point?
 - more!
 -->
 
+TODO(make more powerful?)
 
 - is it powerful enough?
 - are all the Inks so benevolent?

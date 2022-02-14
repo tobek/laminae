@@ -95,6 +95,8 @@ Yes.
 
 ## Idea Credits
 
+<!-- "Nothing you create is ultimately your own, yet all of it is you. Your imagination, it seems to me, is mostly an accidental dance between collected memory and influence, and is not intrinsic to you, rather it is a construction that awaits spiritual ignition." Nick Cave -->
+
 Maybe coming soon: I've been experimenting with keeping track of every fragment that inspired a particular idea or element in this work. I don't mean anything used verbatim, more like borrowed ideas---I think an enormous amount of what we write may be directly traced to a particular source, but ends up sufficiently muddled by the passage of time and consolidation of memory as to lose that attribution. Might be interesting to highlight it instead.
 
 <!-- this works collects everything i come across -->

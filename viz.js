@@ -582,6 +582,8 @@ const controls = new OrbitControls( camera, renderer.domElement );
 controls.enablePan = false;
 controls.enableDamping = true;
 controls.autoRotateSpeed = 0.25; // we set autoRotate true once user scrolls down
+controls.minPolarAngle = Math.PI * 3/32;
+controls.maxPolarAngle = Math.PI * 29/32;
 if (window.matchMedia('(pointer: coarse)').matches) {
   controls.enableZoom = true;
   controls.minDistance = cameraDistance / 2;

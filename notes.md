@@ -163,6 +163,7 @@ from https://www.mmtimes.com/news/top-10-myanmar-proverbs.html
 # Author
 
 - Name - Alea? (Alia is Dune Paul's sister)
+- Naga (former) royalty
 - Brother - Tristo?
 - At-some-time travel companion - Rowen?
 - Predictions that come true or repeat. What same thing could keep showing up on different lamina that's more about her than the multiverse?
@@ -176,21 +177,32 @@ from https://www.mmtimes.com/news/top-10-myanmar-proverbs.html
         * i guess she'd be looking for him?!
 - how tough is she? e.g. facing the CEC kids.
     + gracious, self-controlled, clever
+- type of person that draws a LOT of attention (striking, strong presence) but then is able to effortlessly redirect that attention wherever she likes
 - travelling with a companion somewhere, maybe with consequences?
     + maybe met someone in the Bell, or the Inevitability
     + mentioned in CNP - some scholarly person i guess? also mentioned in CGC
 - pick one plane that the annals of of the parrigues could take place in, and then:
     + "it was here that this visitor picked up a book called The Annals of the Parrigues describing the area and, though she had been traveling for some time already, it was this book that persuaded her to turn her notes and journals into the work you are now reading, and to which she owes some small stylistic debt for having been granted by it the liberty to occasionally interject her experiences into these pages."
     + actually it would be better if she actually meets them, maybe they just completed the book, gave her a bottle of anise liqueur. describe the couple, clearly at the end of a long journey and glowing with experience and still-growing affection for each other
+    + maybe don't name it
 - example from nyt goop article. gp talks about 3rd child, writer says she later cried. then later in article she describes a session of self doubt that involves her lack of 3rd child. it's clear that that's when she cried
     - maybe could be like at some post-painful beautiful moment "it was later, when this visitor realized that she would never again be setting foot in any of the laminal realms again, that all the collected stress and beauty of her years of travel would flow through her in a flood of tears" and then later you see the what and why of why she has to never step foot in them again.
 - there's something special about "the next day..." with a forward-looking commentary for the ending. "years later..." tries to do the same thing but it's not immediate enough, and we already have a "years later" in the frame story.
 - the soblei bead map - does she give it away?
-- favorite spot candidates:
-    + the islet
-    + echo plateau
-    + bell duh
-    + maybe NGD cathartic ritual
+- special spot candidates:
+    + LGP somewhere
+    + LNC echo plateau
+    + LNP
+    + NGC bell duh, maybe golden landing
+    + NGD something?
+    + NND caravan
+    + NEC
+    + CGP
+    + CNC some place?
+    + CNP beautiful empty place
+    + CND troupe
+    + CEC the islet
+    + soblei way station
 - used
     - "...its priests wear a silver spiral around their necks as a sign of their dedication, and in solidarity with them I too [now] wear the spiral." from slate star codex thing
     - the ivory pendant she has in frame frontmatter - change and/or connect to plot
@@ -201,7 +213,7 @@ i don't think her position should be that "no one is right or wrong"... but then
 
 ### back story
 
-*sheltered royalty who aided genocide and then self-exiled herself to wander, in her wanderings she met with the "enemy" and they were fine and it destroyed her worldview, receded into delirium. at the Bell (i.e. some entheogen) (maybe this was well into her laminal journey) she realized that ~if we could all just work together and see how we need each other~ it'd be great, and so she decided to try to engineer a foundational myth for her culture that would find a place for all kinds of people, but parable-izing how going hard in one way won't work.*
+*sheltered royalty who aided genocide and then self-exiled herself to wander, in her wanderings she met with the "enemy" and they were fine and it destroyed her worldview, receded into delirium. at the Bell (i.e. some entheogen) (maybe this was well into her laminal journey) she realized that ~if we could all just work together and see how we need each other~ it'd be great, and so she decided to try to engineer a foundational myth for her culture that would find a place for all kinds of people, but parable-izing how being dogmatic/going hard in one way won't work.*
 
 so she planned to return to her people. did she? how'd it work out? she'd have to like disseminate it. maybe everything had changed by the time she got back and she wasn't welcome, and so her personal quest ended. she came to terms with it in NGP or NGD or echo plateau.
 
@@ -252,16 +264,19 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
     + Parrigues
     + crying/self-doubt
     + finds a companion
+- maybe apertures really freak her out, she keeps thinking one will kill her (one does)
 - more close interactions with people, potentially named, coming up multiple times
+- as this visitor had ingratiated herself on account of asking a bunch of interesting questions
+- example of her drawing and redirecting attention ("who had noticed this visitor and...", "who insisted that this visitor...")
 - parrigues: "claimed to recognize one of the authors, but she responded that they were not acquainted" - maybe somewhere where EVERYBODY seems to recognize one the author, this was assumed to be a trait of the plane, but didn't happen to anyone else, so... make of it what you will. NND?
 - the conduit
 - she helps resolve some laminal dispute
 - on echo plateau or NGD or CGD she gives up looking for her brother, and/or where she forgave herself
     + "it was here that this visitor formally gave up on the cause that began her journey" eh
 - a slip up where she reveals that it's fictional
-    + like "but this visitor couldn't think of a more plausible outcome for this lamina" NND
+    + like "but this visitor couldn't imagine a more plausible outcome for this lamina" NND
     + this visitor's imagination couldn't...
-    + maybe translator's note calls attention to it, translates it as something more plausible but gives alternate that makes you question
+    + maybe translator's note calls attention to it, translates it as something more plausible but gives alternate that makes you question - or leaves original for authenticity but gives alternative of what he thinks it was a typo for
     + relevant idioms
         *
 - it was here that this visitor realized the cultural flaw---bad stories---that led to her self-exile, and decided to work to set it right - LEC or LEP?
@@ -387,6 +402,7 @@ GET WEIRD. a visitor should feel shocked and out of place
 - Is it connected to Soblei?
 - Nature of petitioners
     + https://realmofadventure.fandom.com/wiki/Petitioner#Petitioners_of_Specific_Planes
+- More laminals?
 - Something that changed over time
     + e.g. the komusou - anonymous monks so attracted bandits etc
 - Review author notes and think about how to insert
@@ -459,7 +475,7 @@ TODO go through evil sketch
 - strange loops - used in LGP as stone-cutter, but could re-appear elsewhere
     + Synthesis facet? relies on the existence of structured/hierarchical stuff but also violates it. LXX or NXX. LNP LED LGC LEP LGP
 - weirdly insensitive and/or literally stupid, but powerful. XXD - NEP, CGD, CED
-- bureaucracy? LED or LND
+- bureaucracy? LED or LEP or LND
     + belgium
         * "Whereas other countries suffer from a “computer says no” attitude, Belgium has artisan bureaucrats, who can make obstacles appear or disappear at a whim. No two interactions with a Belgian official are the same. In this way, a surplus of bureaucracy leads to anarchy rather than conformity"
         * "Belgium offers a lesson in stability through chaos. Even its demise would be serene. It is the world’s most successful failed state."
@@ -567,10 +583,21 @@ unused ones can just be particular places
 - "There is a crack in everything but The Cube."
     - http://preinfarction.blogspot.com/2021/10/ah-yes-cube.html?m=1
     - https://mobile.twitter.com/solipsistfever/status/1191978845735444481
+- https://twitter.com/waitbutwhy/status/1425263029533478914
+    - A culture that sees all people as flawed is compassionate and forgiving—a safe place that encourages creativity and independence.
+    - A culture that sees people as either angels or demons is always full of fear, shame, and disgust—a terrifying place that encourages only conformity.
+    - The first culture has an "innocent until proven guilty" mentality.
+    - The second culture is all about "guilty because accused," "guilty by association," and "guilty forever." And it relishes doling out the harshest of punishments.
+    - We all have both of these cultures in us.
 - https://knowingless.com/2019/08/17/you-will-forget/ NGD or CGD?
     - I became sadistic. I’d previously been embracing a sort of masochism – education in the pain, fearlessness of eternal torture or whatever – but as my identity expanded to include *that which was educating me*, I found myself experiencing sadism. I enjoyed causing pain to myself, and with this I discovered evil. I found within me every murderer, torturer, destroyer, and I was shameless. As I prostrated myself on the floor, each nerve ending of my mind writhing with the pain of mankind, I also delighted in subjecting myself to it, in being it, in causing it. I became unified with it.
     - The evil was also subsumed by, or part of, love. Or maybe not “love” – I’d lost the concept of love, where the word no longer attached to a particular cluster of sense in my mind. The thing in its place was something like *looking*, where to understand something fully meant accepting it fully. I loved everything because I Looked at everything. The darkness felt good because I Looked at it. I was complete in my pain only when I experienced the responsibility for inducing that pain.
 - place where 2nd law of thermodynamics is reversed? what does time mean? opposite of CND is LNC but that hmm maybe actually, that's why shapers can build matter out of nothing, it wants to be formed
+- slavers (maybe the torturers... stockholm syndrome, torture victims become torturers. add sex?)
+- schizophrenic perception issues
+- murder as art form
+    - that book alex was reading
+    - subset of torturers who think it's cheating to have the target captive, so elaborate hunting rounds are set up
 - some kind of transportation system? mechanical or biological. LNP?
 - the conception of perfection. (look up quotes?) NEP
     + That is "perfect," which completely fulfills its functions. nothing to add, nothing to take away
@@ -1084,9 +1111,9 @@ realm names or demonyms:
 - The Lattice
 - The Ligate (tie up or close off in surgery, or join in biochem)
 - The Ligature
-- The Loom
+- The Loom (LGC)
 - The Manacle
-- The Marrow
+- The Marrow (NGD demonym)
 - The Meld
 - The Membrane
 - The Morrow
@@ -1115,11 +1142,11 @@ realm names or demonyms:
 - The Ripple
 - The Rue (tentative LED demonym)
 - The Sap
-- The Sequitur ("it follows" - conclusion, deduction)
+- The Sequitur ("it follows" - conclusion, deduction) (NEP laminals)
 - The Shift
 - The Sift
 - The Simmer
-- The Skein
+- The Skein (tentative LNP demonym)
 - The Snarl
 - The Speck
 - The Squall
@@ -1127,7 +1154,7 @@ realm names or demonyms:
 - The Sum
 - The Surge
 - The Tautology
-- The Taxonomy (LOOK UP SYNONYMS)
+- The Taxonomy (tentative LNP)
 - The Tessellation (NEP effect)
 - The Tesseract
 - The Testimony
@@ -1167,6 +1194,7 @@ realm names or demonyms:
 don't forget "-er"s like Unravellers
 
 - Abounds
+- Alters
 - Barrens
 - Catatons
 - Certorari ("writ from superior to inferior courts seeking the records of a case," legal Latin, "to be certified, to be informed or shown") - LGD bookkeepers
@@ -1212,7 +1240,7 @@ don't forget "-er"s like Unravellers
 - Saraphs (burning one/serpent - but seraph is celestial being) (used in Unseen Feud)
 - Sifters
 - Simmers
-- Skeins
+- Skeins (tenative LNP)
 - Sprees
 - Tessellates (NEP element)
 - Testates/Testators
@@ -1225,7 +1253,6 @@ don't forget "-er"s like Unravellers
 - Whiloms (formerly, in the past)
 - Whorls
 - used
-    + Alters (NGD but not sure)
     + Clarions
     + Kalons (a Greek word sometimes used in English, especially in to kalon "the (morally) beautiful, the ideal good," neuter of Greek kalos "beautiful, noble, good")
     + Apeirons (cosmological theory, "(that which is) unlimited," "boundless", "infinite", or "indefinite")

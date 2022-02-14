@@ -284,7 +284,7 @@ for file_id, data in file_data.items():
         continue
 
     with open("build/" + data["output"]) as f:
-        soup = BeautifulSoup(f, 'html.parser')
+        soup = BeautifulSoup(f, "html.parser")
         for anchor in soup.select("dfn, h1[id], h2[id], h3[id]"):
             if anchor.find_parents("nav", id="TOC"):
                 # we're in the table of contents - a duplicate of a heading dfn
@@ -331,7 +331,10 @@ for file_id, data in file_data.items():
 
     print(data["output"])
     with open("build/" + data["output"]) as f:
-        soup = BeautifulSoup(f, 'html.parser')
+        soup = BeautifulSoup(f, "html.parser")
+        for p in soup.select(".intro > p:first-child, header + p, header + blockquote + p, header + blockquote + blockquote + p, .follow-with-dropcap + p, h1 + p"):
+            first_letter = p.string[0] if p.string else next(p.strings)[0]
+            p["class"] = p.get("class", []) + [first_letter + "-first"]
         for ref in soup.select("a.ref"):
             tooltip = ref.parent.select(".tooltip")[0]
             href = ref["href"].lower()

@@ -42,17 +42,17 @@ quote: |
     </div>
     </blockquote>
 
-summary: Floating stony crags and tendrils wind through the endless sky and wind of the Cicatrix, in which the Alters bear the verging currents of catharsis from across the multiverse, celebrating and mourning the passage of things in visceral ritual until the land and their own bodies become more scar than substance. As the airborne land slowly rotates, memorials eventually slip into the sky and are lost.
+summary: Floating stony crags and tendrils wind through the endless sky and wind of the Cicatrix, in which the Marrows bear the verging currents of catharsis from across the multiverse, celebrating and mourning the passage of things in visceral ritual until the land and their own bodies become more scar than substance. As the airborne land slowly rotates, memorials eventually slip into the sky and are lost.
 
 intro: |
 
-    The rocky crags and overhangs of the Cicatrix are as scarred and gnarled as the Alters who reside there dancing in tears and bliss and laughter on the knife edge between the devastating meaninglessness and excruciating meaningfulness of life. The Alters watch the ship sinking, the dead eulogized, the marathon completed, the commitment abandoned, and the knot untied. They feel the joy and the pain of these moments, and they are present when the pain and the joy are released moments or years later.
+    The rocky crags and overhangs of the Cicatrix are as scarred and gnarled as the Marrows who reside there dancing in tears and bliss and laughter on the knife edge between the devastating meaninglessness and excruciating meaningfulness of life. The Marrows watch the ship sinking, the dead eulogized, the marathon completed, the commitment abandoned, and the knot untied. They feel the joy and the pain of these moments, and they are present when the pain and the joy are released moments or years later.
 
-    Alters appear more scar than body, each bearing this in their own way: with equanimity and absurdism, with ebullient disregard, with violence and mirth. Their scars are their selves, twisted in directions both chosen and accepted. In eulogies of bloodletting and glossolalia riddles the Alters paint, pierce, and scarify their bodies, and in these same rituals the landscape is marked: memorialized with carvings, murals, and fields of stelae until the rock is as transfigured as the Alters.
+    Marrows appear more scar than body, each bearing this in their own way: with equanimity and absurdism, with ebullient disregard, with violence and mirth. Their scars are their selves, twisted in directions both chosen and accepted. In eulogies of bloodletting and glossolalia riddles the Marrows paint, pierce, and scarify their bodies, and in these same rituals the landscape is marked: memorialized with carvings, murals, and fields of stelae until the rock is as transfigured as the Marrows.
 
-    No terra firma holds the Cicatrix; instead layers of stone wind through the sky forming peaks and plateaus, giving way to rocky tendrils that protrude at all angles through clouds and bridging distant land masses: the rest is all sky. The entire structure unpredictably rotates under a warm sun, a movement perceptible only on the order of many years. Monuments and gravestones and at times even Alters or whole chunks of land eventually slip into the sky; full-grown trees hold on to ever more precarious clifftops; and carvings, artifacts, and REF[apertures] are lost in far-fetched underhangs for aeons before becoming accessible again. A violent wind curls through the Cicatrix, ensuring alongside the gradual rotation that only the most enduring memorials survive, and even so, the land is everywhere thick with them.
+    No terra firma holds the Cicatrix; instead layers of stone wind through the sky forming peaks and plateaus, giving way to rocky tendrils that protrude at all angles through clouds and bridging distant land masses: the rest is all sky. The entire structure unpredictably rotates under a warm sun, a movement perceptible only on the order of many years. Monuments and gravestones and at times even Marrows or whole chunks of land eventually slip into the sky; full-grown trees hold on to ever more precarious clifftops; and carvings, artifacts, and REF[apertures] are lost in far-fetched underhangs for aeons before becoming accessible again. A violent wind curls through the Cicatrix, ensuring alongside the gradual rotation that only the most enduring memorials survive, and even so, the land is everywhere thick with them.
 
-    While Alters bear the REF[verging](verges) currents of catharsis across the multiverse, visitors are welcome to find their own here in person. Bring a matter to be commemorated or to be rid of, and you will be joined in a worthy ritual: a troupe of Alters to scream with you to tears, an effigy constructed upon a pedestal to be destroyed, or a precipice from which to fling an object into the sky. Of course, the thing you are forced to let go of is rarely what you came to release.
+    While Marrows bear the REF[verging](verges) currents of catharsis across the multiverse, visitors are welcome to find their own here in person. Bring a matter to be commemorated or to be rid of, and you will be joined in a worthy ritual: a troupe of Marrows to scream with you to tears, an effigy constructed upon a pedestal to be destroyed, or a precipice from which to fling an object into the sky. Of course, the thing you are forced to let go of is rarely what you came to release.
 
 ---
 
@@ -73,7 +73,7 @@ the point:
 - demonym
 	+ Alters
 	+ Ligands/Ligates
-	+ Marrows TODO maybe this
+	+ Marrows <--
 - quotes
 - environment
 	+ very very windy

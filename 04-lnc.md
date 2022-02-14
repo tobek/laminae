@@ -9,7 +9,7 @@ intro: |
 
     The Architects of the Unfolding are ascendant, peerless artists of engineering and construction. They provide their services freely, for the joy of creation and mastery of their work. Partnering with and training teams of mortal outsiders, they work together by first devising and building a full-scale version here, before sending their clients home to build the final version in situ.
 
-    Their work cannot be purchased: the Architects only take on projects when convinced of their merit and uniqueness as opportunities to perfect their craft. They are as peculiar and creative as they are diligent and reliable, and are so effective at establishing requirements and marshaling resources and labor that they are able and perfectly happy to work in the service of any power or project, even those of REF[Autonomy] or REF[Dissolution], for in their eyes no agent or perspective has any moral value; they simply reveal the structure of the multiverse, a structure which fascinates them and upon which they are eager to build.
+    Their work cannot be purchased: the Architects only take on projects when convinced of their merit and uniqueness as opportunities to perfect their craft. They are as peculiar and creative as they are diligent and reliable, and are so effective at establishing requirements and marshaling resources and labor that they are able and perfectly happy to work in the service of any power or project, even those of REF[Autonomy] or REF[Dissolution], for in their eyes no agent or perspective TODO(cheesy)[has any moral value]; they simply reveal the structure of the multiverse, a structure which fascinates them and upon which they are eager to build.
 ---
 
 <!--
