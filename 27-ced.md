@@ -13,9 +13,11 @@ summary: The Oval appears to be a complex place, but thanks to the jealous bless
 
 intro: |
 
-    Returning from Oval this visitor found that she had recorded the following text in her notes:<br /><br />
+    Returning from Oval this visitor found that she had recorded the following text in her notes:
 
-    *The Oval appears to be a complex place, but thanks to the jealous blessings of the TODO(better name?)[Blinking Monarch], it will all seem rather simple once you've left.*
+    <style>.R-first:first-letter { padding-right: 0em !important; }</style>
+
+    <p style="margin-top: 3em">*The Oval appears to be a complex place, but thanks to the jealous blessings of the TODO(better name?)[Blinking Monarch], it will all seem rather simple once you've left.*</p>
 
     Unlike REF[CGC], which is unfathomable yet results in a torrent of dreams and images upon return, the Oval leaves travellers with absolutely nothing except the vague notion of having interacted with a singular figure, along with a lingering scent of bitter resin. Again in contrast with the Kylix, there have been no reports of explorers failing to return, and so we can assume that either one retains one's conscious faculties while on the Oval (a position bolstered by this visitor's apparent ability to write while there) and is able to exit freely, or that some element inevitably returns visitors safely back through the REF[aperture](apertures) from which they entered. There is unfortunately nothing else to report.
 

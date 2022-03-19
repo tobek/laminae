@@ -235,7 +235,6 @@
     <tr><td>Relationship with the Oval</td><td>REF[LGC](lgc#relationship-with-oval)</td></tr>
     <tr><td>Release</td><td>REF[NGD](ngd#release)</td></tr>
     <tr><td>Reservoir, The</td><td>REF[LND](lnd#the-reservoir)</td></tr>
-    <tr><td>Residents</td><td>REF[Cosmography](cosmography#residents)</td></tr>
     <tr><td>Restoration</td><td>REF[CGP](cgp#restoration)</td></tr>
     <tr><td>Retelling the Story</td><td>REF[NGC](ngc#retelling-the-story)</td></tr>
     <tr><td>Reticulum, The</td><td>REF[LGC](lgc#the-reticulum)</td></tr>

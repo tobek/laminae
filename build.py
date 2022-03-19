@@ -333,7 +333,7 @@ for file_id, data in file_data.items():
     with open("build/" + data["output"]) as f:
         soup = BeautifulSoup(f, "html.parser")
         for p in soup.select(".intro > p:first-child, header + p, header + blockquote + p, header + blockquote + blockquote + p, .follow-with-dropcap + p, h1 + p"):
-            first_letter = p.string[0] if p.string else next(p.strings)[0]
+            first_letter = p.string.strip()[0] if p.string else next(p.strings).strip()[0]
             p["class"] = p.get("class", []) + [first_letter + "-first"]
         for ref in soup.select("a.ref"):
             tooltip = ref.parent.select(".tooltip")[0]
@@ -348,7 +348,7 @@ for file_id, data in file_data.items():
             else:
                 href_lookup = href if href[0] != "#" else (file_id + href)
                 if href_lookup not in anchors:
-                    print("HEY unreffable ref:", href)
+                    print("  HEY unreffable ref:", href)
                     del ref["href"]
                     tooltip.string = "The referenced text has not yet been translated."
                     continue

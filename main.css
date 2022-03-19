@@ -319,15 +319,30 @@ h1 + p:first-letter {
   font-feature-settings: "swsh" 1;
   font-size: 500%;
   margin: 8px 0 -17px 0;
-  padding: 0 .125em 0 0;
+  padding: 0 .1em 0 0;
   height: .7em;
   line-height: .85em;
 }
-/*
-.L-first:first-letter {
+.C-first:first-letter,
+.G-first:first-letter,
+.H-first:first-letter,
+.J-first:first-letter,
+.K-first:first-letter,
+.L-first:first-letter,
+.N-first:first-letter,
+.Q-first:first-letter,
+.R-first:first-letter,
+.S-first:first-letter,
+.Z-first:first-letter {
   margin-bottom: -7px !important;
 }
-*/
+.A-first:first-letter { padding-right: 0.05em !important; }
+.K-first:first-letter { padding-right: 0.45em !important; }
+.L-first:first-letter { padding-right: 0.55em !important; }
+.N-first:first-letter { padding-right: 0.25em !important; }
+.Q-first:first-letter { padding-right: 0.5em !important; }
+.R-first:first-letter { padding-right: 0.35em !important; }
+.Z-first:first-letter { padding-right: 0.2em !important; }
 
 strong {
   font-weight: 700;

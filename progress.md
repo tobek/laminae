@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 69,129 | 2,885 | 41/42 | 127/223 |
+| 69,132 | 2,902 | 41/42 | 127/223 |
 
 </div>
 
@@ -168,6 +168,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2022-03-19|0.75|69132|2902|97%|56%|41|127|85|42|
 |2022-02-14|0.25|69129|2885|97%|56%|41|127|85|42|
 |2022-01-19|2   |68732|3063|97%|56%|41|127|85|42|
 |2022-01-18|0.5 |68474|3058|97%|56%|41|127|85|42|

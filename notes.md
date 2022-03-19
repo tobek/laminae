@@ -355,6 +355,7 @@ see Template
 
 # Things to use
 
+- https://en.wikipedia.org/wiki/The_Gods_of_Peg%C4%81na
 - some laminae have "embassies" on others or in cardinal worlds?
 - weirdtopia <https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia?postId=cWjK3SbRcLkb3gN69&view=postCommentsBest>
 - Dissimulation
@@ -670,6 +671,7 @@ unused ones can just be particular places
 
 ### Abstract Concepts
 
+- friction is necessary for many things to work. how could you walk without friction?? metaphorically too. hat tip suzie
 - nemawashi (根回し) - laying the groundwork, "laying the foundation for some proposed change or project, by talking to the people concerned, gathering support and feedback, and so forth" LGP
 - "Some sophists marvel at the dual nature of reality, that for every thing it either *is* or it *isn't*. Marvelous. Well then there are the real thinkers. They say that sometimes a thing *is* **and** it *isn't*. Or that all qualities have a spectrum, ranging from *isn't* all the way to *is*. Or there's a field, some strange topography, multi-dimensional spectra which don't start and end at *isn't* and *is* but go all sorts of other places instead. But they're all backwards. I'll tell you the nature of things. It's very simple. Are you listening? **It neither *is* nor *isn't*.**"
     - did i get this from "It no more is than it is not or it both is and is not or it neither is nor is not." (Eusebius, quoting Aristocles, quoting Timon describing Pyrrho's views, https://en.wikipedia.org/wiki/Pyrrho)
@@ -790,6 +792,14 @@ unused ones can just be particular places
 > unknown known unknowables
 >
 > <https://twitter.com/chaosprime/status/1184180417714425857>
+
+### Images
+
+- https://publicdomainreview.org/collection/solid-objects
+- https://publicdomainreview.org/collection/various-forms-of-architecture-1636
+- https://publicdomainreview.org/collection/the-geometric-landscapes-of-lorenz-stoer-1567 LGC
+- https://publicdomainreview.org/collection/francois-de-nome-imaginary-ruins
+- https://publicdomainreview.org/essay/a-paper-archaeology
 
 ### Quotes
 

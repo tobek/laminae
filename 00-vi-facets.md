@@ -10,13 +10,13 @@ summary: "Abstract forces that drive beings and cultures, divided into three spe
 
 TODO(revise)[]
 
+Facets describe ethical, moral, and philosophical outlooks on reality from which communities create value systems of right and wrong, grounding concepts such as "fairness" and what "ought" to be. The facets are arranged across the three axes of Method, Motive, and Means that, respectively, answer the following questions:
+
 <style>
     p + ul li {
         line-height: 1.5;
     }
 </style>
-
-Facets describe ethical, moral, and philosophical outlooks on reality from which communities create value systems of right and wrong, grounding concepts such as "fairness" and what "ought" to be. The facets are arranged across the three axes of Method, Motive, and Means that, respectively, answer the following questions:
 
 <div class="lamina-table" style="padding-left: 1rem">
 | |

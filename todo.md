@@ -2,6 +2,7 @@
 
 - Closing Notes chapter `2h`
 - Other misc bits
+    + wrap up translator's note
     + temp fix drop caps
     + fix edge case viz bug
     + proofread/edit + groom trinyms and elements for CGD and LNP. update summary for LNP
@@ -593,13 +594,6 @@ viz:
 ### definitely do
 
 - parchment
-- fix drop caps
-    - check out CED too...
-    - `function o(c) {$0.innerHTML = c + $0.innerHTML.substring(1)}`
-    - add them all to style guide haha
-    - CGHJKLNQRSZ need vertical space (change -17px to -7px)
-    - KLNQR need horizontal space too (varying amounts)
-    - for some, at least for L, could be resolve by moving it up a bit so the swash fits in the middle, though for some, like K, that looks weird maybe. certainly handles other ones that need vertical space though
 
 ### please do
 
