@@ -71,6 +71,7 @@ info gathering
     - hospice - more like end-of-life doula, preparing for it: they watch over every death
     - masochism: connoiseurs of pain, loving empathy sex
     - symbiotic grooming creatures
+        - https://en.wikipedia.org/wiki/Cleaning_symbiosis
     - the dying pass through here on their way to other laminae... typical
     - nostalgia - CGD or NGD?
 - possible elements

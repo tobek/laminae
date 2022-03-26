@@ -39,6 +39,10 @@ can i add tension and mystery? what makes the reader what to keep reading?
     + more sensory stuff
 - read edited section aloud
 
+## ensure while editing
+
+- most lamina should link out to others? so you can land on any page and explore
+
 # Writing Style
 
 - karedian: "unusual density, expressiveness, complexity, and precision"
@@ -839,7 +843,7 @@ LOOK THROUGH SHIT/TEXT/QUOTES.TXT (and rest of shit/text)
 - 'everyone saves the [multiverse] in their own way' rough translation from turkish, part of raki culture
 - "if you want something, don't ask for nothing. / if you want nothing, don't ask for something." - futureheads (used on NGD but could be elsewhere - CGD? CED?)
 - "...but it was not thought that fascinated him, but rather the processes by which thought moves. It was the machine he loved, not what the machine makes. The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise. So much, indeed, did the subtle mechanism of mind fascinate him that he despised language, or looked upon it as an incomplete instrument of expression." - oscar wilde - the critic as artist
-- "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/ - NGC? LGP?
+- "A vibrant worldview is strong enough to persuade via reason to some and via aesthetic to others" - https://twitter.com/thinkagainer/status/1275900327376666624 - NGC? LGP?
 - "Beautiful and terrible things will happen. Don't be afraid." ― Frederick Buechner CGP? NGC. LGC
 - "I am the rest between two notes which are somehow always in discord." rilke - CEP? LED?
 - "Shattered people are best represented by bits and pieces." rilke
