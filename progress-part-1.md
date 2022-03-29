@@ -149,7 +149,7 @@
 	}
 </style>
 
-The <a href="https://thereitwas.com/laminae/">*Observations on the Twenty-Seven Laminae*</a> is a work in progress.
+The <a href="https://thereitwas.com/laminae/"><em style="font-feature-settings: 'dlig' 1, 'swsh' 1;">Observations on the <span style="margin-right: -5px">T</span>wenty-Seven Laminae</em></a> is a work in progress.
 
 Major updates will go into the <a href="https://thereitwas.com/laminae/d-translation-log">Translation Log</a>.
 

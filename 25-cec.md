@@ -12,7 +12,7 @@ quote: |
     > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 summary: A dazzling and hideous jungle in which everything blossoms and transforms and regenerates unpredictably. To its children, the Florets, it is a paradise garden for endless play within the forgiving embrace of their Mother.
 intro: |
-    Dazzling and hideous gardens nurture the Florets, children of the Bloom, who frolic perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with the pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
+    Dazzling and hideous gardens nurture the Florets, children of the Bloom, who frolic perpetually in the forgiving, absent embrace of their Mother. Everything here blossoms and transforms and regenerates unpredictably---yet harmlessly, at least in the eyes of Florets---in a jungle choked with pheromones of chimerical vegetation and cancerous megaflora. The Floret's childhood games resemble play, but the Bloom's unpredictability precludes learning, and ceaseless regrowth shields Florets from any consequences, and so all the creativity, innocence, bravado, earnestness, excess, and cruelty of youth run unhampered and deformed by the ever-increasing stakes of a painless playground.
 ---
 
 <!--

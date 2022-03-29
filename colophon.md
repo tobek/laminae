@@ -19,7 +19,7 @@ TODO(add to https://indieweb.org/colophon?)[]
 
 ## About
 
-*Observations on the Twenty-Seven Laminae* is an interactive encyclopedia and travelogue about a series of fictional worlds and societies. It's also a kind of multiverse-sized memory palace with which over time I can encode the things I learn into a personal mythology. It's a work in perpetual progress, and many past and future projects slot into a particular lamina in some form or another.
+<em style="font-feature-settings: 'dlig' 1, 'swsh' 1;">Observations on the <span style="margin-right: -5px">T</span>wenty-Seven Laminae</em> is an interactive encyclopedia and travelogue about a series of fictional worlds and societies. It's also a kind of multiverse-sized memory palace with which over time I can encode the things I learn into a personal mythology. It's a work in perpetual progress, and many past and future projects slot into a particular lamina in some form or another.
 
 Currently this work consists of about TODO(update)[68,000] words (roughly a 250 page book) and 3,000 lines of code. 41 out of 42 chapters and tasks have been released, and 127 out of 223 milestones have been completed. There are 174 remaining *TODO* placeholders. <a href="progress">See full progress stats.</a>
 
