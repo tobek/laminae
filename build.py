@@ -91,6 +91,21 @@ def facet_plain_text_replace(match):
     triGlyph = trinym_to_glyphs(match.group(0)[1:])
     return match.group(1) + "| " + triGlyph
 
+def run_regexes(text, input_file=None):
+    text = re.sub(todo_regex, todo_replace, text)
+    text = re.sub(blank_regex, blank_replace, text)
+    text = re.sub(ref_regex, ref_replace, text)
+    text = re.sub(media_regex, media_replace, text)
+    text = re.sub(media_wip_regex, media_wip_replace, text)
+
+    if input_file and re.match(r"^00-0", input_file):
+        text = re.sub(facet_regex, facet_extra_detail_replace, text)
+    else:
+        text = re.sub(ed_note_regex, ed_note_replace, text)
+        text = re.sub(facet_regex, facet_replace, text)
+
+    return text
+
 # returns e.g. just "ngc", "cosmography", "glossary"
 def get_file_id(input_file):
     file_id_match = re.match(file_id_regex, input_file)
@@ -129,17 +144,7 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
     image_match = re.search(media_regex, input_string)
     default_og_image = image_match.group(1) if image_match else ""
 
-    input_string = re.sub(todo_regex, todo_replace, input_string)
-    input_string = re.sub(blank_regex, blank_replace, input_string)
-    input_string = re.sub(ref_regex, ref_replace, input_string)
-    input_string = re.sub(media_regex, media_replace, input_string)
-    input_string = re.sub(media_wip_regex, media_wip_replace, input_string)
-
-    if re.match(r"^00-0", input_file):
-        input_string = re.sub(facet_regex, facet_extra_detail_replace, input_string)
-    else:
-        input_string = re.sub(ed_note_regex, ed_note_replace, input_string)
-        input_string = re.sub(facet_regex, facet_replace, input_string)
+    input_string = run_regexes(input_string, file_id)
 
     pandoc_args = default_pandoc_args + [
         "--variable=filename:" + input_file.replace(".md", ""),
@@ -273,9 +278,17 @@ for file_id, data in file_data.items():
         "href": data["output"],
         "name": data["title"],
         "sort_name": get_sort_name(data["title"]),
-        "def": data["metadata"].get("summary") or data["metadata"].get("intro"), # TODO need to ensure there's no REF/etc markup in these or any defs!!
+        "def": data["metadata"].get("summary") or data["metadata"].get("intro"),
         "no_index": len(file_id) != 3 and file_id != "cosmography" and file_id != "facets"
     }
+
+    # @NOTE This won't handle REFs in defs, but other markup will work
+    if anchors[file_id]["def"]:
+        # before = anchors[file_id]["def"]
+        anchors[file_id]["def"] = run_regexes(anchors[file_id]["def"])
+        # if anchors[file_id]["def"] != before:
+        #     print("CHANGED", before, anchors[file_id]["def"])
+
     untranslated = data["metadata"].get("intro_only") or data["metadata"].get("untranslated")
 
     print(data["output"])

@@ -3,7 +3,8 @@
 - Closing Notes chapter `2h`
 - Other misc bits
     + wrap up translator's note
-    + temp fix drop caps
+    + GPT 3 unraveller demigods
+    + parchment
     + fix edge case viz bug
     + proofread/edit + groom trinyms and elements for CGD and LNP. update summary for LNP
     + decide where to host it, upload `1h`
@@ -113,6 +114,8 @@
     - corners: 8x "extremes" in 4x pairs, where each facet is extreme - these are the weirder laminae, the least hospitable (okay but CEP and CNC and NNP are inhospitable... and LGD and CGD are perfectly hospitable, okay i guess it's just how weird they are)
         - LGC/CED LEC/CGD LGD/CEC LED/CGC
     - 1x NNP
+- "two ways of interacting with stories: male lore memorization vs. female relating things to your life"
+    - https://twitter.com/zeit_sinn/status/1505526100985798656
 
 # misc after launch
 

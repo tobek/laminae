@@ -149,7 +149,7 @@
 	}
 </style>
 
-The <a href="https://thereitwas.com/laminae/"><em style="font-feature-settings: 'dlig' 1, 'swsh' 1;">Observations on the <span style="margin-right: -4px">T</span>wenty-Seven Laminae</em></a> is a work in progress.
+The <a href="https://thereitwas.com/laminae/"><em style="font-feature-settings: 'dlig' 1, 'swsh' 1;">Observations on the <span style="margin-right: -5px">T</span>wenty-Seven Laminae</em></a> is a work in progress.
 
 Major updates will go into the <a href="https://thereitwas.com/laminae/d-translation-log">Translation Log</a>.
 
@@ -158,7 +158,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 69,128 | 2,902 | 41/42 | 127/223 |
+| 69,128 | 2,915 | 41/42 | 127/223 |
 
 </div>
 
@@ -168,6 +168,7 @@ Major updates will go into the <a href="https://thereitwas.com/laminae/d-transla
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2022-04-20|0.25|69128|2915|97%|56%|41|127|85|42|
 |2022-03-26|0.5 |69129|2902|97%|56%|41|127|85|42|
 |2022-03-18|0.75|69132|2902|97%|56%|41|127|85|42|
 |2022-02-14|0.25|69129|2885|97%|56%|41|127|85|42|
