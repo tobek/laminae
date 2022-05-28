@@ -130,14 +130,14 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
     .toc .lamina a {
       text-transform: capitalize;
     }
-    .toc .lamina-section:first-child {
+    .toc .laminae-section:first-child {
       margin-right: 24px;
     }
     @media only screen and (max-width: 767px) {
       .toc .lamina {
         display: block;
       }
-      .toc .lamina-section:first-child {
+      .toc .laminae-section:first-child {
         margin: 0;
       }
     }
@@ -156,6 +156,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
     .toc .row.hover {
       color: var(--scribe-red-active);
     }
+    /* TODO(Brackets getting fucked by editor note) */
     .toc .hover[data-toc-glyph] {
       color: var(--scribe-red);
     }
@@ -202,10 +203,14 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
       }
     }
 
+  /* TODO(Brackets getting fucked by editor note) */
   [data-facets]:after {
     display: none;
   }
   [data-facets] + .tooltip {
+    display: none !important;
+  }
+  .toc .laminae-section .tooltip {
     display: none !important;
   }
 
@@ -301,7 +306,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 ##### The Laminae
 
 <div class="lamina">
-<div class="lamina-section">
+<div class="laminae-section">
 <div class="row">
   <div class="left"><div class="numeral">1.</div>REF[LGC]</div>
   <div class="dots"></div>
@@ -378,7 +383,7 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
 </div>
 </div>
 
-<div class="lamina-section">
+<div class="laminae-section">
 <div class="row">
   <div class="left"><div class="numeral">15.</div>REF[NND]</div>
   <div class="dots"></div>

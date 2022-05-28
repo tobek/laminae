@@ -1082,6 +1082,7 @@ realm names or demonyms:
 - The Dilemma
 - The Discordance
 - The Disputation
+- The Disquisition (long/elaborate essay/discussion on a particular subject)
 - The Divergence
 - The Drift
 - The Echo (NGP effect)

@@ -95,6 +95,7 @@ function shiftChildren() {
 
 function shiftTitle() {
   if (!document.querySelector('[class="00-0-title"]')) {
+    // not on home/title page
     return;
   }
   var pages = document.querySelectorAll(".toc .page");
@@ -222,7 +223,8 @@ function initTooltips() {
       anchor.addEventListener(event, hide);
     });
 
-    if (!canHover) {
+    if (!canHover && !anchor.closest(".toc .laminae-section")) {
+      // can't hover and not in homepage lamina TOC
       anchor.addEventListener("click", (e) => {
         if (tooltip.classList.contains("show")) {
           e.preventDefault();

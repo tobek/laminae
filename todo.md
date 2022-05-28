@@ -656,6 +656,7 @@ check if better to do:
     + maybe like some scroll curlicue drawn around it or to the side
     + or a glow
 - footnotes should be margin notes like gwern?
+- if you click on a definition within the same page (like Chords on Unfolding), hitting back button should take you to where you were before, does it?
 - decorative titles and endings (see inspo/styles)
 - drop caps updates
     + AKA decorated initials (historiated/illuminated initial)
