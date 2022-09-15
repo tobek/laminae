@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 git commit -am "🌿" && git push
 echo

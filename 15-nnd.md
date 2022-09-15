@@ -19,7 +19,7 @@ quote: |
     > </div>
     > </div>
 
-summary: Unique among all laminae, no petitioners have been found on the blizzarding tundra of the Pasture, only a small nomadic caravan of mortals pursuing a mental state of "unknowing" that they believe will allow their souls to become petitioners here, thereby restoring the lamina's role in the balance of the multiverse, and in persisting through the arctic wasteland of this place they hope to one day find evidence of their success.
+summary: Unique among all laminae, no petitioners have been found on the blizzarding tundra of the Pasture, only a small nomadic caravan of mortals pursuing a mental state of "unknowing" that they believe will allow their souls to become petitioners here, thereby restoring the lamina's role in the balance of the multiverse, and in persisting through this arctic wasteland they hope to one day find evidence of their success.
 
 intro: |
 

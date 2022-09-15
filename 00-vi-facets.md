@@ -43,7 +43,7 @@ These absolutes can be seen as a structure with which to measure and observe phe
 
 Each facet can be understood in a positive or negative light, and provides its adherents with a teleology of being. In REF[cardinal] realms of course absolutes are rare, and most balance views of opposing facets. Along each axis opposites are not wholly incompatible, but you will find that one extreme can always be sacrificed in pursuit of the other.
 
-Whether facets exist in a material sense, or are simply mental artifacts that help structure our conceptions, is is far from agreed upon. Many believe that there are raw and tangible realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring. Such forces should pass through the REF[laminae], where they are shaped by the efforts of REF[petitioners], eventually reaching cardinal worlds in recognizable forms.
+Whether facets exist in a material sense, or are simply mental artifacts that help structure our conceptions, is is far from agreed upon. Many believe that there are raw and tangible realms, totally inhospitable to mortals, from which these forces flow like water from an underground spring, passing then through the REF[laminae], where they are shaped by the efforts of REF[petitioners], eventually reaching cardinal worlds in recognizable forms.
 
 ## <dfn def="The facets of Hierarchy ꩧ, Synthesis ꧪ, and Autonomy ꧹ concern matters of control and agency: how societies organize their efforts and distribute power, and how individuals fit into and are beholden to the larger whole.">Method</dfn>
 

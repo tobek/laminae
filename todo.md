@@ -1,29 +1,29 @@
-# race
+# v1.1
 
 - Closing Notes chapter `2h`
-- Other misc bits
-    + wrap up translator's note
-    + GPT 3 unraveller demigods
+- Style pass and improvements across the site `4h`
     + parchment
     + fix edge case viz bug
-    + proofread/edit + groom trinyms and elements for CGD and LNP. update summary for LNP
+    + more
+- Add GPT-3 content in distinct visual style `3.5h`
+    + CND make a mysteries section for the city
+    + something else
+- A close edit pass across the whole thing (review on page) `8h`
+    + review Ece's edits
+    + proofread/edit
+    + groom trinyms and elements for CGD and LNP
+    + update summary for LNP
+    + TOCs for each
+- More content about the author `4h`
+    + maybe in GPT-3 section
+- Other misc bits
+    + wrap up translator's note
+    + review every TODO and every task in this doc to triage any important ones `4h`
     + decide where to host it, upload `1h`
         * laminae.org
         * thelaminae.net
         * thelaminae.com
         * 27laminae, twentysevenlaminae
-
-## do (more) but not critical for deadline
-
-- Style pass and improvements across the site `4h`
-- Review every TODO and every task in this doc to triage any important ones
-- Add GPT-3 content in distinct visual style `4h`
-    - add Inevitability GPT stuff, make a mysteries section for the city
-- More content about the author `4h`
-- A close edit pass across the whole thing (review on page) `8h`
-    - review Ece's edits
-- TOCs for each
-- Bits
     + on mobile if a user clicks on viz lamina and scrolls down, the TOC shouldn't remain highlighted
     + loading state for viz: show facets etc and just static image
     + link image authors
@@ -33,6 +33,10 @@
     + rilke anagram
     + cosmography "oracular Looms that guide petitioners"...
     + add kylix to untranslated note
+    + underserved laminae
+        * you know just maybe adding evocative details would go along way. tale of a distant city that does xyz...
+        * for sure: LGD, LED, NEP
+        * a bit: LGC, LGP, NED, CED, LEP, NEC
     + link "the Echo" and "the Tessellation" references properly so they can refer to each other?
     + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + OG tags
@@ -53,21 +57,23 @@
     + really de-emphasize untranslated stuff in glossary/index? what's a good experience here
     + search "of which" and replace some/all with "whose"?
 
-## done
+## maybe
 
-- Interactive cosmology visualization
-- ~Site-wide glyph visualization~
-- Fleshed out glossary/index stuff
-- Other misc bits
-    + renumber/reorder laminae
-    + change URLs to glyphs
-    + remove any remaining D&D IP
-
-## underserved laminae
-
-- you know just maybe adding evocative details would go along way. tale of a distant city that does xyz...
-- for sure: LGD, LED, NEP
-- a bit: LGC, LGP, NED, CED, LEP, NEC
+- Site-wide glyph visualization?
+- put facet names in lamina tooltip (copy into ref dict, if present add with appropriate style)
+    + probably like:
+        * Hierarchy [glyph]
+        * Power [glyph]
+        * Creation [glyph]
+    + glossary too, don't require tooltip?
+- post it places
+- more shifting elements
+- ask myanmar subreddit about use
+    + could ask the guy that did this https://github.com/vincent-paing/BurmeseProverbDataSet
+- how can index and glossary be better?
+    + add defs for un-deffed REFs in glossary (especially ones used outside of glossary)
+- make a cheat sheet so i can memorize them
+- `<date>` hover show actual date in translator's log?
 
 # big questions
 
@@ -136,16 +142,6 @@
 - twitter?
     + thread header: brief description and the alignments
     + backdating some already-completed chapters
-
-# backlog
-
-- put facet names in lamina tooltip (copy into ref dict, if present add with appropriate style)
-- post it places
-- more shifting elements
-- ask myanmar subreddit about use
-    + could ask the guy that did this https://github.com/vincent-paing/BurmeseProverbDataSet
-- how can index and glossary be better?
-    + add defs for un-deffed REFs in glossary (especially ones used outside of glossary)
 
 # backburner chunks
 
@@ -540,6 +536,7 @@ misc:
 ### clean
 
 - change spell check to english (make sure to preserve added words)
+    - can this be done for just the project?
 - check/clean
     + spellcheck
     + check all `\w - \w` (probably replace all with "---")
@@ -600,6 +597,7 @@ viz:
 
 ### please do
 
+- CSS brackets (on title page but maybe elsewhere?) getting fucked by editor note regex
 - maybe open non-drop-cap sections with italic swashes?
 - more mobile and browser compatibility check
     + safari
@@ -686,6 +684,8 @@ check if better to do:
 
 #### fixes
 
+- burmese translators note karedian google translation sucks now!!
+- glossary tooltip prevents clicking through to laminae on mobile
 - mobile nav overflow
     + 14-nnp is tightest lamina
     + "primer on ordial plane" breaks

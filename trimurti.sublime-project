@@ -1,44 +1,4 @@
 {
-	/*"folders":
-	[
-		{
-			"path": "."
-		}
-	],*/
-	/*"settings":
-	{
-		"draw_centered": true,
-		"font_face": "Verdana",
-		"font_size": 12,
-		"gutter": false,
-		"highlight_line": false,
-		"line_numbers": false,
-		"line_padding_bottom": 2,
-		"line_padding_top": 2,
-		"margin": 4,
-		"translate_tabs_to_spaces": true,
-		"wrap_width": 65
-	},*/
-	/*"folders":
-	[
-		{
-			"path": "."
-		}
-	],*/
-	/*"settings":
-	{
-		"draw_centered": true,
-		"font_face": "Verdana",
-		"font_size": 12,
-		"gutter": false,
-		"highlight_line": false,
-		"line_numbers": false,
-		"line_padding_bottom": 2,
-		"line_padding_top": 2,
-		"margin": 4,
-		"translate_tabs_to_spaces": true,
-		"wrap_width": 65
-	},*/
 	"folders":
 	[
 		{

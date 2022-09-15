@@ -1,6 +1,6 @@
 Site Notes
 
-# Revision/editing
+# Revision & Editing
 
 infinite jest example sentences (does he ever list things, other things, and more things?)
 
@@ -8,42 +8,42 @@ try harder. lyrical and concise and unexpected, like that GPT-3 example ha. goin
 
 can i add tension and mystery? what makes the reader what to keep reading?
 
-- search trinym and review
+- read whole chapter
 - bird's eye
     + review todo ideas for shape and texture and philosophy
-    + search textbase for trinym
-- review writing style below, and:
+    + search textbase for trinym and review
+- chapter-wide things to add
     + WONDER
-    + repetition - idioms, quirks
-- read each paragraph in a section
+    + "author moments to include" section
+    + most lamina should link out to others? so you can land on any page and explore
+    + From Annals: "Therefore we hope to offer a selection of the consolations we have accrued here and there — evidences of absurdity, charm, eccentricity, joy, virtue, friendship, or unlooked-for luck — that make the road worth traveling despite all."
+- read each sentence
     + WHAT CAN BE REMOVED
     + style
         * KAREDIAN: "unusual density, expressiveness, complexity, and precision"
         * less fantasy tone
         * piling on, sentence falling onwards
         * more analogies like the stuff in intro chapter
-        * invent idioms?
-    + translation stuff
-        * untranslated words and blocks
-        * translator's notes
-            - analogy explanations
-            - word choices or turns of phrase that don't quite make sense
+        * invent idioms (see burmese)
     + word choice
     + active verbs
     + fewer adjectives/adverbs
-    + concision
     + vary sentence form
     + vary sentence length
     + vary paragraph length (typically 100-200 words, 3-6 sentences, but, anything. avg word is 5 chars)
     + vary paragaph initial word
     + more sensory stuff
-- read edited section aloud
+- sentence-level things to add
+    + repetition - idioms, quirks
+    + translation stuff
+        * untranslated words and blocks
+        * translator's notes
+            - analogy explanations
+            - word choices or turns of phrase that don't quite make sense
+            - some that can't be explained "but i'm quite sure that the translation is correct"
+- after edit, read each edited section aloud
 
-## ensure while editing
-
-- most lamina should link out to others? so you can land on any page and explore
-
-# Writing Style
+## Writing Style
 
 - karedian: "unusual density, expressiveness, complexity, and precision"
 - Few to no made-up words
@@ -54,7 +54,7 @@ can i add tension and mystery? what makes the reader what to keep reading?
     + in-universe notes should be marked with indic script bullets
 - Switch from florid to very sparse and blunt on occasion.
 - There is one writer
-- Metric system? TODO does that feel too modern? i've used yards in NNP
+- imperial system
 - English spelling
 - Lists with **bolded headings** that flow in the sentence, not always starting it (see LNC and CND figures/groups)
     + TODO reconcile CND and LNC, maybe change LNC to be more like CND
@@ -63,7 +63,6 @@ can i add tension and mystery? what makes the reader what to keep reading?
     + LNC: sentences starting with bolded ending in period
     + CND: eh
     + (maybe bold/italic if that looks cool in font)
-- From Annals: "Therefore we hope to offer a selection of the consolations we have accrued here and there — evidences of absurdity, charm, eccentricity, joy, virtue, friendship, or unlooked-for luck — that make the road worth traveling despite all."
 - present tense when describing things, but past tense when referring to "this visitor" such and such?
 - footnotes vs. parentheticals vs. em dashes
     + em dashes: surprise, quirky observations and consequences?
@@ -100,7 +99,7 @@ can i add tension and mystery? what makes the reader what to keep reading?
             * currently not capitalized, but maybe looks odd e.g. end of cosmography Laminae section
             * might also use "cardinals"? nah use mortals
 
-## Grammatical person
+### Grammatical person
 
 - annals
     - 1st person from annals of the parrigues - no "I" ever?:
@@ -129,7 +128,7 @@ can i add tension and mystery? what makes the reader what to keep reading?
 - 3rd person gender neutral used everywhere, that okay?
 - "the present work", "this work", to refer to her stuff
 
-## Idioms
+### Idioms
 
 from burmese:
 
@@ -272,7 +271,7 @@ keep in mind that the Bell's Universal Story is partly responsible for the work?
 - more close interactions with people, potentially named, coming up multiple times
 - as this visitor had ingratiated herself on account of asking a bunch of interesting questions
 - example of her drawing and redirecting attention ("who had noticed this visitor and...", "who insisted that this visitor...")
-- parrigues: "claimed to recognize one of the authors, but she responded that they were not acquainted" - maybe somewhere where EVERYBODY seems to recognize one the author, this was assumed to be a trait of the plane, but didn't happen to anyone else, so... make of it what you will. NND?
+- parrigues: "claimed to recognize one of the authors, but she responded that they were not acquainted" - maybe somewhere where EVERYBODY seems to recognize the author, this was assumed to be a trait of the plane, but didn't happen to anyone else, so... make of it what you will. NND?
 - the conduit
 - she helps resolve some laminal dispute
 - on echo plateau or NGD or CGD she gives up looking for her brother, and/or where she forgave herself
@@ -578,6 +577,8 @@ unused ones can just be particular places
 
 ### Relational, Situational, Happenings
 
+- inbox
+    - https://en.wikipedia.org/wiki/Phoresis "a non-permanent, commensalistic interaction in which one organism (a phoront or phoretic) attaches itself to another (the host) solely for the purpose of travel" like small animal hitching a ride on another. maybe some laminal using... mortal visitors... to travel? maybe dream-related?
 - language where you can easily indicate things like how confident you are in something or whether you support it - LNP?
     - https://en.wikipedia.org/wiki/Lojban "Lojban has a fully developed set of metalinguistic and emotional attitude indicators that supplant much of the baggage of aspect and mood found in natural languages, but most clearly separate indicative statements from the emotional communication associated with those statements. This might lead to freer expression and consideration of ideas, since stating an idea can be distinguished from supporting that idea. The set of possible indicators is also large enough to provide specificity and clarity of emotions that is difficult in natural languages."
 - headsoak note 440 about genius king who is afraid of not being heard, entertained by his retinue of scholars, and the decay of this microculture (LND? LED?)
@@ -1283,8 +1284,9 @@ don't forget "-er"s like Unravellers
 
 - characters (political leaders, famous rebels, merchants, demigods, invaders, wizards, researchers)
     - names
-        - jinsa
-        - kagara
+        - Jinsa
+        - Kagara
+        - Hoth’sar
         - used
             + Gangara
             + Elsevelsever
