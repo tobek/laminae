@@ -8,6 +8,7 @@
 - Add GPT-3 content in distinct visual style `3.5h`
     + CND make a mysteries section for the city
     + something else
+    + note: LGC procedure rilke quote (and LEP too) is in `<gpt>`, why? any others?
 - A close edit pass across the whole thing (review on page) `8h`
     + review Ece's edits
     + proofread/edit
@@ -25,6 +26,7 @@
         * thelaminae.com
         * 27laminae, twentysevenlaminae
     + on mobile if a user clicks on viz lamina and scrolls down, the TOC shouldn't remain highlighted
+    + did i break tooltips for footnotes or were they never there?
     + loading state for viz: show facets etc and just static image
     + link image authors
     + achieve editors note in LNP summary - maybe just a summary override for template, or else an escape for editors note...
@@ -684,6 +686,8 @@ check if better to do:
 
 #### fixes
 
+- highlighted drop caps have default selection color
+- can't select image caption text (might change when images change)
 - burmese translators note karedian google translation sucks now!!
 - glossary tooltip prevents clicking through to laminae on mobile
 - mobile nav overflow

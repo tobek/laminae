@@ -588,11 +588,14 @@ blockquote {
     display: revert;
   }
 
-gpt {
+gpt, .gpt {
   display: inline;
   opacity: 0.8;
 }
-gpt::selection {
+gpt::selection,
+.gpt::selection,
+gpt *::selection,
+.gpt *::selection {
   background-color: var(--gpt-highlight-bg);
   color: var(--highlight-color);
 }
