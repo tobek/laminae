@@ -32,6 +32,8 @@ what's the point?
 -
 -->
 
+rename Roots? Skeins isn't bad but that's LNP unless that changes. Keys, Founts
+
 <https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun>
 
 so what do CGP'ers actually think of it? it's not a case closed, they probably think it's stifling. likewise what do LGP'ers think of CGP

@@ -978,7 +978,13 @@ actual words: https://wordsmith.org/anagram/advanced.html
 ### music, soundtracks, audio?!
 
 - https://mynoise.net/Community/
-    - https://mynoise.net/Community/user.php?submission=d778eed607adea60e53b0ddb1623981497
+    - https://mynoise.net/Community/user.php?submission=d778eed607adea60e53b0ddb1623981497 (Taiko in Titan's Arch)
+    - https://mynoise.net/Community/user.php?submission=d778eed607adea60e53b0ddb1639437876 (Taiko's Paradigm Bounce)
+    - https://mynoise.net/Community/user.php?submission=d778eed607adea60e53b0ddb1651729349 (Lumbering Trip-hop)
+    - https://mynoise.net/Community/user.php?submission=d778eed607adea60e53b0ddb1653632560 (Take My Breath Away)
+    - https://mynoise.net/Community/user.php?submission=d778eed607adea60e53b0ddb1655065271 (Taiko on Terra Firma)
+    - https://mynoise.net/Community/user.php?submission=122829b8fef5cc316549aa561612798751 (The Longing Clockwork)
+    - https://mynoise.net/Community/user.php?submission=1aa5b0a5ed452c155bd8ef2b1641918773 (Drum of the Land of Snow)
 - song at 29:00 in Adam Kvasnica 2020 mix
 - fourth world obvs
     - Robert Musci - The advent of rose + Croix, maybe LND? something ominous and formal, maybe it's not stressful enough for LND

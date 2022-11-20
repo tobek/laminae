@@ -45,6 +45,7 @@
     + Pablo Bronstein
     + Don't start every intro with a T word
     + middot(s) (replace [semi]colon, replace image caption dashes)
+    + consider another language/translation adjustment, like using slashes with multiple adjectives, or some thing like "hot/cold" indicates something that varies between the two
     + more translator notes
         * and: unreadable due to damage, spilled ink, etc
     + include the dissimulation `30m`
@@ -58,6 +59,7 @@
     + add verges/apertures stuff to CND and LNC (CEC at all?)
     + really de-emphasize untranslated stuff in glossary/index? what's a good experience here
     + search "of which" and replace some/all with "whose"?
+    + A-Z and ꩧ-꧹ sorting on glossary
 
 ## maybe
 
@@ -110,13 +112,15 @@
 - more places that are like... real places one could inhabit
     - so far this is just like the islet conservatory... i guess promenade of congruities, maybe NND caravan. that's it?
 - overarching structures, maybe add an appendix, with description of each and updated visualization
+    - "circuits"
     - "understanding laminal perspectives/alignments/arrangements"
     - one viz for each type, all those of the type are highlighted, if you hover then the opposite(s) highlight too
     - maybe some interact with cardinal worlds more directly, others are like reservoirs for forces... see if anything lines up
-    - edges: 12x pillars, in 3x cycles of 4 - ones that are neutral in one and extreme on other two. the corners of central squares on cube, they all kind of... go together, some kind of statement about a particular problem. each a cycle
+    - edges: 12x pillars, in 3x cycles of 4 - ones that are neutral in one and extreme on other two. the corners of centrally bisecting squares on cube, they all kind of... go together, some kind of statement about a particular problem. each a cycle
         - synthesis cycle: NGC NGD NEC NED - sort of... channeling our energies and striving
         - utility cycle: LNC LND CNC CND - what to do with the physical world
         - equilibrium cycle: LGP LEP CGP CEP (CEP is a bit of a weird one maybe change) - organizing vast societies? maybe CEP is actually a vast society we don't get
+            - LGP vs CGP vs LEP "Sex without reproduction, meaning without duty, pleasure without pain, abundance without sacrifice. On some level your animal brain is waiting for the other shoe to drop yet there is no release of tension." https://twitter.com/Lan_Dao_/status/1580257562494058496
     - faces: 6x "absolutes/exemplars" in 3x pairs - ones that are neutral in two and extreme in one. these exemplify the extreme facet, and with their opposite pair they exemplify the opposing differences
         - LNP/CNP NGP/NEP NNC/NND
     - corners: 8x "extremes" in 4x pairs, where each facet is extreme - these are the weirder laminae, the least hospitable (okay but CEP and CNC and NNP are inhospitable... and LGD and CGD are perfectly hospitable, okay i guess it's just how weird they are)
@@ -701,6 +705,7 @@ check if better to do:
     + done
         * `pyftsubset segoeui.ttf --output-file=segoeui-stripped.ttf --unicodes-file=kannada-tibetan-unicodes.txt`
         * `pyftsubset DejaVuSans.ttf --output-file=DejaVuSans-stripped.ttf --unicodes-file=lao-unicodes.txt`
+        * `pyftsubset DejaVuSerif.ttf --output-file=DejaVuSerif-stripped.ttf --unicodes-file=unicodes-bloops.txt`
 
 ## ■▤□ Author
 

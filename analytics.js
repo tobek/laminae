@@ -1,5 +1,5 @@
 var doBoops;
-if (location.origin.indexOf("thereitwas.com") === -1) {
+if (location.origin.indexOf("laminae.org") === -1) {
   doBoops = false;
 } else {
   try {

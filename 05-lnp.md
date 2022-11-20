@@ -102,7 +102,8 @@ there are conditions to storage. maybe it has to be something they don't current
     - Archivists
     - Axioms
     - Keys
-    - Skeins <--
+    - Skeins <-- (but could be good LGP)
+    - Syllables
     - Sums
     - Vowels
 - quotes

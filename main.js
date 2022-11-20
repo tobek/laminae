@@ -132,7 +132,7 @@ function shift() {
 }
 shift();
 
-if (!location.origin.includes("thereitwas.com") || document.location.search.includes("conduit")) {
+if (!location.origin.includes("laminae.org") || document.location.search.includes("conduit")) {
   window.shift = shift;
 }
 

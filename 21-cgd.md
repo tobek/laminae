@@ -74,6 +74,7 @@ info gathering
         - https://en.wikipedia.org/wiki/Cleaning_symbiosis
     - the dying pass through here on their way to other laminae... typical
     - nostalgia - CGD or NGD?
+    - something about https://en.wikipedia.org/wiki/Monocarpic?
 - possible elements
     - torture/masochism. sex? should be benevolent? or maybe there's some way for empathy to go wrong here. if you empathise with someone that loves pain... where does it go.
         - sex could also be CED, NED, NEC (dreams), NEP, CGP (brink), CGC (pure experience soup)

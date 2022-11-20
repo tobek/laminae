@@ -177,11 +177,11 @@ Certain individuals are so distinctive, venerable, and skilled as to be treated 
 
 **Jindl, of broken chairs**, a ludicrous gangly figure constantly humming to himself, around whom the ground is the only reliable seat.
 
-**Goramor, of malfunctioning mechanical weapons**, an unimaginably ancient gnome with intuitive comprehension of the most alien of devices.
+**Goramor, of malfunctioning mechanical weapons**, an unimaginably ancient dwarf with intuitive comprehension of the most alien of devices.
 
 **Ahamara, of cooked eggs**, an enormous and blind matronly woman, said to hold simultaneously in her awareness each egg being cooked in that instant across the entire multiverse.
 
-**Tist, of benevolent surprises gone awry**, an attentive, placid feline in front of whom this visitor immediately made a fool of herself.
+**Tist, of benevolent surprises gone awry**, an attentive, placid feline being in front of whom this visitor immediately made a fool of herself.
 
 **Blidibil, of mixed paint**, who claims total colorblindness and additionally has an unusual effect on the digestion of nearby mortals.
 
@@ -189,7 +189,7 @@ Certain individuals are so distinctive, venerable, and skilled as to be treated 
 
 **Slumn, of forgotten words**, a tattooed and constantly shouting young man about whom no one can ever recall what he says.
 
-**Koli, of greasepaint**, an towering jovial man who maintains constant makeup application as his skin grows increasingly disfigured and blotchy under the layers.
+**Koli, of greasepaint**, a towering jovial man who maintains constant makeup application as his skin grows increasingly disfigured and blotchy under its layers.
 
 **Nolasa, of mistaken identities**, a tense ranting figure this visitor barrelled into as she feared herself grabbed by a pursuer.
 

@@ -58,7 +58,7 @@
     <tr><td>REF[Ordial
   Plane](cosmography#ordial-plane)</td><td>The membrane that divides laminae from cardinal worlds, a membrane which can be forded by various means.</td></tr>
     <tr><td>REF[Petitioners](cosmography#petitioners)</td><td>Souls of the dead that have re-manifested on the most well-suited lamina, where they perfect and reshape themselves while carrying out pursuits in accordance with that lamina's principles.</td></tr>
-    <tr><td>REF[Soblei](cosmography#soblei)</td><td>An ancient metropolis suspended in the moment of its apocalypse, Soblei contains thousands of apertures to realms all across the multiverse. Its hurricane winds and blinding light and darkness render it a wildly inhospitable place to pass through even briefly.</td></tr>
+    <tr><td>REF[Soblei](cosmography#soblei)</td><td>An ancient metropolis suspended in the moment of its apocalypse, Soblei contains innumerable apertures to realms across the multiverse. Its hurricane winds and blinding light and darkness render it a wildly inhospitable place to pass through even briefly, precluding its practical use as a multiversal nexus.</td></tr>
     <tr><td>REF[Verges](cosmography#verges)</td><td>The thinning of the Ordial barrier between cardinal and laminal realities such that certain aspects of one may influence, be perceived, or be simultaneously present on the other.</td></tr>
 </table>
 
