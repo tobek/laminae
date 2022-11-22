@@ -4,7 +4,7 @@ There has been a misunderstanding.
 
 <br>
 
-Turn to the <a href="./">title page</a> instead.
+Turn to the <a href="/">title page</a> instead.
 
 <style>
 	#about {

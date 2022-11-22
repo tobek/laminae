@@ -226,7 +226,7 @@ This room is blisteringly hot: the transparent ceiling welcomes and then traps t
 
 Suspended just off the ground in the center of the otherwise empty room is what appears to be a large streak of vivid orange liquid, twice the height of a person, hanging amorphously like a geyser paused mid leap. The undulating surface is smooth and of a color varying with thickness, thinning to translucency at some parts and separating into sprays of thick dangling gobs at others. To this visitor's touch it felt unyielding and wet, yet left no moisture on the skin.
 
-MEDIA("Floto+Warner - Colourant - orange.jpg")
+MEDIA("Floto%2BWarner - Colourant - orange.jpg")
 
 #### <dfn no-index>Arid yet Verdant</dfn>
 

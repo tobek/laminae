@@ -7,7 +7,7 @@ post_intro_only: |
     <div class="choose-one-child show-first-first">
     MEDIA("Robert Venosa - Ayahuasca Dream.jpg")
     MEDIA("Robert Venosa - Ayahuasca Dream.jpg")
-    MEDIA("el_djay - VQGAN+CLIP - Eternity in a Moment.jpg")
+    MEDIA("el_djay - VQGAN%2BCLIP - Eternity in a Moment.jpg")
     </div>
 
 quote: |

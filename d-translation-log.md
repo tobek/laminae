@@ -46,7 +46,7 @@ The introduction and outline of both REF[CNC] and REF[CNP] have been translated.
 
 #### The Fifth of the First
 
-Our shiftwrights have completed an adaptation of the author's diagram laying out a cartography of the twenty-seven laminae. We have placed it on the <a href="./">title page</a> of this collection.
+Our shiftwrights have completed an adaptation of the author's diagram laying out a cartography of the twenty-seven laminae. We have placed it on the <a href="/">title page</a> of this collection.
 
 ## The 221st Year L.C.
 

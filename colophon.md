@@ -122,7 +122,7 @@ I am interested in feedback or comments of any sort if you feel like sharing. In
 <a href="https://tobyfox.com" target="_blank">https://tobyfox.com</a>
 
 
-<div class="shortcuts corner"><a href="./">title page</a></div>
+<div class="shortcuts corner"><a href="/">title page</a></div>
 
 <script>
     Array.from(document.querySelectorAll("a")).forEach((a) => {

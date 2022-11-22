@@ -10,6 +10,7 @@
     + something else
     + note: LGC procedure rilke quote (and LEP too) is in `<gpt>`, why? any others?
 - A close edit pass across the whole thing (review on page) `8h`
+    + rename petitioners?
     + review Ece's edits
     + proofread/edit
     + groom trinyms and elements for CGD and LNP
@@ -20,11 +21,6 @@
 - Other misc bits
     + wrap up translator's note
     + review every TODO and every task in this doc to triage any important ones `4h`
-    + decide where to host it, upload `1h`
-        * laminae.org
-        * thelaminae.net
-        * thelaminae.com
-        * 27laminae, twentysevenlaminae
     + on mobile if a user clicks on viz lamina and scrolls down, the TOC shouldn't remain highlighted
     + did i break tooltips for footnotes or were they never there?
     + loading state for viz: show facets etc and just static image
@@ -34,6 +30,8 @@
     + show-first-first
     + rilke anagram
     + cosmography "oracular Looms that guide petitioners"...
+    + make cosmography "Sequiturs" into highlighted/tooltippable term
+    + "untranslatable, unknown glyph" should that just be "unknown glyph"?
     + add kylix to untranslated note
     + underserved laminae
         * you know just maybe adding evocative details would go along way. tale of a distant city that does xyz...
@@ -151,6 +149,12 @@
 
 # backburner chunks
 
+- illustrations
+    - different art style for each lamina
+    - maybe the ability to generate new art, like to explore, in each lamina
+        - YES YES YES. explore via GPT-3 and DALL-E and find new stuff in each lamina, people can vote on what's canon
+- moodboard images?
+    - mood board with all the images? per-lamina mood boards for some? at the bottom
 - add facet crossovers with Means, e.g. Empathy + Dissolution = vengeance
 - every item in index that's mentioned in multiple places should link to those multiple places! especially laminae. would need to anchor to those references
 - quotation stuff
@@ -161,8 +165,6 @@
 - music
 - neighborly relations, e.g. LEC and LNC might get along
     + any time they differ by one facet (or more really), the "what each facet thinks of the other" comes into play
-- moodboard images?
-    - mood board with all the images? per-lamina mood boards for some? at the bottom
 
 # Sections
 

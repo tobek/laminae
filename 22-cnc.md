@@ -5,7 +5,7 @@ subtitle: Autonomy Utility Creation CNC
 intro_only: True
 post_intro_only: |
     <div class="choose-one-child">
-    MEDIA("VQGAN+CLIP - The Infinite Abyss of the Pineal Gland - A portrayal of our never-ending effort for spiritual awakening.jpg")
+    MEDIA("VQGAN%2BCLIP - The Infinite Abyss of the Pineal Gland - A portrayal of our never-ending effort for spiritual awakening.jpg")
     MEDIA("Max Ernst - 1942 - Der Cocktail-Trinker (The Cocktail-Drinker).jpg")
     </div>
 

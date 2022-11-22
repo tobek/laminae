@@ -3,7 +3,7 @@
 <style>
     @font-face {
       font-family: "DejaVuSerif";
-      src: url("./fonts/DejaVuSerif-stripped.ttf") format("truetype");
+      src: url("/fonts/DejaVuSerif-stripped.ttf") format("truetype");
       font-weight: 400;
       font-style: normal;
     }

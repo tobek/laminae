@@ -244,13 +244,13 @@ for i, filename in enumerate(input_files):
 
     if i > 0:
         if i == 1:
-            prev_href = "./"
+            prev_href = "/"
             prev_title = "Contents"
         else:
             prev_href = output_files[i-1]
             prev_title = file_titles[i-1]
     if i > 1:
-        contents_href = "./#contents"
+        contents_href = "/#contents"
         contents_title = "Contents"
     if i < len(input_files) - 2: # `-2` not `-1` so we can skip the last one, styleguide, which we have in the regular flow so that the styleguide gets references and navigation links like othe rpages
         next_href = output_files[i+1]

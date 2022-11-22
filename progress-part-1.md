@@ -3,7 +3,7 @@
 <style>
     @font-face {
       font-family: "DejaVuSerif";
-      src: url("./fonts/DejaVuSerif-stripped.ttf") format("truetype");
+      src: url("/fonts/DejaVuSerif-stripped.ttf") format("truetype");
       font-weight: 400;
       font-style: normal;
     }
@@ -63,7 +63,6 @@
       line-height: 0;
     }
       .updates table td:first-child {
-        white-space: nowrap;
         padding-right: 8px;
       }
       @media only screen and (max-width: 580px) {
@@ -122,6 +121,7 @@
       padding: 0;
       height: 32px;
       line-height: 0;
+      white-space: nowrap;
     }
       @media only screen and (min-width: 640px) {
         .summary table td,

@@ -1,41 +1,41 @@
 @font-face {
   font-family: "PoliphiliDisplay";
-  src: url("./fonts/PoliphiliDisplay.otf") format("opentype"),
-    url("./fonts/PoliphiliDisplay.woff2") format("woff2");
+  src: url("/fonts/PoliphiliDisplay.otf") format("opentype"),
+    url("/fonts/PoliphiliDisplay.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "PoliphiliDisplay";
-  src: url("./fonts/PoliphiliDisplay-Bold.otf") format("opentype"),
-    url("./fonts/PoliphiliDisplay-Bold.woff2") format("woff2");
+  src: url("/fonts/PoliphiliDisplay-Bold.otf") format("opentype"),
+    url("/fonts/PoliphiliDisplay-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "PoliphiliDisplay";
-  src: url("./fonts/PoliphiliDisplay-Italic.otf") format("opentype"),
-    url("./fonts/PoliphiliDisplay-Italic.woff2") format("woff2");
+  src: url("/fonts/PoliphiliDisplay-Italic.otf") format("opentype"),
+    url("/fonts/PoliphiliDisplay-Italic.woff2") format("woff2");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "NotoSansMyanmar";
-  src: url("./fonts/NotoSansMyanmar-Regular.ttf") format("truetype");
+  src: url("/fonts/NotoSansMyanmar-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 $if(toc)$
   @font-face {
     font-family: "SegoeUI";
-    src: url("./fonts/segoeui-stripped.ttf") format("truetype");
+    src: url("/fonts/segoeui-stripped.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
   }
   @font-face {
     font-family: "DejaVuSans";
-    src: url("./fonts/DejaVuSans-stripped.ttf") format("truetype");
+    src: url("/fonts/DejaVuSans-stripped.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
   }
