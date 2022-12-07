@@ -11,6 +11,7 @@
     + note: LGC procedure rilke quote (and LEP too) is in `<gpt>`, why? any others?
 - A close edit pass across the whole thing (review on page) `8h`
     + rename petitioners?
+        * revisit there being afterlives? maybe it's controversial. many implications, such as regarding whether they need to eat and therefore sustain resources. but i guess instead of producing resources for themselves, they are driven to produce for cardinal worlds
     + review Ece's edits
     + proofread/edit
     + groom trinyms and elements for CGD and LNP
@@ -19,8 +20,14 @@
 - More content about the author `4h`
     + maybe in GPT-3 section
 - Other misc bits
+    + update "laminae@thereitwas.com"
     + wrap up translator's note
+    + maybe mention in author's preface like... that she's visiting these places and writing about them
+    + lambent pic (https://laminae.org/%EA%A9%A7%E1%80%A5%E1%80%97) should be centered?
+    + consider different URLs for laminae
     + review every TODO and every task in this doc to triage any important ones `4h`
+    + had to manually change `+` in MEDIA filenames to `%2B`, prob should url_encode automatically
+        * UGH it says `%2B` in the caption of course
     + on mobile if a user clicks on viz lamina and scrolls down, the TOC shouldn't remain highlighted
     + did i break tooltips for footnotes or were they never there?
     + loading state for viz: show facets etc and just static image
@@ -62,6 +69,7 @@
 ## maybe
 
 - Site-wide glyph visualization?
+- in cosmography and/or facets chapter show version of visualization seen when you hover over facet type, locked like that
 - put facet names in lamina tooltip (copy into ref dict, if present add with appropriate style)
     + probably like:
         * Hierarchy [glyph]

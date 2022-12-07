@@ -4,7 +4,8 @@
 subtitle: Synthesis Power Equilibrium NEP
 intro_only: True
 hide_toc: True
-post_intro_only: MEDIA("Kilian Eng - The Last Wave II.jpg")
+post_intro_only: |
+    MEDIA("Kilian Eng - The Last Wave II.jpg")
 
 quote: |
     > The first principle is that you must not fool yourself---and you are the easiest person to fool. TODO(could probably find a better quote)[]

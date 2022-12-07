@@ -4,7 +4,8 @@
 subtitle: Autonomy Empathy Dissolution CGD
 intro_only: True
 hide_toc: True
-post_intro_only: MEDIA("Kay Nielsen - Deserted Moment.jpg")
+post_intro_only: |
+    MEDIA("Kay Nielsen - Deserted Moment.jpg")
 
 quote: |
     > 170 &middot; Closing a door very gently, you pull with one hand, push with the other.

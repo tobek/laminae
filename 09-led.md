@@ -4,7 +4,8 @@
 subtitle: Hierarchy Power Dissolution LED
 intro_only: True
 hide_toc: True
-post_intro_only: MEDIA("Warhammer Age of Reckoning - Karak Drazh.jpg")
+post_intro_only: |
+    MEDIA("Warhammer Age of Reckoning - Karak Drazh.jpg")
 
 quote: |
     > 25 &middot; The knife likes to think of itself as a mirror.

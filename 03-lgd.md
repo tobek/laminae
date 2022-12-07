@@ -7,7 +7,8 @@ quote: |
     >
     > <span class="attribution">--- Rianer Riama Relik <!-- Rainer Maria Rilke --></span>
 intro_only: True
-post_intro_only: MEDIA("Waneella - Sijanie (Shine).gif")
+post_intro_only: |
+    MEDIA("Waneella - Sijanie (Shine).gif")
 summary: Dark, star-slicked highlands of altars and shrines, each bearing a single exceptional petitioner who awaits one final and fatal quest worthy of their heroism.
 intro: |
 

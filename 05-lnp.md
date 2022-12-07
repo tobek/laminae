@@ -5,7 +5,8 @@ subtitle: Hierarchy Utility Equilibrium LNP
 intro_only: True
 hide_toc: True
 hide_untranslated_note: True
-<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+<!-- post_intro_only: |
+    MEDIA("David Hellman - Braid background.jpg") -->
 
 summary: "[Unfortunately, for this lamina our only information comes from some hastily jotted notes, which suggest that the Taxonomy concerns itself with the archival and analysis of cardinal objects, a process presided over by inquisitive petitioners known as Skeins.]"
 summary_override: "❲Unfortunately, for this lamina our only information comes from some hastily jotted notes, which suggest that the Taxonomy concerns itself with the archival and analysis of cardinal objects, a process presided over by inquisitive petitioners known as Skeins.❳"

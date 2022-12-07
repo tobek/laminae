@@ -4,7 +4,8 @@
 subtitle: Synthesis Power Creation NEC
 intro_only: True
 hide_toc: True
-post_intro_only: MEDIA("Lie Setiawan - Numenera - Into the Outside.jpg")
+post_intro_only: |
+    MEDIA("Lie Setiawan - Numenera - Into the Outside.jpg")
 quote: |
     > 107 &middot; A feather lands on the pond and a dozen goldfish come to poke at it. We are whoever rises into our eyes to have a look.
     >

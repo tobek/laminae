@@ -3,7 +3,8 @@
 ---
 subtitle: Synthesis Empathy Creation NGC
 intro_only: True
-post_intro_only: MEDIA("David Hellman - Braid background.jpg")
+post_intro_only: |
+    MEDIA("David Hellman - Braid background.jpg")
 quote: |
     > 217 &middot; All the falling rain is caught.
     >

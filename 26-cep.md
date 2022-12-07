@@ -3,7 +3,8 @@
 ---
 subtitle: Autonomy Power Equilibrium CEP
 intro_only: True
-post_intro_only: MEDIA("Yoshitaka Amano - Sandman - Dream Hunters - Spiritual Reclamation.jpg")
+post_intro_only: |
+    MEDIA("Yoshitaka Amano - Sandman - Dream Hunters - Spiritual Reclamation.jpg")
 quote: |
     > You are here to be swallowed.
     >

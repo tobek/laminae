@@ -3,7 +3,8 @@
 ---
 subtitle: Synthesis Utility Dissolution NND
 intro_only: True
-post_intro_only: MEDIA("Jean-Pierre Ugarte - Une terre hors du temps.jpg")
+post_intro_only: |
+    MEDIA("Jean-Pierre Ugarte - Une terre hors du temps.jpg")
 quote: |
     > That which thinks is bound, and in this bondage, it dreams of freedom. And like a prisoner in his dreams he can see the walls of his prison, and he can imagine the outside world. But when he wakes, he still sees the walls of the prison and has not escaped.
     >

@@ -63,7 +63,6 @@
       line-height: 0;
     }
       .updates table td:first-child {
-        white-space: nowrap;
         padding-right: 8px;
       }
       @media only screen and (max-width: 580px) {
@@ -122,6 +121,7 @@
       padding: 0;
       height: 32px;
       line-height: 0;
+      white-space: nowrap;
     }
       @media only screen and (min-width: 640px) {
         .summary table td,
@@ -179,7 +179,7 @@ Major updates will go into the <a href="d-translation-log">Translation Log</a>.
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 69,281 | 2,919 | 41/42 | 127/223 |
+| 69,295 | 2,919 | 41/42 | 127/223 |
 
 </div>
 
@@ -189,6 +189,7 @@ Major updates will go into the <a href="d-translation-log">Translation Log</a>.
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2022-12-06|0.5 |69295|2919|97%|56%|41|127|85|42|
 |2022-11-19|1   |69281|2919|97%|56%|41|127|85|42|
 |2022-09-16|1   |69256|2921|97%|56%|41|127|85|42|
 |2022-09-14|1.5 |69242|2921|97%|56%|41|127|85|42|

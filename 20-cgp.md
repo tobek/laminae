@@ -3,7 +3,8 @@
 ---
 subtitle: Autonomy Empathy Equilibrium CGP
 intro_only: True
-post_intro_only: MEDIA("Leonora Carrington - The Juggler.jpg")
+post_intro_only: |
+    MEDIA("Leonora Carrington - The Juggler.jpg")
 quote: |
     > <div class="choose-one-child">
     > <div>

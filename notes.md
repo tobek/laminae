@@ -1551,7 +1551,8 @@ THE ONLY REMAINING Q I THINK is about using the term "petitioners"
 ---
 subtitle: Colorful Grandmas Crystallize CGC
 intro_only: True
-<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+<!-- post_intro_only: |
+    MEDIA("David Hellman - Braid background.jpg") -->
 
 quote: |
     > TODO quote

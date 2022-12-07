@@ -4,7 +4,8 @@
 subtitle: Hierarchy Empathy Equilibrium LGP
 intro_only: True
 hide_toc: True
-post_intro_only: MEDIA("Annibale Siconolfi - Gothica.jpg")
+post_intro_only: |
+    MEDIA("Annibale Siconolfi - Gothica.jpg")
 
 quote: |
     > Have no fear of perfection---you'll never reach it.

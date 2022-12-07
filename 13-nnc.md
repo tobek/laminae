@@ -4,7 +4,8 @@
 subtitle: Synthesis Utility Creation NNC
 intro_only: True
 hide_toc: True
-<!-- post_intro_only: MEDIA("David Hellman - Braid background.jpg") -->
+<!-- post_intro_only: |
+    MEDIA("David Hellman - Braid background.jpg") -->
 
 quote: |
     > 204 &middot; By looking for the origins of things we deceive ourselves about their inevitability. Things that did not happen also have origins. TODO(quote maybe)[]

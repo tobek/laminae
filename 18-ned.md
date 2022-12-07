@@ -4,7 +4,8 @@
 subtitle: Synthesis Power Dissolution NED
 intro_only: True
 hide_toc: True
-post_intro_only: MEDIA("unknown.gif")
+post_intro_only: |
+    MEDIA("unknown.gif")
 
 quote: |
     > 6 &middot; Wind cannot blow the wind away, nor water wash away the water.
