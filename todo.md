@@ -40,6 +40,9 @@
     + make cosmography "Sequiturs" into highlighted/tooltippable term
     + "untranslatable, unknown glyph" should that just be "unknown glyph"?
     + add kylix to untranslated note
+    + add "singtowers" or something, probably to NEC, that are like lighthouses but due to difficult visibility they make sound, maybe some resonant singing, each is different, to warn of dangerous shoals
+    + find some way to review/anki the laminae so i know which is which easily
+        * maybe change acronyms?
     + underserved laminae
         * you know just maybe adding evocative details would go along way. tale of a distant city that does xyz...
         * for sure: LGD, LED, NEP
@@ -613,7 +616,6 @@ viz:
 
 ### please do
 
-- CSS brackets (on title page but maybe elsewhere?) getting fucked by editor note regex
 - maybe open non-drop-cap sections with italic swashes?
 - more mobile and browser compatibility check
     + safari

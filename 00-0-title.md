@@ -156,7 +156,6 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
     .toc .row.hover {
       color: var(--scribe-red-active);
     }
-    /* TODO(Brackets getting fucked by editor note) */
     .toc .hover[data-toc-glyph] {
       color: var(--scribe-red);
     }
@@ -203,7 +202,6 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
       }
     }
 
-  /* TODO(Brackets getting fucked by editor note) */
   [data-facets]:after {
     display: none;
   }

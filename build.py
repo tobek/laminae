@@ -98,7 +98,7 @@ def run_regexes(text, input_file=None):
     text = re.sub(media_regex, media_replace, text)
     text = re.sub(media_wip_regex, media_wip_replace, text)
 
-    if input_file and re.match(r"^00-0", input_file):
+    if input_file and input_file == "title":
         text = re.sub(facet_regex, facet_extra_detail_replace, text)
     else:
         text = re.sub(ed_note_regex, ed_note_replace, text)

@@ -368,6 +368,12 @@ see Template
     - Lakshmi is the goddess of wealth, fertility, auspiciousness, light, and material and spiritual fulfillment, as well as the consort of Vishnu, the maintainer or preserver. However, Lakshmi does not signify mere material wealth, but also abstract prosperity, such as glory, magnificence, joy, exaltation, and greatness. Rides owl or elephant or garuda.
     - Parvati is the goddess of power, war, beauty, love, as well as the consort of Shiva, the destroyer of evil or transformer. Rides lion or tiger or cow or goat.
 
+## Inbox
+
+- https://twitter.com/chaosprime/status/1617100538839015424
+    - "good art is entropic and anti-decay, which makes it probably the best wedge that can be driven into the false identification of entropy and decay"
+    - "entropy is the capacity of a system to occupy a different state than the most obvious one as time passes, which is, y'know, bad when the system is a suspension bridge. most entropy is decay, some is generative, ratio of harmful to adaptive mutations is illustrative"
+
 ### The Glassing
 
 positive -> mirror

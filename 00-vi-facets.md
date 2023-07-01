@@ -91,7 +91,7 @@ REF[Autonomy] is universalist when paired with REF[Empathy], maverick when paire
 
 The facets of REF[Empathy], REF[Utility], and REF[Power] concern the methods by which we determine whether a goal is worthy, and what drives us towards those goals. These facets dictate how one relates to other beings and to nature at large, and each have their own visions of integrity and their own claims to realistic views of the world.
 
-Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe (the exact extent of that which which one considers one's own tribe being formed largely by facets along the Method axis: REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all). These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit.
+Most individuals feel compassion and protectiveness towards their own kin, but these facets inform how individuals prioritize the well-being of those beyond their tribe (the exact extent of that which one considers one's own tribe being formed largely by facets along the Method axis: REF[Hierarchy] tending toward associating identity with a large group, and REF[Autonomy] identifying with familial units or no one at all). These facets also differ greatly in their responses to perceived weakness: whether to accommodate, overcome, or exploit.
 
 ### <dfn def="Empathy tends towards kindness, self-effacement, benevolence, righteousness, judgment, stubbornness, idealism, altruism, universalism, equity, compromise, compassion, and tolerance.">Empathy</dfn>
 
