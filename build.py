@@ -52,7 +52,7 @@ def ref_replace(match):
     return out
 
 media_regex = r"MEDIA\(\"(([^\"]+)\.\w\w\w\w?)\"\)"
-media_replace = r"<div class='img-wrap tooltip-wrap'><img src='images/\1' alt='\2' class='tooltip-anchor' /><span class='tooltip'>\2</span></div>"
+media_replace = r"<div class='img-wrap tooltip-wrap'><img src='images/illustrations/\1' alt='\2' class='tooltip-anchor' /><span class='tooltip'>\2</span></div>"
 media_wip_regex = r"\s?MEDIA(\([^\)]*\))?"
 media_wip_replace = r""
 ed_note_regex = r"([^\^])(\[[^\.\]][^\]]*\])" # avoid capturing footnotes e.g. "something^[footnote]"; also avoid first character period to avoid ellipses

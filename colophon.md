@@ -71,7 +71,7 @@ The quotes that open each lamina (plus a handful found in the interior of chapte
 
 At this time a tiny fraction of the text (about 0.3%---just a couple paragraphs) has been generated using <a href="https://openai.com/blog/gpt-3-apps/">OpenAI's GPT-3</a> language model. I do intend, however, to use it significantly more to generate text to flesh out incomplete laminae to turn them into deeper worlds than my time would permit.
 
-All of the introductory and frame matter, along with the concepts for, introduction to, and outline of every lamina, have all been written by me. All of the current completed laminae chapters have also been written in full by me, but future ones will be a collaboration.
+All of the introductory and frame matter, along with the concepts for, introduction to, and outline of every lamina, have all been conceived and written by me. All of the current completed laminae chapters have also been written in full by me, but future ones will be a collaboration.
 
 GPT-3 completes text prompts. My process is as follows. I enter as a prompt the introduction to a particular lamina, plus any other relevant text, and then end the prompt with an incomplete sentence such as "Moilers have competing hypotheses concerning the lost purpose of The Instrument: some believe" or "In the absence of an understanding of the purpose of The Instrument, Moilers busy themselves with ever more bizarre tasks of bureaucracy and physical labor, such as", or "Apeirons perceive suffering in a totally unique way:". GPT-3 follows these up with some fantastic ideas.
 

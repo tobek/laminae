@@ -26,16 +26,17 @@
     + lambent pic (https://laminae.org/%EA%A9%A7%E1%80%A5%E1%80%97) should be centered?
     + consider different URLs for laminae
     + review every TODO and every task in this doc to triage any important ones `4h`
+        * review subsections and separate notes from todo's
     + had to manually change `+` in MEDIA filenames to `%2B`, prob should url_encode automatically
         * UGH it says `%2B` in the caption of course
     + on mobile if a user clicks on viz lamina and scrolls down, the TOC shouldn't remain highlighted
     + did i break tooltips for footnotes or were they never there?
-    + loading state for viz: show facets etc and just static image
     + link image authors
     + achieve editors note in LNP summary - maybe just a summary override for template, or else an escape for editors note...
     + change tea in authors preface
     + show-first-first
     + rilke anagram
+    + cosmography - show lamina name as a column along the listing of 27? on mobile maybe shrink size or just have #s 1-27
     + cosmography "oracular Looms that guide petitioners"...
     + make cosmography "Sequiturs" into highlighted/tooltippable term
     + "untranslatable, unknown glyph" should that just be "unknown glyph"?
@@ -71,6 +72,7 @@
 
 ## maybe
 
+- Align glyphs under each facet name on lamina pages to make the relationship extra clear?
 - Site-wide glyph visualization?
 - in cosmography and/or facets chapter show version of visualization seen when you hover over facet type, locked like that
 - put facet names in lamina tooltip (copy into ref dict, if present add with appropriate style)
@@ -812,8 +814,6 @@ different colors to make it less confusing
 
 #### viz backlog
 
-- loading state?
-    + maybe show facet legend, loading state in middle of viz and compass elements
 - hover over compass facets?
 - sync up lamina hover with viz on cosmography
 - ensure notosansmyanmar font is loaded before rendering sprites? https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/font#loading_fonts_with_the_css_font_loading_api

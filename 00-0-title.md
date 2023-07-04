@@ -216,12 +216,13 @@ summary: Regarding their various Environs & Cultures / gathered upon decades of 
     font-size: 1rem;
   }
 
-  .viz-wrap.loaded {
+  .viz-wrap {
     margin-top: -36px;
   }
 </style>
 
 <div class="viz-wrap follow-with-dropcap">
+  <div class="loading-img-wrap"><div class="loading-img"></div></div>
   <div class="facet-legend-wrap">
   <div class="facet-legend">
   <div class="table-wrap">

@@ -13,7 +13,7 @@ TODO(revise)[]
 	p + ul li {
 		line-height: 1.5;
 	}
-  .viz-wrap.loaded {
+  .viz-wrap {
   	margin-top: -16px;
   	margin-bottom: 36px;
   }
@@ -22,6 +22,7 @@ TODO(revise)[]
 ## Overview
 
 <div class="viz-wrap follow-with-dropcap">
+  <div class="loading-img-wrap"><div class="loading-img"></div></div>
   <div class="facet-legend-wrap">
   <div class="facet-legend">
   <div class="table-wrap">

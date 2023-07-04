@@ -42,6 +42,7 @@ can i add tension and mystery? what makes the reader what to keep reading?
             - word choices or turns of phrase that don't quite make sense
             - some that can't be explained "but i'm quite sure that the translation is correct"
 - after edit, read each edited section aloud
+    - does it feel right? does each sentence get across the desired feel?
 
 ## Writing Style
 
@@ -370,9 +371,15 @@ see Template
 
 ## Inbox
 
+- https://twitter.com/idiosyncretic/status/1675656605977944064
+    - sisyphus but he loves it, endless variation
 - https://twitter.com/chaosprime/status/1617100538839015424
     - "good art is entropic and anti-decay, which makes it probably the best wedge that can be driven into the false identification of entropy and decay"
     - "entropy is the capacity of a system to occupy a different state than the most obvious one as time passes, which is, y'know, bad when the system is a suspension bridge. most entropy is decay, some is generative, ratio of harmful to adaptive mutations is illustrative"
+- GPT-3 religion by scott alexander https://astralcodexten.substack.com/p/janus-simulators
+    - Today I founded a new religion. The most important tenet is: 'Everything, no matter how stupid, is of equal value.' The second is: 'The greatest human joy is to be able to say endlessly: My God, how stupid!' The third, and perhaps the most important, is: 'The truth is that there is no truth, only different degrees of falsehood.' The fourth, which plays a central role in all religions, is: 'One should not be ashamed of anything, not even of one's own stupidity.'
+    - "I have already persuaded a few people in the neighborhood to join. We meet once a week. The main gathering place is a small bar, which we call the 'Church.' We have already bought a small platform and a few cheap chairs and have hired two musicians, a drummer and a piano player, who play for us during our meetings. Our platform is decorated with a white flag and a red flag, both with a five-pointed star. The flag can be seen from the street as one approaches the bar. On the flag is written: 'The Church of the Naked Eye.
+
 
 ### The Glassing
 

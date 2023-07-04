@@ -1,15 +1,47 @@
 .viz-wrap {
   position:  relative;
-  opacity: 0;
-  pointer-events: none;
   width: calc(100% + 128px);
   margin-left: -64px;
   overflow: hidden;
 }
-  .viz-wrap.loaded {
-    opacity: 1;
-    pointer-events: auto;
+
+  .viz-wrap .loading-img-wrap,
+  .viz-wrap .loading-img {
+    position: absolute;
+    pointer-events: none;
+    width: 100%;
+    height: 100%;
   }
+  @keyframes viz-loading-img-anim {
+    0.0% { opacity: 1 }
+    100.0% { opacity: 0.33 }
+  }
+  .viz-wrap .loading-img-wrap {
+    transition: opacity 1s, visibility 1s;
+    opacity: 1;
+    visibility: visible;
+  }
+  .viz-wrap .loading-img {
+    animation: 1s ease-out infinite alternate viz-loading-img-anim;
+    background: center no-repeat url(images/viz/1080.png);
+    background-size: contain;
+  }
+    @media only screen and (max-width: 559px) {
+      .viz-wrap .loading-img {
+        background-image: url(images/viz/559.png);
+        background-size: cover;
+      }
+    }
+    @media only screen and (max-width: 379px) {
+      .viz-wrap .loading-img {
+        background-image: url(images/viz/379.png);
+      }
+    }
+    .viz-wrap.loaded .loading-img-wrap {
+      opacity: 0;
+      visibility: hidden;
+    }
+
   .viz-wrap, .viz-wrap div {
     /*background: #ff7f5012;*/
   }
@@ -36,6 +68,17 @@
     top: -16px;
     right: -96px;
   }
+    .viz,
+    .compass-wrap {
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 1s, visibility 1s;
+    }
+      .viz-wrap.loaded .viz,
+      .viz-wrap.loaded .compass-wrap {
+        opacity: 1;
+        visibility: visible;
+      }
     .viz .tooltip {
       position: absolute;
       display: block;

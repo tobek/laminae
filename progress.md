@@ -179,7 +179,7 @@ Major updates will go into the <a href="d-translation-log">Translation Log</a>.
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 69,294 | 2,919 | 41/42 | 127/223 |
+| 69,297 | 2,962 | 41/42 | 127/223 |
 
 </div>
 
@@ -189,6 +189,8 @@ Major updates will go into the <a href="d-translation-log">Translation Log</a>.
 
 |Date      |Hours|Words|<span title="lines of code">LOC</span>|Ready|Done|
 | :-- | :-- | :-- | :-- | :-: | :-: |
+|2023-07-04|1.5 |69297|2962|97%|56%|41|127|85|42|
+|2023-07-02|1   |69294|2919|97%|56%|41|127|85|42|
 |2022-12-06|0.5 |69295|2919|97%|56%|41|127|85|42|
 |2022-11-19|1   |69281|2919|97%|56%|41|127|85|42|
 |2022-09-16|1   |69256|2921|97%|56%|41|127|85|42|
