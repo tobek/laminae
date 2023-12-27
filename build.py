@@ -14,6 +14,7 @@ default_pandoc_args = [
     "--standalone",
     "--template=template.html",
     "--shift-heading-level-by=-1",
+    "--wrap=none",
 ]
 
 def to_kebab_case(value):
@@ -120,6 +121,9 @@ def get_output_file(input_file):
 
 def init_build_dir():
     os.makedirs("build", exist_ok=True)
+    if os.path.exists("build/laminae.md"):
+        os.remove("build/laminae.md")
+
     try:
         os.symlink("../fonts/used", "build/fonts")
     except Exception:
@@ -145,6 +149,12 @@ def build_file(input_file, output_file=None, prev_href="", prev_title="", conten
     default_og_image = image_match.group(1) if image_match else ""
 
     input_string = run_regexes(input_string, file_id)
+
+    # if file_id and file_id != styleguide:
+    #     with open("build/laminae.md", "a") as f:
+    #         print("WRITING ALL: " + file_id)
+    #         f.write(input_string)
+    #         f.write("\n\n\n")
 
     pandoc_args = default_pandoc_args + [
         "--variable=filename:" + input_file.replace(".md", ""),

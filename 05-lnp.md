@@ -54,7 +54,7 @@ TODO(maybe use scribal shorthand here!! but would translator translate it?)
 
 
 
-Collecting everything in a crystalline library hive, for cataloging and categorization according to infinitely varied sets of overlapping ontologies, none of which can be argued to be a universally useful or applicable paradigm. Also, free storage of stuff they don't have? Lost and found?
+Collecting everything in a crystalline library hive (AKA Conflux? Interstice? Orrery (solar system model)?), for cataloging and categorization according to infinitely varied sets of overlapping ontologies, none of which can be argued to be a universally useful or applicable paradigm. Also, free storage of stuff they don't have? Lost and found?
 
 Everything is collected (in some unusual architectural shape, maybe captured in some preserving gel that floats and is connected to some crystalline structures).
 

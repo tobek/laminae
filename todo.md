@@ -25,6 +25,7 @@
     + maybe mention in author's preface like... that she's visiting these places and writing about them
     + lambent pic (https://laminae.org/%EA%A9%A7%E1%80%A5%E1%80%97) should be centered?
     + consider different URLs for laminae
+    + add an example of transliterated word that we translate better to the Translator's Note
     + review every TODO and every task in this doc to triage any important ones `4h`
         * review subsections and separate notes from todo's
     + had to manually change `+` in MEDIA filenames to `%2B`, prob should url_encode automatically
@@ -36,7 +37,7 @@
     + change tea in authors preface
     + show-first-first
     + rilke anagram
-    + cosmography - show lamina name as a column along the listing of 27? on mobile maybe shrink size or just have #s 1-27
+    + cosmography - show lamina name as a column along the listing of 27 (on right, with column title)? on mobile maybe shrink size or just have #s 1-27 (on left, no column title)
     + cosmography "oracular Looms that guide petitioners"...
     + make cosmography "Sequiturs" into highlighted/tooltippable term
     + "untranslatable, unknown glyph" should that just be "unknown glyph"?
@@ -69,6 +70,10 @@
     + really de-emphasize untranslated stuff in glossary/index? what's a good experience here
     + search "of which" and replace some/all with "whose"?
     + A-Z and ꩧ-꧹ sorting on glossary
+    + more clearly distinguish front matter from original source?
+        * different page bg or other style
+        * or show at top/bottom of page/minimap
+        * maybe shouldn't be 00-i...v etc, should be 00 for front matter and something else for intro
 
 ## maybe
 

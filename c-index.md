@@ -150,8 +150,7 @@
     <tr><td>Islet, The</td><td>REF[CEC](cec#the-islet)</td></tr>
     <tr><td>Judgment</td><td>REF[LEC](lec#judgment)</td></tr>
     <tr><td>Kalon Intentions</td><td>REF[NGC](ngc#kalon-intentions)</td></tr>
-    <tr><td>Kindling and Wind
-  Shifter sentience, The</td><td>REF[LNC](lnc#the-kindling-and-wind-shifter-sentience)</td></tr>
+    <tr><td>Kindling and Wind Shifter sentience, The</td><td>REF[LNC](lnc#the-kindling-and-wind-shifter-sentience)</td></tr>
     <tr><td>Knife Edge, The</td><td>REF[NGD](ngd#the-knife-edge)</td></tr>
     <tr><td>Knot, The</td><td>REF[CEP](cep)</td></tr>
     <tr><td>Kylix, The</td><td>REF[CGC](cgc)</td></tr>
@@ -195,8 +194,7 @@
     <tr><td>Odysseys</td><td>REF[NGP](ngp#odysseys)</td></tr>
     <tr><td>Opposite Day</td><td>REF[CGP](cgp#opposite-day)</td></tr>
     <tr><td>Orators</td><td>REF[NGC](ngc#orators)</td></tr>
-    <tr><td>Ordial
-  Plane</td><td>REF[Cosmography](cosmography#ordial-plane)</td></tr>
+    <tr><td>Ordial Plane</td><td>REF[Cosmography](cosmography#ordial-plane)</td></tr>
     <tr><td>Organ, The</td><td>REF[LND](lnd#the-organ)</td></tr>
     <tr><td>Oubliette, The</td><td>REF[CNP](cnp#the-oubliette)</td></tr>
     <tr><td>Outside the Automaton</td><td>REF[LND](lnd#outside-the-automaton)</td></tr>
@@ -257,8 +255,7 @@
     <tr><td>Sky Mirror</td><td>REF[NGP](ngp#sky-mirror)</td></tr>
     <tr><td>Skyhurl</td><td>REF[NGD](ngd#skyhurl)</td></tr>
     <tr><td>Skyreaches</td><td>REF[CGP](cgp#skyreaches)</td></tr>
-    <tr><td>Smooth
-  Land</td><td>REF[CEC](cec#smooth-land)</td></tr>
+    <tr><td>Smooth Land</td><td>REF[CEC](cec#smooth-land)</td></tr>
     <tr><td>Smoothers</td><td>REF[LND](lnd#smoothers)</td></tr>
     <tr><td>Soblei</td><td>REF[Cosmography](cosmography#soblei)</td></tr>
     <tr><td>Social Apotheosis</td><td>REF[CGP](cgp#social-apotheosis)</td></tr>
@@ -276,8 +273,7 @@
     <tr><td>Theorists</td><td>REF[LEC](lec#theorists)</td></tr>
     <tr><td>Tillers</td><td>REF[CND](cnd#tillers)</td></tr>
     <tr><td>Timekeeping</td><td>REF[LND](lnd#timekeeping)</td></tr>
-    <tr><td>Transmutation of the
-Ill-Favored</td><td>REF[LEC](lec#transmutation-of-the-ill-favored)</td></tr>
+    <tr><td>Transmutation of the Ill-Favored</td><td>REF[LEC](lec#transmutation-of-the-ill-favored)</td></tr>
     <tr><td>Tremors</td><td>REF[LND](lnd#tremors)</td></tr>
     <tr><td>Truthfulness</td><td>REF[NGP](ngp#truthfulness)</td></tr>
     <tr><td>Tutelary Council</td><td>REF[NGC](ngc#tutelary-council)</td></tr>
@@ -291,6 +287,5 @@ Ill-Favored</td><td>REF[LEC](lec#transmutation-of-the-ill-favored)</td></tr>
     <tr><td>Veiled Oases</td><td>REF[LEC](lec#veiled-oases)</td></tr>
     <tr><td>Verges</td><td>REF[Cosmography](cosmography#verges)</td></tr>
     <tr><td>Wheels & Knives</td><td>REF[CGP](cgp#wheels-knives)</td></tr>
-    <tr><td>Wind
-  Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>
+    <tr><td>Wind Shifters</td><td>REF[LNC](lnc#wind-shifters)</td></tr>
 </table>

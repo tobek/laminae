@@ -98,7 +98,7 @@ The Echo Plateau is a common place of solo pilgrimage for those who have experie
 
 ### <span class="no-toc-children">Promenade of Congruities</span>
 
-A slim peninsula forms a long arc off the coast of Axial, and on this strip of land sits the Promenade of Congruities: one long building that follows the land, growing over time, with every section built by different artists. Each new addition extends the original building with a space that simultaneously evokes two contrasting aesthetic properties, one of which is shared with the previous section. Apart from this, the only requirement is that a pedestrian should be able to walk in an uninterrupted path from one end of the promenade to the other.
+A slim peninsula forms an arc off the coast of Axial, and on this strip of land sits the Promenade of Congruities: one long building that follows the land, growing over time, with every section built by different artists. Each new addition extends the original building with a space that simultaneously evokes two contrasting aesthetic properties, one of which is shared with the previous section. Apart from this, the only requirement is that a pedestrian should be able to walk in an uninterrupted path from one end of the promenade to the other.
 
 Reader, the Unfolding is resplendent with masterpieces, but walking the full length of the promenade left this visitor blind with wonder.
 
