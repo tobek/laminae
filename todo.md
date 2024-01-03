@@ -1,6 +1,6 @@
 # v1.1
 
-- Closing Notes chapter `2h`
+- Closing Notes chapter `6h`
 - Style pass and improvements across the site `4h`
     + parchment
     + fix edge case viz bug
@@ -21,6 +21,7 @@
     + maybe in GPT-3 section
 - Other misc bits
     + update "laminae@thereitwas.com"
+        * `guild/circle/order@laminae.org`? (set all of them up)
     + wrap up translator's note
     + maybe mention in author's preface like... that she's visiting these places and writing about them
     + lambent pic (https://laminae.org/%EA%A9%A7%E1%80%A5%E1%80%97) should be centered?
@@ -43,14 +44,13 @@
     + "untranslatable, unknown glyph" should that just be "unknown glyph"?
     + add kylix to untranslated note
     + add "singtowers" or something, probably to NEC, that are like lighthouses but due to difficult visibility they make sound, maybe some resonant singing, each is different, to warn of dangerous shoals
-    + find some way to review/anki the laminae so i know which is which easily
+    + find some way to review/anki/cheat sheet the laminae so i know which is which easily
         * maybe change acronyms?
     + underserved laminae
         * you know just maybe adding evocative details would go along way. tale of a distant city that does xyz...
         * for sure: LGD, LED, NEP
         * a bit: LGC, LGP, NED, CED, LEP, NEC
     + link "the Echo" and "the Tessellation" references properly so they can refer to each other?
-    + change email address to `guild/circle/order@laminae.org` (set all of them up)
     + OG tags
     + Pablo Bronstein
     + Don't start every intro with a T word
@@ -92,21 +92,21 @@
     + could ask the guy that did this https://github.com/vincent-paing/BurmeseProverbDataSet
 - how can index and glossary be better?
     + add defs for un-deffed REFs in glossary (especially ones used outside of glossary)
-- make a cheat sheet so i can memorize them
 - `<date>` hover show actual date in translator's log?
 
 # big questions
 
 - perhaps something changed to seal off the Ordial, and that's why the guild and everyone have no evidence for it?
-    + maybe something involving Soblei, wiping out every single aperture, leaving on verges
+    + maybe something involving Soblei, wiping out every single aperture, leaving only verges
     + possibly conduit-related (maybe an effort to prevent a conduit-related catastrophe)
     + potentially the author played a role! some hint/offhand comment about how sad she'll be to never visit any laminae again
 - how can it support scifi? should it? why wouldn't it?
     + maybe it is totally out of time and some scifi stuff is present, but author doesn't have terminology to describe it (like the instrument)
+    + guild is actually cyberpunky - monkpunk
 - meaning behind effects (shifting & gpt3)
 - how do the pictures fit into the frame? unexplained? or are they paintings by the author?
 - include conduit?
-    - (old note) maybe missing from LGC CEC CED or LEC
+    - (old note: maybe missing from LGC CEC CED or LEC)
 - how do they interact with each other? have referenced "interlaminal" affairs in Soblei and LED, what is that
 - language??
     + can petitioners and mortals understand each other? handwave something? how to petitioners from different worlds understand each other??
@@ -116,7 +116,7 @@
     + is there any benefit to using fantasy races? elves etc. maybe not.
         * removed mentions of "human" in guild note
         * various mentions in Unfolding feud
-        * lgd bookeepers "race"
+        * lgd bookkeepers "race"
         * searched "human" and "race" and accounted for all
 - more/better author stuff
 
@@ -127,23 +127,47 @@
 - doppelganger thing, yeah maybe they are on every lamina, or for author at least, taking different forms on each
 - more places that are like... real places one could inhabit
     - so far this is just like the islet conservatory... i guess promenade of congruities, maybe NND caravan. that's it?
-- overarching structures, maybe add an appendix, with description of each and updated visualization
-    - "circuits"
-    - "understanding laminal perspectives/alignments/arrangements"
-    - one viz for each type, all those of the type are highlighted, if you hover then the opposite(s) highlight too
-    - maybe some interact with cardinal worlds more directly, others are like reservoirs for forces... see if anything lines up
-    - edges: 12x pillars, in 3x cycles of 4 - ones that are neutral in one and extreme on other two. the corners of centrally bisecting squares on cube, they all kind of... go together, some kind of statement about a particular problem. each a cycle
-        - synthesis cycle: NGC NGD NEC NED - sort of... channeling our energies and striving
-        - utility cycle: LNC LND CNC CND - what to do with the physical world
-        - equilibrium cycle: LGP LEP CGP CEP (CEP is a bit of a weird one maybe change) - organizing vast societies? maybe CEP is actually a vast society we don't get
-            - LGP vs CGP vs LEP "Sex without reproduction, meaning without duty, pleasure without pain, abundance without sacrifice. On some level your animal brain is waiting for the other shoe to drop yet there is no release of tension." https://twitter.com/Lan_Dao_/status/1580257562494058496
-    - faces: 6x "absolutes/exemplars" in 3x pairs - ones that are neutral in two and extreme in one. these exemplify the extreme facet, and with their opposite pair they exemplify the opposing differences
-        - LNP/CNP NGP/NEP NNC/NND
-    - corners: 8x "extremes" in 4x pairs, where each facet is extreme - these are the weirder laminae, the least hospitable (okay but CEP and CNC and NNP are inhospitable... and LGD and CGD are perfectly hospitable, okay i guess it's just how weird they are)
-        - LGC/CED LEC/CGD LGD/CEC LED/CGC
-    - 1x NNP
 - "two ways of interacting with stories: male lore memorization vs. female relating things to your life"
     - https://twitter.com/zeit_sinn/status/1505526100985798656
+
+## overarching structures
+
+maybe add an appendix, with description of each and updated visualization
+
+- "circuits"
+- "understanding laminal perspectives/alignments/arrangements"
+- one viz for each type, all those of the type are highlighted, if you hover then the opposite(s) highlight too
+- maybe some interact with cardinal worlds more directly, others are like reservoirs for forces... see if anything lines up
+
+### edges
+
+12x pillars, in 3x cycles of 4 - ones that are neutral in one and extreme on other two. the corners of centrally bisecting squares on cube, they all kind of... go together, some kind of statement about a particular problem. each a cycle
+
+- synthesis cycle: NGC NGD NEC NED - sort of... channeling our energies and striving
+- utility cycle: LNC LND CNC CND - what to do with the physical world
+- equilibrium cycle: LGP LEP CGP CEP (CEP is a bit of a weird one maybe change) - organizing vast societies? maybe CEP is actually a vast society we don't get
+    - LGP vs CGP vs LEP "Sex without reproduction, meaning without duty, pleasure without pain, abundance without sacrifice. On some level your animal brain is waiting for the other shoe to drop yet there is no release of tension." https://twitter.com/Lan_Dao_/status/1580257562494058496
+
+### faces
+
+6x "absolutes/exemplars" in 3x pairs - ones that are neutral in two and extreme in one. these perfectly exemplify the extreme facet, and with their opposite pair they exemplify the opposing differences
+
+- LNP/CNP
+- NGP/NEP
+- NNC/NND
+
+### corners
+
+8x "extremes" in 4x pairs, where each facet is extreme - these are the weirder laminae, the least hospitable (okay but CEP and CNC and NNP are inhospitable... and LGD and CGD are perfectly hospitable, okay i guess it's just how weird they are)
+
+- LGC/CED
+- LEC/CGD
+- LGD/CEC
+- LED/CGC
+
+### center
+
+1x NNP
 
 # misc after launch
 

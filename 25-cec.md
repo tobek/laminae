@@ -75,7 +75,7 @@ MEDIA("Vadim Kashin (Вадимом Кашиным) - 29490.jpg")
 
 In theory no traveller need hunger or thirst in the Bloom, for fruit and moisture abound, and in their absence enough experimentation will produce them. Though any nourishment here will not be fatal, in practice you would be advised to bring sufficient provisions yourself, for obvious reasons.
 
-Florets rarely see outsiders, though they are familiar with concept, and will reliably try to engage you in play. They are not malicious but are insistent, and their games and pranks pose real danger. It is nearly impossible for a Floret to say no to an idea, and so the most reliable way to steer an encounter away from potential hazards is to make an alternative proposal. They are however excited about visitors; in order for your alternate proposals to be effective they should at least appear to involve you.
+Florets rarely see outsiders, though they are familiar with the concept, and will reliably try to engage you in play. They are not malicious but are insistent, and their games and pranks pose real danger. It is nearly impossible for a Floret to say no to an idea, and so the most reliable way to steer an encounter away from potential hazards is to make an alternative proposal. They are however excited about visitors; in order for your alternate proposals to be effective they should at least appear to involve you.
 
 ## Locations
 

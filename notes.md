@@ -376,6 +376,8 @@ see Template
 - https://meaningness.com/virtue-court
 - https://twitter.com/ctrlcreep/status/1712621540947210327
     - Recursive and paradoxical baby names. A name that means "the name that bequeaths itself". A name that means "unnamed". A name meaning "same as my second name" followed by one meaning "same as my first name"
+- https://twitter.com/ObserverSuns/status/1399471107581698048
+    - parasite with no central nervous system of its own, but covered in shifting memetic patterns which cause intelligent organisms that see it to involuntarily instantiate tulpas into which it offloads its computation
 - https://twitter.com/idiosyncretic/status/1675656605977944064
     - sisyphus but he loves it, endless variation
 - https://twitter.com/chaosprime/status/1617100538839015424

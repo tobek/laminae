@@ -179,7 +179,7 @@ Major updates will go into the <a href="d-translation-log">Translation Log</a>.
 <div class="summary">
 | Words | <span title="lines of code">LOC</span> | Ready | Done |
 | :-- | :-- | :-- | :-- |
-| 69,297 | 2,962 | 41/42 | 127/223 |
+| 69,303 | 2,972 | 41/42 | 127/223 |
 
 </div>
 
